@@ -205,6 +205,13 @@ Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. S
 - [ ] 設計書のエピソード概要と内容が一致しているか
 - [ ] 前のエピソードとの矛盾がないか
 
+### 時系列・継続性チェック（必須）
+- [ ] `planning/timeline.md` の当該 `story_day` エントリを執筆前に確認したか
+- [ ] frontmatter に `story_day:` を設定したか
+- [ ] 前エピソードの台詞を引用する場合、`timeline.md` に記載された正確な表現を使っているか
+- [ ] 期間を示す表現（"for a long time", "three weeks ago" など）がObiaの到着タイムラインと矛盾しないか
+- [ ] 執筆後、このエピソードの重要な事実・台詞を `planning/timeline.md` に追記したか
+
 ---
 
 ## 9. Claude への執筆プロンプトテンプレート
@@ -232,7 +239,14 @@ Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. S
 - Season: 【1 / 2 / 3】
 - Chapter: 【番号とタイトル】
 - Episode: 【番号】
+- story_day: 【planning/timeline.md を参照して設定する整数】
 - 直前のエピソードの末尾（任意）: 【前エピソードの最後の2〜3文】
+
+---
+
+【時系列チェック（planning/timeline.md より転記）】
+- このエピソードのstory_dayに該当するtimeline.mdのエントリ:【貼り付ける】
+- このエピソードで引用する過去の台詞があれば正確な表現:【貼り付ける】
 
 ---
 
