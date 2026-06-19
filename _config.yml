@@ -1,0 +1,14 @@
+title: "Ako-chan's Adventure"
+description: "A graded reader series for English beginners (CEFR A1–B1)"
+baseurl: "/ako-chans-adventure"
+url: "https://morisaki-yuichi.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - planning/
+  - "README.md"
+  - Gemfile
+  - Gemfile.lock

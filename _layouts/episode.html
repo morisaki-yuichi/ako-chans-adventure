@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="episode">
+  <div class="episode-meta">
+    <span class="meta-breadcrumb">Season {{ page.season }} &middot; Chapter {{ page.chapter }} &middot; Episode {{ page.episode }}</span>
+    <span class="meta-tags">
+      <span class="tag tag-level">{{ page.level }}</span>
+      <span class="tag tag-words">{{ page.word_count }} words</span>
+    </span>
+  </div>
+
+  <h1 class="episode-title">{{ page.title }}</h1>
+
+  <div class="episode-body">
+    {{ content }}
+  </div>
+
+  <nav class="episode-nav">
+    <div class="nav-prev">
+      {% if page.prev_ep %}
+      <a href="{{ page.prev_ep | relative_url }}">&larr; Previous</a>
+      {% endif %}
+    </div>
+    <a href="{{ '/episodes/' | relative_url }}" class="nav-all">All Episodes</a>
+    <div class="nav-next">
+      {% if page.next_ep %}
+      <a href="{{ page.next_ep | relative_url }}">Next &rarr;</a>
+      {% endif %}
+    </div>
+  </nav>
+</article>
