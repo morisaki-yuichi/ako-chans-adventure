@@ -463,3 +463,134 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Obia: "The signal from the south is still there. Not smaller."
 - Ako-chan: "But we are bigger now."
 - **Key fact:** Chapter 5 ends. Group leaves Wadi Rum east and south. Gabu/Daru contrast established (Gabu: quiet knowledge; Daru: energetic curiosity). Use exact notebook entry and Ako-chan's final line if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 6
+
+## Day 23 — `story_day: 23`
+
+### Ep41 — East
+- Two days east of Wadi Rum. The land is now flat, pale, and wide — no red rock, no sand. Very short grass.
+- Gabu walks at the front. Obia walks at the back, watching south.
+- Daru: "It is so flat." / Gabu: "Grass. Very short. Under your feet. But it is here."
+- Obia: "The signal. Steady. Not growing." / Ako-chan: "But not stopping." / Obia: "No."
+- One bird crosses east-to-west — the same push from the south still felt.
+- Ako-chan writes in red notebook: **Day twenty-three. East. Far east.**
+- Final thought: Somewhere far ahead was Japan.
+- **Key fact:** Chapter 6 opens. Journey phase: flat Asian steppe after leaving Jordan. Signal steady.
+
+---
+
+## Day 28 — `story_day: 28`
+
+### Ep42 — The Mountains
+- Five days after Day 23. The flat land ends; they enter high mountains (Central Asian range).
+- Daru's pod hums louder in the cold. Gabu moves more slowly on loose, uneven ground.
+- Daru: "Do you know this kind of ground?" / Gabu: "No. But I know how to walk on ground I do not know."
+- Dango presses close to Ako-chan; his thick coat keeps him warm.
+- Ako-chan feels something old and still in the mountains — not the disturbance, something older.
+- Obia: "The path goes down on the other side. Three more hours."
+- **Key fact:** Mountains phase of Asia. Gabu's line about unfamiliar ground — use exact quote if referenced.
+
+---
+
+## Day 33 — `story_day: 33`
+
+### Ep43 — The Far Sea
+- Five days after Day 28. They reach an East Asian port (dark grey-green sea, different from Greek or Croatian waters).
+- Daru: "Is this the same sea?" / Obia: "No. Different sea. East of here, it connects to the ocean."
+- Daru says "The ocean" slowly, like a new word.
+- Obia points to a white boat with a blue line: "That one. It goes east. To Japan."
+- Ako-chan feels the disturbance faintly from the east even here.
+- **Key fact:** Mode of transport to Japan: white ferry with blue line. Ako-chan thinks "Japan. Almost there now."
+
+---
+
+## Day 35 — `story_day: 35`
+
+### Ep44 — The Second Crossing
+- Two-night ferry crossing to Japan (departed before dawn Day 35, arrive Day 36 morning).
+- Dango presses flat on deck and dislikes the rolling sea. Ako-chan keeps her hand on his back.
+- Gabu sits very still and says: "Under the surface. Something is moving in it from very far away." — feels the disturbance through the water.
+- Ako-chan stands at the bow on the second night thinking: someone in Japan is waiting, but differently from Daru (ran to them) and Gabu (still and counting).
+- **Key fact:** Gabu feels the disturbance in the water. Ako-chan's premonition of something different waiting.
+
+---
+
+## Day 36 — `story_day: 36`
+
+### Ep45 — Japan
+- Morning arrival on Japan coast: dark hills, thick green (pine and wet earth smell).
+- Gabu: "The animals here are quiet. But listening. They know we are here."
+- Obia: "There is something. Not a signal like the south. More like a pattern. An animal. Moving around us. A wide circle. Very careful."
+- Dango growls once — quiet and low — then stops.
+- Ako-chan: "I know. I feel it too."
+- **Key fact:** Japan smells like pine and wet earth. Something (later revealed as Suke-san) is already circling them in a wide arc. Animals here are quiet but aware.
+
+---
+
+## Day 37 — `story_day: 37`
+
+### Ep46 — Watching
+- Camp in a forest clearing. Dango can't settle — paces and growls twice toward same spot in the trees.
+- Dango: "There. Something is there."
+- Obia: "It has been circling the camp. About forty meters out. All evening."
+- Not like Daru (ran to them) or Gabu (stayed still in one place) — this one circles slowly, never closing in.
+- Two bright eyes glimpsed briefly, low to the ground, then gone.
+- Dango: "It is still there." / Ako-chan: "Yes. I saw it."
+- **Key fact:** Suke-san circles the camp without approaching. First glimpse: two small, sharp, bright eyes low to the ground.
+
+---
+
+## Day 38 — `story_day: 38`
+
+### Ep47 — The Shape in the Trees (morning)
+- At dawn, Suke-san stands at the tree line in plain sight: small, reddish-brown, compact. Round fox-like face, pointed muzzle. Ears straight up. Thick tail curled high.
+- He looks at Ako-chan, then Dango, then Obia.
+- When he looks at Obia: ears go flat, body drops slightly, a low warning sound. Then gone into the mist.
+- Dango: "That was a dog. A small one."
+- Gabu: "It will come back." / Daru: "How do you know?" / Gabu: "It did not leave in fear. It left because it chose to."
+- **Key fact:** Suke-san's appearance: small, reddish-brown, compact. Ears straight, tail curled high. Warning reaction to Obia — this is established here.
+
+### Ep48 — Suke-san (afternoon, same day as Ep47)
+- Suke-san walks into the clearing from the path ahead and stops 10 meters away.
+- **Suke-san's first words:** "Why are you here?"
+- Ako-chan: "We are going south. Something is wrong there. We are going to find it."
+- Suke-san looks at Obia: "Not that thing." / Obia tries to speak / Suke-san: "Not that thing." (same words, flat, clear)
+- Dango steps forward: "Obia helped us. Obia travels with us."
+- Suke-san turns back to Ako-chan: "You hear the animals." (not a question) / Ako-chan: "Yes."
+- Suke-san: "The south is wrong. I have felt it for many days." / "Tell me more." — sits, tail curled around paws, looks only at Ako-chan.
+- Dango makes low sound in throat.
+- Ako-chan: "What is your name?" / **Suke-san: "Suke-san."**
+- **Key fact:** Suke-san's exact first words: "Why are you here?" His rejection of Obia: "Not that thing." (twice). He confirms the disturbance. Name introduction last.
+
+---
+
+## Day 39 — `story_day: 39`
+
+### Ep49 — Two Dogs
+- Ako-chan tells Suke-san the full journey story (England → Italy → Daru in Croatia → Gabu in desert). Suke-san listens without interrupting.
+- Suke-san: "The south. You are going all the way south." / Ako-chan: "Yes."
+- Dango sits very close to Ako-chan (shoulder to her knee). Suke-san notices. Both dogs stare at each other.
+- Dango: bigger, long coat, sits straight. Suke-san: smaller, compact, sits like a stone.
+- Neither looks away. Daru: "What are they doing?" / Gabu: "Dogs."
+- After a long time, Dango looks to one side (not backing down, just done).
+- Suke-san: "Obia. I do not trust it." / Ako-chan: "I know." / Suke-san: "That does not change. Not now." / Ako-chan: "I know."
+- Suke-san: "The south is getting worse."
+- **Key fact:** Rivalry established: both dogs want to be closest to Ako-chan. Dango looks away first. Suke-san's position on Obia stated clearly: will not change. Use exact dialogue if referenced.
+
+---
+
+## Day 40 — `story_day: 40`
+
+### Ep50 — Six (dawn, end of Chapter 6)
+- Suke-san arrives at dawn: "I will come."
+- Ako-chan warns: long, cold, unknown. Suke-san: "I know."
+- **Suke-san's joining line:** "I am not coming for it. I am coming because the south is wrong. And that matters more." (looks at Obia, then away)
+- Dango sits down first this time; Suke-san sits too. Not close — but same side.
+- Daru: "Six now. Six!"
+- Gabu: "Welcome." / Suke-san: "You are the desert tortoise." / Gabu: "Yes." / Suke-san: "The one who counted the days." / Gabu blinks. "Yes." / Suke-san nods once.
+- Formation leaving: Gabu front, Daru in pod, Dango on Ako-chan's left, **Suke-san on her right — a little back, a little to the side**, Obia at the back.
+- Ako-chan writes in red notebook: **Day forty. Japan. Suke-san is with us.**
+- **Key fact:** Chapter 6 ends. Group is now six. Suke-san's exact joining line above. Formation: Suke-san right of Ako-chan, slightly behind. Obia still at back. Use exact notebook entry if referenced.

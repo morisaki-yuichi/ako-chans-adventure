@@ -74,5 +74,18 @@ permalink: /episodes/
       </ul>
     </div>
 
+    <div class="chapter-block">
+      <h3>Chapter 6 &middot; The Watchful One</h3>
+      <ul class="episode-list">
+        {% assign s1c6 = site.pages | where: "season", 1 | where: "chapter", 6 | sort: "episode" %}
+        {% for ep in s1c6 %}
+        <li>
+          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
   </div>
 </div>
