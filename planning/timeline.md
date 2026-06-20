@@ -477,21 +477,23 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Obia: "The signal. Steady. Not growing." / Ako-chan: "But not stopping." / Obia: "No."
 - One bird crosses east-to-west — the same push from the south still felt.
 - Ako-chan writes in red notebook: **Day twenty-three. East. Far east.**
-- Final thought: Somewhere far ahead was Japan.
-- **Key fact:** Chapter 6 opens. Journey phase: flat Asian steppe after leaving Jordan. Signal steady.
+- Night scene: Ako-chan wakes to find Obia working by a small pale light — "the same kind of work as the night before Wadi Rum." She closes her eyes. The mountains are still days away but Obia is already thinking ahead.
+- **Key fact:** Chapter 6 opens. Journey phase: flat Asian steppe after leaving Jordan. Signal steady. Obia makes Gabu's cold capsule overnight (Ep33 parallel — foreshadowing reveal in Ep42).
 
 ---
 
 ## Day 28 — `story_day: 28`
 
 ### Ep42 — The Mountains
-- Five days after Day 23. The flat land ends; they enter high mountains (Central Asian range).
-- Daru's pod hums louder in the cold. Gabu moves more slowly on loose, uneven ground.
-- Daru: "Do you know this kind of ground?" / Gabu: "No. But I know how to walk on ground I do not know."
-- Dango presses close to Ako-chan; his thick coat keeps him warm.
+- Five days after Day 23. The flat land ends; they stop at the foot of the Central Asian mountains.
+- Obia reveals the second capsule (made overnight): smaller than Daru's, clear walls, warm orange light. Made for Gabu.
+- Gabu looks at it for a long time, says nothing, then walks in.
+- Daru: "Welcome." / Gabu: "Quiet."
+- Both tortoises now in capsules for the cold mountain crossing.
+- Ako-chan's breath is visible (white cloud) — cold enough to require the capsules.
 - Ako-chan feels something old and still in the mountains — not the disturbance, something older.
-- Obia: "The path goes down on the other side. Three more hours."
-- **Key fact:** Mountains phase of Asia. Gabu's line about unfamiliar ground — use exact quote if referenced.
+- From inside his pod, Gabu reads the path: "The path turns left. After the next rock." / Obia confirms correct. / Daru: "How did you know?" / Gabu: "The shadow. The rock angle. Left is better."
+- **Key fact:** Gabu's capsule introduced here. Both tortoises now in capsules. Gabu's observational skill shown from inside the pod (reads shadow/rock angle). Use exact exchange if referenced.
 
 ---
 
