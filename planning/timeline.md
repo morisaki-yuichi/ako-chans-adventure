@@ -352,24 +352,24 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ## Day 16 — `story_day: 16`
 
-### Ep33 — Wadi Rum (midday — cooling field only)
-- They arrive at Wadi Rum: enormous red sandstone walls rising straight up, pale sand between them.
-- Total heat — from above, below, and the rock walls on all sides simultaneously.
-- **Obia deploys cooling field:** a small flat square placed on the sand → quiet hum → cool, still, clean air spreads outward. Ako-chan: "The field will move with you. Stay close."
-- Dango stops panting; his ears come up; his tail gives one slow wag.
-- Daru barely moving, eyes almost closed, legs pulled in. "Hot."
-- Obia: "Come here." — end of episode. Capsule shown next episode.
-- **Key fact:** Cooling field only here. Capsule introduction saved for Ep34 to give it full space.
+### Ep33 — Wadi Rum (morning arrival → midday rest → night)
+- Morning arrival: red sandstone walls straight up from the floor, pale sand between them. Cool at first.
+- By mid-morning: overwhelming heat from above, below, and walls simultaneously. Ako-chan sweating, glasses sliding. Dango breathing in short fast bursts, tongue very long, tail down. Daru stops walking entirely, legs pulled in.
+- Obia leads them to a long shadow under a jutting rock face. Not cool — but better.
+- They rest through the hottest part of the day in silence. Obia watches each of them in turn but says nothing.
+- Night: cold comes fast. Stars above the walls — many more than at home, very bright.
+- Ako-chan half-wakes: Obia is bent over something on the sand, a small point of light moving. She does not ask. Goes back to sleep.
+- **Key fact:** No gadgets yet. Travel only in morning/evening — midday rest in shade is established. Obia observes the problem before building solutions. The "working at night" scene is deliberate foreshadowing of Obia's nature.
 
-### Ep34 — The Right Temperature (same day — capsule + signal)
-- Obia deploys the greenhouse capsule: a round pod, clear sides, soft warm light inside, gentle air circulation. Opens wide like a flower.
-- Daru hesitates, puts one foot in, feels the air, goes inside. Door closes softly.
-- Daru inside: "Warm. Good." — can see everything through the clear walls.
-- Ako-chan puts her hand on the outside: "Good?" / Daru (through wall): "Warm. Good."
-- Daru watches the desert through the clear walls ("I can see everything").
-- Obia detects signal: "Small. Very still. In the same place for many days. Not leaving."
-- They start moving toward it. The pod travels with them.
-- **Key fact:** Capsule described in detail: clear, round, warm-lit, gentle circulation. Daru can observe from inside. Signal detected at end of this episode.
+### Ep34 — What Obia Made (before dawn, Day 17)
+- Ako-chan wakes before dawn to find four things laid out: pale folded cloth, two small boots, a light mask, and Daru's pod already glowing with Daru inside asleep.
+- **Pale cloth (Ako-chan):** Very light, heat-reflecting. "It turns the heat away. Keep it on."
+- **Boots (Dango):** Protect paws from burning sand. Dango's reaction: tries walking, looks down at feet with serious expression.
+- **Snout mask (Dango):** Fits over dog's nose/mouth, open at sides. Cools inhaled air; panting expels hot air out the other way. Dango initially refuses, then Ako-chan puts it on. He pants once → ears up → pants again → tail moves. Works with dog's natural panting mechanism.
+- **Greenhouse capsule (Daru):** Already assembled overnight; Daru is inside asleep. Clear round pod with warm light.
+- Signal detected at end: Obia turns south. "There is a signal. Small. Very still. Many days in the same place."
+- Dango: "Then let us go."
+- **Key fact:** All gear revealed together as "what Obia made overnight." Mask works WITH panting (not instead of it) — this is the scientific basis. Use exact descriptions if gear referenced later. Signal detection happens here — use exact quote.
 
 ### Ep35 — Something Watching (late afternoon → pre-dawn Day 17)
 - They move toward signal: red walls, pale sand, small sounds of feet. Obia: "Fifty meters."
@@ -391,7 +391,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep36 — The One Who Watches (daytime)
 - They decide to sit and wait rather than approach. Obia: "Let it come to us."
-- They sit in the shade with the cooling field. Daru watches from the pod.
+- They sit in the shade. Daru watches from the pod.
 - After about an hour: a tortoise approaches from behind an orange rock. Three steps. Stop. Three steps. Stop.
 - 15 meters. Stops. Studies each in turn: Ako-chan, Dango, Obia, Daru in pod. Takes its time.
 - Ako-chan: "Hello." (very soft) — no answer. Just watching.
@@ -402,7 +402,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ---
 
-## Day 18 — `story_day: 18`
+## Day 19 — `story_day: 19`
 
 ### Ep37 — First Words (morning)
 - Gabu returns: stops three steps away. The same dark, steady eyes.
@@ -432,7 +432,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ---
 
-## Day 19 — `story_day: 19`
+## Day 20 — `story_day: 20`
 
 ### Ep39 — The Slow Decision (full day + sunset)
 - All day: Gabu visible on a ledge in the rocks, watching. Ako-chan does not go to him.
@@ -451,7 +451,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ---
 
-## Day 20 — `story_day: 20`
+## Day 21 — `story_day: 21`
 
 ### Ep40 — Five (dawn, end of Chapter 5)
 - Gabu comes from the rocks at first light. Says: "Ready."
@@ -459,7 +459,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - At a fork, Gabu says "Left" without stopping. Obia confirms: correct.
 - Daru: "How did you know?" / Gabu: "The ground is harder on the left. Better to walk on in the heat." / Daru: "But how did you know before the heat came?" / Gabu: "I live here."
 - A desert bird crosses south-to-north overhead — Ako-chan feels the push from the south, but is less afraid of it now.
-- Ako-chan writes in red notebook: **Day twenty. Wadi Rum. Gabu is with us.**
+- Ako-chan writes in red notebook: **Day twenty-one. Wadi Rum. Gabu is with us.**
 - Obia: "The signal from the south is still there. Not smaller."
 - Ako-chan: "But we are bigger now."
 - **Key fact:** Chapter 5 ends. Group leaves Wadi Rum east and south. Gabu/Daru contrast established (Gabu: quiet knowledge; Daru: energetic curiosity). Use exact notebook entry and Ako-chan's final line if referenced.
