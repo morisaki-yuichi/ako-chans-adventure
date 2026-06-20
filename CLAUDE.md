@@ -31,7 +31,7 @@
 - Add a new chapter block to `episodes.md` following the existing pattern:
   ```liquid
   <div class="chapter-block">
-    <h3>Chapter N &middot; Ep X–Y</h3>
+    <h3>Chapter N &middot; Chapter Title</h3>
     <ul class="episode-list">
       {% assign s1cN = site.pages | where: "season", 1 | where: "chapter", N | sort: "episode" %}
       {% for ep in s1cN %}
