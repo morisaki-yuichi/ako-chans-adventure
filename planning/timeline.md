@@ -599,3 +599,124 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Formation leaving: Gabu front, Daru in pod, Dango on Ako-chan's left, **Suke-san on her right — a little back, a little to the side**, Obia at the back.
 - Ako-chan writes in red notebook: **Day forty. Japan. Suke-san is with us.**
 - **Key fact:** Chapter 6 ends. Group is now six. Suke-san's exact joining line above. Formation: Suke-san right of Ako-chan, slightly behind. Obia still at back. Use exact notebook entry if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 7
+
+## Day 41 — `story_day: 41`
+
+### Ep51 — The Ship (Japan harbor)
+- Obia's ship is waiting at the harbor. Dark grey, smooth, wide flat deck. Not like any ordinary ship.
+- Obia: "You made this." / Obia: "Yes. In Japan. While you were in the forest."
+- Dango inspects the ship by smell. Suke-san stands at the dock looking at the ship and then at Obia — no words.
+- Obia points south: "The south is that way."
+- Formation at the rail: Dango on Ako-chan's left, Suke-san on her right (a little back, a little to the side). Gabu beside her.
+- Obia: "Ready?" / Ako-chan: "Ready." Ship departs.
+- **Key fact:** Obia built the ship in Japan while the group was in the forest. Use exact exchange if referenced.
+
+---
+
+## Day 43 — `story_day: 43`
+
+### Ep52 — Open Water (Pacific Ocean, 2 days out)
+- No land, no ships, no birds. Sea is dark blue and very still.
+- Dango quiet and close to Ako-chan all day. Daru's questions fade. Gabu in pod.
+- Gabu: "The water under us. Something is moving in it. Very far down. I can feel it through the hull."
+- Suke-san walks the deck in slow loops. Stops near Obia once — both look at each other, neither speaks. Suke-san walks on.
+- Ako-chan writes in red notebook: **Day forty-three. The Pacific. Very large.**
+- **Key fact:** Gabu can feel something large and deep through the hull. Not the disturbance — something older.
+
+---
+
+## Day 45 — `story_day: 45`
+
+### Ep53 — A Voice from the Deep (5th day at sea)
+- Ako-chan hears whale voices for the first time — not sound but felt through her body. Low, slow, very big.
+- Three humpback whales rise and move beside the ship.
+- Obia: "I have been watching it on the sensors. Since yesterday morning. But I could not name it."
+- Voices not yet words — but coming from the south and yet moving north.
+- **Key fact:** Three humpback whales appear beside the ship. Ako-chan feels their voices but cannot yet hear words.
+
+---
+
+## Day 46 — `story_day: 46`
+
+### Ep54 — North (whale voices become clear)
+- Whales stayed all night. In the morning Ako-chan listens and understands: "North. Go north first. Follow us. There is a way."
+- Obia explains: "The whales know a current. It moves north, then south, all the way down. Faster than going straight."
+- Gabu: "They know the sea. We do not."
+- Suke-san: "You are sure?" / Ako-chan: "Yes." / Suke-san: "Then go north."
+- Obia turns the ship north. The three whales adjust with them.
+- **Key fact:** Ako-chan's exact summary of whale message: "North. Go north first. Follow us. There is a way." Suke-san's line: "Then go north." — use exact quotes if referenced.
+
+---
+
+## Day 47 — `story_day: 47`
+
+### Ep55 — Two Dogs on a Ship (heading north)
+- Air colder. Sea darker and rougher.
+- DangoとSuke-sanのポジション争い: Dango left in mornings, Suke-san right at meals, Dango at feet when she writes, Suke-san at cabin door.
+- Daru notices and asks. Gabu: "Dogs." Daru: "But what are—" / Gabu: "Quiet."
+- At evening, all three (Ako-chan, Dango, Suke-san) stand at the front rail looking north together.
+- Ako-chan feels something large and unnamed in her chest.
+- **Key fact:** Rivalry pattern established on the ship. Neither dog speaks about it.
+
+---
+
+## Day 49 — `story_day: 49`
+
+### Ep56 — Something in the Water (far north Pacific)
+- Mist on water. Very cold. Gabu and Daru in pods. Breath visible.
+- Obia stops the ship: "Something in the water. Not a whale. Smaller. But not moving the way a fish moves."
+- Suke-san and Dango both go to the rail. Dango spots it: "There."
+- Small dark brown shape, floating on its back, 30 meters off, paws pressed to chest, eyes open.
+- Ako-chan feels: tired, very cold, frightened — but still trying to stay afloat.
+- Ako-chan: "It is an otter. A small one." / Ako-chan: "Get closer. Slowly."
+- **Key fact:** Riro first spotted floating on its back, paws pressed to chest. Ako-chan feels his exhaustion.
+
+### Ep57 — Riro (rescue)
+- Obia lowers a flat platform to water level. The otter watches, then paddles over and climbs on.
+- Ako-chan lifts Riro up: soaked, very cold, surprisingly heavy.
+- Riro presses himself to her chest, head under her chin, and stays still.
+- Dango makes a small sound.
+- Daru: "What is its name?" — Ako-chan listens. **Riro's name confirmed: "Riro."**
+- **Key fact:** Riro's rescue exact sequence above. His first action: press to Ako-chan's chest. Dango's first reaction: small sound. Use these if referenced.
+
+---
+
+## Day 50 — `story_day: 50`
+
+### Ep58 — The Fur (Riro wakes, grooming)
+- Riro slept a long time on a blanket. Dango watched him from 2 meters the whole time, chin on paws.
+- When Riro wakes: first thing he notices is his fur is wrong (flat, tangled). He begins grooming immediately.
+- Riro: "My fur. It is wrong." / "I need to fix it. Now."
+- Systematic grooming: both front paws, stomach, chest, sides. Very serious.
+- Daru: "What is he doing?" / Gabu: "Grooming." / Daru: "But he has been doing it for a very long time." / Gabu: "Yes."
+- Suke-san watches once, then looks away: expression says he understands nothing about this.
+- Riro finishes: "Better. A little better. I need to do it again."
+- **Key fact:** Riro's grooming obsession established here. First words: "My fur. It is wrong." Use exact quotes if referenced.
+
+### Ep59 — Dango's Feelings (first jealousy explosion)
+- Riro cannot reach his back. Asks Ako-chan to help: "You have no fur. But yes. Please."
+- Ako-chan grooms Riro's back with her fingers. Riro's eyes half-close.
+- Dango moves from 6 feet away and sits directly between Ako-chan and Riro. Ako-chan: "Dango." — Dango looks at the sea.
+- Ako-chan moves around him and continues.
+- Dango stands, circles, sits against Ako-chan's leg on the other side. Ears flat. Long fluffy tail very still.
+- Daru: "What is Dango doing?" / Gabu: "Feelings."
+- Ako-chan puts her arm around Dango: "I know. You are still my Dango." Dango: small unhappy sound.
+- **Key fact:** First jealousy explosion. Dango doesn't confront Riro — he inserts himself between them. Gabu's summary line: "Feelings." Use exact quotes if referenced.
+
+---
+
+## Day 51 — `story_day: 51`
+
+### Ep60 — Seven (chapter end, turning south)
+- Whales come very close — barnacles visible on the nearest one.
+- Ako-chan listens and understands: "They are ready. They say: now. Now we turn south."
+- Obia turns the ship south. Whales go ahead.
+- Riro at the rail: fur full and dry now. Riro: "Big." (of whales) / Ako-chan: "Yes."
+- Formation at the rail: Dango left, Suke-san right (a little back, a little to the side). Riro beside Ako-chan.
+- Daru: "Seven now. Seven!"
+- Ako-chan writes in red notebook: **Day fifty-one. North Pacific. Riro is with us. We go south now.**
+- **Key fact:** Chapter 7 ends. Group is now seven. Riro joins without a formal joining speech — he was rescued. Whale message to turn south: "They are ready. They say: now. Now we turn south." Use exact notebook entry if referenced.

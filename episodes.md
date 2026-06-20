@@ -87,5 +87,18 @@ permalink: /episodes/
       </ul>
     </div>
 
+    <div class="chapter-block">
+      <h3>Chapter 7 &middot; The Voice of the Whales</h3>
+      <ul class="episode-list">
+        {% assign s1c7 = site.pages | where: "season", 1 | where: "chapter", 7 | sort: "episode" %}
+        {% for ep in s1c7 %}
+        <li>
+          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
   </div>
 </div>
