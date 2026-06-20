@@ -471,14 +471,15 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ## Day 23 — `story_day: 23`
 
 ### Ep41 — East
-- Two days east of Wadi Rum. The land is now flat, pale, and wide — no red rock, no sand. Very short grass.
-- Gabu walks at the front. Obia walks at the back, watching south.
+- Two days east of Wadi Rum. They are on a bus going east through flat, pale steppe land.
+- At a rest stop, Gabu steps off and notices the grass. Daru watches from the pod.
 - Daru: "It is so flat." / Gabu: "Grass. Very short. Under your feet. But it is here."
+- On the bus, Obia sits at the back watching south. Signal steady.
 - Obia: "The signal. Steady. Not growing." / Ako-chan: "But not stopping." / Obia: "No."
-- One bird crosses east-to-west — the same push from the south still felt.
+- One bird crosses east-to-west outside the window — the same push from the south.
 - Ako-chan writes in red notebook: **Day twenty-three. East. Far east.**
-- Night scene: Ako-chan wakes to find Obia working by a small pale light — "the same kind of work as the night before Wadi Rum." She closes her eyes. The mountains are still days away but Obia is already thinking ahead.
-- **Key fact:** Chapter 6 opens. Journey phase: flat Asian steppe after leaving Jordan. Signal steady. Obia makes Gabu's cold capsule overnight (Ep33 parallel — foreshadowing reveal in Ep42).
+- Night: bus stops at a roadside place. Ako-chan wakes to find Obia working by a small pale light — "the same kind of work as the night before Wadi Rum."
+- **Key fact:** Transport mode: long-distance bus. Obia makes Gabu's cold capsule overnight (Ep33 parallel — revealed in Ep42).
 
 ---
 
@@ -500,12 +501,14 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ## Day 33 — `story_day: 33`
 
 ### Ep43 — The Far Sea
-- Five days after Day 28. They reach an East Asian port (dark grey-green sea, different from Greek or Croatian waters).
+- Five days after Day 28. After descending from the mountains, they board a train at a small town and ride east for five days through hills, fields, and rivers.
+- They arrive at a large East Asian port city (dark grey-green sea, different from Greek or Croatian waters).
 - Daru: "Is this the same sea?" / Obia: "No. Different sea. East of here, it connects to the ocean."
 - Daru says "The ocean" slowly, like a new word.
+- Gabu walks to the water's edge (out of pod — warm enough at sea level).
 - Obia points to a white boat with a blue line: "That one. It goes east. To Japan."
-- Ako-chan feels the disturbance faintly from the east even here.
-- **Key fact:** Mode of transport to Japan: white ferry with blue line. Ako-chan thinks "Japan. Almost there now."
+- Ako-chan feels the disturbance faintly from the east: "The south was pulling at everything, even this far away."
+- **Key fact:** Transport mode: train from mountain-foot town to East Asian port. White ferry with blue line to Japan. Gabu exits pod at the port (warm enough).
 
 ---
 
