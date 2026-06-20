@@ -73,7 +73,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Ako-chan packs: warm jumper, small torch, red notebook, pencil case, snacks, water bottle.
 - Obia is waiting by the old shed. Dango already there.
 - Ako-chan: "You came back." / Obia: "I waited. I thought you might come."
-- Obia: "The animals send messages. North and south. East and west. All the messages say the same thing. **Something is wrong in the south. It was wrong from the start. Now it is getting worse. Very fast.**"
+- Obia: "The animals send messages. They all come from the south. They go north. East. West. All the messages say the same thing. **Something is wrong in the south. It was wrong from the start. Now it is getting worse. Very fast.**"
 - Ako-chan: "Can we stop it?" / Obia: "I do not know. But we have to go and see."
 - Ako-chan: "We leave tomorrow. Early. Before the light."
 - **Key fact:** "From the start" = from the moment Obia arrived (a few days ago). "Getting worse. Very fast." — the escalation is rapid, not gradual over weeks.
@@ -147,7 +147,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ### Ep13 — Italian countryside, Bologna (afternoon)
 - Train passes through Bologna (BOLOGNA sign on platform).
 - Ako-chan observes: many shades of green, old stone walls, rows of vines on hills.
-- Two pigeons land on a wire near the track, then fly south.
+- Two pigeons land on a wire near the track, then fly north.
 - Obia: "All birds carry things. They do not know they are doing it. They just fly. But the messages move with them."
 - Afternoon light turns gold.
 - **Key fact:** Obia's exact words about birds and messages.
@@ -200,11 +200,12 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep19 — Morning, moving through Croatia
 - The animal voices are LOUDER in feeling (not sound). Disturbance stronger than Italy.
-- Birds flying south all morning.
+- Birds flying north all morning (fleeing the disturbance, carrying messages northward).
+- Ako-chan: "They are all going north." / Obia: "Yes. All morning."
 - Two sparrows on a stone wall — Ako-chan feels the disturbance through them.
 - Dango: "What do they feel?" / Ako-chan: "Something is wrong in the south. They feel it. They do not know what it is. But they feel it. And it is not stopping."
 - Ako-chan writes in red notebook: **The voices are louder. We are getting close.**
-- **Key fact:** Quote Dango and Ako-chan exactly if referenced in later episodes.
+- **Key fact:** Birds flee northward while Ako-chan heads south — a deliberate contrast. Quote Dango and Ako-chan exactly if referenced in later episodes.
 
 ### Ep20 — Afternoon, Split, Croatia (end of Chapter 3)
 - They arrive at Split on the Dalmatian coast (Adriatic visible again, now from the Croatian side).
