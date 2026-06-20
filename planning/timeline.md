@@ -279,7 +279,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Daru: "Can you hear them? The fish. The ones under the water."
 - Ako-chan: "Sometimes. When the water is very still. They are quiet. Not like birds. More like a feeling." / "Something slow. Something cold. Like something came from very far away and is still moving through the water."
 - Daru reports: birds going north said the disturbance is worse now. Much worse south of here.
-- Obia: "The source is at the very end of the south." (past Jordan, past the Indian Ocean)
+- Obia: "The signal comes from the south. Very far south. I do not know exactly where. Not yet."
 - Daru asks Ako-chan if she is afraid. Ako-chan: "Yes. Sometimes." Daru: "Good. That means it is real."
 - **Key fact:** Obia confirms the source is "at the very end of the south" — first explicit mention to Daru.
 
