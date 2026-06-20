@@ -48,5 +48,18 @@ permalink: /episodes/
       </ul>
     </div>
 
+    <div class="chapter-block">
+      <h3>Chapter 4 &middot; The Curious One</h3>
+      <ul class="episode-list">
+        {% assign s1c4 = site.pages | where: "season", 1 | where: "chapter", 4 | sort: "episode" %}
+        {% for ep in s1c4 %}
+        <li>
+          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
   </div>
 </div>

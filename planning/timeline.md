@@ -212,3 +212,110 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - The birds above the harbor are fast and anxious.
 - Ako-chan thinks: *Something is close. Very close now.*
 - **End of Chapter 3.** Chapter 4 begins in Croatia (Daru merges on the Dalmatian coast).
+
+---
+
+# Story Timeline — Season 1, Chapter 4
+
+## Day 7 — `story_day: 7`
+
+### Ep21 — Split harbor, morning
+- They spent the night in Split. In the morning, the harbor gulls are unsettled.
+- Obia detects a signal: a small land animal about 3 km south of the harbor, staying in the same area for many days, not running away.
+- They leave Split through a stone gate, heading south along the coast road.
+- **Key fact:** Obia identifies the signal as "a small land animal" that is "not running away."
+
+### Ep22 — Rocky coast, south of Split (morning)
+- They leave the road and walk on rocky limestone ground south of Split.
+- From a ridge, Daru's signal is 50 meters below.
+- Ako-chan feels something from below — interest, not fear. Something is watching and waiting.
+- Dango detects it by smell first.
+- Below the ridge: old stone walls, dry scrub, a cluster of rocks.
+- **Key fact:** The feeling coming from Daru is curiosity, not fear. He was watching them approach.
+
+### Ep23 — Rocky coast, first meeting (late morning)
+- Daru runs out from the rocks — fast. He comes straight to Ako-chan's feet.
+- Daru: "Hello! I saw you coming. From up on the ridge. You took a long time."
+- Daru: "I heard the birds. They said someone was coming from the north. With a dog and a silver thing."
+- Daru introduces himself: "My name is Daru. I live here. I know this whole coast. Every rock. Every path."
+- Dango sneezes twice. Daru waits patiently.
+- Daru asks: "What is it?" (about Obia). Ako-chan: "That is a long story." Daru: "Good. I like long stories."
+- **Key fact:** Daru was tipped off by the birds and had been waiting. Use exact quotes if referenced later.
+
+---
+
+## Day 8 — `story_day: 8`
+
+### Ep24 — Rocky coast, morning (sitting on flat rock)
+- Daru describes how the disturbance felt: "It started in the ground. Not on top. Under. Like before a big wave — you feel it in the rock before the water comes."
+- The lizards stopped coming out first, then the birds left, then the sea smell changed.
+- Daru: "About eight days ago. Maybe nine." (= when Obia arrived)
+- Daru says the birds told him to wait: someone would come from the north. He waited alone.
+- **Key fact:** Daru felt the disturbance starting ~8–9 days before this day (Day 8), which matches Obia's arrival.
+
+### Ep25 — Rocky coast (Daru joins)
+- Ako-chan tells Daru they are going south to find what is wrong.
+- Daru says: "I want to come because I want to come." (not for utility)
+- Ako-chan warns: long journey, cold in places, leaving home.
+- Daru: "I do not like cold. But I can be cold."
+- Daru: "The birds stopped coming. The ground does not feel right. The sea smells wrong. If I stay here, it only gets worse. If I go with you, maybe we can help stop it."
+- Ako-chan: "All right, Daru. Come with us."
+- Daru: "Then let us go."
+- **Key fact:** Daru's exact words joining the group. Use these quotes if referenced later.
+
+---
+
+## Day 9 — `story_day: 9`
+
+### Ep26 — Dalmatian coast, walking south (morning)
+- First full day traveling together. Daru walks left, right, stops at things, runs to catch up — very energetic.
+- Dango says: "He is very busy." Ako-chan: "He is curious. It is good."
+- Ako-chan writes in red notebook: "Dalmatian coast. Day nine. Daru is with us."
+- Obia: "The signal from the south is steady. Not growing. Not fading." Ako-chan: "Is that good?" Obia: "It means it is not growing yet."
+- Dango slows his pace; Daru naturally walks beside him (first sign of their bond).
+- **Key fact:** Dango begins walking beside Daru (not ahead) — the start of their friendship.
+
+### Ep27 — Low stone wall above the sea (evening)
+- Daru: "Can you hear them? The fish. The ones under the water."
+- Ako-chan: "Sometimes. When the water is very still. They are quiet. Not like birds. More like a feeling." / "Something slow. Something cold. Like something came from very far away and is still moving through the water."
+- Daru reports: birds going north said the disturbance is worse now. Much worse south of here.
+- Obia: "The source is at the very end of the south." (past Jordan, past the Indian Ocean)
+- Daru asks Ako-chan if she is afraid. Ako-chan: "Yes. Sometimes." Daru: "Good. That means it is real."
+- **Key fact:** Obia confirms the source is "at the very end of the south" — first explicit mention to Daru.
+
+---
+
+## Day 10 — `story_day: 10`
+
+### Ep28 — Narrow stone roads, taller cliffs (morning)
+- The group walks in a line: Dango, Daru, Ako-chan, Obia.
+- Swifts fly north overhead — all going north.
+- Daru: "They are all leaving." / "I have never been south of here. My whole life. Just this coast."
+- Ako-chan asks if Daru is afraid. Daru: "A little. Not enough to stop."
+- Dango walks back to Daru and then stays beside him instead of ahead.
+- Obia observes: the signal growing stronger day by day.
+- **Key fact:** Dango definitively begins walking beside Daru (not ahead).
+
+### Ep29 — Southern end of the Dalmatian coast (late afternoon)
+- The land is barer, rockier. The sea looks darker.
+- Ako-chan feels cold coming through the rock, from very deep.
+- Obia: animals in this area are still and quiet. Waiting.
+- Daru steps into the water — pulls back. Much colder than it should be for the season.
+- Dango looks south from a high rock: "Something is wrong. Far away. But it is not staying there."
+- Obia confirms: the signal is expanding northward. Slowly.
+- Ako-chan: "Tomorrow. Early. We move on."
+- **Key fact:** The disturbance signal is confirmed to be expanding northward. First explicit data point on movement.
+
+---
+
+## Day 11 — `story_day: 11`
+
+### Ep30 — Leaving Croatia, before sunrise (end of Chapter 4)
+- Daru stands at the last rocky point above the sea before leaving. He looks at the coast for a long time.
+- Ako-chan stands beside him. Does not speak.
+- Daru: "I am ready." He steps back and does not look back.
+- Ako-chan writes in red notebook: "Day eleven. We leave Croatia."
+- Obia: "The next part of the journey will take many days. The road goes south through mountains. Then east. Then south again into Jordan."
+- Daru says "Jordan" slowly, like a new word. Obia: "Wadi Rum. The desert."
+- Daru asks if Ako-chan has been there. She says no. Daru: "Neither have I. Good."
+- **Key fact:** Chapter 4 ends. They leave Croatia heading toward Jordan (Chapter 5). Daru's departure line: "Neither have I. Good." — use exact quote if referenced.
