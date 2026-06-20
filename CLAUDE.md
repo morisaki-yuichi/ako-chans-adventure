@@ -28,6 +28,7 @@
   - Any time references used ("a few days ago", "yesterday", etc.)
 
 ### After completing a full Chapter
+- Propose 3 chapter title candidates based on the chapter's content, and confirm with the user before proceeding.
 - Add a new chapter block to `episodes.md` following the existing pattern:
   ```liquid
   <div class="chapter-block">
