@@ -155,6 +155,6 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ### Ep14 — The Adriatic coast (late afternoon)
 - First sight of the Adriatic Sea (train running along the coast).
 - Obia: "We are close to Croatia."
-- White seabirds fly over the sea — Ako-chan feels them: not afraid.
-- Ako-chan: "Maybe the south did not reach here yet. Or maybe the sea was still safe."
-- **Key fact:** The disturbance has NOT fully reached the Adriatic yet. The seabirds are not afraid — unlike the English animals. End of Chapter 2.
+- White seabirds fly over the sea — Ako-chan feels them: louder and more urgent than the English animals. Something is pushing them.
+- Ako-chan: "We are getting closer. The south is getting closer."
+- **Key fact:** The disturbance is STRONGER here than in England — the Adriatic birds feel more urgent and unsettled. The closer to the south, the more intense the disturbance. End of Chapter 2.
