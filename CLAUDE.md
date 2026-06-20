@@ -27,6 +27,23 @@
   - New information characters learn
   - Any time references used ("a few days ago", "yesterday", etc.)
 
+### After completing a full Chapter
+- Add a new chapter block to `episodes.md` following the existing pattern:
+  ```liquid
+  <div class="chapter-block">
+    <h3>Chapter N &middot; Ep X–Y</h3>
+    <ul class="episode-list">
+      {% assign s1cN = site.pages | where: "season", 1 | where: "chapter", N | sort: "episode" %}
+      {% for ep in s1cN %}
+      <li>
+        <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+        <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  ```
+
 ## Critical Continuity Rules
 
 - **The disturbance started when Obia arrived.** No character can say it has been going on longer than Obia has been in this era. Check Obia's arrival date in timeline.md before writing any such reference.
