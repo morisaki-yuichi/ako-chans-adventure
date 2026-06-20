@@ -319,3 +319,132 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Daru says "Jordan" slowly, like a new word. Obia: "Wadi Rum. The desert."
 - Daru asks if Ako-chan has been there. She says no. Daru: "Neither have I. Good."
 - **Key fact:** Chapter 4 ends. They leave Croatia heading toward Jordan (Chapter 5). Daru's departure line: "Neither have I. Good." — use exact quote if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 5
+
+## Day 13 — `story_day: 13`
+
+### Ep31 — Mountains and dust (morning)
+- Two days after leaving Croatia. Traveling through grey-brown mountains heading south.
+- Landscape: no coast, no green. Dry stone, thin scrub. Already warmer than Croatia.
+- Daru investigates everything (plants, rocks, holes). Very curious about new terrain.
+- Obia: "Many days. South, then east, then south again into Jordan."
+- A large dark bird circles high — Ako-chan feels it: old and patient.
+- **Key fact:** The disturbance is not smaller here. Maybe a little bigger.
+
+---
+
+## Day 15 — `story_day: 15`
+
+### Ep32 — Approaching Jordan (daytime)
+- Four days of travel since Croatia. Mountains behind them. Land flat, wide, dry.
+- Daru: "There is almost nothing green here." Ako-chan points to pale yellow flowers at road's edge.
+- Air warm but not yet desert-hot. Disturbance felt in the dry ground and empty sky.
+- Obia: "We are near Jordan. One more day."
+- Ako-chan writes in red notebook: **Day fifteen. One more day to the desert.**
+- **Key fact:** No gadgets yet — gadgets introduced in Ep33 when they reach Wadi Rum proper.
+
+---
+
+## Day 16 — `story_day: 16`
+
+### Ep33 — Wadi Rum arrives (midday)
+- They arrive at Wadi Rum: enormous red sandstone walls rising from pale sand desert floor.
+- Intense heat from sky, sand, and rock walls.
+- **Obia deploys cooling field** (small flat square on sand → cool still air) for Ako-chan and Dango.
+- **Obia deploys greenhouse capsule** (small round pod, clear sides, warm light, gentle air circulation) for Daru. Daru goes inside and settles. "Warm. Good."
+- Obia detects signal: "Small. Very still. It has stayed in the same place for many days."
+- Ako-chan: "Someone is waiting."
+- **Key fact:** Cooling field and greenhouse capsule introduced here. Gabu (Arab Greek tortoise, native to desert) needs no special equipment.
+
+### Ep34 — Searching for the signal (afternoon, same day)
+- They move toward the signal through smooth pale-orange sand between red rock walls.
+- Obia: "About two hundred meters." Then: "Fifty meters."
+- Ako-chan feels: careful attention, not afraid, just watching.
+- First glimpse: small dark rounded shape on a low rock ledge — then gone instantly.
+- Dango: "Did you see?" Ako-chan: "Yes." / Obia: "It is still very close. It is watching us."
+- **Key fact:** Gabu is first seen briefly. He does not approach — he retreats.
+
+---
+
+## Day 17 — `story_day: 17`
+
+### Ep35 — Before sunrise
+- Ako-chan wakes before dawn. Cold desert air, bright unfamiliar stars.
+- A small shape on a ledge 30 meters away, very still, looking at her all night.
+- She does not move. They watch each other for a long time.
+- When Dango stirs in his sleep, the shape vanishes instantly.
+- Dango: "It is still close. I can smell it."
+- Ako-chan: "It is not running away."
+- **Key fact:** Gabu has been watching them through the night. First detailed view: small, dark shell like rock, eyes open and steady.
+
+### Ep36 — The one who watches (daytime, same day)
+- They decide to sit still and wait rather than approach.
+- Gabu comes from behind a rock: 30 meters, then 15 meters. Stops. Studies each of them in turn (Ako-chan, Dango, Obia, Daru in pod).
+- Ako-chan: "Hello." (very soft) — Gabu does not answer. Just watches.
+- Then he turns and walks slowly back to the rocks. But stops once and looks back.
+- Dango: "It is not afraid." Ako-chan: "No. It is thinking."
+- **Key fact:** Gabu's character established — calm, methodical, evaluating. No fear, no rush.
+
+---
+
+## Day 18 — `story_day: 18`
+
+### Ep37 — First words (morning)
+- Gabu returns: three steps away. Stops. Looks at Ako-chan.
+- Gabu: "Why are you here?"
+- Ako-chan: "We are going south. Something is wrong there. We are going to find out what."
+- Gabu: "I know something is wrong. I have been watching it."
+- Gabu's name: **Gabu**. Exact introduction: "My name is Gabu."
+- Gabu asks about Obia: "That thing. What is it?" / Ako-chan: "That is a long story." / Gabu: "I have time."
+- Ako-chan tells Gabu about Obia, the English animals, the signals, Daru.
+- Gabu: "I have been tracking this for many days now."
+- Gabu to Daru (Daru: "Hello"): "Hello." — then quiet.
+- Gabu: "Come back this afternoon. I will show you."
+- **Key fact:** Gabu's introduction. His speech pattern: quiet, one word at a time, deliberate. Use exact dialogue if referenced.
+
+### Ep38 — What he has seen (afternoon, same day)
+- Gabu's systematic observations about the desert disturbance:
+  - "The sand at night. It should be cold. The desert cools very fast after dark. It has always been that way." / "Now the sand stays warm. All night. Like something is pushing heat up from very far below."
+  - "The wind too. The south wind used to change. Fast some days. Slow other days. Now it does not change. It comes from the same place every day. The same direction. The same speed."
+  - "The lizards left first. About fifteen days ago. Before them, the snakes. Before them, the sand beetles."
+- Obia: "You counted the days." / Gabu: "Yes. I counted."
+- Ako-chan: "Why did you stay?" / Gabu: "Because I wanted to know the full pattern. If I leave too soon, I miss it. The pattern tells you more than the feeling."
+- Ako-chan: "Will you come with us?" / Gabu: "I need to think."
+- He walks back to the rocks without hurrying or looking back.
+- **Key fact:** "The lizards left about fifteen days ago" = ~Day 3 of the story (consistent with Obia's arrival before Day 1). Gabu is methodical where Daru is instinctive.
+
+---
+
+## Day 19 — `story_day: 19`
+
+### Ep39 — The slow decision (full day + sunset)
+- All day, Gabu visible on a ledge in the rocks, watching from a distance.
+- Daru: "He is still there." / "He is just sitting." / "It takes a very long time. His way."
+- Ako-chan: "That is Gabu."
+- Three desert birds fly south-to-north overhead — Ako-chan feels: push from the south, not smaller.
+- Near sunset, Gabu approaches again.
+- Gabu: "I have been here alone. Since the lizards left. Watching. Counting. Waiting for the pattern to be clear."
+- Gabu: "The pattern is not staying here. It is moving north. Slowly. But it will not stop on its own."
+- Gabu: "If I stay, I can still watch. But watching is not enough now."
+- **Gabu's joining line:** "I will come with you."
+- Ako-chan: "We leave tomorrow. Early."
+- Gabu to Daru: "Hello again." / Daru: "Hello." Then Gabu walks back to sleep one last night in his home.
+- **Key fact:** Gabu's decision is deliberate, stated once, quietly. Contrast with Daru's immediate "I want to come because I want to come." Use exact joining line if referenced.
+
+---
+
+## Day 20 — `story_day: 20`
+
+### Ep40 — Five (dawn, end of Chapter 5)
+- Gabu comes from the rocks at first light. He says: "Ready."
+- Group is now five: Ako-chan, Dango, Obia, Daru (in pod), Gabu (walking free).
+- Gabu leads the way east, choosing the left path at a fork. Obia confirms he is right.
+- Daru: "How did you know?" / Gabu: "The ground on the left is harder. Better to walk on in the heat."
+- Daru: "But how did you know before the heat?" / Gabu: "I live here."
+- Ako-chan writes in red notebook: **Day twenty. Wadi Rum. Gabu is with us.**
+- Obia: "The signal from the south is still there. Not smaller."
+- Ako-chan: "But we are bigger now."
+- **Key fact:** Chapter 5 ends. Group leaves Wadi Rum heading east and south. Gabu/Daru contrast established: Gabu leads calmly and knowledgeably; Daru is curious and energetic. Notebook quote and Ako-chan's final line — use exact wording if referenced.

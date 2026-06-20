@@ -61,5 +61,18 @@ permalink: /episodes/
       </ul>
     </div>
 
+    <div class="chapter-block">
+      <h3>Chapter 5 &middot; The Patient One</h3>
+      <ul class="episode-list">
+        {% assign s1c5 = site.pages | where: "season", 1 | where: "chapter", 5 | sort: "episode" %}
+        {% for ep in s1c5 %}
+        <li>
+          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
   </div>
 </div>
