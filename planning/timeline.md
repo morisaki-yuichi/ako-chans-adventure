@@ -93,3 +93,68 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - She turns. Road goes south. Wind on her face. Cold and quiet.
 - Dango at her side. Obia behind them. They walk on.
 - **Key fact:** Departure. They head south. This is the end of Chapter 1.
+
+---
+
+# Story Timeline — Season 1, Chapter 2
+
+## Day 4 (continued) — `story_day: 4`
+
+### Ep8 — London, St Pancras International (mid-morning)
+- They arrive at St Pancras by mid-morning (travel from home not shown).
+- Obia: "This train goes under the sea."
+- Obia: "Under the sea. A tunnel. Very deep. The water is above your head."
+- They board the Eurostar at Platform 14, heading to Paris.
+- **Key fact:** No one at the station stops them or looks twice (fantasy convention maintained).
+
+### Ep9 — Eurostar, Channel Tunnel (mid-day)
+- Train enters the Channel Tunnel (England side: dark hill, round mouth opening).
+- Obia: "The sea is above us now."
+- Ako-chan thinks about the animals back home — hedgehog, robin, fox — wonders if they are still listening.
+- They emerge in France. Dango barks once, short and happy.
+- **Key fact:** Ako-chan's last thought of the English animals before the long journey south.
+
+### Ep10 — Paris, Gare du Nord (afternoon)
+- They arrive at Gare du Nord.
+- Next train: Venice, 18:14, Track 8.
+- Ako-chan buys a sandwich and small bottle of water at a station food stand.
+- Obia: "A little. The animal messages pass through here. Birds from the south. Their sounds carry through."
+- The train to Venice is dark red.
+- **Key fact:** Animal messages are already travelling north via birds.
+
+### Ep11 — Night train, Paris → Italy (evening → overnight)
+- Train departs Paris 18:14. Already dark outside when they leave.
+- Obia confirmed: does NOT sleep. "No. I do not need to sleep. I will watch while you rest."
+- Ako-chan recalls exact quotes before sleep:
+  - Swallow (Ep3): "The south wind is dead."
+  - Barn owl (Ep4): "Something started."
+  - Obia (Ep3): "Something is wrong in the south. It is very bad."
+- Ako-chan falls asleep on the train.
+- **Key fact:** Obia does not sleep — it watches through the night.
+
+---
+
+## Day 5 — `story_day: 5`
+
+### Ep12 — The Alps, crossing into Italy (dawn / early morning)
+- Ako-chan wakes to see the Alps: big, white, snow-capped peaks.
+- Obia: "The Alps. We are crossing into Italy."
+- After an Alpine tunnel, the mountains become grey-brown-green. Below: red roofs, white walls, a church tower.
+- A large dark bird flies south slowly across the sky.
+- Ako-chan writes in red notebook: **Italy. Morning. Mountains and red roofs.**
+- **Key fact:** First notebook entry written in Italy. Bird flying south = animal messages moving.
+
+### Ep13 — Italian countryside, Bologna (afternoon)
+- Train passes through Bologna (BOLOGNA sign on platform).
+- Ako-chan observes: many shades of green, old stone walls, rows of vines on hills.
+- Two pigeons land on a wire near the track, then fly south.
+- Obia: "All birds carry things. They do not know they are doing it. They just fly. But the messages move with them."
+- Afternoon light turns gold.
+- **Key fact:** Obia's exact words about birds and messages.
+
+### Ep14 — The Adriatic coast (late afternoon)
+- First sight of the Adriatic Sea (train running along the coast).
+- Obia: "We are close to Croatia."
+- White seabirds fly over the sea — Ako-chan feels them: not afraid.
+- Ako-chan: "Maybe the south did not reach here yet. Or maybe the sea was still safe."
+- **Key fact:** The disturbance has NOT fully reached the Adriatic yet. The seabirds are not afraid — unlike the English animals. End of Chapter 2.
