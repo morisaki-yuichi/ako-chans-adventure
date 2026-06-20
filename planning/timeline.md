@@ -158,3 +158,56 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - White seabirds fly over the sea — Ako-chan feels them: louder and more urgent than the English animals. Something is pushing them.
 - Ako-chan: "We are getting closer. The south is getting closer."
 - **Key fact:** The disturbance is STRONGER here than in England — the Adriatic birds feel more urgent and unsettled. The closer to the south, the more intense the disturbance. End of Chapter 2.
+
+---
+
+# Story Timeline — Season 1, Chapter 3
+
+## Day 5 (continued) — `story_day: 5`
+
+### Ep15 — Train station, early evening (changing trains)
+- They change trains at a busy station (the journey from the Adriatic coast has ended here).
+- Night train to Croatia: departs at half past eight, Platform 6. Dark green and silver.
+- Obia: "This train goes east. Through the mountains. Into Croatia."
+- **Key fact:** This is a new train heading east into the Balkans. They board in the evening.
+
+### Ep16 — Night train, crossing the border (night)
+- Train enters the mountains. Air grows heavy. Train slows on the slopes.
+- Border crossing: men in uniforms check papers. Obia: "We are in a different country now."
+- Ako-chan hears faint animal voices — deep, from inside the mountains. Never felt voices like this before.
+- Obia: "I cannot hear what you hear. But something is here. The animals know we are passing."
+- **Key fact:** The mountain animals have a slower, older quality than the English or Italian birds.
+
+---
+
+## Day 6 — `story_day: 6`
+
+### Ep17 — Deep night, night train (foreshadowing)
+- Ako-chan wakes to find Obia very still, eyes almost dark.
+- A small point of light appears from Obia's chest — not blue, not white, unknown color. Lasts 1–2 seconds, then gone. Eyes return to blue-white.
+- **KEY: Obia's first data transmission (small foreshadowing of the Season 1 reveal).**
+- Ako-chan: "What was that?" / Obia: "I was checking something."
+- Ako-chan: "What were you checking?" / Obia: "Data. The data I have collected. From the animals. From the messages. I check it sometimes. To make sure it is correct."
+- Ako-chan: "The light. Where did it go?" / Obia: "It is part of how I work. Do not worry."
+- **Key fact:** Use these EXACT quotes if any future episode references this moment.
+
+### Ep18 — Dawn, Croatia
+- Landscape changes: rougher hills, lighter stone, older feel. Different from Italy.
+- Dango wakes up (stretches, yawns, breathes on window glass).
+- Obia: "Croatia. We are in Croatia."
+- A river below with a heron — the heron's stillness feels watchful and uneasy, not peaceful.
+- Ako-chan writes in red notebook: **Croatia. Morning. Red sky.**
+
+### Ep19 — Morning, moving through Croatia
+- The animal voices are LOUDER in feeling (not sound). Disturbance stronger than Italy.
+- Birds flying south all morning.
+- Two sparrows on a stone wall — Ako-chan feels the disturbance through them.
+- Dango: "What do they feel?" / Ako-chan: "Something is wrong in the south. They feel it. They do not know what it is. But they feel it. And it is not stopping."
+- Ako-chan writes in red notebook: **The voices are louder. We are getting close.**
+- **Key fact:** Quote Dango and Ako-chan exactly if referenced in later episodes.
+
+### Ep20 — Afternoon, Split, Croatia (end of Chapter 3)
+- They arrive at Split on the Dalmatian coast (Adriatic visible again, now from the Croatian side).
+- The birds above the harbor are fast and anxious.
+- Ako-chan thinks: *Something is close. Very close now.*
+- **End of Chapter 3.** Chapter 4 begins in Croatia (Daru merges on the Dalmatian coast).
