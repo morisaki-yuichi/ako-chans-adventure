@@ -1296,13 +1296,14 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep1 — Morning (S2)
 - Same garden in England. Oak tree taller. Rosebush grown along fence. Ako-chan and Dango are older.
+- **Season: summer.** "The roses on the fence were open. It was summer." — explicit in text.
 - Ruka introduced: tiny tortoise, lives by the south wall (sunniest spot).
 - Dango has senior status with Ruka — not jealous (tortoise, not jealousy-triggering).
 - **Key fact:** Garden is "the good kind of quiet" — disturbance fully resolved by Season 2.
 
 ### Ep2 — Same morning
 - Backstory of finding Ruka: Ako-chan alone in Puglia, sitting on a wall above the sea. Ruka appeared in dry grass below. Ruka pulled inside when picked up, then slowly came back out.
-- **Key fact:** Ako-chan found Ruka "about a year ago" before S2 Day 1. No voice heard — just a still, certain feeling.
+- **Key fact:** Ako-chan found Ruka "just a few weeks ago" before S2 Day 1 — Ruka is a fresh hatchling, smaller than Daru and Gabu were when they joined in S1. No voice heard — just a still, certain feeling.
 - Ruka's corner: the south wall, where sun stays longest.
 
 ---
