@@ -719,8 +719,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Formation at the rail: Dango left, Suke-san right (a little back, a little to the side). Riro beside Ako-chan.
 - Daru: "Seven now. Seven!"
 - Ako-chan writes in red notebook: **Day fifty-one. North Pacific. Riro is with us. We go south now.**
-- After the notebook moment, Riro slips back into the sea and swims alongside the hull. (Day 51のみ。Obiaはこの夜、カプセルを船体外側に製作・取付)
-- **Key fact:** Chapter 7 ends. Group is now seven. Riro joins without a formal joining speech — he was rescued. Whale message to turn south: "They are ready. They say: now. Now we turn south." Use exact notebook entry if referenced. Day 51夜にObiaがRiro用カプセルを製作。Day 52朝にRiroへ披露。
+- **Key fact:** Chapter 7 ends. Group is now seven. Riro joins without a formal joining speech — he was rescued. Whale message to turn south: "They are ready. They say: now. Now we turn south." Use exact notebook entry if referenced. Day 51夜にObiaがRiro用カプセルを製作・船体外側に取付。Day 52朝（Ep61）にRiroへ披露。
 
 ---
 
