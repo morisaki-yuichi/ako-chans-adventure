@@ -719,8 +719,8 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Formation at the rail: Dango left, Suke-san right (a little back, a little to the side). Riro beside Ako-chan.
 - Daru: "Seven now. Seven!"
 - Ako-chan writes in red notebook: **Day fifty-one. North Pacific. Riro is with us. We go south now.**
-- After the notebook moment, Riro slips back into the sea and swims alongside the hull.
-- **Key fact:** Chapter 7 ends. Group is now seven. Riro joins without a formal joining speech — he was rescued. Whale message to turn south: "They are ready. They say: now. Now we turn south." Use exact notebook entry if referenced. Riro established as spending time in the water alongside the ship, not permanently on deck.
+- After the notebook moment, Riro slips back into the sea and swims alongside the hull. (Day 51のみ。Obiaはこの夜、カプセルを船体外側に製作・取付)
+- **Key fact:** Chapter 7 ends. Group is now seven. Riro joins without a formal joining speech — he was rescued. Whale message to turn south: "They are ready. They say: now. Now we turn south." Use exact notebook entry if referenced. Day 51夜にObiaがRiro用カプセルを製作。Day 52朝にRiroへ披露。
 
 ---
 
@@ -729,6 +729,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ## Day 52 — `story_day: 52`
 
 ### Ep61 — South (first day heading south)
+- **朝：** ObiaがRiroを船体側面に呼ぶ。船体外側の喫水線付近に新しいユニット（カプセル）が取り付けられている。Obia: "Get in. The ship will carry you. You do not need to swim. And when we reach the equator — this will keep you cool." Riroが乗り込み: "Okay."
 - Ship turns south. Whales lead. Sea wide, pale sky. No land, no birds.
 - Formation at front rail: Dango left, Suke-san right (a little back, a little to the side).
 - Obia: "The whales know the way. I will follow them."
@@ -738,21 +739,20 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Daru/Gabu pod exchange about the sun confirming direction — small quiet sound from Daru's pod.
 - Pods glow: Daru's warm green, Gabu's steady orange.
 - Ako-chan writes in red notebook: **Day fifty-two. Heading south. The whales go ahead. We follow.**
-- **Key fact:** First full day heading south after turning. Whale voice message: "This way. Come. We know." Use exact notebook entry if referenced.
+- **Key fact:** Riroのカプセル初登場。Obiaが前夜（Day 51）に製作・船体に取付。以降RiroはカプセルでDaru/Gabuと同様に輸送される。カプセルは半開放式、Riroが任意で出入り可能。Obia台詞: "Get in. The ship will carry you. You do not need to swim. And when we reach the equator — this will keep you cool." Use exact wording if referenced. Whale voice message: "This way. Come. We know." Use exact notebook entry if referenced.
 
 ---
 
 ## Day 54 — `story_day: 54`
 
 ### Ep62 — The Water Darkens
-- **Morning:** Obia brings Riro a small device it made during the night — a water-cooling and land-movement suit. Obia: "I calculated the route. We will cross the equator. This will help you." / "It cools you. And on the ice — when we reach the south — it will help you move on land." / Riro tries it on. It fits. Riro: "You made this." / Obia: "Yes." / Riro: "Okay." He holds it carefully.
-- **Later that day:** Sea changes color: no longer dark blue, almost black at edges. Heavier, slower.
+- Sea changes color: no longer dark blue, almost black at edges. Heavier, slower.
 - Whales slow down.
 - Obia: water temperature dropping fast; current changing direction (now pushing back against them).
 - Gabu (from pod): "Something large is under us. I can feel it through the hull. Moving slowly. Very far down."
 - Suke-san's deck patrol (east-west loops) stops. He faces south, nose up, turns slowly into the wind. Stays still a long time.
 - Daru: "What is Suke-san doing?" / Gabu: "Smelling." / Daru: "Smelling what?" / Gabu: "Something in the air. Not here yet. But coming."
-- **Key fact:** Obia gives Riro the water-cycling suit on this day. Suit function: cooling (equator crossing) + land movement (ice). Obia calculated the equator crossing proactively and made the suit unprompted — parallel to Ep33 gadget pattern. First signs of the approaching storm. Suke-san's instinct activates. Use exact Gabu dialogue and Obia/Riro suit exchange if referenced.
+- **Key fact:** First signs of the approaching storm. Suke-san's instinct activates — he stops his loops and faces south. Gabu feels something large moving under the hull. Use exact Gabu dialogue if referenced. (カプセルはEp61で既に登場済み)
 
 ---
 
@@ -766,9 +766,9 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - A dark line visible on the south horizon — darker than the grey sky, not there the day before.
 - Obia: "Pressure dropping. Wind building from the south. It is coming fast."
 - Ako-chan: "How long?" / Obia: "Hours. Maybe less."
-- Daru/Gabu pods confirmed locked. Ako-chan tells Riro: "When it comes — go into the water." Riro: "Yes." (he goes into the water when the storm hits)
+- Daru/Gabu pods confirmed locked. Ako-chan tells Riro: "When it comes — stay in your capsule." Riro: "Yes."
 - Dango sits against Ako-chan's leg and presses close.
-- **Key fact:** Storm line visible on south horizon. Ako-chan feels something colder and sharper than the usual disturbance. Suke-san does not move all morning. Riro's destination during the storm: the sea, not below deck — sea otters ride out storms in the water.
+- **Key fact:** Storm line visible on south horizon. Ako-chan feels something colder and sharper than the usual disturbance. Suke-san does not move all morning. 嵐中のRiroはカプセル内（船体外側、喫水線下）で密閉保護される。
 
 ---
 
@@ -776,7 +776,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep64 — The Storm
 - Storm hits before dawn: wind, sideways rain, then massive waves.
-- Dango below deck, lying flat. Riro is in the sea (went in when the storm hit, as instructed by Ako-chan in Ep63). Daru/Gabu locked in pods.
+- Dango below deck, lying flat. Riro is sealed in his capsule on the hull (below the waves, held fast to the ship). Daru/Gabu locked in pods.
 - Ako-chan refuses to go inside: "I need to hear the whales. I have to stay here."
 - Suke-san comes out wet and sits right against Ako-chan's leg — not a little to the side, right against her. "You do not have to stay." / Suke-san: "I know." — stays.
 - Whale voices still audible below the noise: *We are here. Hold on.*
@@ -807,7 +807,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep67 — All Night
 - Storm continues all through the night into Day 57.
-- Below deck: Dango flat on floor, ears down, silent. Riro is in the sea — Gabu checks sensor once: "He is moving. He is all right."
+- Below deck: Dango flat on floor, ears down, silent. Riro is in his capsule (outside hull, below waterline, sealed). Gabu checks sensor: "The capsule is holding. He is all right."
 - Daru/Gabu pod exchange: "Is it over?" / "No." / "When?" / "I do not know." / "Is Ako-chan all right?" / "She is on deck." / "In this?" / "Yes." — Daru, quietly: "Then she is all right." (telling himself)
 - On deck: Ako-chan still standing, coat soaked. Sky moving from black to dark grey.
 - Suke-san beside her all night, not speaking.
