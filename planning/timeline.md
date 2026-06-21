@@ -858,3 +858,135 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Ako-chan writes in red notebook: **Day fifty-nine. The storm has passed. We are all here. We are closer now.**
 - She turns her face toward the pale cold sun. For the first time in days, she feels warm.
 - **Key fact:** Chapter 8 ends. The storm pushed them several days further south than expected. The bonds among the group have quietly deepened — shown through changed behavior, not words. Whale voice: "Not far now. Hold on. Almost there." Use exact notebook entry if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 9
+
+## Day 61 — `story_day: 61`
+
+### Ep71 — The Ice
+- Air changes: clean, bright, very still, sharp in nose and throat.
+- Icebergs appear in the water — small at first, then larger.
+- Riro in sealed capsule. Daru and Gabu in pods (orange light, green light through glass).
+- Dango presses close, shivers once, presses closer.
+- Suke-san stands at front rail, does not shiver, nose up into the cold wind.
+- One iceberg passes close: taller than anything on deck, pale blue at base, white above, moves in silence.
+- Whale voices: *Close now. Not far.*
+- Ako-chan grips the rail. Feels the pull from the south — same as England, but much stronger.
+- **Key fact:** First icebergs. Dango shivers, Suke-san does not. Whale message: "Close now. Not far."
+
+---
+
+## Day 63 — `story_day: 63`
+
+### Ep72 — White
+- Ako-chan sees it first: a thin white line on the horizon — not water, not sky.
+- Dango barks once — short and sharp.
+- Obia: "Antarctica. We are very close now."
+- Whales slow and move beside the ship: one on left, one on right, one behind. No longer ahead.
+- Suke-san's ears up; Dango stands straight; Daru presses face to pod glass; Riro looks out then goes back in.
+- Gabu watches without a word.
+- Obia: "One day. Maybe less. The current is with us."
+- Dango sits beside Ako-chan and presses his shoulder to her leg. Neither speaks.
+- **Key fact:** Antarctica first sighted. Whales move beside the ship instead of ahead. Obia's line: "One day. Maybe less. The current is with us."
+
+---
+
+## Day 64 — `story_day: 64`
+
+### Ep73 — Before the Cold
+- Before dawn, Obia distributes cold-weather gear.
+- **Ako-chan:** ultra-light future suit — almost no weight but blocks all cold completely. Ako-chan: "How does it do that?" / Obia: "It keeps the warmth in. It does not let the cold through."
+- **Dango and Suke-san:** small boots for each paw + close-fitting vest. Dango examines his feet with great seriousness. Suke-san puts his on without a sound, stands still, ears up.
+- **Daru, Gabu, Riro:** pods and capsule switched to Antarctic mode — brighter, stronger, deeper warmth.
+- Gabu: "Is it colder there?" / Obia: "Much colder. But you will be safe." / Daru: "How cold?" / Gabu: "Quiet."
+- Ice shelf visible ahead through the pale light — flat white edge, long and solid and enormous.
+- Ako-chan: "Ready?" Suke-san's ears go back and forward once. That was enough.
+- **Key fact:** All gear confirmed. Obia's exact line on suit: "It keeps the warmth in. It does not let the cold through." Daru/Gabu exchange: "How cold?" / "Quiet." Use if referenced.
+
+---
+
+## Day 65 — `story_day: 65`
+
+### Ep74 — Land
+- They go ashore at the ice shelf in early light. Obia lowers a ramp. Ako-chan steps first.
+- Riro's capsule detaches from the ship and operates as a land movement unit on the ice.
+- The three whales surface one final time — all three at once, backs dark and enormous, steam rising from breaths.
+- Ako-chan walks to the ice edge and reaches her hand out over the water toward the nearest whale. The whale holds still, its eye on her — big and dark and calm.
+- Then the first whale goes under. Then the second. Then the third. Water is empty.
+- Suke-san sits beside Ako-chan. Dango presses against her other side.
+- Ako-chan writes in red notebook: **Day sixty-five. Antarctica. The whales went back. We go on.**
+- **Key fact:** Chapter 9 landing. Riro's capsule is now land-mode. The three whales leave one by one — final goodbye. Ako-chan reaches hand toward whale (no words). Notebook entry: "Day sixty-five. Antarctica. The whales went back. We go on." Use exactly if referenced.
+
+### Ep75 — Voices in Ice
+- They walk south on flat white ice. No trees, rocks, or hills.
+- Antarctic voices: unlike any Ako-chan has heard. Old. Very old. Coming from deep under the ice.
+- Ako-chan: "Something very old. Very far down. Like it has been there for a long time."
+- Daru: "Is it the thing we came to find?" / Ako-chan: "I do not know. It is not an animal. It is something else."
+- Obia: "The signal is here. I can feel it. Stronger than anywhere."
+- Gabu: "Something else is here too. Not the signal. Something alive."
+- Suke-san: "There. To the south." — and stops, ears flat, body still.
+- **Key fact:** Obia confirms signal is "stronger than anywhere" here. Gabu senses something alive. Suke-san pinpoints direction. Something is coming. Use exact lines if referenced.
+
+---
+
+## Day 66 — `story_day: 66`
+
+### Ep76 — Pen-san
+- An Emperor penguin chick comes running across the ice at full speed — very round, very fluffy, brown-grey with pale front. Wings out for balance.
+- Runs straight to Ako-chan and presses against her legs.
+- **Pen-san's first words:** "You came! You came, you came, you came! I knew you would come! I told them! I said, they will come, they will come from the north, and now you are here and you came!"
+- Pen-san introduces himself: "Pen-san!"
+- Pen-san to Dango: "Hello, dog!" — then turns back to Ako-chan.
+- Pen-san: "How long have you been waiting?" Ako-chan / Pen-san: "A long time. Many days. The voices told me. They said, wait here, and I waited."
+- Pen-san asks: "Can you pick me up? Please?" — Dango's ears go just slightly flat.
+- **Key fact:** Pen-san's exact first words above. His character: enthusiastic, non-stop, completely unafraid. He addresses Dango as "Hello, dog!" Use exact wording if referenced.
+
+### Ep77 — The Colonel
+- Colonel Adelie arrives behind Pen-san: Adélie penguin, old, precise, dark back/white front, each step exactly placed.
+- He inspects each group member in order — one look each — until he reaches Obia. He stops. Long, careful look. Not fear, not anger. Just very careful.
+- Pen-san: "This is Colonel Adelie! He is my teacher and my guard! He knows everything about everything!"
+- Colonel: "Stand straight, Pen-san."
+- To Ako-chan: "You heard the voices. The ones from the south." / Ako-chan: "Yes." / Colonel: "I know who you are. You are expected."
+- Colonel: "We will talk tonight. There is much to say." Turns south. "Come. Follow me."
+- Suke-san makes one quiet sound in his throat at the Colonel's look at Obia.
+- **Key fact:** Colonel Adelie's arrival sequence. His first look at Obia is very long and careful. Exact line: "I know who you are. You are expected." / "We will talk tonight. There is much to say." Use exactly if referenced. He does NOT speak to Obia in this episode.
+
+---
+
+## Day 67 — `story_day: 67`
+
+### Ep78 — Up
+- Camp made in a hollow in the ice. Pen-san has talked non-stop all day.
+- **Pen-san's request:** "Pick me up. Please. Please, please, please."
+- Ako-chan lifts him — heavier than expected. He presses to her chest with great force, gives a satisfied sound.
+- Dango watches from 2 meters: ears go flat, tail drops, does not move.
+- Dango takes one step toward Ako-chan, then stops. He TURNS HIS BACK to her. Sits facing south. But his ears stay pointing back toward her the whole time.
+- Suke-san watches Dango, walks over, sits beside him just to the right. Neither speaks. Both look south.
+- Pen-san: "Why is the dog sitting that way?" / Ako-chan: "He is thinking." / Pen-san: "About what?" / Ako-chan: "Things."
+- **Key fact:** Dango's PEAK jealousy: he turns his back to Ako-chan. Suke-san silently sits beside him. Pen-san/Ako-chan exact exchange above. Use if referenced.
+
+---
+
+## Day 68 — `story_day: 68`
+
+### Ep79 — The Light Again
+- At night, Ako-chan wakes. Camp quiet.
+- Obia is very still. Then the light appears — from Obia's chest. Same location and same strange color as Ep17 on the night train (Croatia). "Not blue. Not white. Not any color she had a word for." This time it lasts much longer.
+- Colonel Adelie is awake, standing three steps away in the dark, watching Obia. Completely still.
+- The light goes out. Obia's blue-white eyes return.
+- Colonel (very quietly): "What is that?" / Ako-chan: "I asked once. Obia said it was checking data."
+- Colonel says nothing more. He walks back and sits upright, facing Obia, in the dark. Does not lie down.
+- **Key fact:** Second data transmission scene. Same light as Ep17 (exact description: "not blue, not white, not any color she had a word for"). This time much longer. Colonel Adelie witnesses it and begins watching Obia from this point. His question: "What is that?" Ako-chan's reply quotes Ep17 exactly: "I asked once. Obia said it was checking data." Use exact wording if referenced.
+
+### Ep80 — Nine (end of Chapter 9)
+- Aurora Australis lights the sky: long slow waves of green at edges, white at center.
+- Everyone comes out — Dango, Suke-san, pods at window, Riro's capsule door open, Pen-san. Even Gabu moves close to his pod window.
+- Nobody speaks for a long time.
+- The pull from the south is the strongest yet — not fear, but something older, like the ice itself breathing.
+- Dango lies against Ako-chan's left side. Pen-san sits on her right, watching the sky quietly.
+- Colonel Adelie sits apart from the group, watching them. His eyes rest on Obia.
+- Ako-chan writes in red notebook: **Day sixty-eight. Antarctica. The light fills the whole sky. We are all here. Nine.**
+- Final line: "Something would begin tomorrow."
+- **Key fact:** Chapter 9 ends. Group is now nine: Ako-chan, Dango, Suke-san, Daru, Gabu, Riro, Pen-san, Colonel Adelie, Obia. Aurora Australis described as green at edges, white at center. Notebook entry: "Day sixty-eight. Antarctica. The light fills the whole sky. We are all here. Nine." Use exactly if referenced. Colonel Adelie is watching Obia from a distance.
