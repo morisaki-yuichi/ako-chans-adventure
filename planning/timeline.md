@@ -423,12 +423,12 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Sand: "The sand at night. It should be cold. The desert cools very fast after dark. It has always been this way." / "Now the sand stays warm. All night. Like something is pushing heat up from very far below."
 - Daru: "It is like the ground in Croatia. From underneath." / Gabu: "Yes. Like that."
 - Wind: "The south wind used to change. Fast some days, slow others. Now it does not change at all. Same direction. Same strength. Every day."
-- Animals: "The lizards left first. About fifteen days ago. Before them, the snakes. Before them, the sand beetles."
+- Animals: "The lizards left first. About ten days ago. Before them, the snakes. Before them, the sand beetles."
 - Obia: "You counted the days." / Gabu: "Yes. I counted."
 - Ako-chan: "Why did you stay?" / Gabu: "To know the full pattern. If I leave too soon, I miss something. A pattern tells you more than a feeling alone."
 - Ako-chan: "Will you come with us?" / Gabu: "I need to think."
 - Walks back. Slow. No hurry. No looking back.
-- **Key fact:** "Lizards left about fifteen days ago" = ~Day 3 of story (matches Obia's arrival before Day 1). Gabu counts; Daru feels. Use exact quotes if referenced.
+- **Key fact:** "Lizards left about ten days ago" = ~Day 9 of story. Aligns with Daru's "about eight days ago" (Day 0) — both animals noticed the disturbance around the same time, consistent with Obia's arrival triggering it. Gabu counts; Daru feels. Use exact quotes if referenced.
 
 ---
 
@@ -1202,6 +1202,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ## Day 98 — `story_day: 98`
 
 ### Ep97 — Gabu (Wadi Rum, Jordan)
+- **Travel note:** Obia took a different (faster) way south from Croatia (Day 95) to Jordan (Day 98) = 3 days. This is established in the episode's opening line: "Obia took a different way south." Outbound journey used the long sea route; return used a faster overland/alternative route. No further explanation given or needed.
 - Red walls, pale sand, dry still air.
 - Gabu steps out of pod and stops. Studies the red rock, pale sand, deep blue sky above the walls.
 - Obia: "The sensors say this is the right place." / Gabu: "I know. I know this place."
@@ -1246,7 +1247,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - She reads through entries: Italy, Croatia, Wadi Rum, Japan, the whales, the ice, the storm, the aurora, the blizzard, Suke-san walking to Obia.
 - Last entry (from Ep90): *Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice.*
 - **New entry she writes:** *Day one hundred and seven. England. We are home. Riro is in the sea. Suke-san is in the forest. Daru is on his coast. Gabu is in the desert. Pen-san and the Colonel are on the ice.*
-- **Final lines she writes:** *The root of it is still there. We did not stop it. But we went all the way. And we all came back.*
+- **Final lines she writes:** *The root of it is still there. Under the ice. We have not reached it yet. But we went all the way. And we all came back.*
 - **Last line she writes:** *We are not finished.*
 - She closes the notebook. The robin makes one small sound in the oak tree. Then quiet.
 - **Key fact:** Use exact notebook entries above if referenced in Season 2 or later. "We are not finished." is the final written line of Season 1. Obia is in the room — it did not leave. Chapter 11 / Season 1 ends.
