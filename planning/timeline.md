@@ -1082,7 +1082,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep88 — The First (that evening)
 - Suke-san walks to Obia. Stops two steps away. Sits.
-- **Suke-san's exact words:** "You have no bad feeling in you." / [Obia silent] / "I watched. Since England. I could not tell before. You are not like a dog. Not like anything I know. So I could not tell." / [pause] / "But today. The way you worked. No hiding. No stopping. Just helping. The same as always." / "No bad feeling. None. I am sure now."
+- **Suke-san's exact words:** "You have no bad feeling in you." / [Obia silent] / "I watched. Since Japan. I could not tell before. You are not like a dog. Not like anything I know. So I could not tell." / [pause] / "But today. The way you worked. No hiding. No stopping. Just helping. The same as always." / "No bad feeling. None. I am sure now."
 - Obia does not speak. Its eyes stay on Suke-san.
 - Suke-san walks back to his place near Ako-chan.
 - Colonel Adelie watches the whole exchange from across the ship.
