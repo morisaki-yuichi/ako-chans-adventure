@@ -1289,7 +1289,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Season 2 opens "a few years" after Season 1 ends (Day 107).
 - Ako-chan and Dango are back in England. Obia is with them.
 - Ruka (Western Hermann's tortoise baby, gender undetermined) joined the household about one year before Season 2 opens — met in Puglia, Italy during a solo trip Ako-chan took.
-- General Adelie's rank: promoted to General in Season 2 (was Colonel in Season 1). In the S1 notebook entry (Day 107), still "the Colonel." In Season 2 prose and new notebook entries, use "General Adelie."
+- General Adelie's rank: promoted to General during Season 2, but Ako-chan does not know this until she reunites with the Antarctic crew. In Chapter 12 (and any episode before the reunion), Ako-chan refers to the character as "the Colonel." Use "General Adelie" only after the reunion is depicted.
 - story_day in Season 2 resets to Day 1.
 
 ## Day 1 — `story_day: 1`
