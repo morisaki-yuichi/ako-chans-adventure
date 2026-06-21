@@ -990,3 +990,124 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Ako-chan writes in red notebook: **Day sixty-eight. Antarctica. The light fills the whole sky. We are all here. Nine.**
 - Final line: "Something would begin tomorrow."
 - **Key fact:** Chapter 9 ends. Group is now nine: Ako-chan, Dango, Suke-san, Daru, Gabu, Riro, Pen-san, Colonel Adelie, Obia. Aurora Australis described as green at edges, white at center. Notebook entry: "Day sixty-eight. Antarctica. The light fills the whole sky. We are all here. Nine." Use exactly if referenced. Colonel Adelie is watching Obia from a distance.
+
+---
+
+# Story Timeline — Season 1, Chapter 10
+
+## Day 69 — `story_day: 69`
+
+### Ep81 — The Watch (morning)
+- Morning after the aurora. Colonel Adelie openly watches Obia from a distance — his gaze does not leave Obia throughout the morning.
+- Obia goes through its usual routine (checks pods, adjusts Riro's capsule, reads sensors) — careful, unhurried, under the Colonel's eyes.
+- Pen-san stands close to Ako-chan and says nothing. Very unusual for Pen-san.
+- Suke-san watches the Colonel watch Obia (not Obia directly).
+- The pull from the south is stronger than any previous day.
+- Obia stops at the sensor panel: "Something is changing." (said to no one, just into the cold air)
+- The Colonel takes one step forward. Obia does not turn.
+- **Key fact:** Colonel Adelie's monitoring of Obia is now open and deliberate. Suke-san is watching the Colonel, not Obia. The disturbance is at its strongest yet.
+
+### Ep82 — The Numbers (later that morning)
+- Obia goes to the navigation table and pulls up sensor data from the whole journey: England, Croatia, Jordan, Japan, the Pacific.
+- Obia: "The source is here. Under the ice. Very deep. The readings today are the biggest I have seen. Bigger than at sea. Bigger than anything before."
+- Obia: "Something is building. At the source. Very fast."
+- Colonel Adelie comes in, studies the screen. To Obia: "You collected all this. From England." / Obia: "Yes."
+- The Colonel says nothing more and walks out.
+- Numbers keep moving after he leaves.
+- Ending: "Outside, the air was very still. Too still."
+- **Key fact:** Obia has been collecting disturbance data since England and has it all on the navigation table. The Colonel's reaction is controlled — no outburst, just observation.
+
+---
+
+## Day 70 — `story_day: 70`
+
+### Ep83 — White (before dawn)
+- The south wind hits before dawn, very fast. Suke-san's ears go flat; he makes one low sound in his throat. Then the wind hits: sideways snow, hard and sharp.
+- Obia calls: "Back to the ship! Now!" They are 200 meters from the ship.
+- Ako-chan grabs Pen-san under one arm. Dango runs. Suke-san presses to her right. Obia pushes Gabu's pod from behind.
+- Obia's voice through the white: "Straight ahead! Fifteen meters. Keep going."
+- Dango on her left leg, Suke-san on her right — they move together through the blizzard.
+- The hull appears: dark and solid. They get up the ramp. Everyone in. Obia last.
+- The sound when the door seals: "Long and low, like the whole world breathing hard. Not the storm at sea. Something that came from the ground, not from the sky."
+- Pen-san is very still in her arms.
+- **Key fact:** Obia calls the retreat. Exact navigation voice line: "Straight ahead! Fifteen meters. Keep going." The blizzard sound is described as coming from the ground, not the sky — different from the sea storm.
+
+### Ep84 — Ice (late that night)
+- A long slow groan starts from the hull. Engines tried — ship moves a little, then stops.
+- Obia: "Ice. Moving against the hull. From the south and east."
+- White shapes visible through porthole: slow, enormous, pressing from both sides.
+- Dango flat on the floor, chin down, ears flat. Suke-san stands legs wide, nose at the wall where the sound comes from.
+- Colonel Adelie in the corridor: watches porthole, then Obia, then porthole, then Obia.
+- Obia: "We are surrounded on two sides. North and west are still open. But not for long."
+- From his pod, Daru: "Is the ship all right?" — Nobody answers.
+- **Key fact:** Ship is trapped by moving sea ice. Colonel Adelie's watch-Obia/watch-porthole rhythm established. Daru's question goes unanswered.
+
+---
+
+## Day 71 — `story_day: 71`
+
+### Ep85 — What Obia Knows (early morning)
+- Groaning all night. Ako-chan did not sleep. Suke-san paced (three steps, turn, three steps), very quiet.
+- Obia: "I know where the gap is. There is a gap in the ice. To the east. About three kilometers. It will not stay open for long."
+- Colonel Adelie enters. "How do you know this?"
+- Obia: "The data. From the first day. I read the disturbance from England to here. Every reading. Every day. The ice is moving in the same pattern. It is opening to the east. Now. For a short time only."
+- Colonel: "You carried this data all the way from England." / Obia: "Yes." / Colonel: "You did not tell us." / Obia: "There was nothing to tell. Until now."
+- Obia shows all the data on screen: England, Croatia, Jordan, Japan, Pacific, Antarctica.
+- Colonel (slowly): "East. You say east." / Obia: "Yes. East. But not for long."
+- Suke-san sat and did not look away from Obia.
+- **Key fact:** Obia's full data archive revealed. Exact exchange above — use if referenced. Suke-san is silently paying close attention.
+
+### Ep86 — East (morning)
+- Ako-chan: "How long do we have?" / Obia: "An hour. Maybe two. I do not know exactly."
+- Suke-san puts front paws on table edge and studies the screen. Then steps down without speaking.
+- Colonel (to himself): "This data. You carried it from England to here." — not a question.
+- Pen-san (very quietly): "What does it mean?" / Ako-chan: "It means we go east."
+- Colonel to Ako-chan: "Is this what you want to do?" / Ako-chan: "Yes." / Colonel nods once. To Obia: "Come." — Obia follows.
+- Engines start. Ice scrapes. Then the scraping softens — the gap opens.
+- Obia from engine room: "East. Hold east."
+- Open dark water appears outside the porthole.
+- Ako-chan lets out a long breath.
+- **Key fact:** Ako-chan makes the decision. Colonel defers to Ako-chan. Obia's line from engine room: "East. Hold east." They get through the gap.
+
+### Ep87 — Suke-san Watches (before midday)
+- Ice lets go just before midday. Hull free. Ship moves into open water.
+- Ako-chan's hands shake slightly. She holds the rail.
+- Suke-san comes and stands right beside her (not slightly to the side — right beside her, shoulder to her leg). She puts her hand on his back. He stays.
+- Blizzard softens to slow straight-down snow.
+- Suke-san watches Obia put the data away — all the readings, every day of the journey — back in its place. No hurry. No noise. Just the work.
+- Obia does not look up, does not check if anyone is watching, does not speak. Just does what it always does.
+- Suke-san's ears go back, then forward. He watches a long time.
+- Suke-san does not move away from Ako-chan's leg.
+- **Key fact:** Suke-san breaks his usual slightly-back-slightly-to-the-side position: stands right beside Ako-chan (shoulder to leg). He watches Obia work in silence. This is the moment his certainty forms.
+
+### Ep88 — The First (that evening)
+- Suke-san walks to Obia. Stops two steps away. Sits.
+- **Suke-san's exact words:** "You have no bad feeling in you." / [Obia silent] / "I watched. Since England. I could not tell before. You are not like a dog. Not like anything I know. So I could not tell." / [pause] / "But today. The way you worked. No hiding. No stopping. Just helping. The same as always." / "No bad feeling. None. I am sure now."
+- Obia does not speak. Its eyes stay on Suke-san.
+- Suke-san walks back to his place near Ako-chan.
+- Colonel Adelie watches the whole exchange from across the ship.
+- Colonel looks at Obia for a long time after Suke-san leaves. Does not speak. Does not move. But "something in the way he held himself was different now."
+- **Key fact:** Suke-san's exact words above — use these if referenced later. He is the FIRST to stand for Obia. The Colonel's position is visibly but silently shifting.
+
+---
+
+## Day 72 — `story_day: 72`
+
+### Ep89 — Still There (morning)
+- Blizzard gone. Sky clear, pale blue. Ice flat and still. Ship in open water.
+- Ako-chan goes out early and listens. The disturbance is still there.
+- Ako-chan: "It is still there." / Obia: "Yes."
+- Ako-chan: "We got through the blizzard. We got out of the ice. But the source—" / Obia: "The source is still there. Yes."
+- Ako-chan: "Can we stop it?" / Obia: "I do not know."
+- Ako-chan: "Then what do we do?" / Obia: "I am still looking. At the data. I am still looking."
+- The others come out one by one. Nobody speaks.
+- Final: the danger is stopped, but "the root of it — far below the ice — was still connected to something."
+- **Key fact:** Confirmed that stopping the immediate crisis (blizzard + ice) did NOT resolve the source. The disturbance remains. Obia: "I do not know" — no false reassurance. Use exact exchange if referenced.
+
+### Ep90 — The Root (evening, end of Chapter 10)
+- Evening. Everyone rests. Colonel Adelie watching Obia — but "something was different" from his earlier watching.
+- Suke-san near Ako-chan, eyes half-open.
+- Ako-chan writes in red notebook about: the blizzard, the ice, the gap east, Obia's data, Suke-san walking to Obia, what Suke-san said.
+- She writes in the notebook: **"Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice."**
+- Final: "Something was still there. Under the ice. Connected to something far away. They did not know what it was. But it was not over."
+- **Key fact:** Chapter 10 ends. The notebook entry is: "Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice." Use exactly if referenced. The crisis is over; the root cause is not.
