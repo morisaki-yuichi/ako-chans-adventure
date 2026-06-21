@@ -1111,3 +1111,141 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - She writes in the notebook: **"Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice."**
 - Final: "Something was still there. Under the ice. Connected to something far away. They did not know what it was. But it was not over."
 - **Key fact:** Chapter 10 ends. The notebook entry is: "Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice." Use exactly if referenced. The crisis is over; the root cause is not.
+
+---
+
+# Story Timeline — Season 1, Chapter 11
+
+## Day 73 — `story_day: 73`
+
+### Ep91 — Goodbye (morning)
+- Pen-san presses against Ako-chan's legs. "You cannot go. Not yet."
+- **Ako-chan's promise:** "We will come back. One day." / Pen-san: "Promise?" / Ako-chan: "Yes. I promise."
+- Pods and capsule loaded. Suke-san walks up the ramp without looking back.
+- **Colonel Adelie speaks to Obia directly for the first time (positively).** He walks to Obia and stops two steps away: "You carried the data from England to here. Every reading. Every day." / Obia: "Yes." / Colonel: "You did not hide it. You just worked. That is enough." — then turns and walks back.
+- Pen-san has both small wings raised. Colonel Adelie stands beside him, straight and still.
+- Ship moves north. Two shapes grow smaller against the white.
+- **Key fact:** Ako-chan's promise to Pen-san: "We will come back. One day." Colonel's exact words to Obia above — use if referenced.
+
+---
+
+## Day 76 — `story_day: 76`
+
+### Ep92 — Heading North (3 days north of Antarctica)
+- Ice gone. Water dark and moving. Sky grey. Ship quiet — a different quiet without Pen-san.
+- Dango stays close to Ako-chan, not walking the deck.
+- Riro at the front rail watching the water. Says where he was found is "north of here. Far north."
+- Riro on going back: "I do not know if it is my home. But the food is good there. And the water is right."
+- Gabu (from pod): "The water is getting warmer. I can feel it through the walls."
+- Ako-chan opens the red notebook, looks at the last words, closes it again without writing.
+- **Key fact:** Riro's home location is "north of here" from 3 days north of Antarctica = North Pacific.
+
+---
+
+## Day 80 — `story_day: 80`
+
+### Ep93 — Riro (North Pacific)
+- Riro recognizes the water. "This is the water. This is it." / "I know this water. I know the way it moves."
+- Obia: "The current matches. This is the right place."
+- Riro asks for one last grooming. Ako-chan kneels and runs her fingers over his back — slow and careful. Riro's eyes go half-closed.
+- Dango sits right beside Ako-chan and watches. Makes no sound.
+- **Riro's farewell words:** "Good water. Good food. Good fur." Pause. "Good friends."
+- Riro climbs the rail, looks back once, drops into the sea.
+- A small dark shape rises ten meters out — Riro looks back, fur flat and wet, eyes bright — then turns and goes under. Does not come back up.
+- Dango puts his chin on the rail and stays like that for a long time.
+- **Key fact:** Riro's exact farewell: "Good water. Good food. Good fur. Good friends." Dango does not show jealousy — just watches and stays.
+
+---
+
+## Day 83 — `story_day: 83`
+
+### Ep94 — Suke-san (Japan)
+- Japan coast: dark green hills, pine and wet earth smell.
+- Dango and Suke-san stand at the front rail looking at the green hills together. Neither speaks at first.
+- **Dango and Suke-san's farewell exchange:** Suke-san: "You are not bad. For a soft dog." / Dango (tail moves once): "You are not bad. For a small one."
+- Suke-san to Ako-chan: "You heard the animals. All the way. You did not stop." / Ako-chan: "No. I did not stop." / Suke-san: "The south is still there. The root of it." / Ako-chan: "I know." / Suke-san: "You will keep listening." / Ako-chan: "Yes. I will."
+- **Suke-san to Obia:** "Watch over her. That is all." / Obia: "Yes."
+- Suke-san goes down the ramp, walks toward the green trees. Does not look back.
+- Dango watches until Suke-san is gone, then sits looking at the place where Suke-san was.
+- Ako-chan puts her hand on Dango's back and keeps it there.
+- **Key fact:** Suke-san's words to Obia: "Watch over her. That is all." Dango/Suke-san exchange above — use exact quotes if referenced.
+
+---
+
+## Day 88 — `story_day: 88`
+
+### Ep95 — Five (5 days after Japan)
+- Five on the ship: Ako-chan, Dango, Obia, Daru (pod), Gabu (pod).
+- Dango walks the deck in slow loops — the way Suke-san used to. He is not thinking about it.
+- Daru asks repeatedly how far to Croatia. Gabu (from pod): "You will see it when you see it." / Daru: "I know that." (but keeps watching from the glass)
+- Ako-chan listens: the pull from the south is still there, far away, "like something very loud had moved far away and was still moving."
+- She thinks: Riro is in the water. Suke-san is in the trees. Pen-san is on the ice.
+- She looks at the two pod lights (green and orange) and thinks: still here. Some of them.
+- **Key fact:** Group is now five. Dango walking Suke-san's patrol route (not deliberate). The pull from the south has not shrunk but feels quieter/more distant.
+
+---
+
+## Day 95 — `story_day: 95`
+
+### Ep96 — Daru (Dalmatian coast, Croatia)
+- Daru smells Croatia from inside his sealed pod. "Open it. Open it now. I can smell it."
+- Out of the pod: sniffs air, turns left and right. "This is Croatia. This is my coast."
+- Recognizes a specific rock: "I know that rock. That one there. I know it."
+- Runs to Ako-chan's feet, runs back, runs to rail, runs back — very Daru.
+- Ako-chan kneels and holds out her hands. Daru presses his whole body into her palms. "You are back." / Daru: "Yes. I am back."
+- Daru looks at Dango, looks at Gabu's pod once more, then goes over the rail.
+- He explores the rock, finds a crack, comes out, climbs to a higher rock, turns and looks at the ship — still for one moment, head high — then turns and is gone.
+- **Key fact:** Daru's farewell: "Yes. I am back." He looks back once from a high rock before disappearing. No extended goodbye — his character is immediate action.
+
+---
+
+## Day 98 — `story_day: 98`
+
+### Ep97 — Gabu (Wadi Rum, Jordan)
+- Red walls, pale sand, dry still air.
+- Gabu steps out of pod and stops. Studies the red rock, pale sand, deep blue sky above the walls.
+- Obia: "The sensors say this is the right place." / Gabu: "I know. I know this place."
+- Gabu walks to the sand and presses each foot down. "Warm. The right kind of warm."
+- Gabu to Ako-chan: "The lizards will come back. When the south is quiet. They will come back." / Ako-chan: "Yes. I think they will." / Gabu: "I will count the days. Until they come back. I will count." / Ako-chan: "You will know the full pattern." / Gabu: "Yes."
+- **Gabu's farewell to Obia:** Long look. Then one slow nod. Obia's eyes are steady.
+- Gabu walks toward the nearest red wall. Slow. No hurry. Goes around the rock. Gone.
+- Ako-chan stands in the hot sand, pull from the south still there — small and far away.
+- **Key fact:** Gabu's silent nod to Obia — his non-verbal acknowledgment. "I will count the days" echoes his established character from Ep38 ("You counted the days." / "Yes. I counted."). Use exact exchanges if referenced.
+
+---
+
+## Day 103 — `story_day: 103`
+
+### Ep98 — Three (5 days after Wadi Rum, at sea heading west)
+- Three on the ship: Ako-chan, Dango, Obia. No pods, no capsule. Very quiet.
+- Ako-chan asks if the pull from the south is smaller. Obia: "No. Not smaller. But different." / Ako-chan: "Different how?" / Obia: "I do not know yet. I am still looking."
+- Ako-chan lists each friend in their home: Riro in the water, Suke-san in the forest, Daru on his coast, Gabu in the desert.
+- Obia: "They are all where they should be." / Ako-chan: "Yes. Are we?" / Obia (after Dango presses to her knee): "We will be. Soon."
+- First star out. Obia's eyes blue-white in the dark.
+- **Key fact:** Obia's line: "We will be. Soon." Obia returns to England with Ako-chan (does not disappear). The pull from the south has not diminished but has changed quality — Obia is still investigating.
+
+---
+
+## Day 107 — `story_day: 107`
+
+### Ep99 — Home (early morning)
+- Harbor arrival in grey morning light. Dango knows first — nose on rail, small certain tail-wag.
+- Ako-chan smells England: cold sea, earth, grass, something green.
+- They walk through town — road, smaller road, then the long familiar road.
+- Ako-chan sees: the oak tree, the fence, the rosebush, the gate. Same as when they left.
+- The robin in the oak tree: not singing. Just sitting. (Mirror of Ep7 departure.)
+- Dango runs the garden checking everything — hedge, rosebush, back to Ako-chan's feet.
+- Obia comes in last. Stands in the garden. Eyes quiet.
+- Final: Obia still beside her. "That was something she had not thought about before she left. Now it was just true."
+- **Key fact:** Robin not singing in the oak tree — exact mirror of Ep7 departure. Obia is still present in England (confirmed: does not leave or disappear in Season 1).
+
+### Ep100 — The Red Notebook (evening, end of Chapter 11 / Season 1)
+- Evening. Dango asleep at Ako-chan's feet. Obia in the corner of the room, eyes blue-white.
+- Ako-chan opens the red notebook to the first page: *I have to go.* Three words. (Mirror of Ep5.)
+- She reads through entries: Italy, Croatia, Wadi Rum, Japan, the whales, the ice, the storm, the aurora, the blizzard, Suke-san walking to Obia.
+- Last entry (from Ep90): *Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice.*
+- **New entry she writes:** *Day one hundred and seven. England. We are home. Riro is in the sea. Suke-san is in the forest. Daru is on his coast. Gabu is in the desert. Pen-san and the Colonel are on the ice.*
+- **Final lines she writes:** *The root of it is still there. We did not stop it. But we went all the way. And we all came back.*
+- **Last line she writes:** *We are not finished.*
+- She closes the notebook. The robin makes one small sound in the oak tree. Then quiet.
+- **Key fact:** Use exact notebook entries above if referenced in Season 2 or later. "We are not finished." is the final written line of Season 1. Obia is in the room — it did not leave. Chapter 11 / Season 1 ends.
