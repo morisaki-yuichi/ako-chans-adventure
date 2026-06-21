@@ -1231,13 +1231,14 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ### Ep99 — Home (early morning)
 - Harbor arrival in grey morning light. Dango knows first — nose on rail, small certain tail-wag.
 - Ako-chan smells England: cold sea, earth, grass, something green.
-- They walk through town — road, smaller road, then the long familiar road.
+- They walk through town to the familiar road.
 - Ako-chan sees: the oak tree, the fence, the rosebush, the gate. Same as when they left.
 - The robin in the oak tree: not singing. Just sitting. (Mirror of Ep7 departure.)
-- Dango runs the garden checking everything — hedge, rosebush, back to Ako-chan's feet.
+- Dango checks the hedge and rosebush, comes back to her feet.
+- **The hedgehog appears near the hedge.** Ako-chan kneels. Hedgehog: "You came back." / Ako-chan: "Yes. I came back." / Hedgehog: "The ground still feels wrong. But less. Not as loud." / Ako-chan: "I know." — The hedgehog looks at her, then goes back under the hedge.
 - Obia comes in last. Stands in the garden. Eyes quiet.
 - Final: Obia still beside her. "That was something she had not thought about before she left. Now it was just true."
-- **Key fact:** Robin not singing in the oak tree — exact mirror of Ep7 departure. Obia is still present in England (confirmed: does not leave or disappear in Season 1).
+- **Key fact:** Robin not singing — mirror of Ep7. Hedgehog's assessment: disturbance still present but diminished ("less. Not as loud.") — consistent with root still under ice but immediate crisis resolved. Use exact hedgehog exchange if referenced. Obia is still present in England (confirmed: does not leave or disappear in Season 1).
 
 ### Ep100 — The Red Notebook (evening, end of Chapter 11 / Season 1)
 - Evening. Dango asleep at Ako-chan's feet. Obia in the corner of the room, eyes blue-white.
