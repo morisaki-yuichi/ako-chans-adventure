@@ -100,5 +100,18 @@ permalink: /episodes/
       </ul>
     </div>
 
+    <div class="chapter-block">
+      <h3>Chapter 8 &middot; Into the Storm</h3>
+      <ul class="episode-list">
+        {% assign s1c8 = site.pages | where: "season", 1 | where: "chapter", 8 | sort: "episode" %}
+        {% for ep in s1c8 %}
+        <li>
+          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
   </div>
 </div>

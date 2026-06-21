@@ -720,3 +720,140 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Daru: "Seven now. Seven!"
 - Ako-chan writes in red notebook: **Day fifty-one. North Pacific. Riro is with us. We go south now.**
 - **Key fact:** Chapter 7 ends. Group is now seven. Riro joins without a formal joining speech — he was rescued. Whale message to turn south: "They are ready. They say: now. Now we turn south." Use exact notebook entry if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 8
+
+## Day 52 — `story_day: 52`
+
+### Ep61 — South (first day heading south)
+- Ship turns south. Whales lead. Sea wide, pale sky. No land, no birds.
+- Formation at front rail: Dango left, Suke-san right (a little back, a little to the side).
+- Obia: "The whales know the way. I will follow them."
+- Whale voices (felt, not heard as words): *This way. Come. We know.*
+- Ako-chan: "She had trusted them in the north. They had brought her here. She would trust them now."
+- Riro checks fur at the rail: "Still very big." (of the sea)
+- Daru/Gabu pod exchange about the sun confirming direction — small quiet sound from Daru's pod.
+- Pods glow: Daru's warm green, Gabu's steady orange.
+- Ako-chan writes in red notebook: **Day fifty-two. Heading south. The whales go ahead. We follow.**
+- **Key fact:** First full day heading south after turning. Whale voice message: "This way. Come. We know." Use exact notebook entry if referenced.
+
+---
+
+## Day 54 — `story_day: 54`
+
+### Ep62 — The Water Darkens
+- Sea changes color: no longer dark blue, almost black at edges. Heavier, slower.
+- Whales slow down.
+- Obia: water temperature dropping fast; current changing direction (now pushing back against them).
+- Gabu (from pod): "Something large is under us. I can feel it through the hull. Moving slowly. Very far down."
+- Suke-san's deck patrol (east-west loops) stops. He faces south, nose up, turns slowly into the wind. Stays still a long time.
+- Daru: "What is Suke-san doing?" / Gabu: "Smelling." / Daru: "Smelling what?" / Gabu: "Something in the air. Not here yet. But coming."
+- **Key fact:** First signs of the approaching storm. Suke-san's instinct activates — he stops his loops and faces south. Gabu feels something large moving under the hull. Use exact Gabu dialogue if referenced.
+
+---
+
+## Day 55 — `story_day: 55`
+
+### Ep63 — The Line
+- Suke-san stands at front of ship all morning, facing south. Not his usual loops.
+- Dango stands beside Suke-san looking south. Low sound in throat — not a bark.
+- Dango: "Nothing yet. But it is there. In the south. It is coming."
+- Riro comes on deck, looks at sky, goes back inside without a word.
+- A dark line visible on the south horizon — darker than the grey sky, not there the day before.
+- Obia: "Pressure dropping. Wind building from the south. It is coming fast."
+- Ako-chan: "How long?" / Obia: "Hours. Maybe less."
+- Daru/Gabu pods confirmed locked. Riro told to stay below.
+- Dango sits against Ako-chan's leg and presses close.
+- **Key fact:** Storm line visible on south horizon. Ako-chan feels something colder and sharper than the usual disturbance. Suke-san does not move all morning.
+
+---
+
+## Day 56 — `story_day: 56`
+
+### Ep64 — The Storm
+- Storm hits before dawn: wind, sideways rain, then massive waves.
+- Everyone below deck except Ako-chan and (later) Suke-san. Daru/Gabu locked in pods.
+- Ako-chan refuses to go inside: "I need to hear the whales. I have to stay here."
+- Suke-san comes out wet and sits right against Ako-chan's leg — not a little to the side, right against her. "You do not have to stay." / Suke-san: "I know." — stays.
+- Whale voices still audible below the noise: *We are here. Hold on.*
+- **Key fact:** Suke-san breaks his usual slightly-back-slightly-to-the-side position and sits right against Ako-chan. His "I know" (and staying) is a key moment of loyalty. Whale message in the storm: "We are here. Hold on."
+
+### Ep65 — I Hear Them
+- Ako-chan directs Obia via whale voices: "Left. Turn left. Now." — misses a massive wave that would have hit them straight on.
+- Obia: "How did you know?" / Ako-chan: "The whales. They told me."
+- Ako-chan takes off glasses, puts them in pocket — can't see through rain.
+- Whale voice directions (felt, not quoted): *Left. Past the wave. Good. Hold this direction.*
+- Suke-san's paw presses against Ako-chan's foot when ship tilts steeply — pulls it back immediately.
+- Suke-san: "Are you afraid?" / Ako-chan: "Yes." / Suke-san: "Good."
+- Note: Suke-san's "Good" echoes Daru's "Good. That means it is real." (Ep27). Same word, different quality — quieter, more real.
+- **Key fact:** Ako-chan's decisive leadership under storm: directs ship via whale voices while afraid. Exact exchange: Suke-san: "Are you afraid?" / Ako-chan: "Yes." / Suke-san: "Good." Use if referenced. Her glasses are in her pocket for this and following storm episodes.
+
+### Ep66 — The Whales
+- Largest wave of the storm: a dark wall from the east, taller than the ship. Obia: "I cannot turn in time."
+- All three whales arc around at speed and position between ship and wave.
+- Wave hits the whales, not the ship directly. Ship shakes, cold water on deck, but not the full force.
+- After the wave passes: one whale comes very close to the ship. Ako-chan sees white patches on its dark skin (same patches as in Ep60 — "like small rocks fixed to its body").
+- Ako-chan extends her hand over the rail toward the whale. Whale holds still, then goes back ahead.
+- Ako-chan: "Thank you." (very small, very quiet)
+- **Key fact:** The whales physically protect the ship with their bodies. White patch description matches Ep60 (barnacles on skin). Ako-chan's "Thank you" — first words spoken to the whales directly. Use exact description if referenced.
+
+---
+
+## Day 57 — `story_day: 57`
+
+### Ep67 — All Night
+- Storm continues all through the night into Day 57.
+- Below deck: Dango flat on floor, ears down, silent. Riro sits in corner holding his own fur with both paws, completely still.
+- Daru/Gabu pod exchange: "Is it over?" / "No." / "When?" / "I do not know." / "Is Ako-chan all right?" / "She is on deck." / "In this?" / "Yes." — Daru, quietly: "Then she is all right." (telling himself)
+- On deck: Ako-chan still standing, coat soaked. Sky moving from black to dark grey.
+- Suke-san beside her all night, not speaking.
+- Whale voices: *Hold. This way. Hold.*
+- Obia: "The pressure is changing. I think it is ending." / Ako-chan: "How long?" / Obia: "Soon, I think."
+- Ako-chan keeps giving directions — one more wave, one more voice.
+- **Key fact:** Daru's quiet line "Then she is all right" (said to himself). All night storm. Suke-san stays on deck beside Ako-chan all night without speaking. Use exact Daru/Gabu exchange if referenced.
+
+---
+
+## Day 58 — `story_day: 58`
+
+### Ep68 — Dawn
+- Storm ends suddenly — rain stops, wind falls, waves shrink.
+- Thin pale line of light in the east: dawn.
+- Obia: "The storm has passed."
+- Suke-san: "It is over." / Ako-chan: "Yes."
+- Dango comes up from below: sits against Ako-chan's leg, head to her knee. She puts her hand on his head.
+- Riro comes up: checks fur in five or six places, smooths it. "I need to fix all of this." Voice quiet and tired (unlike his usual urgency).
+- Daru and Gabu watching through pod walls — both safe.
+- Whales still ahead, moving south.
+- Ako-chan: exhausted but all seven are present.
+- **Key fact:** Storm ends on Day 58 at dawn. Riro's fatigue shown through quieter-than-usual grooming reaction.
+
+### Ep69 — The Glasses
+- Ako-chan alone on front deck after everyone goes inside to rest.
+- She sits down on the deck, pulls up her knees.
+- She takes off her red glasses and holds them in her hands.
+- Without glasses: world soft at edges, sea and sky blur of grey — but the whales still visible.
+- She cries. Big tears, slow then fast. Hand over mouth. No sound.
+- Internal: she told Suke-san she was afraid (Ep65) but said it quickly and looked away. "The real fear — she kept it inside. All of it." The fear when the biggest wave came, when the ship went up.
+- Dango finds her. Pushes head against her chest.
+- Ako-chan holds him with both arms.
+- Ako-chan: "I was so scared." (very small, very quiet)
+- Dango stays.
+- **Key fact:** Ako-chan takes off her red glasses for the first time outdoors. She cries for the first time since the journey began — the real fear she held back during the storm. Exact line: "I was so scared." Dango finds her and stays. Use if referenced.
+
+---
+
+## Day 59 — `story_day: 59`
+
+### Ep70 — Closer (end of Chapter 8)
+- Next morning: calm, flat sea, pale blue sky (first blue in days). Whales moving slightly slower.
+- Everyone on deck one by one: Riro (checking fur carefully, no rush), then Gabu/Daru pods visible, Suke-san last.
+- Dango does not leave Ako-chan's side all morning.
+- Nobody talks about the storm. But something changed: Riro looks at Ako-chan differently (quieter, closer). Suke-san passes a little nearer. Daru quieter. Gabu watches more.
+- Obia: "The storm pushed us south very fast. We covered a lot of ground." / "Several days more than I expected. We are much closer to the south now."
+- Whale voices (felt): *Not far now. Hold on. Almost there.*
+- Ako-chan writes in red notebook: **Day fifty-nine. The storm has passed. We are all here. We are closer now.**
+- She turns her face toward the pale cold sun. For the first time in days, she feels warm.
+- **Key fact:** Chapter 8 ends. The storm pushed them several days further south than expected. The bonds among the group have quietly deepened — shown through changed behavior, not words. Whale voice: "Not far now. Hold on. Almost there." Use exact notebook entry if referenced.
