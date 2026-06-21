@@ -153,4 +153,22 @@ permalink: /episodes/
     </div>
 
   </div>
+
+  <div class="season-block">
+    <h2>Season 2 &mdash; A1&ndash;A2</h2>
+
+    <div class="chapter-block">
+      <h3>Chapter 12 &middot; A New Small Thing</h3>
+      <ul class="episode-list">
+        {% assign s2c12 = site.pages | where: "season", 2 | where: "chapter", 12 | sort: "episode" %}
+        {% for ep in s2c12 %}
+        <li>
+          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
 </div>

@@ -1279,3 +1279,73 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - **Last line she writes:** *We are not finished.*
 - She closes the notebook. The robin makes one small sound in the oak tree. Then quiet.
 - **Key fact:** Use exact notebook entries above if referenced in Season 2 or later. "We are not finished." is the final written line of Season 1. Obia is in the room — it did not leave. Chapter 11 / Season 1 ends.
+
+---
+
+# Story Timeline — Season 2, Chapter 12
+
+## Background: Time Jump
+
+- Season 2 opens "a few years" after Season 1 ends (Day 107).
+- Ako-chan and Dango are back in England. Obia is with them.
+- Ruka (Western Hermann's tortoise baby, gender undetermined) joined the household about one year before Season 2 opens — met in Puglia, Italy during a solo trip Ako-chan took.
+- General Adelie's rank: promoted to General in Season 2 (was Colonel in Season 1). In the S1 notebook entry (Day 107), still "the Colonel." In Season 2 prose and new notebook entries, use "General Adelie."
+- story_day in Season 2 resets to Day 1.
+
+## Day 1 — `story_day: 1`
+
+### Ep1 — Morning (S2)
+- Same garden in England. Oak tree taller. Rosebush grown along fence. Ako-chan and Dango are older.
+- Ruka introduced: tiny tortoise, lives by the south wall (sunniest spot).
+- Dango has senior status with Ruka — not jealous (tortoise, not jealousy-triggering).
+- **Key fact:** Garden is "the good kind of quiet" — disturbance fully resolved by Season 2.
+
+### Ep2 — Same morning
+- Backstory of finding Ruka: Ako-chan alone in Puglia, sitting on a wall above the sea. Ruka appeared in dry grass below. Ruka pulled inside when picked up, then slowly came back out.
+- **Key fact:** Ako-chan found Ruka "about a year ago" before S2 Day 1. No voice heard — just a still, certain feeling.
+- Ruka's corner: the south wall, where sun stays longest.
+
+---
+
+## Day 2 — `story_day: 2`
+
+### Ep3 — Afternoon
+- Dango's seniority: crossed the sea, walked on ice, saw aurora, blizzard, the special ship.
+- Dango watches Ruka protectively without interfering.
+- Ako-chan: "You are very good with her." (Ako-chan uses "her" for Ruka casually — story keeps gender ambiguous overall.)
+
+---
+
+## Day 3 — `story_day: 3`
+
+### Ep4 — Evening
+- Hedgehog visits. **Hedgehog: "The ground is quiet. Not just tonight. For a long time now."** — disturbance fully gone.
+- Ruka meets the hedgehog for the first time. Hedgehog: "Good."
+- **Key fact:** Ako-chan tells hedgehog Ruka is "from Italy."
+
+---
+
+## Day 4 — `story_day: 4`
+
+### Ep5 — Evening
+- Ako-chan opens red notebook. First page: *I have to go.*
+- She re-reads the S1 Day 107 entry and the final line: *We are not finished.*
+- **New S2 Ep5 entry she writes:** *Everything is quiet. Ruka is on my desk. Dango is asleep. The oak tree is outside. We are all here.*
+- **Final line of that entry:** *For now.*
+- **Key fact:** Use these exact words if the S2 notebook is referenced later.
+
+---
+
+## Day 5 — `story_day: 5`
+
+### Ep6 — Evening
+- Obia's corner: near the old shed (same place as S1 Ep1 first sighting).
+- Dango walks past Obia without stopping — peaceful coexistence.
+- **Obia: "I hear something. But I cannot name it."** — first hint of the signal.
+
+### Ep7 — Night
+- Obia's eyes change: brighter, harder. Wakes Ako-chan.
+- **Obia: "I hear something. Very far away. Very small. I cannot tell what it is yet."**
+- Direction: south. **Obia: "The ground is quiet. But this is not from the ground."**
+- Ako-chan, Dango, Obia stand in the dark garden looking south. Chapter 12 ends.
+- **Key fact:** Signal is from the south but distinct from S1 disturbance (ground is now quiet). Sets up Chapter 13.
