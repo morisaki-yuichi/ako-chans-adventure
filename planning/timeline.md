@@ -1162,7 +1162,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ### Ep94 — Suke-san (Japan)
 - Japan coast: dark green hills, pine and wet earth smell.
 - Dango and Suke-san stand at the front rail looking at the green hills together. Neither speaks at first.
-- **Dango and Suke-san's farewell exchange:** Suke-san: "You are not bad. For a soft dog." / Dango (tail moves once): "You are not bad. For a small one."
+- **Dango and Suke-san's farewell exchange:** Suke-san: "You are not bad. For a soft dog." / Dango (tail moves once): "You are not bad. For a hard one."
 - Suke-san to Ako-chan: "You heard the animals. All the way. You did not stop." / Ako-chan: "No. I did not stop." / Suke-san: "The south is still there. The root of it." / Ako-chan: "I know." / Suke-san: "You will keep listening." / Ako-chan: "Yes. I will."
 - **Suke-san to Obia:** "Watch over her. That is all." / Obia: "Yes."
 - Suke-san goes down the ramp, walks toward the green trees. Does not look back.
