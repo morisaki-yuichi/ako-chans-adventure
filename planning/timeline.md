@@ -1271,7 +1271,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep100 — The Red Notebook (evening, end of Chapter 11 / Season 1)
 - Evening. Dango asleep at Ako-chan's feet. Obia in the corner of the room, eyes blue-white.
-- Ako-chan opens the red notebook to the first page: *I have to go.* Three words. (Mirror of Ep5.)
+- Ako-chan opens the red notebook to the first page: *I have to go.* Four words. (Mirror of Ep5.)
 - She reads through entries: Italy, Croatia, Wadi Rum, Japan, the whales, the ice, the storm, the aurora, the blizzard, Suke-san walking to Obia.
 - Last entry (from Ep88): *Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice.*
 - **New entry she writes:** *Day one hundred and seven. England. We are home. Riro is in the sea. Suke-san is in the forest. Daru is on his coast. Gabu is in the desert. Pen-san and the Colonel are on the ice.*
