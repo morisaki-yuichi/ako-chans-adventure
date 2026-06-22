@@ -2268,12 +2268,12 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ## Day 44 (continued) — `story_day: 44`
 
 ### Ep91 — "Shell" (Ruka in shell, Daru and Gabu flank Obia)
-- Ruka has pulled fully into her shell on the cave floor (out of the yellow pod).
-- Daru calls her name softly — no answer. He and Gabu stand side by side looking up at Obia.
-- Obia crouches close to the shell: "You went to the oldest ground. The oldest ground there is. And you walked out to meet it. I do not forget that."
-- Ruka's front leg appears briefly, presses the floor, then pulls back in.
+- Ruka is inside her yellow pod (Antarctic cave — pod required), pulled fully into her shell. Not looking out.
+- Daru presses his nose to the pod wall: "Ruka." No answer. He and Gabu stand side by side looking up at Obia.
+- Obia crouches near the pod: "You went to the oldest ground. The oldest ground there is. And you walked out to meet it. I do not forget that."
+- Ruka's front leg appears briefly and presses against the inside of the pod wall, then pulls back in.
 - Obia's farewell to Daru and Gabu: "Thank you. Both of you." Daru opens his mouth, closes it. Gabu steps one step closer to Obia's foot and stops.
-- **Key fact:** Ruka's brief leg appearance is her wordless farewell. Exact Obia line above — use if referenced.
+- **Key fact:** Ruka remains in her yellow pod throughout Ch22 (Antarctic environment — pod required). Her brief leg against the pod wall is her wordless farewell. Exact Obia line above — use if referenced.
 
 ### Ep92 — "Suke-san" (Suke-san bows his head)
 - Suke-san walks steadily from his place and stops in front of Obia.
