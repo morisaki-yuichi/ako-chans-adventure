@@ -1904,3 +1904,104 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Obia: "The door will close. Are you ready?" / Ako-chan looks at Dango, then the others. "Yes."
 - The seam closes. The cave outside is gone.
 - **Key fact:** Interior description above — use if referenced. The exact boarding order: Ako-chan first, then Dango, pods/capsule, Suke-san, Pen-san, General Adelie last. Chapter 18 ends. Part 3 (The Time Machine and the Decoded Memory) ends.
+
+---
+
+# Story Timeline — Season 2, Chapter 19
+
+## Day 41 — `story_day: 41`
+
+### Ep61 — "Fog" (First time jump — Japan, late 19th century)
+- The time machine makes its first jump. A soft shift, then silence. The seam opens.
+- Wet, heavy, old cold — different from Antarctica. Tall dark trees. Roots. Moss. Fog everywhere.
+- They step out: Ako-chan first, then Dango, Suke-san, Obia, Pen-san, General Adelie, pods and capsule.
+- Suke-san reads the air immediately — ears straight, nose up, not speaking.
+- A crow calls once far above and goes quiet.
+- **Key fact:** First time jump. Late 19th century Japan mountain forest. Suke-san is immediately alert.
+
+### Ep62 — "Howl" (The Honshu wolf's howl)
+- They walk deeper into the fog. Then: a howl. Long, rising, clear.
+- Suke-san stops completely — every part of him listening. Ears straight up, tail low and still.
+- Dango stops beside Suke-san. Both dogs face the fog in silence.
+- Ako-chan feels it: not words but weight — winters, long runs, forests without end.
+- Howl fades. Suke-san's one word: **"There."**
+- Something old has opened in his eyes — something she has never seen there before.
+- **Key fact:** Suke-san's exact word: "There." The howl is felt as weight, not only sound. Use if referenced.
+
+### Ep63 — "Eyes" (Honshu wolf appears)
+- The wolf comes out of the fog slowly. Stops ten steps away.
+- Small by wolf measure. Grey coat, white at chest. Narrow face. Eyes like still water — dark, calm, deep.
+- It looks at Suke-san first. Suke-san: no fear, only something very old and unnamed.
+- Wolf and Suke-san look at each other; neither moves.
+- Wolf's eyes move across others, then find Ako-chan. She meets them and lets herself be looked at fully.
+- Wolf looks back at Suke-san. Suke-san sits down. The wolf sits down too.
+- "Not enemies. Not friends. Something older than those words. Something the mountain had always known."
+- **Key fact:** Wolf looks at Suke-san first, then Ako-chan. Both sit down. The moment described as "something older than strangers, older than names."
+
+### Ep64 — "First" (First voice sampling + first turbulence)
+- Ako-chan moves toward the wolf slowly, nothing in her hands.
+- She opens herself to its voice: cold winters, long runs, fog between trees, the mountain in every season.
+- She nods to Obia. Obia goes still, eyes change quality — "somewhere else, doing something far away and quiet."
+- **Obia: "Done."**
+- The wolf walks back three steps, then gives one final long howl. Clean. Clear.
+- They return to the machine. Seam closes. Floor moves.
+- First turbulence: "deeper in the walls than before — a shake. Low and brief. Like something pushing through."
+- **Key fact:** Obia's sampling line: "Done." (one word, used the same way each time). Wolf's final howl: "clean, clear, going up through the trees." First turbulence: "low and brief, like something pushing through."
+
+### Ep65 — "The Island" (Second jump — North Atlantic, early 19th century)
+- Shake passes. Seam opens to: salt, wind, sound of water on rock. No trees, no wood smell.
+- A rocky North Atlantic island. Grey stone, dark water below. Waves on the rocks.
+- Birds on flat rock near the edge: black and white, upright, small folded wings — cannot fly. Bigger and heavier than expected. Very old feeling.
+- One stops and looks toward the group. Does not run.
+- Pen-san makes one small, very quiet sound — "not his usual sound. Not happy, not excited. Something else. Something she had never heard from him before."
+- Pen-san stares at the birds with very wide eyes. General Adelie equally still beside him.
+- **Key fact:** North Atlantic, early 19th century — Great Auks. Pen-san's unusual quiet (a sound never heard from him before). General Adelie equally still.
+
+### Ep66 — "The Original" (Pen-san and General Adelie with Great Auks)
+- Pen-san walks forward slowly — not like himself. General Adelie walks beside him. Both slow, both quiet.
+- Pen-san stops three steps from the nearest Great Auk. Bigger than him, long heavy bill, white patches over eyes. But the shape is familiar.
+- **Pen-san: "Hello."** (very softly)
+- The Great Auk makes a sound — "low, not loud, coming from deep inside its chest" — that stays in the cold air.
+- Pen-san stands still, receiving something. Ako-chan catches the edge: "something warm inside something very old."
+- General Adelie holds himself "very careful, very still — as if this mattered, as if he would carry it."
+- Even Dango and Daru are quiet.
+- **Key fact:** Pen-san's greeting: "Hello." (very softly). The Auk's sound: "low, from deep inside its chest." General Adelie described as holding himself as if this is something he will carry. Use exact quotes if referenced.
+
+### Ep67 — "Second" (Second voice sampling + second turbulence)
+- Ako-chan kneels on the rock before a Great Auk.
+- Voice: water and cold, the long time of being in the world, dark sea, fish below surface, islands in summer, sound of waves.
+- She nods to Obia. **Obia: "Done."**
+- Pen-san takes one last look at the bird he spoke to, then turns away.
+- Second turbulence: "harder. Two seconds. Three. The walls made a low sound she had not heard before — something deep in them straining."
+- Nobody speaks after it passes.
+- **Key fact:** Second turbulence: harder and longer than the first, with a new wall sound. Obia's line is the same: "Done."
+
+### Ep68 — "Open Sea" (Third jump — Bering Sea, 18th century)
+- Seam opens immediately after the shake fades. Air: cold, salt, open water in every direction.
+- They stand on a low wide ice shelf. The Bering Sea — 18th century. No ships, no smoke, no mark of any hand.
+- Riro comes out of his capsule and looks at the water.
+- **Riro's words:** "It is different. The water here. It is not like my water. It is more." (said very quietly, not to anyone in particular)
+- Something large is below the surface — moving slowly, coming.
+- **Key fact:** Riro's exact words about the pristine Bering Sea: "It is different. The water here. It is not like my water. It is more." Use if referenced.
+
+### Ep69 — "The Gentlest Voice" (Steller's Sea Cows)
+- Riro sees them first — makes a short quiet sound, raises one paw toward the water.
+- Two Steller's Sea Cows: round-backed, smooth, grey-brown like old stone. "Moving like something with all the time in the world."
+- They stop at the edge of the ice. The nearest raises its head. Small, dark, warm eyes.
+- The voice comes to Ako-chan "like something wide and slow — the way a wave comes on a long flat beach, taking its time, filling every space before it goes back."
+- When she nods to Obia, her eyes are wet. She does not know when that happened.
+- **Obia: "Done."**
+- Riro sits on the ice, presses front paws together, looks at the sea cow. The sea cow looks back.
+- **Key fact:** Riro sees sea cows first. The sea cow's voice: "wide and slow, like a wave on a long flat beach." Ako-chan's eyes are wet. Riro presses front paws together and holds the sea cow's gaze. Use if referenced.
+
+### Ep70 — "Three" (Sea cows leave, third turbulence, Suke-san's warning)
+- Sea cows make one more low long sound each, then turn and swim slowly away.
+- Riro watches until they are gone. Then: **"Ready."** (very quietly)
+- They return to the machine. Seam closes.
+- Third turbulence: immediate. "Moved through the floor, through her feet, up through her chest." Lower and harder than before.
+- Small lights along the walls flicker once (did not happen in first two turbulences).
+- Duration: four to five seconds.
+- Suke-san stiffens, ears flat, nose working — even inside the machine.
+- **Suke-san: "Three times now."**
+- Ako-chan says nothing. She had felt it too.
+- **Key fact:** Riro's farewell word: "Ready." Suke-san's exact line: "Three times now." Lights flicker for the first time during the third turbulence. Chapter 19 ends.
