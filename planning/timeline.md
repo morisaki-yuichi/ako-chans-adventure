@@ -1484,3 +1484,114 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - **New notebook entry Ako-chan writes:** *The flying boat is ready. Tomorrow we go to collect everyone. Daru first. Then Gabu. Then Suke-san. Then Riro. Then south.*
 - **Final line she adds:** *We are going back.*
 - **Key fact:** Use exact notebook entries if referenced. Chapter 14 ends on Day 26. Departure for Croatia begins Day 27 (Chapter 15).
+
+---
+
+# Story Timeline — Season 2, Chapter 15
+
+## Day 27 — `story_day: 27`
+
+### Ep21 — "East" (morning, departure from England)
+- The flying boat lifts off from the field past the hedge. England, then the oak tree, recede below.
+- Ruka is in a warm padded corner with soft orange light inside the cabin; Ako-chan set it up the night before.
+- Dango settles on the cabin floor beside Ako-chan.
+- Ako-chan thinks of Daru: "I saw you coming. From up on the ridge. You took a long time." (exact S1 Ep21 quote)
+- The Adriatic below — limestone white in the sun. Obia: "The Adriatic."
+- **Key fact:** Ruka travels inside the flying boat in a warm corner; no special capsule mentioned, just warmth.
+
+### Ep22 — "White Rock" (afternoon, Croatia landing)
+- Flying boat lands on a flat limestone area near the Dalmatian coast.
+- Dango: "I remember this." / Ako-chan: "Croatia."
+- Obia: "Tomorrow morning. I will know the place by then." (signal located but not exact)
+- **Key fact:** They spend the night in Croatia before finding Daru. The limestone holds its warmth at night.
+
+---
+
+## Day 28 — `story_day: 28`
+
+### Ep23 — "Running" (morning, finding Daru)
+- Obia: signal is south along the coast path, about two kilometers.
+- They leave Ruka with the inner light on inside the flying boat.
+- Daru's signal gets close — then a small shape comes running. Fast. Straight.
+- Dango sees it first: "There."
+- Daru runs straight to Ako-chan's feet — same as S1 Ep21.
+- Daru is bigger now: "More weight. More shell."
+- **Daru's first words on reunion:** "You came back." (twice, between breaths)
+- Ako-chan: "Yes. We came back."
+- **Key fact:** Daru's reunion line: "You came back." Use if referenced.
+
+### Ep24 — "Baby" (same day, Daru sees Ruka)
+- Daru talks non-stop: lizards, seasons, a new crack in his rock, the color of winter sea.
+- Daru enters the flying boat and goes still in the middle of the cabin.
+- He sees Ruka in her corner.
+- **Daru's exact words:** "That is a tortoise." (quietly) / "A baby tortoise."
+- Daru waits patiently for Ruka to come back out after she retreats slightly.
+- **Daru's first word to Ruka:** "Hello." (very soft)
+- **Key fact:** Daru says "Hello" very softly to Ruka — unusual quiet for Daru. Use exact words if referenced.
+
+---
+
+## Day 29 — `story_day: 29`
+
+### Ep25 — "His Rock" (morning, departure from Croatia)
+- Daru shows Ruka his favorite rock on the coast: "This is the best rock. The best on this whole coast."
+- Ruka looks at the rock, then the sea, then Daru.
+- Daru watches Ruka look at his things — a quiet new pride (he is a "senior" now).
+- Ako-chan sets Ruka down on the rock; Daru stands beside her looking at the water.
+- **Daru's departure line:** "I am ready." (echo of S1 Ep22: "I am ready.")
+- **Key fact:** "I am ready." — use exact quote if referenced. Daru is consciously leaving his coast.
+
+### Ep26 — "Red" (same day, flying to Jordan, arriving Wadi Rum)
+- Daru at the window the whole flight; the landscape shifts from coast to brown desert to red.
+- When red sandstone walls appear, Daru goes quiet — unusual for him.
+- Obia: "Red sandstone. Wadi Rum. We are close."
+- Landing between red rock walls. Hot dry air. Daru: "Gabu lives here?"
+- **Key fact:** Daru's first reaction to Wadi Rum is rare silence. He asks: "Gabu lives here?"
+
+---
+
+## Day 30 — `story_day: 30`
+
+### Ep27 — "Watching" (morning, finding Gabu)
+- Morning at Wadi Rum. Very dry, sun already strong.
+- Daru finds the sand too hot, retreats to the shade of the flying boat's wing.
+- Obia: signal within one hundred meters.
+- Ako-chan knows Gabu will come when ready — she sits and waits.
+- Gabu appears on a low ledge beside an orange rock, very still.
+- **Ako-chan's greeting:** "Hello, Gabu." Gabu's eyes do not move but do not look away.
+- **Key fact:** Same watching behavior as S1 — Gabu appears when ready, not when called.
+
+### Ep28 — "Small" (same day, Gabu reunion, sees Ruka)
+- Gabu comes forward: three steps, stop, three steps, stop — same as S1.
+- He looks at Ako-chan, Dango, Obia. Then at Daru. **Gabu to Daru:** "Daru." / **Daru to Gabu:** "Gabu." — one word each.
+- Gabu looks at the flying boat hatch. Ruka is there.
+- Gabu studies Ruka for a very long time in silence.
+- **Gabu's words about Ruka:** "Small." / Ako-chan: "Yes. Very small." / Gabu: "Italy?" / Ako-chan: "Yes. From Puglia." / Gabu: (to Ruka) "Hello."
+- Ruka walks down the ramp on her own and stops in front of Gabu.
+- Daru goes completely quiet watching this — Ako-chan notes she has never seen Daru completely quiet before.
+- **Key fact:** Gabu's greeting exchange above — use exact words if referenced. Ruka walks to Gabu on her own.
+
+---
+
+## Day 31 — `story_day: 31`
+
+### Ep29 — "Two Seniors" (afternoon, Daru and Gabu together)
+- Daru and Gabu sit side by side under the flying boat's wing shade.
+- Daru reports lizards came back in spring on his coast. Gabu confirms the same at Wadi Rum.
+- **Daru: "Did you count the days?" / Gabu: "Yes."** / Daru: "Of course you counted the days." / Gabu: "Yes."
+- Ruka sits between them — she walked there herself; neither asked her.
+- Both "seniors" are visibly bigger and older than in S1 but still young.
+- **Daru: "She is very small." / Gabu: "Yes. Smaller than we were."** / Daru: "Is she all right?" / Gabu: "Yes. She is all right."
+- Evening: Gabu moves slightly closer to Ruka; Ruka does not move away.
+- **Key fact:** "Smaller than we were" and Gabu's "Yes. She is all right." — use exact wording if referenced.
+
+### Ep30 — "Three" (morning, departure from Jordan, end of Chapter 15)
+- Gabu stands at the edge of the sand one last time, looking at the red walls.
+- Ako-chan stands beside him. Does not speak.
+- **Gabu's farewell line:** "The lizards came back. When the south was quiet. They came back." (echoes his S1 Ep97 line: "The lizards will come back. When the south is quiet. They will come back.")
+- Ako-chan: "Yes. You were right." / Gabu: "I counted the days." / Ako-chan: "I know."
+- Gabu turns and walks to the flying boat without looking back.
+- Inside: Daru at the window, Ruka in her corner, Gabu on his side of the cabin.
+- **Notebook entry Ako-chan writes:** *Day thirty-one. Daru is with us. Gabu is with us. Ruka is between them. We go east now.*
+- Flying boat rises; red walls grow small, then gone. Chapter 15 ends.
+- **Key fact:** Gabu's farewell line echoes his S1 promise. Use exact notebook entry if referenced. Chapter 16 begins heading east toward Japan.
