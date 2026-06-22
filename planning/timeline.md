@@ -1350,3 +1350,68 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Direction: south. **Obia: "The ground is quiet. But this is not from the ground."**
 - Ako-chan, Dango, Obia stand in the dark garden looking south. Chapter 12 ends.
 - **Key fact:** Signal is from the south but distinct from S1 disturbance (ground is now quiet). Sets up Chapter 13.
+
+---
+
+# Story Timeline — Season 2, Chapter 13
+
+## Day 6 — `story_day: 6`
+
+### Ep8 — Morning (Chapter 13 opens)
+- Obia has been in the garden all night, still facing south. Eyes still hard blue-white.
+- Obia: "Still there. Not bigger. Not smaller. The same."
+- The signal is **different from the old disturbance**: "Before, the sound came from everything. From the ground. From the birds. From the water. It moved through all things. This is not like that."
+- **Obia's key description:** "Now the ground is quiet. The old sound is gone. What is left is this. One signal. From one place."
+- Ako-chan cannot feel anything from the south herself — only Obia can detect this signal.
+- **Key fact:** The signal is characterised as "one thing from one place" vs the old disturbance that "moved through all things."
+
+### Ep9 — Later that morning (same day)
+- Obia explains the signal is artificial: "A signal is made. Something or someone makes it. And it stays the same."
+- Reason we can hear it now: "I think it was always there. But before, the disturbance was louder. It covered everything. The signal was underneath. Now the disturbance is gone. And this is all that is left."
+- **Key fact:** The signal was always present — it was masked by the S1 disturbance.
+
+---
+
+## Day 7 — `story_day: 7`
+
+### Ep10 — "The Far South"
+- Obia confirms the signal comes from Antarctica: "The same distance as before. The same place."
+- The signal's nature: "It stays in one place. Very deep. Under the ice. And it does not move. It just sends. Again and again. The same pattern."
+- Ako-chan thinks of the Colonel, Pen-san, the aurora. "Something under the ice is calling."
+- **Key fact:** Signal source = Antarctica, under the ice. Same location as S1, but not the same phenomenon.
+
+### Ep11 — That evening
+- Obia tries to look through its own data, including "a different part. Older than the journey."
+- **Obia: "Something is in the way. I can see that the memory is there. I can feel the shape of it. But I cannot read it."**
+- Obia: "It feels important. Very important. More important than anything in the journey data."
+- **Key fact:** Obia discovers a blocked/locked memory older than the journey. First mention of the locked memory.
+
+---
+
+## Day 8 — `story_day: 8`
+
+### Ep12 — "Locked"
+- Ako-chan sees the light from Obia's chest in the garden at night (same as S1 Ep16 and S1 Ep77).
+- Obia: "The memory is there. I am certain now. I can see its edge. But I cannot open it."
+- **Obia's exact description of the locked memory:** "It is like a door. I can touch the door. I can feel that something is behind it. But it will not open. Something is locking it. And I do not have the key."
+- Obia: "I think they belong together. The signal and the locked memory. One is the answer to the other. But I cannot say which. Not yet."
+- **Key fact:** Obia uses the phrase "a locked memory" / "a door." The signal and the locked memory are connected. Exact wording above — use if referenced later.
+
+---
+
+## Day 11 — `story_day: 11`
+
+### Ep13 — "Three Days"
+- Three days of Obia working at night (Days 8–10); Ako-chan sees the light from the window.
+- Obia: "The memory is real. It is not empty. There is something inside it. I can feel the weight of it."
+- Obia: "The lock is strong. I have never found a lock like this inside myself. I think someone put it there. I think it was closed on purpose."
+- Ako-chan: "Someone made you. Someone built you. And they closed this memory."
+- **Obia's key conclusion:** "The signal and the locked memory — I think one needs the other. And I think the key is in the south. Under the ice. With the signal."
+- **Key fact:** Obia concludes the key to the locked memory is in the south (= Antarctica). Someone locked the memory on purpose. Use exact wording if referenced.
+
+### Ep14 — That evening (Chapter 13 ends)
+- Ako-chan opens the red notebook. Re-reads the S2 Ep5 entry: *Everything is quiet. Ruka is on my desk. Dango is asleep. The oak tree is outside. We are all here. For now.*
+- **New entry she writes:** *A signal. From the far south. Obia hears it. It does not stop. And there is a memory inside Obia — locked. Obia cannot open it. I think the key is in the south. Under the ice.*
+- **Final line she adds:** *We are going south again.*
+- Ako-chan asks Obia: "Do you want to go?" — **Obia's reply:** "I think we need to. The signal will not stop. And the memory — I cannot find the key here. I think it is there. And I think I have been waiting for it. Without knowing."
+- **Key fact:** Decision to go south is made. Exact notebook entries and Obia's reply above — use if referenced later.
