@@ -2017,24 +2017,20 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Suke-san moves in short, restless steps — not his usual loops. Does not stop.
 - Obia at the side panel, reading data: "Three jumps. The first was small. The second was larger. The third was larger still. Each one harder than the last. The difference is growing between them."
 - Suke-san makes a short sound in his throat.
-- Obia: "The fourth target is the oldest. Much older than the others. The jump will be very long. If the pattern continues —" (stops)
+- Obia: "Any jump from here. Even back. The pattern may continue." (stops)
 - Ako-chan: "What happens?" / **Obia: "I do not know. I do not have data for this."**
 - Ruka is inside her yellow pod in the corner, very quiet.
 - Suke-san sits near Ako-chan's feet at last — head up, ears forward, eyes not closing.
-- **Key fact:** Obia's exact line: "I do not know. I do not have data for this." — use if referenced. This is the first time Obia admits having no predictive data.
+- **Key fact:** Obia's exact line: "I do not know. I do not have data for this." — use if referenced. This is the first time Obia admits having no predictive data. Obia's warning about "any jump from here — even back" sets up the return-trip accident in Ep73.
 
-### Ep72 — "The Fourth"
-- Obia lays out the situation: 4th target is Ice Age Australia. Jump is longest of all. Turbulence pattern is growing.
-- **Suke-san: "Then we do not go."**
-- **Suke-san: "Three times. Three times, and each one harder. My instinct says stop."**
-- Ako-chan thinks about the fourth voice — oldest of all, not yet heard.
-- **Ako-chan: "We go."**
-- Suke-san: "You are sure." / Ako-chan: "Yes."
-- Suke-san makes a low sound — not yes, not no — and says nothing more.
-- **General Adelie: "Then we prepare."**
-- Ruka comes out of her yellow pod on her own and stands at the edge of it, looking at Ako-chan.
-- Suke-san presses against Ako-chan's right side, harder than usual.
-- **Key fact:** Exact dialogue above — use if referenced. Ruka exits pod on her own before the jump. General Adelie's line signals the group's collective decision.
+### Ep72 — "Home"
+- Suke-san stands and calls for return: "Three voices. We have three. That is what we came to do. We go back."
+- **General Adelie: "He is right. Three jumps. Three times it grew harder. The machine needs the ground beneath it. We do not push further."**
+- Ako-chan thinks silently about a fourth voice — something older than all three, never heard — but looks at Suke-san's unblinking eyes, Riro's stillness, Pen-san's quiet watch.
+- **Ako-chan: "Home."**
+- Obia turns to the panel; lights shift to the "return" rhythm.
+- Ruka comes out of her yellow pod on her own, stands at the edge looking at Ako-chan — steady, clear. Does not step forward, but does not go back inside.
+- **Key fact:** Ako-chan's key line: "Home." — use if referenced. Ruka exits pod on her own before the return jump. There is no 4th intentional target; Ice Age Australia is reached only by accident in Ep73.
 
 ### Ep73 — "Lost"
 - Jump begins. Machine heavier than before; light goes wrong and pressed.
@@ -2047,8 +2043,8 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Gabu — who never moves before thinking — is already running.
 - Together they go through the crack without stopping, without looking back.
 - Crack closes. One hard shake. Then stillness. Lights return to normal.
-- **Ako-chan: "Take us there. Now."** (to Obia; voice does not shake)
-- **Key fact:** Suke-san's exact line: "Something is wrong. Now." Ako-chan's final line: "Take us there. Now." Ruka was OUT of her pod when the crack formed. Daru and Gabu jumped in together. The crack closes before anyone else can follow.
+- **Ako-chan: "Find them."** (to Obia; voice does not shake)
+- **Key fact:** Suke-san's exact line: "Something is wrong. Now." Ako-chan's final line: "Find them." — Obia does not yet know where the three were taken; the calculation happens off-screen between Ep73 and Ep78. Ruka was OUT of her pod when the crack formed. Daru and Gabu jumped in together. The crack closes before anyone else can follow.
 
 ### Ep74 — "Red Earth" (Ice Age Australia — Daru, Gabu, Ruka only)
 - Dry, wide land. Red earth. Pale sky. Dry yellow grass. Thin grey-green tree. Dark hills far away.
@@ -2098,7 +2094,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - **Key fact:** Meiolania's "welcoming sound" described above — use if referenced in future episodes. Ruka's response: she mirrors the Meiolania's head-bow. This is the core emotional moment.
 
 ### Ep78 — "Found"
-- Machine arrives in Ice Age Australia — pale, dry, warm sunlight.
+- Machine arrives in Ice Age Australia — pale, dry, warm sunlight. (No preamble; Obia's calculation happens off-screen between Ep73 and Ep78.)
 - Ako-chan steps out first. Dango immediately runs without direction — nose-led.
 - Everyone follows: Obia, Suke-san, Riro, Pen-san, General Adelie.
 - Dango finds them first: Daru, Gabu, Ruka — all three present, all whole.
