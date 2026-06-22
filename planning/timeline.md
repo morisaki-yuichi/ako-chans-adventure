@@ -1710,3 +1710,104 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Daru observes: "Same colour" (pod yellow matches Ruka's shell). Obia: "Yes."
 - Ruka does not come out — but does not move away from the yellow pod either.
 - **Key fact:** Daru's green capsule and Gabu's orange capsule first appear here (larger than S1). Ruka's yellow mini-pod first appears here — she has not entered it yet. Riro's capsule was already established in Ep37. Use exact colour names if referenced.
+
+---
+
+## Day 39 — `story_day: 39`
+
+### Ep41 — "The Wall" (Antarctica visible on horizon)
+- Flying boat comes out of the clouds. Antarctica appears: a white and grey wall across the whole horizon.
+- Nobody speaks. Dango presses nose to glass.
+- Ako-chan recalls S1 memories: the aurora (green at edges, white at centre, "Nine"), the morning they left (Pen-san with both wings up, the Colonel beside him), the promise she made.
+- Suke-san faces south without turning. Even Daru is quiet.
+- **Key fact:** Ako-chan recalls notebook entry "Day sixty-five. Antarctica. The whales went back. We go on." and the S1 departure scene. Her promise to Pen-san is present in her mind. She used to refer to "the Colonel" — has not yet seen him to learn of his promotion.
+
+### Ep42 — "Into the White" (blizzard begins)
+- As they fly closer, ice and cloud and wind press together. The window goes white — blizzard.
+- Obia: "Signal. Still there. Still below us."
+- Ako-chan: "Can you still hear it?" / **Obia: "I can still hear it. We go down."**
+- Suke-san moves to front of cabin, body low, ears flat — the same listening stillness as the forests of Japan.
+- Flying boat descends through the white toward the signal.
+- **Key fact:** Obia's exact line: "I can still hear it. We go down." — use if referenced.
+
+### Ep43 — "Land" (landing in blizzard)
+- Still in the blizzard — impact, jolt, then stillness. Engines quiet.
+- Obia: "We are down. All readings are good. We are safe."
+- Suke-san faces door, reading air through hull. Daru: "Are we there?" / Ako-chan: "Yes."
+- Ruka in her corner fully in shell. Yellow pod glows beside her. Nobody opens the door.
+- They wait inside for the blizzard to pass.
+- **Key fact:** Ruka has NOT entered the yellow pod yet — she enters it in Ep44, spontaneously.
+
+---
+
+## Day 40 — `story_day: 40`
+
+### Ep44 — "The First Step" (door opens, Ruka enters pod, first step onto ice)
+- Morning. Blizzard smaller but still going. Obia: "We should go now. While we can see."
+- Obia passes through cabin activating Antarctic mode on each capsule (deeper hum, brighter warmth): green, orange, Riro's.
+- Ako-chan in cold-weather suit (almost no weight, blocks all cold). Dango: boots and vest. Suke-san: already wearing his.
+- Obia opens the door. Cold comes in — hard and sharp.
+- Everyone looks at yellow pod. Ruka still in corner, in shell. Nobody says anything.
+- **Ruka moves on her own** — comes out of shell, looks at door, looks at yellow pod, walks in. Pod door closes.
+- Nobody had said a word. Nobody had asked her to go in.
+- Ako-chan and Dango step out. First step onto Antarctica.
+- **Key fact:** Ruka enters the yellow pod spontaneously, with no prompting. This is the moment she joins the exterior group. Use "nobody said a word / nobody asked her" if referenced.
+
+### Ep45 — "Ahead" (Suke-san leads, "I know this cold")
+- Suke-san leads, reading the wind without directions.
+- He stops once, adjusts direction.
+- Ako-chan: "Do you know the way?" / Suke-san: "The wind. I know the wind here."
+- **Suke-san: "I know this cold."** — his body remembers Antarctica from S1.
+- Ako-chan thinks of him on the ship deck through the blizzard in S1.
+- Obia: "The signal is below us now. South and down. We are close."
+- **Key fact:** Suke-san's exact line: "I know this cold." — use if referenced. He navigates by wind without being directed.
+
+### Ep46 — "Down" (slope, crack in ice, cave entrance)
+- Flat ice gives way to a slope. They descend.
+- Obia: "Signal. Stronger. Below us." — the source is below, not ahead.
+- The ice opens: a crack, long and dark, going down. Cold older-than-blizzard air rises from inside.
+- The crack walls glow pale blue-white from inside.
+- Obia: "The signal. Strongest so far. It comes from below. From inside."
+- Ako-chan: "Down." — Suke-san goes first, then Dango, then Ako-chan, then Obia and capsules.
+- **Key fact:** The crack entrance to the ice cave is described as glowing pale blue-white from inside. Air from below is old and still, different from blizzard cold.
+
+### Ep47 — "Blue" (inside cave, signal intensifies, everyone stops)
+- One step into the crack and the blizzard sound stops entirely.
+- The cave widens below. Walls, ceiling, floor all ice. The ice glows blue-white — steady, deep.
+- Everyone walks in silence. Deeper into the cave.
+- Obia stops. Says: "The signal."
+- They all feel it — a pull, a pressure from deeper ahead. Not frightening, just very close.
+- Nobody moves. Standing in the blue light, feeling the pull.
+- **Key fact:** The blue-white glow of the cave walls is described as "like the light inside a winter lake." The signal is now felt physically rather than just detected. Obia: "The signal." (two words only). The group stops spontaneously.
+
+### Ep48 — "You Came Back" (Pen-san reunion)
+- Cave curves right. Suke-san stops — ears up and forward, not a warning.
+- Sound: small, quick footsteps from deeper in the cave, getting closer.
+- Pen-san runs straight to Ako-chan, presses against her legs.
+- **Pen-san: "You came back! You came back, you came back!"**
+- Ako-chan goes to her knees. Pen-san repeats quieter: "You came back."
+- **Ako-chan: "I promised."**
+- Pen-san goes still. She holds him — he is heavier, he has grown.
+- Dango makes one small sound. Pen-san: "Hello, dog." Dango's tail moves once.
+- **Key fact:** Pen-san's reunion line: "You came back!" (repeated). Ako-chan's reply: "I promised." — directly echoes S1 Ep89 promise. Pen-san addresses Dango as "Hello, dog" (same as S1 Ep74). Pen-san is noticeably heavier/larger than in S1.
+
+### Ep49 — "General" (General Adelie appears, promotion revealed)
+- Careful even footsteps from deeper in the cave. A figure emerges.
+- Ako-chan: "Colonel——" (starts to say)
+- Pen-san (quietly): "General now."
+- General Adelie stops two steps away. Looks at Ako-chan, Dango, then each in turn — capsules, Suke-san, Obia. Pauses at Obia.
+- General Adelie: "You came back." / Ako-chan: "Yes." / "All of them." / "All of them."
+- He looks at Ruka in the yellow pod, studies her. Then the capsules. Then Suke-san and Dango.
+- General Adelie: "Good." — then walks to Obia. Stands in front of Obia. Long silence. Obia's eyes steady.
+- General Adelie turns back, stands beside Pen-san: "Follow me. There is something you need to see."
+- **Key fact:** Ako-chan says "Colonel——" and is corrected by Pen-san: "General now." From this episode onward, use "General Adelie." His first words to Ako-chan: "You came back." Exact line to group: "Follow me. There is something you need to see." His look at Obia is long and silent — no words spoken to Obia in this episode.
+
+### Ep50 — "Under the Ice" (reunion complete, Chapter 17 ends)
+- General Adelie leads them deeper into the cave. Cave widens into a large curved space.
+- Obia: "Very close. Very strong."
+- General Adelie: "We found it some time ago. Something is here. Under the ice. Something that does not belong."
+- "It is not like the old disturbance. That is gone now. This is different. Older. Something that was put here."
+- Looking at Obia: **"Something is here. Under the ice. We have felt it. A long time."**
+- Obia does not speak. Nobody speaks.
+- Ako-chan thinks (not yet written): *We are all here. We came back. And it is here too. Waiting for us, under the ice.*
+- **Key fact:** General Adelie's exact line: "Something is here. Under the ice. We have felt it. A long time." — use if referenced. The "old disturbance" (S1) is explicitly confirmed as gone. What they feel now is the time machine signal — older, different, "put here." Chapter 17 ends.

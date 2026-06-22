@@ -222,5 +222,18 @@ permalink: /episodes/
       </ul>
     </div>
 
+    <div class="chapter-block">
+      <h3>Chapter 17 &middot; The Ice Below</h3>
+      <ul class="episode-list">
+        {% assign s2c17 = site.pages | where: "season", 2 | where: "chapter", 17 | sort: "episode" %}
+        {% for ep in s2c17 %}
+        <li>
+          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
   </div>
 </div>
