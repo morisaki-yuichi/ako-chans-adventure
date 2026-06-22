@@ -2157,7 +2157,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 ### Ep82 — "Four Voices" (night in the machine)
 - They stay inside the machine. Obia confirms: "All four. The wolf. The Great Auks. The sea cows. The Meiolania. All of it is here. All of it recorded."
 - Ako-chan lets out a slow breath.
-- Daru prompts the group to talk about each encounter.
+- Daru prompts the group to talk about each encounter. Daru was in his pod for the wolf — could see but not feel what those outside felt. **Daru to Suke-san:** "What did it feel like? When it looked at you. I was in the pod. I could see it. But I could not feel what you felt."
 - Suke-san on the wolf: "Old. Something older than names."
 - Pen-san on the Great Auks: "It made a sound from very deep inside. I did not know a bird could sound like that. I think I knew. But I did not know I knew."
 - General Adelie says nothing, but listens carefully.
