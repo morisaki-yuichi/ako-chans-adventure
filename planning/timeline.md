@@ -1595,3 +1595,110 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - **Notebook entry Ako-chan writes:** *Day thirty-one. Daru is with us. Gabu is with us. Ruka is between them. We go east now.*
 - Flying boat rises; red walls grow small, then gone. Chapter 15 ends.
 - **Key fact:** Gabu's farewell line echoes his S1 promise. Use exact notebook entry if referenced. Chapter 16 begins heading east toward Japan.
+
+---
+
+# Story Timeline — Season 2, Chapter 16
+
+## Day 32 — `story_day: 32`
+
+### Ep31 — "East" (flying from Jordan toward Japan)
+- Flying boat heads east from Jordan. Daru at window, Gabu settled, Ruka beside Gabu (her chosen spot).
+- Ako-chan thinks of Suke-san. Recalls his parting words: "You will keep listening." She kept her word.
+- Obia: "One more day. Maybe less." Daru repeats it softly to himself.
+- **Key fact:** "You will keep listening" — exact S1 Ep92 quote recalled here. Use if referenced.
+
+---
+
+## Day 33 — `story_day: 33`
+
+### Ep32 — "Green" (Japan landing)
+- Japan coast appears: dark green hills, pine trees, pale rock, wet earth smell.
+- Dango presses nose to window before anyone speaks.
+- They land in a wide green field between hills. Daru: "It is soft. Not like the coast. But it is good."
+- Obia: signal two kilometers east. Dango already facing east.
+- Ako-chan thinks: he already knows we are here.
+- **Key fact:** Japan smells of pine, wet earth, old stone — same as S1. Dango leads the way east.
+
+### Ep33 — "Standing" (finding Suke-san at the park)
+- Park at end of a quiet road. Trees at edges. Pale stone path under roots.
+- Suke-san is standing in the middle of the path — not hiding, not circling. Waiting.
+- Ako-chan thinks of the first time (S1): he had circled for two nights, come only when ready. This time he chose his spot and waited before they arrived.
+- She kneels. He presses his nose to her palm once, steps back.
+- **Suke-san's first words on reunion:** "You came back."
+- **Key fact:** Suke-san's reunion opening line: "You came back." Use if referenced.
+
+### Ep34 — "Suke-san" (reunion and meeting Ruka)
+- Suke-san to Ako-chan: "You kept listening." / Ako-chan: "Yes."
+- Dango steps forward: "Hello." / Suke-san: "Hello." — one each. They step back. That is enough.
+- Suke-san to Obia: "You watched over her." / Obia: "Yes." — Suke-san looks away. No further words to Obia.
+- Suke-san notices Ruka. Goes still. Moves one slow step to see better. Lowers his nose carefully. Ruka watches, does not pull back.
+- Suke-san: "Its name?" / Ako-chan: "Ruka." / Suke-san: "Good." (one nod)
+- Suke-san's final line: "When do we go?"
+- **Key fact:** "You kept listening" — Suke-san's acknowledgment of Ako-chan's S1 promise. Suke-san to Obia: "You watched over her." echoes S1 Ep92 farewell ("Watch over her. That is all."). Use exact lines if referenced.
+
+---
+
+## Day 34 — `story_day: 34`
+
+### Ep35 — "Ready" (Suke-san joins, departure from Japan)
+- Walking back: Suke-san on Ako-chan's right (a little back, a little to the side — same as S1).
+- Daru at top of ramp: "Suke-san!" / Suke-san: "Daru." / Daru: "You are bigger!" / Suke-san: "So are you."
+- Gabu at top of ramp. Suke-san and Gabu exchange: "The desert tortoise." / "Yes." / "You counted the days." / Gabu blinks. "Yes." — exact S1 Ep48 echo.
+- Suke-san boards, finds his spot: right side, a little back, a little to the side. Settled.
+- Riro recalled through Ako-chan's memory as they fly north: "Good water. Good food. Good fur. Good friends." (exact S1 Ep91 farewell)
+- **Key fact:** Group is now six (Ako-chan, Dango, Obia, Ruka, Daru, Gabu, Suke-san). Flying north.
+
+---
+
+## Day 35 — `story_day: 35`
+
+### Ep36 — "North" (flying north over the Pacific, searching for Riro)
+- North Pacific: cold, wide, dark waves, grey sky. Daru at window: "There is nothing there."
+- Suke-san: "I can smell it. The water here. Colder. Older." — senses the North Pacific quality.
+- Dango: "He is here somewhere."
+- Ako-chan thinks of Riro: the small wet shape she lifted from the sea the first time. His "Good water. Good food. Good fur. Good friends."
+- Obia: "Getting close. The signal is moving in the water." / Final line: "There."
+- **Key fact:** Suke-san can smell the difference in the North Pacific water. Dango senses Riro's direction.
+
+### Ep37 — "The Water" (Riro reunion)
+- Riro spotted below: moving on his back, paws to chest. Not struggling — at home.
+- Obia brings flying boat low. Riro swims up, pulls himself out. His fur is full and well kept.
+- **Riro's reunion opening:** "You came back." / Ako-chan: "Yes." / Riro: "I found good water." / Ako-chan: "I can see that."
+- Riro asks about the back of his fur (still can't reach it himself — running gag).
+- Riro looks into the flying boat: sees everyone, then: "Everyone is here." / Ako-chan: "Almost. One more stop. South."
+- Riro looks back at the sea once, then boards.
+- **Key fact:** "I found good water." — Riro's reunion line. He is healthy and content in the North Pacific. Use if referenced.
+
+---
+
+## Day 36 — `story_day: 36`
+
+### Ep38 — "Fur" (Riro meets Ruka)
+- Riro finds his spot in the flying boat: corner near left window, turns twice, settles, grooms.
+- Daru: "He does this for a very long time." / Gabu: "He always has."
+- Riro stops: sees Ruka. Walks over carefully. Studies the shell.
+- Riro: "No fur." / Ako-chan: "No."
+- Riro touches the shell edge gently. Ruka watches, does not pull back.
+- Riro: "The shell is very smooth." / "It does not need grooming." (said with satisfaction)
+- Dango's tail moves once, watching.
+- **Key fact:** Riro's assessment of Ruka's shell: "It does not need grooming." (approves of the design). Use if referenced.
+
+### Ep39 — "All Here" (flying south)
+- Flying boat turns south. Group fully assembled.
+- Ruka moves to sit between Gabu and Riro (new spot she chose herself).
+- Ako-chan counts: eight of them (Ako-chan, Dango, Obia, Ruka, Daru, Gabu, Suke-san, Riro).
+- Ako-chan thinks of Pen-san, the General (promoted since S1), the signal, the locked memory.
+- Ako-chan opens notebook, looks at last entry (Day 31), closes it without writing. Not yet.
+- **Key fact:** Ruka's new position: between Gabu and Riro (chosen herself). Group count: 8.
+
+---
+
+## Day 37 — `story_day: 37`
+
+### Ep40 — "South" (chapter end)
+- Flying south. Daru asleep at window. Gabu watching the cabin (checking each member). Ruka in shell. Riro grooming finished, looking at water. Dango sitting up beside Ako-chan.
+- Obia: "We will reach the cold waters by tomorrow."
+- **Notebook entry Ako-chan writes:** *Day thirty-seven. Suke-san is with us. Riro is with us. We are all here. We go south.*
+- Final lines: Something that felt like being ready. "The south was waiting. They were going."
+- **Key fact:** Notebook entry above — use exactly if referenced. Chapter 16 ends. Chapter 17 begins with approach to Antarctica.
