@@ -1811,3 +1811,96 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Obia does not speak. Nobody speaks.
 - Ako-chan thinks (not yet written): *We are all here. We came back. And it is here too. Waiting for us, under the ice.*
 - **Key fact:** General Adelie's exact line: "Something is here. Under the ice. We have felt it. A long time." — use if referenced. The "old disturbance" (S1) is explicitly confirmed as gone. What they feel now is the time machine signal — older, different, "put here." Chapter 17 ends.
+
+---
+
+# Story Timeline — Season 2, Chapter 18
+
+## Day 40 (continued) — `story_day: 40`
+
+### Ep51 — "Deeper"
+- General Adelie leads the group deeper into the cave. Path narrows; ice walls press close on both sides.
+- The glow changes character — deeper, held inside the ice itself.
+- Obia: "Close. Very close."
+- Dango presses to Ako-chan's side. Suke-san behind her.
+- Path goes down a steep slope.
+- Obia: "Still there. Growing stronger."
+- The cave widens at the bottom. Pen-san (very quiet): "It is just ahead."
+- **Key fact:** Signal felt in Ako-chan's chest as a deep pressure, not sound. Pen-san's unusual quietness noted.
+
+### Ep52 — "The Shape"
+- They descend into a large open space in the cave. In the middle: a huge shape, half-buried in the ice floor.
+- Too large to comprehend at first — eyes move from part to part.
+- Dango makes a low sound (not a bark, not a warning — something he has not made before). Makes it once more, then goes quiet.
+- Nobody moves. The shape does not move.
+- Ruka in her yellow pod, near the back of the group, watching.
+- General Adelie (not looking at the shape — looking at Ako-chan): "Now you see it."
+- **Key fact:** Dango's exact reaction: a low sound he has never made before, twice. General Adelie's line: "Now you see it." — use if referenced.
+
+### Ep53 — "Metal"
+- Obia raises one arm; a beam of white light falls across the shape.
+- Spacecraft-like shape: curved at top, wide at base, long smooth lines, dark grey metal, almost silver where lit. No sharp edges anywhere.
+- Beautiful. And very, very wrong — something this shape does not belong here, not in this time.
+- Nobody speaks. Pen-san very still. Dango pressed to Ako-chan's left side. All others watching.
+- Ice has grown up around the base; the metal surface above is untouched, not broken.
+- **Key fact:** The beam of light is the only movement. Nobody speaks — use "nobody spoke" if referenced.
+
+### Ep54 — "Around It"
+- They circle the machine slowly. It is longer than expected — far end disappears into the cave wall.
+- Pen-san to Ako-chan: "We came here many times. General Adelie and I. We walked around it. Just like this. But we never touched it."
+- General Adelie: "We did not know what it was. Only that the signal came from it. And that it was not ours."
+- Obia (close to the base, eyes reading the surface): "The signal is here. Strongest right at the surface. There is something inside it. I can feel the shape of it — the edge of something. But I cannot reach it from here."
+- Obia takes one step forward (episode ends on this beat).
+- **Key fact:** Pen-san's line above — use exactly if referenced. Obia's line: "I can feel the shape of it — the edge of something." — foreshadows the locked memory.
+
+### Ep55 — "One Step"
+- Obia moves to within one step, then touches the surface — five fingers flat on the metal.
+- Everything stops. The signal in Ako-chan's chest goes quiet, then becomes something else: "like a door opening instead of knocking."
+- Obia does not move. Its eyes are still, looking at something far inside itself.
+- Dango and Suke-san press to Ako-chan's sides. Even Pen-san does not speak.
+- The glow in the ice walls grows a little brighter.
+- Obia's hand remains flat on the metal surface — pale silver on dark silver.
+- **Key fact:** Exact description of signal change: "like a door opening instead of knocking." Use if referenced.
+
+### Ep56 — "The Door"
+- Glow grows in the walls, floor, and the metal itself.
+- Obia: "Something is opening."
+- Obia: "The door — it is opening."
+- A thin seam appears in the metal surface, running from above to below. Pale clear light comes from behind it.
+- Obia: "Something was locked. Inside me. I knew it was there. I could feel the edge of it. I could not open it. But now——"
+- Obia: "Now it is opening. Someone put a door inside me. And this — this is the key."
+- **Key fact:** Use Obia's exact lines above if referenced. A seam appears in the machine's surface.
+
+### Ep57 — "A Message"
+- Obia: "I remember. I remember now. Some of it. Not all of it. But some."
+- Obia: "Someone made this machine. A long time from now. In the future. I cannot see their face. But I know their hands. I know their work. Because they also — they made me."
+- Obia: "I was made by the same person who made this machine. And when they made me, they left something inside me. A message. Locked, so I could not read it until I came here."
+- Obia: "The message. It says: *Save the voices of the vanishing animals.*"
+- Ako-chan hears the words, then hears them again inside her head.
+- **Key fact:** The exact message from the future scientist: "Save the voices of the vanishing animals." Use verbatim if referenced. Obia's line: "Someone put a door inside me. And this is the key." — already in Ep56.
+
+### Ep58 — "The Voices"
+- Ako-chan and Obia discuss the meaning of "vanishing animals."
+- Obia: "Animals whose voices can no longer be heard. Because they are no longer here."
+- Obia explains that some extinctions are not so long ago — their voices are "still in the world, if you know where and when to go."
+- Obia: "The machine can go to those times. It can go back. To when those animals were still alive."
+- Obia: "I can take what you hear and send it forward. Into the future. To the person who made me. To the world that needs those voices."
+- Ako-chan: "So we go back." / Obia: "Yes." / Ako-chan: "To find them." / Obia: "Yes."
+- **Key fact:** The mission structure established here. Ako-chan hears → Obia transmits to the future. Exact exchange above — use if referenced.
+
+### Ep59 — "We Go"
+- Ako-chan looks at each member in turn: Dango, Suke-san, Riro, Daru, Gabu, Ruka, Pen-san.
+- General Adelie: "We have been waiting for you to come back. For this."
+- General Adelie: "I did not know what it was. When we found it. I could feel that it was waiting. I did not know for what. Now I know."
+- Ako-chan thinks of the red notebook's last line from S1: *We are not finished.*
+- Ako-chan: "We go in." Nobody objects. Nobody says no.
+- **Key fact:** General Adelie's exact lines above — use if referenced. Ako-chan recalls "We are not finished." (S1 Ep100). No one opposes.
+
+### Ep60 — "Inside" (Chapter 18 / Part 3 ends)
+- The seam opens — smooth and silent. A space appears in the side of the machine.
+- Light from inside: pale and very clear, unlike the cave glow or anything outside. "Like the light before sunrise, except still and even."
+- Ako-chan steps through first. Interior: wider than expected, ceiling curved high, floor smooth and not cold, small points of light moving slowly along the walls.
+- All members board: Dango, Suke-san, Pen-san, General Adelie, Riro, Daru, Gabu, Ruka (in yellow pod), Obia.
+- Obia: "The door will close. Are you ready?" / Ako-chan looks at Dango, then the others. "Yes."
+- The seam closes. The cave outside is gone.
+- **Key fact:** Interior description above — use if referenced. The exact boarding order: Ako-chan first, then Dango, pods/capsule, Suke-san, Pen-san, General Adelie last. Chapter 18 ends. Part 3 (The Time Machine and the Decoded Memory) ends.
