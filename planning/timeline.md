@@ -1684,21 +1684,29 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Dango's tail moves once, watching.
 - **Key fact:** Riro's assessment of Ruka's shell: "It does not need grooming." (approves of the design). Use if referenced.
 
-### Ep39 — "All Here" (flying south)
-- Flying boat turns south. Group fully assembled.
-- Ruka moves to sit between Gabu and Riro (new spot she chose herself).
-- Ako-chan counts: eight of them (Ako-chan, Dango, Obia, Ruka, Daru, Gabu, Suke-san, Riro).
-- Ako-chan thinks of Pen-san, the General (promoted since S1), the signal, the locked memory.
-- Ako-chan opens notebook, looks at last entry (Day 31), closes it without writing. Not yet.
-- **Key fact:** Ruka's new position: between Gabu and Riro (chosen herself). Group count: 8.
+- **Key fact:** Ruka's new position: between Gabu and Riro (chosen herself, established in Ep38). Group count: 8.
 
 ---
 
 ## Day 37 — `story_day: 37`
 
-### Ep40 — "South" (chapter end)
+### Ep39 — "South" (chapter 16 end)
 - Flying south. Daru asleep at window. Gabu watching the cabin (checking each member). Ruka in shell. Riro grooming finished, looking at water. Dango sitting up beside Ako-chan.
 - Obia: "We will reach the cold waters by tomorrow."
 - **Notebook entry Ako-chan writes:** *Day thirty-seven. Suke-san is with us. Riro is with us. We are all here. We go south.*
 - Final lines: Something that felt like being ready. "The south was waiting. They were going."
-- **Key fact:** Notebook entry above — use exactly if referenced. Chapter 16 ends. Chapter 17 begins with approach to Antarctica.
+- **Key fact:** Notebook entry above — use exactly if referenced. Chapter 16 ends at Ep39.
+
+---
+
+## Day 38 — `story_day: 38`
+
+### Ep40 — "The Cold" (chapter 17 start, equipment)
+- Morning. Ice plates visible on the water below — first ice, not yet joined, drifting slowly.
+- Riro spots them first from the window: "Ice."
+- Obia brings out equipment: two larger capsules (green for Daru, orange for Gabu — bigger than S1 versions). Daru wakes and claims his. Gabu watches the orange one.
+- Riro's water capsule (also larger than S1) connected to cabin wall via tube — Riro no longer needs to go outside for water. He settles beside it.
+- Ruka's pod: small yellow pod (smaller than S1 Daru/Gabu size), warm steady yellow glow. Obia says her name; Ruka retreats into shell. Obia leaves the pod near her corner without forcing it.
+- Daru observes: "Same colour" (pod yellow matches Ruka's shell). Obia: "Yes."
+- Ruka does not come out — but does not move away from the yellow pod either.
+- **Key fact:** Equipment first appearance — Daru's green pod, Gabu's orange pod, Riro's water capsule, Ruka's yellow mini-pod (all larger/new versions; Ruka's is new). Ruka has not entered her pod yet. Use exact colour names if referenced.
