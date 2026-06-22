@@ -1668,7 +1668,8 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Riro asks about the back of his fur (still can't reach it himself — running gag).
 - Riro looks into the flying boat: sees everyone, then: "Everyone is here." / Ako-chan: "Almost. One more stop. South."
 - Riro looks back at the sea once, then boards.
-- **Key fact:** "I found good water." — Riro's reunion line. He is healthy and content in the North Pacific. Use if referenced.
+- Inside: Obia has Riro's water capsule (larger than S1) already installed and running in the corner near the left wall. Riro presses a paw to it. Obia: "For the long way south." He settles against it.
+- **Key fact:** "I found good water." — Riro's reunion line. He is healthy and content in the North Pacific. Use if referenced. Riro's water capsule is established here (Day 35), not later.
 
 ---
 
@@ -1703,10 +1704,9 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep40 — "The Cold" (chapter 17 start, equipment)
 - Morning. Ice plates visible on the water below — first ice, not yet joined, drifting slowly.
-- Riro spots them first from the window: "Ice."
-- Obia brings out equipment: two larger capsules (green for Daru, orange for Gabu — bigger than S1 versions). Daru wakes and claims his. Gabu watches the orange one.
-- Riro's water capsule (also larger than S1) connected to cabin wall via tube — Riro no longer needs to go outside for water. He settles beside it.
+- Riro spots them first from the window: "Ice." He stays at his capsule in the corner — already settled, water already running (established Ep37).
+- Obia brings out two larger capsules (green for Daru, orange for Gabu — bigger than S1 versions). Daru wakes and claims his. Gabu watches the orange one.
 - Ruka's pod: small yellow pod (smaller than S1 Daru/Gabu size), warm steady yellow glow. Obia says her name; Ruka retreats into shell. Obia leaves the pod near her corner without forcing it.
 - Daru observes: "Same colour" (pod yellow matches Ruka's shell). Obia: "Yes."
 - Ruka does not come out — but does not move away from the yellow pod either.
-- **Key fact:** Equipment first appearance — Daru's green pod, Gabu's orange pod, Riro's water capsule, Ruka's yellow mini-pod (all larger/new versions; Ruka's is new). Ruka has not entered her pod yet. Use exact colour names if referenced.
+- **Key fact:** Daru's green capsule and Gabu's orange capsule first appear here (larger than S1). Ruka's yellow mini-pod first appears here — she has not entered it yet. Riro's capsule was already established in Ep37. Use exact colour names if referenced.
