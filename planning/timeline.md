@@ -2138,3 +2138,129 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Ako-chan goes last. One final look at the red earth. Steps inside.
 - Seam closes. Chapter 20 / Part 4 ends.
 - **Key fact:** Pen-san's line: "This place. It is very old." Chapter 20 ends with seam closing. The return to the present is in Chapter 21.
+
+---
+
+# Story Timeline — Season 2, Chapter 21
+
+## Day 41 (continued) — `story_day: 41`
+
+### Ep81 — "Back" (return to present-day Antarctica)
+- The seam opens to the ice cave — pale blue walls, same ice, same stillness. Antarctica.
+- She steps out first. "We are back," said Obia.
+- Dango makes a small sound — not a bark. Between worry and relief.
+- Each member emerges: Pen-san looks at General Adelie; Suke-san reads the air; Riro wide-eyed; Daru looks at Gabu; Gabu stays near the machine door; Ruka presses one paw to the yellow pod window.
+- "Four voices. Held somewhere in Obia. Somewhere in the machine. Four animals who had been gone from the world for a very long time."
+- Pen-san sits beside Ako-chan in silence — unusual for him. At last: "Four." / Ako-chan: "Yes. Four."
+- **Key fact:** Return to present-day Antarctica confirmed. Pen-san's unusual silence noted. Use exact exchange if referenced.
+
+### Ep82 — "Four Voices" (night in the machine)
+- They stay inside the machine. Obia confirms: "All four. The wolf. The Great Auks. The sea cows. The Meiolania. All of it is here. All of it recorded."
+- Ako-chan lets out a slow breath.
+- Daru prompts the group to talk about each encounter.
+- Suke-san on the wolf: "Old. Something older than names."
+- Pen-san on the Great Auks: "It made a sound from very deep inside. I did not know a bird could sound like that. I think I knew. But I did not know I knew."
+- General Adelie says nothing, but listens carefully.
+- Riro on the sea cows: "Wide. So wide." He presses his front paws together.
+- Nobody talks about the Meiolania. Daru and Gabu are quiet. Ruka sits between them.
+- Obia, again, quietly: "All four."
+- **Key fact:** Suke-san's exact line: "Old. Something older than names." Pen-san's exact line above. Riro presses front paws together (same gesture as Ep69). Use if referenced.
+
+---
+
+## Day 42 — `story_day: 42`
+
+### Ep83 — "Not Yet" (morning, Ako-chan listens)
+- Ako-chan wakes before the others and opens herself to listen.
+- The old disturbance is gone — she is sure. But something else is still here: "A thread. Thin and wrong under the quiet, like a note that did not belong in the song. The animals near the top of the ice sounded just a little strained."
+- Dango opens one eye and watches. Ako-chan: "Not yet." (not to him, just aloud)
+- She opens the red notebook, holds the pen, does not write. The last entry: *Day thirty-seven. Suke-san is with us. Riro is with us. We are all here. We go south.*
+- She had expected the four voices collected to mean something settled. It did not.
+- **Key fact:** Ako-chan explicitly confirms the S1 disturbance is gone, but senses a "thin thread" still present — the open time machine connection. The unwritten notebook moment echoes her method throughout the journey.
+
+### Ep84 — "The Connection" (Obia's discovery)
+- Obia turns from the side panel: "I have been looking at the machine."
+- Obia's explanation: "The four voices are here. They have been sent forward. That part is done. But the machine itself — it is still open."
+- **Obia's exact words:** "When this machine was made, a connection was built into it. Between two times. The time it was made — far ahead, in the future. And this time. Now."
+- The disturbance came through that connection. The future is "very badly hurt" and the hurt was leaking through.
+- Ako-chan: "But the ground is quiet now. The hedgehog said so."
+- Obia: "Quieter. But the connection is still there. Both ends. Things still pass through it — not loudly, but they do. That is what you felt this morning."
+- **Obia's key line:** "To close it, someone has to go to the future end. And close it from the inside."
+- Dango lifts his head. Ako-chan: "You mean—" / Obia: "Yes."
+- **Key fact:** The disturbance mechanism confirmed: the time machine connection (future to past) is still open. Closing it requires someone to operate from the future end. Use exact Obia wording if referenced.
+
+### Ep85 — "I Must Go" (Obia's announcement to the group)
+- The group gathers without being asked — they sense something.
+- Obia explains the open connection. Then: "I have to go. I have to take the data. And I have to close the connection. I must go alone."
+- Dango makes "a very low sound. Not a growl. Something older and quieter than that."
+- Suke-san looks at Obia for a long time. Then looks away.
+- Riro begins grooming — his nervous response.
+- Nobody says a word.
+- **Key fact:** Obia's exact announcement: "I have to go. I have to take the data. And I have to close the connection. I must go alone." — use verbatim if referenced. The group's reactions (Dango's sound, Suke-san looking away, Riro grooming) are established here.
+
+### Ep86 — "No Words" (first silence after the announcement)
+- Long silence. The machine's lights keep moving as if nothing changed.
+- Dango makes the low sound again — puts it into the air and leaves it.
+- Suke-san looks at the wall. Not at Obia, not at Ako-chan. Ears back. Very still.
+- Riro grooms: "starting and stopping, starting again, moving too fast through his fur."
+- Daru sits down. Nothing to say — most unusual for him.
+- Gabu watches Obia steadily, does not look away.
+- Pen-san moves one step closer to Ako-chan and stops. Does not ask to be held.
+- General Adelie looks at the floor.
+- Ruka steps away from Gabu and stands facing Obia — alone, not in shell, not moving.
+- Ako-chan says nothing. "The words had landed. They were still landing."
+- Dango presses harder against her leg. She puts her hand on him.
+- **Key fact:** Each character's wordless reaction established here — use as reference for their respective farewell scenes in Ch22.
+
+---
+
+## Day 43 — `story_day: 43`
+
+### Ep87 — "Close" (unspoken farewell preparations)
+- Daru follows Obia around the machine all day — a few steps behind, stopping when Obia stops. After the fourth time, Obia turns. Daru: "I am just here." Obia says nothing. Daru stays.
+- Gabu watches Obia from across the machine. Does not follow, but eyes move with Obia.
+- Suke-san sits near the machine's door. Not blocking it. Just near it. Very still.
+- Riro grooms all morning, slowly, completely. "Nothing missed, nothing rushed. By midday he looked exactly right. He began again."
+- Pen-san sits near Obia's feet during the afternoon. Not talking. Just there.
+- Ruka walks to Obia and presses her shell against Obia's foot. Stays a long time. Obia does not move.
+- Evening: Daru walks back to Gabu and sits beside him. They do not speak.
+- **Key fact:** Daru's line: "I am just here." Ruka's silent gesture (shell against Obia's foot) — use if referenced.
+
+### Ep88 — "Write It Down" (night, Ako-chan and Obia)
+- Everyone else asleep. Ruka alone not fully asleep — watching.
+- Ako-chan gets up and stands beside Obia.
+- Ako-chan: "Are you afraid?" / Obia: "I am not sure what I am."
+- Ako-chan: "I am afraid. For you."
+- Obia: "Will you keep listening? After this." / Ako-chan: "Yes. I will."
+- **Obia's key request:** "The animals — the ones that are still here. Keep listening to them. Always."
+- **Obia's second request:** "And write it down. In the red notebook. All of it. Every voice."
+- **Ako-chan's reply:** "I will write all of it. Every voice I hear. I will not forget any of them."
+- Obia: "I know. I know you will not."
+- Ako-chan sits on the floor beside Obia's feet and stays until morning.
+- **Key fact:** Obia's exact requests above — use if referenced in Ch22 or S3. Ruka is the only one awake (watching). This is the key dialogue exchange between Obia and Ako-chan.
+
+---
+
+## Day 44 — `story_day: 44`
+
+### Ep89 — "Well Done" (Obia's farewell to Pen-san and General Adelie)
+- Evening. Obia finds them in the cave. Pen-san near the cave wall. General Adelie standing still at the edge of the blue light.
+- General Adelie looks at Obia for a long time — "the same careful eyes that had watched Obia since the very first night in Antarctica."
+- General Adelie: "You came with a message. You carried it all the way. You did what you were built to do. Your duty is done. Well done."
+- **Pen-san moves silently and stands so close his side touches Obia's leg. Says nothing.**
+- Obia looks down at Pen-san. Pen-san looks up. Neither speaks.
+- Pen-san sits down and presses against Obia's side. "He was heavier than he had been the first time they met. He had grown."
+- Obia does not move away.
+- They stay like that for a long time in the cold blue light.
+- **Key fact:** General Adelie's exact farewell line: "Your duty is done. Well done." — use if referenced. Pen-san's silence is notable (in contrast to his usual non-stop speech). This is the Antarctic pair's private farewell to Obia, separate from the main departure in Chapter 22.
+
+### Ep90 — "Morning" (end of Chapter 21)
+- Morning comes. The machine's small lights shift. Obia's eyes change. One by one, all wake without being called.
+- They gather outside the machine, in the cave space — blue light on all of them.
+- Obia stands at the machine's entrance.
+- **Formation:** Dango on Ako-chan's left. Suke-san on her right, a little back, a little to the side. Riro near his capsule, fur smooth. Daru and Gabu beside each other, Ruka between them. Pen-san and General Adelie nearby.
+- "All of them there. All of them looking at Obia."
+- Nobody speaks. The connection under the ice is still running — not yet closed.
+- Ako-chan looks at Obia. Obia looks at her. She thinks of the red notebook. Of all four voices.
+- **Final lines:** "This was the morning before it happened. They all knew it."
+- **Key fact:** Chapter 21 ends. Suke-san's formation position confirmed: right of Ako-chan, a little back, a little to the side (same as always). The actual departure is Chapter 22. Chapter 21 title to be confirmed.
