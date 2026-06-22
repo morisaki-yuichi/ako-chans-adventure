@@ -1471,7 +1471,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Flying boat almost done — two days left on the inner connections.
 - Dango inspects the hull completely (walks all the way around, sniffs every join).
 - Ako-chan lists the friends they need to collect: Daru (Croatia), Gabu (Jordan), Suke-san (Japan), Riro (Pacific), Pen-san and the Colonel (Antarctica).
-- Plan: east first (Croatia, Jordan), then west-to-Japan, then south.
+- Plan: east first (Croatia, Jordan), then further east (Japan, North Pacific), then south.
 - **Key fact:** First time the reunion route is laid out aloud. Use "east first" order if referenced.
 
 ---
