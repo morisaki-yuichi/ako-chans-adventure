@@ -171,7 +171,7 @@ permalink: /episodes/
     </div>
 
     <div class="chapter-block">
-      <h3>Chapter 13 &middot; One Signal</h3>
+      <h3>Chapter 13 &middot; A Door That Will Not Open</h3>
       <ul class="episode-list">
         {% assign s2c13 = site.pages | where: "season", 2 | where: "chapter", 13 | sort: "episode" %}
         {% for ep in s2c13 %}
