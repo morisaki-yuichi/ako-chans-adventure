@@ -2005,3 +2005,136 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - **Suke-san: "Three times now."**
 - Ako-chan says nothing. She had felt it too.
 - **Key fact:** Riro's farewell word: "Ready." Suke-san's exact line: "Three times now." Lights flicker for the first time during the third turbulence. Chapter 19 ends.
+
+---
+
+# Story Timeline — Season 2, Chapter 20
+
+## Day 41 (continued) — `story_day: 41`
+
+### Ep71 — "Unstable"
+- Immediately after 3rd turbulence. Machine steady. Lights back to normal.
+- Suke-san moves in short, restless steps — not his usual loops. Does not stop.
+- Obia at the side panel, reading data: "Three jumps. The first was small. The second was larger. The third was larger still. Each one harder than the last. The difference is growing between them."
+- Suke-san makes a short sound in his throat.
+- Obia: "The fourth target is the oldest. Much older than the others. The jump will be very long. If the pattern continues —" (stops)
+- Ako-chan: "What happens?" / **Obia: "I do not know. I do not have data for this."**
+- Ruka is inside her yellow pod in the corner, very quiet.
+- Suke-san sits near Ako-chan's feet at last — head up, ears forward, eyes not closing.
+- **Key fact:** Obia's exact line: "I do not know. I do not have data for this." — use if referenced. This is the first time Obia admits having no predictive data.
+
+### Ep72 — "The Fourth"
+- Obia lays out the situation: 4th target is Ice Age Australia. Jump is longest of all. Turbulence pattern is growing.
+- **Suke-san: "Then we do not go."**
+- **Suke-san: "Three times. Three times, and each one harder. My instinct says stop."**
+- Ako-chan thinks about the fourth voice — oldest of all, not yet heard.
+- **Ako-chan: "We go."**
+- Suke-san: "You are sure." / Ako-chan: "Yes."
+- Suke-san makes a low sound — not yes, not no — and says nothing more.
+- **General Adelie: "Then we prepare."**
+- Ruka comes out of her yellow pod on her own and stands at the edge of it, looking at Ako-chan.
+- Suke-san presses against Ako-chan's right side, harder than usual.
+- **Key fact:** Exact dialogue above — use if referenced. Ruka exits pod on her own before the jump. General Adelie's line signals the group's collective decision.
+
+### Ep73 — "Lost"
+- Jump begins. Machine heavier than before; light goes wrong and pressed.
+- **Suke-san: "Something is wrong. Now."**
+- A crack opens — white light in the air itself, too bright, widening fast.
+- Suke-san makes a sound — not words, something older than words.
+- Dango lunges for Ruka — misses.
+- Ruka is gone. (She was out of the yellow pod, standing on the machine floor.)
+- Daru runs immediately, no sound, no pause.
+- Gabu — who never moves before thinking — is already running.
+- Together they go through the crack without stopping, without looking back.
+- Crack closes. One hard shake. Then stillness. Lights return to normal.
+- **Ako-chan: "Take us there. Now."** (to Obia; voice does not shake)
+- **Key fact:** Suke-san's exact line: "Something is wrong. Now." Ako-chan's final line: "Take us there. Now." Ruka was OUT of her pod when the crack formed. Daru and Gabu jumped in together. The crack closes before anyone else can follow.
+
+### Ep74 — "Red Earth" (Ice Age Australia — Daru, Gabu, Ruka only)
+- Dry, wide land. Red earth. Pale sky. Dry yellow grass. Thin grey-green tree. Dark hills far away.
+- No ice, no fog, no cold. A completely new environment for all three.
+- Ruka on the red earth, pulled fully into her shell. All legs in. No movement.
+- Daru presses against Ruka's shell. **Daru: "Ruka."** (very softly) — no answer.
+- Gabu looks at the land slowly, one direction at a time. Checking.
+- Both feel very small — not afraid exactly, but aware of how alone they are.
+- A large, low, slow shape appears in the distance near the red rocks.
+- Gabu steps forward, putting himself between the shape and Ruka's shell.
+- Daru moves to Gabu's side.
+- **Key fact:** Daru's whispered line: "Ruka." — use if referenced. Daru and Gabu act in unison without speaking. Ruka fully in shell, not responding.
+
+### Ep75 — "Meiolania"
+- The Meiolania approaches slowly. Very heavy. Each step carries full weight.
+- Description: very large tortoise; shell wide and dark, color of old rock, long raised ridges; thick neck; short wide legs.
+- Head: two horns — one above each eye, curved slightly forward, solid (part of skull itself). Face ancient. Eyes dark and calm.
+- Tail: thick, with hard round spikes at the end.
+- Daru and Gabu hold their ground. Ruka's shell is behind them.
+- Meiolania stops at twenty steps, then ten, then stops.
+- It looks at Daru, then Gabu — reading them, unhurried.
+- Daru's heart moving fast; he keeps his feet on the ground.
+- Gabu thinking, and staying.
+- Meiolania does not come closer. It waits.
+- **Key fact:** First clear description of Meiolania: horned skull, ridged shell, round-spiked tail. It stops and waits — not threatening.
+
+### Ep76 — "Still"
+- A long silence — Gabu counts more than forty seconds.
+- Meiolania's head moves slightly — not toward or away, just: noticing.
+- Daru looks at the Meiolania's eyes: dark, calm, very old — older than limestone or desert, older than names.
+- Recognition: the Meiolania understands what they are. "Same shell. Same ground. The same slow way of moving through the world."
+- Gabu feels it too — his head tilts slightly, eyes go quiet.
+- Ruka still in shell, but behind them.
+- **Key fact:** The recognition is non-verbal — felt, not spoken. Daru's internal description: "Something from before names." Use if referenced.
+
+### Ep77 — "Ruka"
+- The Meiolania lowers its head — all the way down until the horns are near the red earth. Holds this position.
+- A sound from deep inside the creature — not from its mouth, but further in. Low, warm, wide.
+- Felt through feet, shell, behind eyes.
+- **The sound is not words, but Daru understands it: "I know what you are. I am glad you are still here."** (Daru's internal understanding, not a quoted line)
+- Behind them: Ruka's head appears — just the top, then eyes, then all of it. Slow and careful.
+- The Meiolania stays low. The warm sound comes again, quieter.
+- Ruka takes one step forward, then another.
+- Ruka stops two steps from the Meiolania's lowered head. Eye contact.
+- Ruka lowers her own head — the same way the Meiolania had.
+- The warm sound fills the air.
+- **Key fact:** Meiolania's "welcoming sound" described above — use if referenced in future episodes. Ruka's response: she mirrors the Meiolania's head-bow. This is the core emotional moment.
+
+### Ep78 — "Found"
+- Machine arrives in Ice Age Australia — pale, dry, warm sunlight.
+- Ako-chan steps out first. Dango immediately runs without direction — nose-led.
+- Everyone follows: Obia, Suke-san, Riro, Pen-san, General Adelie.
+- Dango finds them first: Daru, Gabu, Ruka — all three present, all whole.
+- Ruka is OUT of her shell (no longer hiding) when they arrive.
+- Ako-chan kneels, opens her hands. Ruka walks into her palms.
+- Ruka is warm and shaking a little.
+- Daru pushes against Ako-chan's knee with the top of his shell (his usual gesture). Gabu stands still, watching Ako-chan's face.
+- Ako-chan holds Ruka. Dango presses on one side, Suke-san on the other.
+- In the distance, the Meiolania is moving slowly away through the dry grass.
+- Ako-chan watches until it is gone. Says nothing.
+- **Key fact:** Ruka is out of her shell when found. Daru's physical greeting: head-press against Ako-chan's knee. Ako-chan watches the departing Meiolania in silence.
+
+### Ep79 — "Voices"
+- All sit on the red earth together.
+- Daru talks first — fast, the way he always does — describing the crack, the landing, the approach of the Meiolania.
+- Gabu takes over when Daru runs out of words — slow, one thing at a time.
+- Ako-chan listens the way she always does: wide and still.
+- Daru's voice: bright, alive, full of red earth and fear-mixed-wonder.
+- Gabu's voice: deep and slow — and inside it, carefully carried, the warm sound the Meiolania made. Ako-chan hears it through Gabu.
+- She receives the Meiolania's voice through Gabu's voice. Nods to Obia.
+- **Obia: "Done."**
+- **Riro: "Four."** (very quietly)
+- **Pen-san: "Four."**
+- Ako-chan holds Ruka closer. Says nothing.
+- **Key fact:** The 4th sampling is completed here. Ako-chan receives Meiolania's voice THROUGH Gabu — second-hand transmission, but Obia accepts it. Exact lines: Obia: "Done." / Riro: "Four." / Pen-san: "Four." — use if referenced.
+
+### Ep80 — "The Old Ground" (Chapter 20 ends)
+- Nobody leaves immediately. Quiet time in Ice Age Australia.
+- Suke-san walks out, stands in the wind reading the land, then returns without speaking.
+- Dango stays at Ako-chan's side.
+- Ruka remains in Ako-chan's hands, not back in her shell.
+- Daru and Gabu sit close together, quietly (unusual for Daru).
+- **Pen-san: "This place. It is very old."** / Ako-chan: "Yes."
+- General Adelie at the machine door, watching the land — still and careful, taking it all in.
+- Ako-chan thinks about all four voices now held in Obia and the machine — sent into the future.
+- **Ako-chan: "Ready."** — and one by one they enter the machine. Daru first, then Gabu, Pen-san, General Adelie, others.
+- Ako-chan goes last. One final look at the red earth. Steps inside.
+- Seam closes. Chapter 20 / Part 4 ends.
+- **Key fact:** Pen-san's line: "This place. It is very old." Chapter 20 ends with seam closing. The return to the present is in Chapter 21.

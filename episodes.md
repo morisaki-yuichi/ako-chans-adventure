@@ -261,5 +261,18 @@ permalink: /episodes/
       </ul>
     </div>
 
+    <div class="chapter-block">
+      <h3>Chapter 20 &middot; The Oldest Ground</h3>
+      <ul class="episode-list">
+        {% assign s2c20 = site.pages | where: "season", 2 | where: "chapter", 20 | sort: "episode" %}
+        {% for ep in s2c20 %}
+        <li>
+          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
   </div>
 </div>
