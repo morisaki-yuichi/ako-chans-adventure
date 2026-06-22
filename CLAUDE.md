@@ -21,11 +21,17 @@
 - Set `story_day:` (integer) to the in-story day number.
 - If the new episode is on a day not yet in timeline.md, determine the day by counting forward from the last known entry.
 
-### After writing
+### After writing or editing an episode
 - Add the episode's key facts to `planning/timeline.md` under the correct day:
   - Exact dialogue (especially lines that other episodes may quote)
   - New information characters learn
   - Any time references used ("a few days ago", "yesterday", etc.)
+- **Update `word_count:` in the frontmatter** to the actual body word count:
+  ```
+  awk '/^---/{n++; if(n==2){found=1; next}} found' EPISODE_FILE | wc -w
+  ```
+  - If below 270: add text before finishing
+  - If above 330: trim text before finishing
 
 ### After completing a full Chapter
 - Propose 3 chapter title candidates based on the chapter's content, and confirm with the user before proceeding.

@@ -1288,7 +1288,7 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 - Season 2 opens "a few years" after Season 1 ends (Day 107).
 - Ako-chan and Dango are back in England. Obia is with them.
-- Ruka (Western Hermann's tortoise baby, gender undetermined) joined the household about one year before Season 2 opens — met in Puglia, Italy during a solo trip Ako-chan took.
+- Ruka (Western Hermann's tortoise baby, gender undetermined) joined the household just a few weeks before Season 2 opens — met in Puglia, Italy during a solo trip Ako-chan took.
 - General Adelie's rank: promoted to General during Season 2, but Ako-chan does not know this until she reunites with the Antarctic crew. In Chapter 12 (and any episode before the reunion), Ako-chan refers to the character as "the Colonel." Use "General Adelie" only after the reunion is depicted.
 - story_day in Season 2 resets to Day 1.
 
@@ -2315,8 +2315,9 @@ Before writing a new episode, check the relevant day's entry to confirm:
 
 ### Ep97 — "Quiet Skies" (flying boat north)
 - The flying boat lifts off from Antarctica into grey sky. Nobody speaks.
-- Formation in the flying boat: Dango pressed to Ako-chan's side (same as since the cave), Suke-san slightly right and back (his usual place), Riro still near his water capsule with paws pressed together, Daru quiet at front window, Gabu beside him, Pen-san near Ako-chan, General Adelie sitting straight.
-- Ako-chan touches the red notebook in her coat pocket every hour or so.
+- **Key fact:** Pen-san and General Adelie stay in Antarctica. Farewell on the ice before boarding: Pen-san pressed against Ako-chan's leg and stayed until she stepped back. General Adelie looked at her with precise, still eyes and said nothing. That was enough.
+- Formation in the flying boat (northbound): Dango pressed to Ako-chan's side (same as since the cave), Suke-san slightly right and back (his usual place), Riro near his water capsule with paws pressed together, Daru quiet at front window, Gabu beside him.
+- Ako-chan touches the red notebook in her coat pocket every hour or so since the cave.
 - Final line: "They all looked out their windows and let the sky carry them north."
 - **Key fact:** Daru's silence on the flight is noted as the longest quiet she has ever heard from him.
 
