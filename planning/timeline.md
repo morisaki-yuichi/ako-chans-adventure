@@ -2264,3 +2264,91 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - Ako-chan looks at Obia. Obia looks at her. She thinks of the red notebook. Of all four voices.
 - **Final lines:** "This was the morning before it happened. They all knew it."
 - **Key fact:** Chapter 21 ends. Suke-san's formation position confirmed: right of Ako-chan, a little back, a little to the side (same as always). The actual departure is Chapter 22. Chapter 21 title to be confirmed.
+
+---
+
+# Story Timeline — Season 2, Chapter 22
+
+## Day 44 (continued) — `story_day: 44`
+
+### Ep91 — "Shell" (Ruka in shell, Daru and Gabu flank Obia)
+- Ruka has pulled fully into her shell on the cave floor (out of the yellow pod).
+- Daru calls her name softly — no answer. He and Gabu stand side by side looking up at Obia.
+- Obia crouches close to the shell: "You went to the oldest ground. The oldest ground there is. And you walked out to meet it. I do not forget that."
+- Ruka's front leg appears briefly, presses the floor, then pulls back in.
+- Obia's farewell to Daru and Gabu: "Thank you. Both of you." Daru opens his mouth, closes it. Gabu steps one step closer to Obia's foot and stops.
+- **Key fact:** Ruka's brief leg appearance is her wordless farewell. Exact Obia line above — use if referenced.
+
+### Ep92 — "Suke-san" (Suke-san bows his head)
+- Suke-san walks steadily from his place and stops in front of Obia.
+- Long silence. Then Suke-san lowers his head all the way down — same motion as the Meiolania's head-bow — and holds it there.
+- Obia places one hand lightly on top of Suke-san's head. Suke-san raises his head, holds Obia's gaze one more moment, then walks back to his place without looking back.
+- Ako-chan thinks of Suke-san's first words about Obia ("Not that thing") and how he became the first to stand beside it.
+- **Key fact:** Suke-san's bow to Obia mirrors the Meiolania's gesture (Ep77). No words spoken between them. His closing of the circle is wordless.
+
+### Ep93 — "Dango" (Dango clings, Ako-chan separates them)
+- Dango crosses to Obia and presses hard against it — both paws on Obia's chest, head against its shoulder. Makes his "too big to carry" sound.
+- Obia's words to Dango: "I was there from the very beginning. And so were you. You were watching before anyone else. Before she knew what was wrong. You saw it all."
+- Ako-chan gently brings Dango back. He trembles against her leg.
+- **Key fact:** Obia's exact words to Dango above — use if referenced. Dango's reaction is physical, not verbal; he does not look at Ako-chan after.
+
+### Ep94 — "Hands" (Ako-chan places hand on Obia's head)
+- Ako-chan stands before Obia. No words at first. She remembers the first morning — the silver shape by the shed, the cool voice, telling it no.
+- She reaches out and puts her hand on top of Obia's head.
+- Ako-chan: "I will keep listening. I will write all of it. I promise."
+- Obia says nothing. She holds her hand there a long time, then takes it back.
+- **Key fact:** Ako-chan's promise echoes Ep88. No new words from Obia here — the silence is the response.
+
+### Ep95 — "In" (Obia enters the machine, seam closes)
+- Seam opens. Obia takes one step in, then stops and turns just enough for its eyes to find Ako-chan one last time. A long quiet moment. Then Obia goes inside.
+- Seam closes slowly, without sound. Pale light grows thinner. Dango presses hard against Ako-chan.
+- She believes something is beginning to close beneath the ice.
+- **Key fact:** Obia's last look at Ako-chan through the seam — use if referenced. No final words spoken.
+
+### Ep96 — "Gone" (machine disappears, silence)
+- The machine grows thin, outline softens, and disappears. No dramatic moment — slow and quiet.
+- Dango makes one very small sound. No one else makes any sound.
+- Ako-chan confirms: the thread under the ice is gone. For the first time in a very long time, she hears only what is near her.
+- She turns to see everyone: Suke-san, Dango, Pen-san, General Adelie, Riro, Daru, Gabu, Ruka.
+- Final thought: "She was glad they were there."
+- **Key fact:** The disturbance thread is fully gone by Ep96 — confirmed by Ako-chan in the cave.
+
+---
+
+## Day 45 — `story_day: 45`
+
+### Ep97 — "Quiet Skies" (flying boat north)
+- The flying boat lifts off from Antarctica into grey sky. Nobody speaks.
+- Formation in the flying boat: Dango pressed to Ako-chan's side (same as since the cave), Suke-san slightly right and back (his usual place), Riro still near his water capsule with paws pressed together, Daru quiet at front window, Gabu beside him, Pen-san near Ako-chan, General Adelie sitting straight.
+- Ako-chan touches the red notebook in her coat pocket every hour or so.
+- Final line: "They all looked out their windows and let the sky carry them north."
+- **Key fact:** Daru's silence on the flight is noted as the longest quiet she has ever heard from him.
+
+---
+
+## Day 50 — `story_day: 50`
+
+### Ep98 — "Still" (back in England, voices' disturbance is gone)
+- They return to England. Ako-chan stands at the garden gate a long time before going in.
+- Days pass: normal life resumes. Dango in his window spot. Ruka by the warm wall.
+- One morning Ako-chan listens to the voices in the garden: hedgehog, pigeons, fox, robin.
+- **Confirmed:** the wrongness (the pull from the south, the note under every note) is completely gone.
+- The robin sings one clear line.
+- **Key fact:** Ako-chan explicitly confirms the disturbance is gone in England. This is the moment she is certain Obia succeeded.
+
+### Ep99 — "Who" (the question crystallizes)
+- Same morning in the garden. Ako-chan thinks through the logic: someone built the machine, built Obia, sent it back to find her specifically.
+- She had felt this truth below the surface for a long time but had not stated it to herself plainly. Now she does.
+- "Someone had chosen her. Someone had known she could hear the animals."
+- The question: who? She does not know. But she has the question clearly now, and she will not let it go.
+- Dango: "I know. I am thinking." (Ako-chan to Dango)
+- **Key fact:** This is the first time Ako-chan consciously articulates the question of who made Obia and the machine. Use if referenced in S3.
+
+### Ep100 — "Obia——" (red notebook, Season 3 bridge)
+- That night at her desk. Same coat, one lamp.
+- She opens the red notebook to the last written entry: *Day thirty-seven. Suke-san is with us. Riro is with us. We are all here. We go south.*
+- She thinks of all four voices (wolf, Auks, sea cows, Meiolania). She thinks of Obia's last look through the seam.
+- She puts pen to page and writes: *Obia——*
+- She stops. She has so much to say but does not know how to begin.
+- She looks at the word. Then she breathes in. And begins.
+- **Key fact:** The first word she writes is "Obia——" (with the dash). The notebook entry is never shown beyond this. Chapter 22 ends. Season 2 ends. Season 3 bridge: Ako-chan is writing to Obia.
