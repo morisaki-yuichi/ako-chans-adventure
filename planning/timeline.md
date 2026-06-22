@@ -1415,3 +1415,72 @@ Before writing a new episode, check the relevant day's entry to confirm:
 - **Final line she adds:** *We are going south again.*
 - Ako-chan asks Obia: "Do you want to go?" — **Obia's reply:** "I think we need to. The signal will not stop. And the memory — I cannot find the key here. I think it is there. And I think I have been waiting for it. Without knowing."
 - **Key fact:** Decision to go south is made. Exact notebook entries and Obia's reply above — use if referenced later.
+
+---
+
+# Story Timeline — Season 2, Chapter 14
+
+## Day 12 — `story_day: 12`
+
+### Ep15 — "The Plan" (morning)
+- Obia has a plan laid out on a flat pale surface with lines of light — the design for a flying boat.
+- **Obia's description:** "A flying boat. To go south. And to collect everyone before the south."
+- Obia has not made one before but knows what it needs.
+- Obia needs help: "I will need someone to hold parts. Some things cannot be done alone."
+- They identify a field past the hedge to the north as the building site.
+- **Key fact:** Obia's exact line above. This is the first time Obia explicitly asks for Ako-chan's help with a build.
+
+---
+
+## Day 14 — `story_day: 14`
+
+### Ep16 — "Night Work" (night → next morning)
+- Obia works in the field at night; Ako-chan watches from the window (blue-white light moving in the dark).
+- By morning, the shape of the flying boat body and the beginnings of the wings are visible.
+- Ruka watches from the desk, facing the window.
+- **Key fact:** The flying boat is larger than Obia's Season 1 ship. Ruka is present at the build site from Day 17 onward (Ako-chan brings her).
+
+---
+
+## Day 17 — `story_day: 17`
+
+### Ep17 — "Hands" (daytime)
+- Ako-chan starts helping without being asked — holds parts in place while Obia works.
+- Obia accepts silently. They work together all morning.
+- Dango watches from the field edge.
+- Ruka brought to the field; stays in a warm corner near the hedge each day from now on.
+- Obia's assessment: "You knew enough."
+- **Key fact:** First real collaboration between Ako-chan and Obia on a physical build. Use "You knew enough" if referenced.
+
+---
+
+## Day 20 — `story_day: 20`
+
+### Ep18 — "One Part" (morning)
+- A long curved piece will not fit. Obia is uncharacteristically still.
+- Ako-chan spots the problem: the piece needs to come in from the other side.
+- She shows the angle with her hands: "If you turn it. The curve faces the other way. Then it fits."
+- It works. Obia looks at her a little longer than usual afterward.
+- **Key fact:** Ako-chan's exact line: "If you turn it. The curve faces the other way. Then it fits." Use if referenced.
+
+---
+
+## Day 23 — `story_day: 23`
+
+### Ep19 — "Almost" (daytime)
+- Flying boat almost done — two days left on the inner connections.
+- Dango inspects the hull completely (walks all the way around, sniffs every join).
+- Ako-chan lists the friends they need to collect: Daru (Croatia), Gabu (Jordan), Suke-san (Japan), Riro (Pacific), Pen-san and the Colonel (Antarctica).
+- Plan: east first (Croatia, Jordan), then west-to-Japan, then south.
+- **Key fact:** First time the reunion route is laid out aloud. Use "east first" order if referenced.
+
+---
+
+## Day 26 — `story_day: 26`
+
+### Ep20 — "It Rises" (morning → evening, end of Chapter 14)
+- The flying boat is complete. First test: it rises two hand-widths off the ground and holds steady.
+- Nobody speaks during the test. Dango's ears are up; he does not move.
+- **New notebook entry Ako-chan writes:** *The flying boat is ready. Tomorrow we go to collect everyone. Daru first. Then Gabu. Then Suke-san. Then Riro. Then south.*
+- **Final line she adds:** *We are going back.*
+- **Key fact:** Use exact notebook entries if referenced. Chapter 14 ends on Day 26. Departure for Croatia begins Day 27 (Chapter 15).
