@@ -7,6 +7,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+collections:
+  archive:
+    output: true
+
 exclude:
   - planning/
   - "README.md"
