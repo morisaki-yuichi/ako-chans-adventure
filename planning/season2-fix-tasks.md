@@ -102,45 +102,30 @@ M3でEp30を "Three Tortoises" に変更済みのため、重複は解消。Ep70
 
 ## 優先度: LOW（任意修正・検討）
 
-### L1 — past perfect の扱いに関するシリーズレベルの決定
-**対象:** writing-guide.md + Season 2 全エピ  
-**問題:** writing-guide.md は Season 2 で past perfect を許可していないが、Chapter 19 以降で頻出している。  
-**代表例:** Ep8, Ep61, Ep68, Ep70, Ep73, Ep76, Ep81, Ep82, Ep84, Ep89, Ep98  
-**判断事項:**
-- **Option A:** writing-guide.md を更新して「S2 では文脈の明確化に必要な場合に限り past perfect を許可」と明記する
-- **Option B:** 該当箇所をすべて単純過去に書き直す  
-Option A の方が現実的（多くの箇所で単純過去への書き換えは文章が曖昧になる）。
+### L1 — past perfect の扱いに関するシリーズレベルの決定（解決済み）
+**修正済み:** Option A採用。writing-guide.md のSection 1表とSection 3-S2に「文脈明確化に必要な場合に限り過去完了形を許可」を明記。
 
 ---
 
-### L2 — Ep21: Ruka のスペースの光の色
-**ファイル:** `season2/chapter15/ep021.md`  
-**問題:** "soft orange light" → design-decisions.md では Ruka の発光色は「黄色」。また orange は Gabu のポッドの色と混同される。  
-**修正:** "soft orange light" → "soft yellow light" または "soft warm light"
+### L2 — Ep21: Ruka のスペースの光の色（解決済み）
+**修正済み:** "soft orange light" → "soft yellow light"。
 
 ---
 
-### L3 — Ep40: ポッド運搬の描写が不明確
-**ファイル:** `season2/chapter17/ep040.md`  
-**問題:** Obia が "carrying two things, stacked carefully" と書かれているが、後で "the last thing" (yellow pod) を出す。1 往復か 2 往復か不明。  
-**修正:** "carrying two things, stacked carefully" のあと、明示的に黄色のポッドを取りに戻ることを書く（1 文追加）。
+### L3 — Ep40: ポッド運搬の描写が不明確（解決済み）
+**修正済み:** "Obia walked to the front. A moment later, it came back." を追加し、黄色ポッドを取りに戻る2往復目を明示。word_count: 299 → 310。
 
 ---
 
-### L4 — Ep47→48 以外の語彙改善
-**対象:** 複数エピ（任意）  
-
-| Ep | 現在の語句 | 修正候補 |
-|----|----------|---------|
-| Ep38 | "satisfied" | "pleased" または書き換え |
-| Ep45 | "ridges" | "bumps" / "rises" |
-| Ep53 | "Something this shape did not belong here." | "A shape like this did not belong here." |
-| Ep53 | "Every line flowed into the next." | "Every line moved into the next." |
-| Ep63 | "Something older than those words"（2回繰り返し） | 一方を削除か言い換え |
-| Ep63 | "She let herself be looked at." | "She held still and let the wolf see her." |
-| Ep64 | "She walked with only what was honest." | "She walked slowly. She had nothing to hide." |
-| Ep67 | "And then — not long after this moment — they would not." | "And then they would be gone." を追加 |
-| Ep76 | 複雑な関係節（ダッシュ挿入句含む） | 2〜3文に分割 |
+### L4 — Ep47→48 以外の語彙改善（解決済み）
+全9箇所を修正済み。
+- Ep38: "satisfied" → "pleased"
+- Ep45: "ridges" → "bumps"
+- Ep53: "Something this shape" → "A shape like this"; "flowed" → "moved"
+- Ep63: "Something very old. Something that went back..." → 一文に圧縮; "She let herself be looked at." → "She held still and let the wolf see her."
+- Ep64: "She walked with only what was honest," → "She walked slowly. She had nothing to hide."
+- Ep67: ダッシュ挿入句を整理、"they would not." → "they would be gone."
+- Ep76: 複雑な関係節を3文に分割
 
 ---
 
