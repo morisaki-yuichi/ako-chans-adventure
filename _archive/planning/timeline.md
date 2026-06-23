@@ -1,0 +1,2351 @@
+# Story Timeline — Season 1, Chapter 1
+
+## How to use this document
+
+Before writing a new episode, check the relevant day's entry to confirm:
+- What characters already know at that point
+- What has already been said (exact wording matters when later episodes quote earlier ones)
+- What the disturbance timeline allows a character to claim
+
+## Background: Obia's Arrival
+
+- Obia arrived in this era **2 days before Day 1** (i.e., before the story opens).
+- The disturbance (caused by the time machine connection) **started on Obia's arrival**. It did not exist before.
+- By Day 1, the hedgehog has not slept "for many nights" = roughly 2 nights since Obia arrived.
+- By Day 2 (Ep3), it has been about 3 days since Obia arrived.
+
+---
+
+## Day 1 — `story_day: 1`
+
+### Ep1 — Morning
+- Ako-chan and Dango are in the garden.
+- Something small is in the shadowy corner: two bright, steady eyes looking at Ako-chan's red glasses.
+- Dango does not bark. Just looks.
+- The shape disappears. Ako-chan does not forget the eyes.
+- **Key fact:** Obia is present but has not introduced itself.
+
+### Ep2 — That afternoon (same day as Ep1)
+- Hedgehog (oldest friend, known since before school): "I cannot sleep. Not for many nights now."
+- Hedgehog: "The ground feels wrong. Under my feet. All the time."
+- Hedgehog: "It is like a sound. But not a sound. It comes from far away. It should not be there."
+- Ako-chan thinks about the eyes from the morning.
+- Robin sings but sounds different — not happy.
+- **Key fact:** The hedgehog has been unable to sleep for "many nights" (~2 nights since Obia's arrival).
+
+---
+
+## Day 2 — `story_day: 2`
+
+### Ep3 — Morning
+- Cold morning. Ako-chan at the window. She hears the robin outside.
+- Robin: "Strange news. It comes from the south. The birds there do not fly the same way. They do not sound the same."
+- Swallow (on the oak tree): "The south wind — before, it came every morning. Now it is dead."
+- Dango sits very still. Does not bark.
+- **Obia appears properly for the first time.** Steps out from by the old shed. Looks like a small dog but is not. Smooth and silver. Small body. Eyes are bright lights.
+- Obia: "I listened to the animals. **Something is wrong in the south. It is very bad.**"
+- Obia: "I want to go south. I cannot go alone. I need help."
+- Ako-chan: "No. I cannot go. I do not know you."
+- Obia goes quiet. Its eyes do not change.
+- **Key fact:** Obia's exact words are "Something is wrong in the south. It is very bad." — not "getting worse" (that would imply a longer baseline than 3 days allows).
+
+### Ep4 — That night (same day as Ep3)
+- Ako-chan cannot sleep. Sits at window. Dango watches the garden.
+- Fox steps into the garden: "The smell is different now. **It changed a few days ago.** The night air is not the same. Something is in it. Before, it was not there. Now it is always there. It comes from far away. From the south."
+- Ako-chan: "Do you know what it is?" / Fox: "No. But it is not good."
+- Barn owl lands in oak tree: "**Something started** in the south. I do not know what. But it started. And it is not stopping."
+- Fox leaves. Owl flies away.
+- **Key fact:** Fox confirms the change began "a few days ago" (= when Obia arrived). The owl says it "started" — not that it has been going on for a long time.
+
+---
+
+## Day 3 — `story_day: 3`
+
+### Ep5 — Morning
+- Ako-chan has not slept well. She hears all the voices in her mind: owl, fox, hedgehog ("It should not be there"), swallow ("The south wind is dead"), robin ("Strange news from the south").
+- She thinks about Obia: "**Something is wrong in the south. It is very bad.**" (exact quote from Ep3)
+- She sits up. Opens the red notebook (got it long ago at a market, never written in it).
+- Writes: *I have to go.*
+- Tells Dango: "We are going."
+- **Key fact:** This is her decision moment. She quotes Obia's words from Ep3 — use the exact Ep3 wording.
+
+### Ep6 — After school (same day as Ep5)
+- Ako-chan packs: warm jumper, small torch, red notebook, pencil case, snacks, water bottle.
+- Obia is waiting by the old shed. Dango already there.
+- Ako-chan: "You came back." / Obia: "I waited. I thought you might come."
+- Obia: "The animals send messages. They all come from the south. They go north. East. West. All the messages say the same thing. **Something is wrong in the south. It was wrong from the start. Now it is getting worse. Very fast.**"
+- Ako-chan: "Can we stop it?" / Obia: "I do not know. But we have to go and see."
+- Ako-chan: "We leave tomorrow. Early. Before the light."
+- **Key fact:** "From the start" = from the moment Obia arrived (a few days ago). "Getting worse. Very fast." — the escalation is rapid, not gradual over weeks.
+
+---
+
+## Day 4 — `story_day: 4`
+
+### Ep7 — Before dawn
+- Ako-chan wakes before the alarm. Dresses quietly. Picks up her bag.
+- Goes downstairs and out the back door. Cold dark morning; thin line of light growing in the east.
+- Dango at the door. Obia at the far end of the garden. Obia's eyes: blue-white, soft.
+- Obia: "Ready?" / Ako-chan: "Yes."
+- They walk to the gate. Ako-chan opens it. Empty road. Town sounds. Morning starting.
+- She looks back: the house, the oak tree, the fence, the rosebush. Robin in the oak tree — not singing, just watching.
+- Ako-chan: "Goodbye." (very soft) Robin makes one small sound.
+- She turns. Road goes south. Wind on her face. Cold and quiet.
+- Dango at her side. Obia behind them. They walk on.
+- **Key fact:** Departure. They head south. This is the end of Chapter 1.
+
+---
+
+# Story Timeline — Season 1, Chapter 2
+
+## Day 4 (continued) — `story_day: 4`
+
+### Ep8 — London, St Pancras International (mid-morning)
+- They arrive at St Pancras by mid-morning (travel from home not shown).
+- Obia: "This train goes under the sea."
+- Obia: "Under the sea. A tunnel. Very deep. The water is above your head."
+- They board the Eurostar at Platform 14, heading to Paris.
+- **Key fact:** No one at the station stops them or looks twice (fantasy convention maintained).
+
+### Ep9 — Eurostar, Channel Tunnel (mid-day)
+- Train enters the Channel Tunnel (England side: dark hill, round mouth opening).
+- Obia: "The sea is above us now."
+- Ako-chan thinks about the animals back home — hedgehog, robin, fox — wonders if they are still listening.
+- They emerge in France. Dango barks once, short and happy.
+- **Key fact:** Ako-chan's last thought of the English animals before the long journey south.
+
+### Ep10 — Paris, Gare du Nord (afternoon)
+- They arrive at Gare du Nord.
+- Next train: Venice, 18:14, Track 8.
+- Ako-chan buys a sandwich and small bottle of water at a station food stand.
+- Obia: "A little. The animal messages pass through here. Birds from the south. Their sounds carry through."
+- The train to Venice is dark red.
+- **Key fact:** Animal messages are already travelling north via birds.
+
+### Ep11 — Night train, Paris → Italy (evening → overnight)
+- Train departs Paris 18:14. Already dark outside when they leave.
+- Obia confirmed: does NOT sleep. "No. I do not need to sleep. I will watch while you rest."
+- Ako-chan recalls exact quotes before sleep:
+  - Swallow (Ep3): "The south wind is dead."
+  - Barn owl (Ep4): "Something started."
+  - Obia (Ep3): "Something is wrong in the south. It is very bad."
+- Ako-chan falls asleep on the train.
+- **Key fact:** Obia does not sleep — it watches through the night.
+
+---
+
+## Day 5 — `story_day: 5`
+
+### Ep12 — The Alps, crossing into Italy (dawn / early morning)
+- Ako-chan wakes to see the Alps: big, white, snow-capped peaks.
+- Obia: "The Alps. We are crossing into Italy."
+- After an Alpine tunnel, the mountains become grey-brown-green. Below: red roofs, white walls, a church tower.
+- A large dark bird flies south slowly across the sky.
+- Ako-chan writes in red notebook: **Italy. Morning. Mountains and red roofs.**
+- **Key fact:** First notebook entry written in Italy. Bird flying south = animal messages moving.
+
+### Ep13 — Italian countryside, Bologna (afternoon)
+- Train passes through Bologna (BOLOGNA sign on platform).
+- Ako-chan observes: many shades of green, old stone walls, rows of vines on hills.
+- Two pigeons land on a wire near the track, then fly north.
+- Obia: "All birds carry things. They do not know they are doing it. They just fly. But the messages move with them."
+- Afternoon light turns gold.
+- **Key fact:** Obia's exact words about birds and messages.
+
+### Ep14 — The Adriatic coast (late afternoon)
+- First sight of the Adriatic Sea (train running along the coast).
+- Obia: "We are close to Croatia."
+- White seabirds fly over the sea — Ako-chan feels them: louder and more urgent than the English animals. Something is pushing them.
+- Ako-chan: "We are getting closer. The south is getting closer."
+- **Key fact:** The disturbance is STRONGER here than in England — the Adriatic birds feel more urgent and unsettled. The closer to the south, the more intense the disturbance. End of Chapter 2.
+
+---
+
+# Story Timeline — Season 1, Chapter 3
+
+## Day 5 (continued) — `story_day: 5`
+
+### Ep15 — Night train to Croatia (evening → overnight)
+- Changed trains at a big busy station (Platform 6, half past eight). Dark green and silver train.
+- Obia: "This train goes east. Through the mountains. Into Croatia."
+- Night: train enters the mountains. Air grows heavy. Train slows on the slopes.
+- Border crossing: men in uniforms check papers. Obia: "We are in a different country now."
+- Ako-chan hears faint animal voices — deep, from inside the mountains. Never felt voices like this before.
+- Obia: "I cannot hear what you hear. But something is here. The animals know we are passing."
+- **Key fact:** The mountain animals have a slower, older quality than the English or Italian birds. Exact Obia quotes above — use if referenced.
+
+---
+
+## Day 6 — `story_day: 6`
+
+### Ep16 — Deep night, night train (foreshadowing)
+- Ako-chan wakes to find Obia very still, eyes almost dark.
+- A small point of light appears from Obia's chest — not blue, not white, unknown color. Lasts 1–2 seconds, then gone. Eyes return to blue-white.
+- **KEY: Obia's first data transmission (small foreshadowing of the Season 1 reveal).**
+- Ako-chan: "What was that?" / Obia: "I was checking something."
+- Ako-chan: "What were you checking?" / Obia: "Data. The data I have collected. From the animals. From the messages. I check it sometimes. To make sure it is correct."
+- Ako-chan: "The light. Where did it go?" / Obia: "It is part of how I work. Do not worry."
+- **Key fact:** Use these EXACT quotes if any future episode references this moment.
+
+### Ep17 — Croatia morning + louder voices (dawn)
+- Light comes first. Croatia at dawn: rougher hills, lighter stone, different trees. Everything feels older.
+- Dango wakes up (stretches, yawns, breathes on window glass).
+- Obia: "Croatia. We are in Croatia."
+- A river below with a heron — the heron's stillness feels watchful and uneasy, not peaceful.
+- Ako-chan writes in red notebook: **Croatia. Morning. Red sky.**
+- All morning: birds fly near the train then turn away. North. Every time.
+- Ako-chan: "They are all going north." / Obia: "Yes. All morning."
+- Two sparrows on a stone wall — Dango: "What do they feel?" / Ako-chan: "Something is wrong in the south. They feel it. They do not know what it is. But they feel it. And it is not stopping."
+- Ako-chan writes in red notebook: **The voices are louder. We are getting close.**
+- **Key fact:** Notebook entries: "Croatia. Morning. Red sky." then "The voices are louder. We are getting close." Both in this episode. Quote Dango and Ako-chan exactly if referenced.
+
+### Ep18 — Split arrival (end of Chapter 3)
+- They arrive at Split on the Dalmatian coast (Adriatic visible again, now from the Croatian side).
+- The birds above the harbor are fast and anxious.
+- Ako-chan thinks: *Something is close. Very close now.*
+- **End of Chapter 3.** Chapter 4 begins in Croatia (Daru merges on the Dalmatian coast).
+
+---
+
+# Story Timeline — Season 1, Chapter 4
+
+## Day 7 — `story_day: 7`
+
+### Ep19 — Split harbor, morning
+- They spent the night in Split. In the morning, the harbor gulls are unsettled.
+- Obia detects a signal: a small land animal about 3 km south of the harbor, staying in the same area for many days, not running away.
+- They leave Split through a stone gate, heading south along the coast road.
+- **Key fact:** Obia identifies the signal as "a small land animal" that is "not running away."
+
+### Ep20 — Rocky coast, south of Split (morning)
+- They leave the road and walk on rocky limestone ground south of Split.
+- From a ridge, Daru's signal is 50 meters below.
+- Ako-chan feels something from below — interest, not fear. Something is watching and waiting.
+- Dango detects it by smell first.
+- Below the ridge: old stone walls, dry scrub, a cluster of rocks.
+- **Key fact:** The feeling coming from Daru is curiosity, not fear. He was watching them approach.
+
+### Ep21 — Rocky coast, first meeting (late morning)
+- Daru runs out from the rocks — fast. He comes straight to Ako-chan's feet.
+- Daru: "Hello! I saw you coming. From up on the ridge. You took a long time."
+- Daru: "I heard the birds. They said someone was coming from the north. With a dog and a silver thing."
+- Daru introduces himself: "My name is Daru. I live here. I know this whole coast. Every rock. Every path."
+- Dango sneezes twice. Daru waits patiently.
+- Daru asks: "What is it?" (about Obia). Ako-chan: "That is a long story." Daru: "Good. I like long stories."
+- **Key fact:** Daru was tipped off by the birds and had been waiting. Use exact quotes if referenced later.
+
+---
+
+## Day 8 — `story_day: 8`
+
+### Ep22 — Rocky coast, morning (sitting on flat rock)
+- Daru describes how the disturbance felt: "It started in the ground. Not on top. Under. Like before a big wave — you feel it in the rock before the water comes."
+- The lizards stopped coming out first, then the birds left, then the sea smell changed.
+- Daru: "About eight days ago. Maybe nine." (= when Obia arrived)
+- Daru says the birds told him to wait: someone would come from the north. He waited alone.
+- **Key fact:** Daru felt the disturbance starting ~8–9 days before this day (Day 8), which matches Obia's arrival.
+
+### Ep23 — Rocky coast (Daru joins)
+- Ako-chan tells Daru they are going south to find what is wrong.
+- Daru says: "I want to come because I want to come." (not for utility)
+- Ako-chan warns: long journey, cold in places, leaving home.
+- Daru: "I do not like cold. But I can be cold."
+- Daru: "The birds stopped coming. The ground does not feel right. The sea smells wrong. If I stay here, it only gets worse. If I go with you, maybe we can help stop it."
+- Ako-chan: "All right, Daru. Come with us."
+- Daru: "Then let us go."
+- **Key fact:** Daru's exact words joining the group. Use these quotes if referenced later.
+
+---
+
+## Day 9 — `story_day: 9`
+
+### Ep24 — Dalmatian coast, walking south (morning)
+- First full day traveling together. Daru walks left, right, stops at things, runs to catch up — very energetic.
+- Dango says: "He is very busy." Ako-chan: "He is curious. It is good."
+- Ako-chan writes in red notebook: "Dalmatian coast. Day nine. Daru is with us."
+- Obia: "The signal from the south is steady. Not growing. Not fading." Ako-chan: "Is that good?" Obia: "It means it is not growing yet."
+- Dango slows his pace; Daru naturally walks beside him (first sign of their bond).
+- **Key fact:** Dango begins walking beside Daru (not ahead) — the start of their friendship.
+
+### Ep25 — Low stone wall above the sea (evening)
+- Daru: "Can you hear them? The fish. The ones under the water."
+- Ako-chan: "Sometimes. When the water is very still. They are quiet. Not like birds. More like a feeling." / "Something slow. Something cold. Like something came from very far away and is still moving through the water."
+- Daru reports: birds going north said the disturbance is worse now. Much worse south of here.
+- Obia: "The signal comes from the south. Very far south. I do not know exactly where. Not yet."
+- Daru asks Ako-chan if she is afraid. Ako-chan: "Yes. Sometimes." Daru: "Good. That means it is real."
+- **Key fact:** Obia confirms the source is "at the very end of the south" — first explicit mention to Daru.
+
+---
+
+## Day 10 — `story_day: 10`
+
+### Ep26 — Narrow stone roads, taller cliffs (morning)
+- The group walks in a line: Dango, Daru, Ako-chan, Obia.
+- Swifts fly north overhead — all going north.
+- Daru: "They are all leaving." / "I have never been south of here. My whole life. Just this coast."
+- Ako-chan asks if Daru is afraid. Daru: "A little. Not enough to stop."
+- Dango walks back to Daru and then stays beside him instead of ahead.
+- Obia observes: the signal growing stronger day by day.
+- **Key fact:** Dango definitively begins walking beside Daru (not ahead).
+
+### Ep27 — Southern end of the Dalmatian coast (late afternoon)
+- The land is barer, rockier. The sea looks darker.
+- Ako-chan feels cold coming through the rock, from very deep.
+- Obia: animals in this area are still and quiet. Waiting.
+- Daru steps into the water — pulls back. Much colder than it should be for the season.
+- Dango looks south from a high rock: "Something is wrong. Far away. But it is not staying there."
+- Obia confirms: the signal is expanding northward. Slowly.
+- Ako-chan: "Tomorrow. Early. We move on."
+- **Key fact:** The disturbance signal is confirmed to be expanding northward. First explicit data point on movement.
+
+---
+
+## Day 11 — `story_day: 11`
+
+### Ep28 — Leaving Croatia, before sunrise (end of Chapter 4)
+- Daru stands at the last rocky point above the sea before leaving. He looks at the coast for a long time.
+- Ako-chan stands beside him. Does not speak.
+- Daru: "I am ready." He steps back and does not look back.
+- Ako-chan writes in red notebook: "Day eleven. We leave Croatia."
+- Obia: "The next part of the journey will take many days. The road goes south through mountains. Then east. Then south again into Jordan."
+- Daru says "Jordan" slowly, like a new word. Obia: "Wadi Rum. The desert."
+- Daru asks if Ako-chan has been there. She says no. Daru: "Neither have I. Good."
+- **Key fact:** Chapter 4 ends. They leave Croatia heading toward Jordan (Chapter 5). Daru's departure line: "Neither have I. Good." — use exact quote if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 5
+
+## Day 13 — `story_day: 13`
+
+### Ep29 — The Ferry (on the water, heading east)
+- They are on a ferry crossing from Greece eastward, two days after leaving Croatia.
+- The sea is a warm, clear blue — different from England's grey or Croatia's cold dark water.
+- Daru sits near the front rail watching the water. "The sea is different here." "The fish here feel older."
+- The Greek coast disappears behind them. Ahead: just sea and sky.
+- Ako-chan feels the disturbance faintly from the east — the same push from the south, quieter on the water.
+- Obia: "Present. Still from the south. Far south."
+- **Key fact:** Mode of transport: ferry (not walking). This is the transition from European rail to sea/overland travel. The Balkans mountains are behind them; they are now crossing to the Middle East.
+
+---
+
+## Day 15 — `story_day: 15`
+
+### Ep30 — Heat (road in Jordan, approaching Wadi Rum)
+- Two days after the ferry. Road straight and pale. Flat brown land. Nothing green.
+- Ako-chan is hot. Daru is slowing down. Dango works hard but does not complain.
+- Obia opens a panel on its chest, checks something, closes it. Ako-chan: "What are you doing?" / Obia: "Preparing. For the desert. You will see."
+- Ako-chan writes in red notebook: **Day fifteen. The road goes south. Very hot.**
+- Obia stops and points south: shapes on the horizon. Red. Tall. "Wadi Rum. We are close now."
+- Daru looks at the shapes: "Red." Then walks on — a little faster.
+- **Key fact:** Gadgets not yet deployed — Obia is visibly preparing them. Wadi Rum visible on horizon.
+
+---
+
+## Day 16 — `story_day: 16`
+
+### Ep31 — Wadi Rum (morning arrival → midday rest → night)
+- Morning arrival: red sandstone walls straight up from the floor, pale sand between them. Cool at first.
+- By mid-morning: overwhelming heat from above, below, and walls simultaneously. Ako-chan sweating, glasses sliding. Dango breathing in short fast bursts, tongue very long, tail down. Daru stops walking entirely, legs pulled in.
+- Obia leads them to a long shadow under a jutting rock face. Not cool — but better.
+- They rest through the hottest part of the day in silence. Obia watches each of them in turn but says nothing.
+- Night: cold comes fast. Stars above the walls — many more than at home, very bright.
+- Ako-chan half-wakes: Obia is bent over something on the sand, a small point of light moving. She does not ask. Goes back to sleep.
+- **Key fact:** No gadgets yet. Travel only in morning/evening — midday rest in shade is established. Obia observes the problem before building solutions. The "working at night" scene is deliberate foreshadowing of Obia's nature.
+
+### Ep32 — What Obia Made (before dawn, Day 17)
+- Ako-chan wakes before dawn to find four things laid out: pale folded cloth, two small boots, a light mask, and Daru's pod already glowing with Daru inside asleep.
+- **Pale cloth (Ako-chan):** Very light, heat-reflecting. "It turns the heat away. Keep it on."
+- **Boots (Dango):** Protect paws from burning sand. Dango's reaction: tries walking, looks down at feet with serious expression.
+- **Snout mask (Dango):** Fits over dog's nose/mouth, open at sides. Cools inhaled air; panting expels hot air out the other way. Dango initially refuses, then Ako-chan puts it on. He pants once → ears up → pants again → tail moves. Works with dog's natural panting mechanism.
+- **Greenhouse capsule (Daru):** Already assembled overnight; Daru is inside asleep. Clear round pod with warm light.
+- Signal detected at end: Obia turns south. "There is a signal. Small. Very still. Many days in the same place."
+- Dango: "Then let us go."
+- **Key fact:** All gear revealed together as "what Obia made overnight." Mask works WITH panting (not instead of it) — this is the scientific basis. Use exact descriptions if gear referenced later. Signal detection happens here — use exact quote.
+
+### Ep33 — Something Watching (late afternoon → pre-dawn Day 17)
+- They move toward signal: red walls, pale sand, small sounds of feet. Obia: "Fifty meters."
+- Ako-chan feels: something very still and careful, just watching. Not afraid.
+- Brief glimpse: small dark rounded shape on a low ledge — then gone.
+- Evening falls. They make camp in the shadow of the rock wall.
+- **[Time skip: night → before dawn]**
+- Ako-chan wakes before dawn. Desert cold. Unfamiliar stars.
+- The shape is back on the same ledge, 30 meters away. Very still. Looking at her. Has been there all night.
+- They watch each other without moving as the sky slowly lightens.
+- It is a tortoise. Small. Shell dark like the rock. Eyes open and steady.
+- Dango stirs in sleep → shape instantly gone.
+- Dango: "Still close. Not running."
+- **Key fact:** Gabu has been watching them through the night. This episode spans Day 16 evening to Day 17 pre-dawn (story_day shown as 17). First clear view: dark shell like stone, steady eyes.
+
+---
+
+## Day 17 — `story_day: 17`
+
+### Ep34 — The One Who Watches (daytime)
+- They decide to sit and wait rather than approach. Obia: "Let it come to us."
+- They sit in the shade. Daru watches from the pod.
+- After about an hour: a tortoise approaches from behind an orange rock. Three steps. Stop. Three steps. Stop.
+- 15 meters. Stops. Studies each in turn: Ako-chan, Dango, Obia, Daru in pod. Takes its time.
+- Ako-chan: "Hello." (very soft) — no answer. Just watching.
+- Then it turns and walks slowly back. Stops once at the last rock and looks back.
+- Dango: "It is not afraid." / Ako-chan: "No. It is thinking."
+- Final line: "It was coming to them on its own terms. She could wait."
+- **Key fact:** Gabu's character — calm, evaluating, no fear, no hurry. Comes on his own terms.
+
+---
+
+## Day 19 — `story_day: 19`
+
+### Ep35 — First Words (morning)
+- Gabu returns: stops three steps away. The same dark, steady eyes.
+- Gabu: "Why are you here?"
+- Ako-chan: "We are going south. Something is wrong there. We want to find it."
+- Gabu: "I know something is wrong. I have been watching it."
+- Names exchanged: Ako-chan / **Gabu** ("My name is Gabu" — implied, not said as formal line)
+- Gabu about Obia: "That thing. What is it?" / Ako-chan: "That is a long story." / Gabu: "I have time."
+- Ako-chan tells him about Obia, the English animals, the signals, Daru in Croatia.
+- Gabu's response: "You are going south. To find the source." / "Yes."
+- To Daru (Daru: "Hello"): "Hello." — then quiet.
+- Gabu: "I have been watching this for many days. Come back this afternoon. I will show you what I found."
+- Dango: "He will come." / Ako-chan: "Yes. In his own time."
+- **Key fact:** Gabu's speech pattern: each word comes one at a time, no wasted words. Introduction: "Why are you here?" not "Hello!" — use exact questions if referenced.
+
+### Ep36 — What He Has Seen (afternoon, same day)
+- Gabu sits with them in the shade and speaks slowly. Ako-chan does not hurry him.
+- Sand: "The sand at night. It should be cold. The desert cools very fast after dark. It has always been this way." / "Now the sand stays warm. All night. Like something is pushing heat up from very far below."
+- Daru: "It is like the ground in Croatia. From underneath." / Gabu: "Yes. Like that."
+- Wind: "The south wind used to change. Fast some days, slow others. Now it does not change at all. Same direction. Same strength. Every day."
+- Animals: "The lizards left first. About ten days ago. Before them, the snakes. Before them, the sand beetles."
+- Obia: "You counted the days." / Gabu: "Yes. I counted."
+- Ako-chan: "Why did you stay?" / Gabu: "To know the full pattern. If I leave too soon, I miss something. A pattern tells you more than a feeling alone."
+- Ako-chan: "Will you come with us?" / Gabu: "I need to think."
+- Walks back. Slow. No hurry. No looking back.
+- **Key fact:** "Lizards left about ten days ago" = ~Day 9 of story. Aligns with Daru's "about eight days ago" (Day 0) — both animals noticed the disturbance around the same time, consistent with Obia's arrival triggering it. Gabu counts; Daru feels. Use exact quotes if referenced.
+
+---
+
+## Day 20 — `story_day: 20`
+
+### Ep37 — The Slow Decision (full day + sunset)
+- All day: Gabu visible on a ledge in the rocks, watching. Ako-chan does not go to him.
+- Daru: "He is still there." / "He is just sitting." / "It is taking a very long time."
+- Ako-chan: "That is Gabu."
+- Three desert birds fly south-to-north — Ako-chan feels: the push from the south, not smaller.
+- Near sunset, Gabu approaches. Stops in front of Ako-chan.
+- Gabu: "I have been here alone. Since the lizards left. Watching. Counting. Waiting for the pattern to be clear."
+- Gabu: "The pattern is moving north. Slowly. But it will not stop on its own."
+- Gabu: "I can stay and keep watching. But watching is not enough now."
+- **Gabu's joining line:** "I will come with you."
+- Ako-chan: "We leave tomorrow. Early."
+- Gabu to Daru: "Hello again." / Daru: "Hello."
+- Gabu walks back to the rocks. Dango and Ako-chan watch him go. Last orange light on the red walls.
+- **Key fact:** Gabu's decision stated once, quietly, without looking away. Use exact joining line if referenced.
+
+---
+
+## Day 21 — `story_day: 21`
+
+### Ep38 — Five (dawn, end of Chapter 5)
+- Gabu comes from the rocks at first light. Says: "Ready."
+- Group is now five: Ako-chan, Dango, Obia, Daru (in pod), Gabu (walking free at front).
+- At a fork, Gabu says "Left" without stopping. Obia confirms: correct.
+- Daru: "How did you know?" / Gabu: "The ground is harder on the left. Better to walk on in the heat." / Daru: "But how did you know before the heat came?" / Gabu: "I live here."
+- A desert bird crosses south-to-north overhead — Ako-chan feels the push from the south, but is less afraid of it now.
+- Ako-chan writes in red notebook: **Day twenty-one. Wadi Rum. Gabu is with us.**
+- Obia: "The signal from the south is still there. Not smaller."
+- Ako-chan: "But we are bigger now."
+- **Key fact:** Chapter 5 ends. Group leaves Wadi Rum east and south. Gabu/Daru contrast established (Gabu: quiet knowledge; Daru: energetic curiosity). Use exact notebook entry and Ako-chan's final line if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 6
+
+## Day 23 — `story_day: 23`
+
+### Ep39 — East
+- Two days east of Wadi Rum. They are on a bus going east through flat, pale steppe land.
+- At a rest stop, Gabu steps off and notices the grass. Daru watches from the pod.
+- Daru: "It is so flat." / Gabu: "Grass. Very short. Under your feet. But it is here."
+- On the bus, Obia sits at the back watching south. Signal steady.
+- Obia: "The signal. Steady. Not growing." / Ako-chan: "But not stopping." / Obia: "No."
+- One bird crosses east-to-west outside the window — the same push from the south.
+- Ako-chan writes in red notebook: **Day twenty-three. East. Far east.**
+- Night: bus stops at a roadside place. Ako-chan wakes to find Obia working by a small pale light — "the same kind of work as the night before Wadi Rum."
+- **Key fact:** Transport mode: long-distance bus. Obia makes Gabu's cold capsule overnight (Ep31 parallel — revealed in Ep40).
+
+---
+
+## Day 28 — `story_day: 28`
+
+### Ep40 — The Mountains
+- Five days after Day 23. The flat land ends; they stop at the foot of the Central Asian mountains.
+- Obia reveals the second capsule (made overnight): smaller than Daru's, clear walls, warm orange light. Made for Gabu.
+- Gabu looks at it for a long time, says nothing, then walks in.
+- Daru: "Welcome." / Gabu: "Quiet."
+- Both tortoises now in capsules for the cold mountain crossing.
+- Ako-chan's breath is visible (white cloud) — cold enough to require the capsules.
+- Ako-chan feels something old and still in the mountains — not the disturbance, something older.
+- From inside his pod, Gabu reads the path: "The path turns left. After the next rock." / Obia confirms correct. / Daru: "How did you know?" / Gabu: "The shadow. The rock angle. Left is better."
+- **Key fact:** Gabu's capsule introduced here. Both tortoises now in capsules. Gabu's observational skill shown from inside the pod (reads shadow/rock angle). Use exact exchange if referenced.
+
+---
+
+## Day 33 — `story_day: 33`
+
+### Ep41 — The Far Sea
+- Five days after Day 28. After descending from the mountains, they board a train at a small town and ride east for five days through hills, fields, and rivers.
+- They arrive at a large East Asian port city (dark grey-green sea, different from Greek or Croatian waters).
+- Daru: "Is this the same sea?" / Obia: "No. Different sea. East of here, it connects to the ocean."
+- Daru says "The ocean" slowly, like a new word.
+- Gabu walks to the water's edge (out of pod — warm enough at sea level).
+- Obia points to a white boat with a blue line: "That one. It goes east. To Japan."
+- Ako-chan feels the disturbance faintly from the east: "The south was pulling at everything, even this far away."
+- **Key fact:** Transport mode: train from mountain-foot town to East Asian port. White ferry with blue line to Japan. Gabu exits pod at the port (warm enough).
+
+---
+
+## Day 35 — `story_day: 35`
+
+### Ep42 — The Second Crossing
+- Two-night ferry crossing to Japan (departed before dawn Day 35, arrive Day 36 morning).
+- Dango presses flat on deck and dislikes the rolling sea. Ako-chan keeps her hand on his back.
+- Gabu sits very still and says: "Under the surface. Something is moving in it from very far away." — feels the disturbance through the water.
+- Ako-chan stands at the bow on the second night thinking: someone in Japan is waiting, but differently from Daru (ran to them) and Gabu (still and counting).
+- **Key fact:** Gabu feels the disturbance in the water. Ako-chan's premonition of something different waiting.
+
+---
+
+## Day 36 — `story_day: 36`
+
+### Ep43 — Japan
+- Morning arrival on Japan coast: dark hills, thick green (pine and wet earth smell).
+- Gabu: "The animals here are quiet. But listening. They know we are here."
+- Obia: "There is something. Not a signal like the south. More like a pattern. An animal. Moving around us. A wide circle. Very careful."
+- Dango growls once — quiet and low — then stops.
+- Ako-chan: "I know. I feel it too."
+- **Key fact:** Japan smells like pine and wet earth. Something (later revealed as Suke-san) is already circling them in a wide arc. Animals here are quiet but aware.
+
+---
+
+## Day 37 — `story_day: 37`
+
+### Ep44 — Watching
+- Camp in a forest clearing. Dango can't settle — paces and growls twice toward same spot in the trees.
+- Dango: "There. Something is there."
+- Obia: "It has been circling the camp. About forty meters out. All evening."
+- Not like Daru (ran to them) or Gabu (stayed still in one place) — this one circles slowly, never closing in.
+- Two bright eyes glimpsed briefly, low to the ground, then gone.
+- Dango: "It is still there." / Ako-chan: "Yes. I saw it."
+- **Key fact:** Suke-san circles the camp without approaching. First glimpse: two small, sharp, bright eyes low to the ground.
+
+---
+
+## Day 38 — `story_day: 38`
+
+### Ep45 — The Shape in the Trees (morning)
+- At dawn, Suke-san stands at the tree line in plain sight: small, reddish-brown, compact. Round fox-like face, pointed muzzle. Ears straight up. Thick tail curled high.
+- He looks at Ako-chan, then Dango, then Obia.
+- When he looks at Obia: ears go flat, body drops slightly, a low warning sound. Then gone into the mist.
+- Dango: "That was a dog. A small one."
+- Gabu: "It will come back." / Daru: "How do you know?" / Gabu: "It did not leave in fear. It left because it chose to."
+- **Key fact:** Suke-san's appearance: small, reddish-brown, compact. Ears straight, tail curled high. Warning reaction to Obia — this is established here.
+
+### Ep46 — Suke-san (afternoon, same day as Ep45)
+- Suke-san walks into the clearing from the path ahead and stops 10 meters away.
+- **Suke-san's first words:** "Why are you here?"
+- Ako-chan: "We are going south. Something is wrong there. We are going to find it."
+- Suke-san looks at Obia: "Not that thing." / Obia tries to speak / Suke-san: "Not that thing." (same words, flat, clear)
+- Dango steps forward: "Obia helped us. Obia travels with us."
+- Suke-san turns back to Ako-chan: "You hear the animals." (not a question) / Ako-chan: "Yes."
+- Suke-san: "The south is wrong. I have felt it for many days." / "Tell me more." — sits, tail curled around paws, looks only at Ako-chan.
+- Dango makes low sound in throat.
+- Ako-chan: "What is your name?" / **Suke-san: "Suke-san."**
+- **Key fact:** Suke-san's exact first words: "Why are you here?" His rejection of Obia: "Not that thing." (twice). He confirms the disturbance. Name introduction last.
+
+---
+
+## Day 39 — `story_day: 39`
+
+### Ep47 — Two Dogs
+- Ako-chan tells Suke-san the full journey story (England → Italy → Daru in Croatia → Gabu in desert). Suke-san listens without interrupting.
+- Suke-san: "The south. You are going all the way south." / Ako-chan: "Yes."
+- Dango sits very close to Ako-chan (shoulder to her knee). Suke-san notices. Both dogs stare at each other.
+- Dango: bigger, long coat, sits straight. Suke-san: smaller, compact, sits like a stone.
+- Neither looks away. Daru: "What are they doing?" / Gabu: "Dogs."
+- After a long time, Dango looks to one side (not backing down, just done).
+- Suke-san: "Obia. I do not trust it." / Ako-chan: "I know." / Suke-san: "That does not change. Not now." / Ako-chan: "I know."
+- Suke-san: "The south is getting worse."
+- **Key fact:** Rivalry established: both dogs want to be closest to Ako-chan. Dango looks away first. Suke-san's position on Obia stated clearly: will not change. Use exact dialogue if referenced.
+
+---
+
+## Day 40 — `story_day: 40`
+
+### Ep48 — Six (dawn, end of Chapter 6)
+- Suke-san arrives at dawn: "I will come."
+- Ako-chan warns: long, cold, unknown. Suke-san: "I know."
+- **Suke-san's joining line:** "I am not coming for it. I am coming because the south is wrong. And that matters more." (looks at Obia, then away)
+- Dango sits down first this time; Suke-san sits too. Not close — but same side.
+- Daru: "Six now. Six!"
+- Gabu: "Welcome." / Suke-san: "You are the desert tortoise." / Gabu: "Yes." / Suke-san: "The one who counted the days." / Gabu blinks. "Yes." / Suke-san nods once.
+- Formation leaving: Gabu front, Daru in pod, Dango on Ako-chan's left, **Suke-san on her right — a little back, a little to the side**, Obia at the back.
+- Ako-chan writes in red notebook: **Day forty. Japan. Suke-san is with us.**
+- **Key fact:** Chapter 6 ends. Group is now six. Suke-san's exact joining line above. Formation: Suke-san right of Ako-chan, slightly behind. Obia still at back. Use exact notebook entry if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 7
+
+## Day 41 — `story_day: 41`
+
+### Ep49 — The Ship (Japan harbor)
+- Obia's ship is waiting at the harbor. Dark grey, smooth, wide flat deck. Not like any ordinary ship.
+- Obia: "You made this." / Obia: "Yes. In Japan. While you were in the forest."
+- Dango inspects the ship by smell. Suke-san stands at the dock looking at the ship and then at Obia — no words.
+- Obia points south: "The south is that way."
+- Formation at the rail: Dango on Ako-chan's left, Suke-san on her right (a little back, a little to the side). Gabu beside her.
+- Obia: "Ready?" / Ako-chan: "Ready." Ship departs.
+- **Key fact:** Obia built the ship in Japan while the group was in the forest. Use exact exchange if referenced.
+
+---
+
+## Day 43 — `story_day: 43`
+
+### Ep50 — Open Water (Pacific Ocean, 2 days out)
+- No land, no ships, no birds. Sea is dark blue and very still.
+- Dango quiet and close to Ako-chan all day. Daru's questions fade. Gabu in pod.
+- Gabu: "The water under us. Something is moving in it. Very far down. I can feel it through the hull."
+- Suke-san walks the deck in slow loops. Stops near Obia once — both look at each other, neither speaks. Suke-san walks on.
+- Ako-chan writes in red notebook: **Day forty-three. The Pacific. Very large.**
+- **Key fact:** Gabu can feel something large and deep through the hull. Not the disturbance — something older.
+
+---
+
+## Day 45 — `story_day: 45`
+
+### Ep51 — A Voice from the Deep (5th day at sea)
+- Ako-chan hears whale voices for the first time — not sound but felt through her body. Low, slow, very big.
+- Three humpback whales rise and move beside the ship.
+- Obia: "I have been watching it on the sensors. Since yesterday morning. But I could not name it."
+- Voices not yet words — but coming from the south and yet moving north.
+- **Key fact:** Three humpback whales appear beside the ship. Ako-chan feels their voices but cannot yet hear words.
+
+---
+
+## Day 46 — `story_day: 46`
+
+### Ep52 — North (whale voices become clear)
+- Whales stayed all night. In the morning Ako-chan listens and understands: "North. Go north first. Follow us. There is a way."
+- Obia explains: "The whales know a current. It moves north, then south, all the way down. Faster than going straight."
+- Gabu: "They know the sea. We do not."
+- Suke-san: "You are sure?" / Ako-chan: "Yes." / Suke-san: "Then go north."
+- Obia turns the ship north. The three whales adjust with them.
+- **Key fact:** Ako-chan's exact summary of whale message: "North. Go north first. Follow us. There is a way." Suke-san's line: "Then go north." — use exact quotes if referenced.
+
+---
+
+## Day 47 — `story_day: 47`
+
+### Ep53 — Two Dogs on a Ship (heading north)
+- Air colder. Sea darker and rougher.
+- DangoとSuke-sanのポジション争い: Dango left in mornings, Suke-san right at meals, Dango at feet when she writes, Suke-san at cabin door.
+- Daru notices and asks. Gabu: "Dogs." Daru: "But what are—" / Gabu: "Quiet."
+- At evening, all three (Ako-chan, Dango, Suke-san) stand at the front rail looking north together.
+- Ako-chan feels something large and unnamed in her chest.
+- **Key fact:** Rivalry pattern established on the ship. Neither dog speaks about it.
+
+---
+
+## Day 49 — `story_day: 49`
+
+### Ep54 — Something in the Water (far north Pacific)
+- Mist on water. Very cold. Gabu and Daru in pods. Breath visible.
+- Obia stops the ship: "Something in the water. Not a whale. Smaller. But not moving the way a fish moves."
+- Suke-san and Dango both go to the rail. Dango spots it: "There."
+- Small dark brown shape, floating on its back, 30 meters off, paws pressed to chest, eyes open.
+- Ako-chan feels: tired, very cold, frightened — but still trying to stay afloat.
+- Ako-chan: "It is an otter. A small one." / Ako-chan: "Get closer. Slowly."
+- **Key fact:** Riro first spotted floating on its back, paws pressed to chest. Ako-chan feels his exhaustion.
+
+### Ep55 — Riro (rescue)
+- Obia lowers a flat platform to water level. The otter watches, then paddles over and climbs on.
+- Ako-chan lifts Riro up: soaked, very cold, surprisingly heavy.
+- Riro presses himself to her chest, head under her chin, and stays still.
+- Dango makes a small sound.
+- Daru: "What is its name?" — Ako-chan listens. **Riro's name confirmed: "Riro."**
+- **Key fact:** Riro's rescue exact sequence above. His first action: press to Ako-chan's chest. Dango's first reaction: small sound. Use these if referenced.
+
+---
+
+## Day 50 — `story_day: 50`
+
+### Ep56 — The Fur (Riro wakes, grooming)
+- Riro slept a long time on a blanket. Dango watched him from 2 meters the whole time, chin on paws.
+- When Riro wakes: first thing he notices is his fur is wrong (flat, tangled). He begins grooming immediately.
+- Riro: "My fur. It is wrong." / "I need to fix it. Now."
+- Systematic grooming: both front paws, stomach, chest, sides. Very serious.
+- Daru: "What is he doing?" / Gabu: "Grooming." / Daru: "But he has been doing it for a very long time." / Gabu: "Yes."
+- Suke-san watches once, then looks away: expression says he understands nothing about this.
+- Riro finishes: "Better. A little better. I need to do it again."
+- **Key fact:** Riro's grooming obsession established here. First words: "My fur. It is wrong." Use exact quotes if referenced.
+
+### Ep57 — Dango's Feelings (first jealousy explosion)
+- Riro cannot reach his back. Asks Ako-chan to help: "You have no fur. But yes. Please."
+- Ako-chan grooms Riro's back with her fingers. Riro's eyes half-close.
+- Dango moves from 6 feet away and sits directly between Ako-chan and Riro. Ako-chan: "Dango." — Dango looks at the sea.
+- Ako-chan moves around him and continues.
+- Dango stands, circles, sits against Ako-chan's leg on the other side. Ears flat. Long fluffy tail very still.
+- Daru: "What is Dango doing?" / Gabu: "Feelings."
+- Ako-chan puts her arm around Dango: "I know. You are still my Dango." Dango: small unhappy sound.
+- **Key fact:** First jealousy explosion. Dango doesn't confront Riro — he inserts himself between them. Gabu's summary line: "Feelings." Use exact quotes if referenced.
+
+---
+
+## Day 51 — `story_day: 51`
+
+### Ep58 — Seven (chapter end, turning south)
+- Whales come very close — barnacles visible on the nearest one.
+- Ako-chan listens and understands: "They are ready. They say: now. Now we turn south."
+- Obia turns the ship south. Whales go ahead.
+- Riro at the rail: fur full and dry now. Riro: "Big." (of whales) / Ako-chan: "Yes."
+- Formation at the rail: Dango left, Suke-san right (a little back, a little to the side). Riro beside Ako-chan.
+- Daru: "Seven now. Seven!"
+- Ako-chan writes in red notebook: **Day fifty-one. North Pacific. Riro is with us. We go south now.**
+- **Key fact:** Chapter 7 ends. Group is now seven. Riro joins without a formal joining speech — he was rescued. Whale message to turn south: "They are ready. They say: now. Now we turn south." Use exact notebook entry if referenced. Day 51夜にObiaがRiro用カプセルを製作・船体外側に取付。Day 52朝（Ep59）にRiroへ披露。
+
+---
+
+# Story Timeline — Season 1, Chapter 8
+
+## Day 52 — `story_day: 52`
+
+### Ep59 — South (first day heading south)
+- **朝：** ObiaがRiroを船体側面に呼ぶ。船体外側の喫水線付近に新しいユニット（カプセル）が取り付けられている。Obia: "Get in. The ship will carry you. You do not need to swim. And when we reach the equator — this will keep you cool." Riroが乗り込み: "Okay."
+- Ship turns south. Whales lead. Sea wide, pale sky. No land, no birds.
+- Formation at front rail: Dango left, Suke-san right (a little back, a little to the side).
+- Obia: "The whales know the way. I will follow them."
+- Whale voices (felt, not heard as words): *This way. Come. We know.*
+- Ako-chan: "She had trusted them in the north. They had brought her here. She would trust them now."
+- Riro checks fur at the rail: "Still very big." (of the sea)
+- Daru/Gabu pod exchange about the sun confirming direction — small quiet sound from Daru's pod.
+- Pods glow: Daru's warm green, Gabu's steady orange.
+- Ako-chan writes in red notebook: **Day fifty-two. Heading south. The whales go ahead. We follow.**
+- **Key fact:** Riroのカプセル初登場。Obiaが前夜（Day 51）に製作・船体に取付。以降RiroはカプセルでDaru/Gabuと同様に輸送される。カプセルは半開放式、Riroが任意で出入り可能。Obia台詞: "Get in. The ship will carry you. You do not need to swim. And when we reach the equator — this will keep you cool." Use exact wording if referenced. Whale voice message: "This way. Come. We know." Use exact notebook entry if referenced.
+
+---
+
+## Day 54 — `story_day: 54`
+
+### Ep60 — The Water Darkens
+- Sea changes color: no longer dark blue, almost black at edges. Heavier, slower.
+- Whales slow down.
+- Obia: water temperature dropping fast; current changing direction (now pushing back against them).
+- Gabu (from pod): "Something large is under us. I can feel it through the hull. Moving slowly. Very far down."
+- Suke-san's deck patrol (east-west loops) stops. He faces south, nose up, turns slowly into the wind. Stays still a long time.
+- Daru: "What is Suke-san doing?" / Gabu: "Smelling." / Daru: "Smelling what?" / Gabu: "Something in the air. Not here yet. But coming."
+- **Key fact:** First signs of the approaching storm. Suke-san's instinct activates — he stops his loops and faces south. Gabu feels something large moving under the hull. Use exact Gabu dialogue if referenced. (カプセルはEp59で既に登場済み)
+
+---
+
+## Day 55 — `story_day: 55`
+
+### Ep61 — The Line
+- Suke-san stands at front of ship all morning, facing south. Not his usual loops.
+- Dango stands beside Suke-san looking south. Low sound in throat — not a bark.
+- Dango: "Nothing yet. But it is there. In the south. It is coming."
+- Riro comes on deck, looks at sky, goes back inside without a word.
+- A dark line visible on the south horizon — darker than the grey sky, not there the day before.
+- Obia: "Pressure dropping. Wind building from the south. It is coming fast."
+- Ako-chan: "How long?" / Obia: "Hours. Maybe less."
+- Daru/Gabu pods confirmed locked. Ako-chan tells Riro: "When it comes — stay in your capsule." Riro: "Yes."
+- Dango sits against Ako-chan's leg and presses close.
+- **Key fact:** Storm line visible on south horizon. Ako-chan feels something colder and sharper than the usual disturbance. Suke-san does not move all morning. 嵐中のRiroはカプセル内（船体外側、喫水線下）で密閉保護される。
+
+---
+
+## Day 56 — `story_day: 56`
+
+### Ep62 — The Storm
+- Storm hits before dawn: wind, sideways rain, then massive waves.
+- Dango below deck, lying flat. Riro is sealed in his capsule on the hull (below the waves, held fast to the ship). Daru/Gabu locked in pods.
+- Ako-chan refuses to go inside: "I need to hear the whales. I have to stay here."
+- Suke-san comes out wet and sits right against Ako-chan's leg — not a little to the side, right against her. "You do not have to stay." / Suke-san: "I know." — stays.
+- Whale voices still audible below the noise: *We are here. Hold on.*
+- **Key fact:** Suke-san breaks his usual slightly-back-slightly-to-the-side position and sits right against Ako-chan. His "I know" (and staying) is a key moment of loyalty. Whale message in the storm: "We are here. Hold on."
+
+### Ep63 — I Hear Them
+- Ako-chan directs Obia via whale voices: "Left. Turn left. Now." — misses a massive wave that would have hit them straight on.
+- Obia: "How did you know?" / Ako-chan: "The whales. They told me."
+- Ako-chan takes off glasses, puts them in pocket — can't see through rain.
+- Whale voice directions (felt, not quoted): *Left. Past the wave. Good. Hold this direction.*
+- Suke-san's paw presses against Ako-chan's foot when ship tilts steeply — pulls it back immediately.
+- Suke-san: "Are you afraid?" / Ako-chan: "Yes." / Suke-san: "Good."
+- Note: Suke-san's "Good" echoes Daru's "Good. That means it is real." (Ep25). Same word, different quality — quieter, more real.
+- **Key fact:** Ako-chan's decisive leadership under storm: directs ship via whale voices while afraid. Exact exchange: Suke-san: "Are you afraid?" / Ako-chan: "Yes." / Suke-san: "Good." Use if referenced. Her glasses are in her pocket for this and following storm episodes.
+
+### Ep64 — The Whales
+- Largest wave of the storm: a dark wall from the east, taller than the ship. Obia: "I cannot turn in time."
+- All three whales arc around at speed and position between ship and wave.
+- Wave hits the whales, not the ship directly. Ship shakes, cold water on deck, but not the full force.
+- After the wave passes: one whale comes very close to the ship. Ako-chan sees white patches on its dark skin (same patches as in Ep58 — "like small rocks fixed to its body").
+- Ako-chan extends her hand over the rail toward the whale. Whale holds still, then goes back ahead.
+- Ako-chan: "Thank you." (very small, very quiet)
+- **Key fact:** The whales physically protect the ship with their bodies. White patch description matches Ep58 (barnacles on skin). Ako-chan's "Thank you" — first words spoken to the whales directly. Use exact description if referenced.
+
+---
+
+## Day 57 — `story_day: 57`
+
+### Ep65 — All Night
+- Storm continues all through the night into Day 57.
+- Below deck: Dango flat on floor, ears down, silent. Riro is in his capsule (outside hull, below waterline, sealed). Gabu checks sensor: "The capsule is holding. He is all right."
+- Daru/Gabu pod exchange: "Is it over?" / "No." / "When?" / "I do not know." / "Is Ako-chan all right?" / "She is on deck." / "In this?" / "Yes." — Daru, quietly: "Then she is all right." (telling himself)
+- On deck: Ako-chan still standing, coat soaked. Sky moving from black to dark grey.
+- Suke-san beside her all night, not speaking.
+- Whale voices: *Hold. This way. Hold.*
+- Obia: "The pressure is changing. I think it is ending." / Ako-chan: "How long?" / Obia: "Soon, I think."
+- Ako-chan keeps giving directions — one more wave, one more voice.
+- **Key fact:** Daru's quiet line "Then she is all right" (said to himself). All night storm. Suke-san stays on deck beside Ako-chan all night without speaking. Use exact Daru/Gabu exchange if referenced.
+
+---
+
+## Day 58 — `story_day: 58`
+
+### Ep66 — Dawn
+- Storm ends suddenly — rain stops, wind falls, waves shrink.
+- Thin pale line of light in the east: dawn.
+- Obia: "The storm has passed."
+- Suke-san: "It is over." / Ako-chan: "Yes."
+- Dango comes up from below: sits against Ako-chan's leg, head to her knee. She puts her hand on his head.
+- Riro comes up: checks fur in five or six places, smooths it. "I need to fix all of this." Voice quiet and tired (unlike his usual urgency).
+- Daru and Gabu watching through pod walls — both safe.
+- Whales still ahead, moving south.
+- Ako-chan: exhausted but all seven are present.
+- **Key fact:** Storm ends on Day 58 at dawn. Riro's fatigue shown through quieter-than-usual grooming reaction.
+
+### Ep67 — The Glasses
+- Ako-chan alone on front deck after everyone goes inside to rest.
+- She sits down on the deck, pulls up her knees.
+- She takes off her red glasses and holds them in her hands.
+- Without glasses: world soft at edges, sea and sky blur of grey — but the whales still visible.
+- She cries. Big tears, slow then fast. Hand over mouth. No sound.
+- Internal: she told Suke-san she was afraid (Ep63) but said it quickly and looked away. "The real fear — she kept it inside. All of it." The fear when the biggest wave came, when the ship went up.
+- Dango finds her. Pushes head against her chest.
+- Ako-chan holds him with both arms.
+- Ako-chan: "I was so scared." (very small, very quiet)
+- Dango stays.
+- **Key fact:** Ako-chan takes off her red glasses for the first time outdoors. She cries for the first time since the journey began — the real fear she held back during the storm. Exact line: "I was so scared." Dango finds her and stays. Use if referenced.
+
+---
+
+## Day 59 — `story_day: 59`
+
+### Ep68 — Closer (end of Chapter 8)
+- Next morning: calm, flat sea, pale blue sky (first blue in days). Whales moving slightly slower.
+- Everyone on deck one by one: Riro (checking fur carefully, no rush), then Gabu/Daru pods visible, Suke-san last.
+- Dango does not leave Ako-chan's side all morning.
+- Nobody talks about the storm. But something changed: Riro looks at Ako-chan differently (quieter, closer). Suke-san passes a little nearer. Daru quieter. Gabu watches more.
+- Obia: "The storm pushed us south very fast. We covered a lot of ground." / "Several days more than I expected. We are much closer to the south now."
+- Whale voices (felt): *Not far now. Hold on. Almost there.*
+- Ako-chan writes in red notebook: **Day fifty-nine. The storm has passed. We are all here. We are closer now.**
+- She turns her face toward the pale cold sun. For the first time in days, she feels warm.
+- **Key fact:** Chapter 8 ends. The storm pushed them several days further south than expected. The bonds among the group have quietly deepened — shown through changed behavior, not words. Whale voice: "Not far now. Hold on. Almost there." Use exact notebook entry if referenced.
+
+---
+
+# Story Timeline — Season 1, Chapter 9
+
+## Day 61 — `story_day: 61`
+
+### Ep69 — The Ice
+- Air changes: clean, bright, very still, sharp in nose and throat.
+- Icebergs appear in the water — small at first, then larger.
+- Riro in sealed capsule. Daru and Gabu in pods (orange light, green light through glass).
+- Dango presses close, shivers once, presses closer.
+- Suke-san stands at front rail, does not shiver, nose up into the cold wind.
+- One iceberg passes close: taller than anything on deck, pale blue at base, white above, moves in silence.
+- Whale voices: *Close now. Not far.*
+- Ako-chan grips the rail. Feels the pull from the south — same as England, but much stronger.
+- **Key fact:** First icebergs. Dango shivers, Suke-san does not. Whale message: "Close now. Not far."
+
+---
+
+## Day 63 — `story_day: 63`
+
+### Ep70 — White
+- Ako-chan sees it first: a thin white line on the horizon — not water, not sky.
+- Dango barks once — short and sharp.
+- Obia: "Antarctica. We are very close now."
+- Whales slow and move beside the ship: one on left, one on right, one behind. No longer ahead.
+- Suke-san's ears up; Dango stands straight; Daru presses face to pod glass; Riro looks out then goes back in.
+- Gabu watches without a word.
+- Obia: "One day. Maybe less. The current is with us."
+- Dango sits beside Ako-chan and presses his shoulder to her leg. Neither speaks.
+- **Key fact:** Antarctica first sighted. Whales move beside the ship instead of ahead. Obia's line: "One day. Maybe less. The current is with us."
+
+---
+
+## Day 64 — `story_day: 64`
+
+### Ep71 — Before the Cold
+- Before dawn, Obia distributes cold-weather gear.
+- **Ako-chan:** ultra-light future suit — almost no weight but blocks all cold completely. Ako-chan: "How does it do that?" / Obia: "It keeps the warmth in. It does not let the cold through."
+- **Dango and Suke-san:** small boots for each paw + close-fitting vest. Dango examines his feet with great seriousness. Suke-san puts his on without a sound, stands still, ears up.
+- **Daru, Gabu, Riro:** pods and capsule switched to Antarctic mode — brighter, stronger, deeper warmth.
+- Gabu: "Is it colder there?" / Obia: "Much colder. But you will be safe." / Daru: "How cold?" / Gabu: "Quiet."
+- Ice shelf visible ahead through the pale light — flat white edge, long and solid and enormous.
+- Ako-chan: "Ready?" Suke-san's ears go back and forward once. That was enough.
+- **Key fact:** All gear confirmed. Obia's exact line on suit: "It keeps the warmth in. It does not let the cold through." Daru/Gabu exchange: "How cold?" / "Quiet." Use if referenced.
+
+---
+
+## Day 65 — `story_day: 65`
+
+### Ep72 — Land
+- They go ashore at the ice shelf in early light. Obia lowers a ramp. Ako-chan steps first.
+- Riro's capsule detaches from the ship and operates as a land movement unit on the ice.
+- The three whales surface one final time — all three at once, backs dark and enormous, steam rising from breaths.
+- Ako-chan walks to the ice edge and reaches her hand out over the water toward the nearest whale. The whale holds still, its eye on her — big and dark and calm.
+- Then the first whale goes under. Then the second. Then the third. Water is empty.
+- Suke-san sits beside Ako-chan. Dango presses against her other side.
+- Ako-chan writes in red notebook: **Day sixty-five. Antarctica. The whales went back. We go on.**
+- **Key fact:** Chapter 9 landing. Riro's capsule is now land-mode. The three whales leave one by one — final goodbye. Ako-chan reaches hand toward whale (no words). Notebook entry: "Day sixty-five. Antarctica. The whales went back. We go on." Use exactly if referenced.
+
+### Ep73 — Voices in Ice
+- They walk south on flat white ice. No trees, rocks, or hills.
+- Antarctic voices: unlike any Ako-chan has heard. Old. Very old. Coming from deep under the ice.
+- Ako-chan: "Something very old. Very far down. Like it has been there for a long time."
+- Daru: "Is it the thing we came to find?" / Ako-chan: "I do not know. It is not an animal. It is something else."
+- Obia: "The signal is here. I can feel it. Stronger than anywhere."
+- Gabu: "Something else is here too. Not the signal. Something alive."
+- Suke-san: "There. To the south." — and stops, ears flat, body still.
+- **Key fact:** Obia confirms signal is "stronger than anywhere" here. Gabu senses something alive. Suke-san pinpoints direction. Something is coming. Use exact lines if referenced.
+
+---
+
+## Day 66 — `story_day: 66`
+
+### Ep74 — Pen-san
+- An Emperor penguin chick comes running across the ice at full speed — very round, very fluffy, brown-grey with pale front. Wings out for balance.
+- Runs straight to Ako-chan and presses against her legs.
+- **Pen-san's first words:** "You came! You came, you came, you came! I knew you would come! I told them! I said, they will come, they will come from the north, and now you are here and you came!"
+- Pen-san introduces himself: "Pen-san!"
+- Pen-san to Dango: "Hello, dog!" — then turns back to Ako-chan.
+- Pen-san: "How long have you been waiting?" Ako-chan / Pen-san: "A long time. Many days. The voices told me. They said, wait here, and I waited."
+- Pen-san asks: "Can you pick me up? Please?" — Dango's ears go just slightly flat.
+- **Key fact:** Pen-san's exact first words above. His character: enthusiastic, non-stop, completely unafraid. He addresses Dango as "Hello, dog!" Use exact wording if referenced.
+
+### Ep75 — The Colonel
+- Colonel Adelie arrives behind Pen-san: Adélie penguin, old, precise, dark back/white front, each step exactly placed.
+- He inspects each group member in order — one look each — until he reaches Obia. He stops. Long, careful look. Not fear, not anger. Just very careful.
+- Pen-san: "This is Colonel Adelie! He is my teacher and my guard! He knows everything about everything!"
+- Colonel: "Stand straight, Pen-san."
+- To Ako-chan: "You heard the voices. The ones from the south." / Ako-chan: "Yes." / Colonel: "I know who you are. You are expected."
+- Colonel: "We will talk tonight. There is much to say." Turns south. "Come. Follow me."
+- Suke-san makes one quiet sound in his throat at the Colonel's look at Obia.
+- **Key fact:** Colonel Adelie's arrival sequence. His first look at Obia is very long and careful. Exact line: "I know who you are. You are expected." / "We will talk tonight. There is much to say." Use exactly if referenced. He does NOT speak to Obia in this episode.
+
+---
+
+## Day 67 — `story_day: 67`
+
+### Ep76 — Up
+- Camp made in a hollow in the ice. Pen-san has talked non-stop all day.
+- **Pen-san's request:** "Pick me up. Please. Please, please, please."
+- Ako-chan lifts him — heavier than expected. He presses to her chest with great force, gives a satisfied sound.
+- Dango watches from 2 meters: ears go flat, tail drops, does not move.
+- Dango takes one step toward Ako-chan, then stops. He TURNS HIS BACK to her. Sits facing south. But his ears stay pointing back toward her the whole time.
+- Suke-san watches Dango, walks over, sits beside him just to the right. Neither speaks. Both look south.
+- Pen-san: "Why is the dog sitting that way?" / Ako-chan: "He is thinking." / Pen-san: "About what?" / Ako-chan: "Things."
+- **Key fact:** Dango's PEAK jealousy: he turns his back to Ako-chan. Suke-san silently sits beside him. Pen-san/Ako-chan exact exchange above. Use if referenced.
+
+---
+
+## Day 68 — `story_day: 68`
+
+### Ep77 — The Light Again
+- At night, Ako-chan wakes. Camp quiet.
+- Obia is very still. Then the light appears — from Obia's chest. Same location and same strange color as Ep16 on the night train (Croatia). "Not blue. Not white. Not any color she had a word for." This time it lasts much longer.
+- Colonel Adelie is awake, standing three steps away in the dark, watching Obia. Completely still.
+- The light goes out. Obia's blue-white eyes return.
+- Colonel (very quietly): "What is that?" / Ako-chan: "I asked once. Obia said it was checking data."
+- Colonel says nothing more. He walks back and sits upright, facing Obia, in the dark. Does not lie down.
+- **Key fact:** Second data transmission scene. Same light as Ep16 (exact description: "not blue, not white, not any color she had a word for"). This time much longer. Colonel Adelie witnesses it and begins watching Obia from this point. His question: "What is that?" Ako-chan's reply quotes Ep16 exactly: "I asked once. Obia said it was checking data." Use exact wording if referenced.
+
+### Ep78 — Nine (end of Chapter 9)
+- Aurora Australis lights the sky: long slow waves of green at edges, white at center.
+- Everyone comes out — Dango, Suke-san, pods at window, Riro's capsule door open, Pen-san. Even Gabu moves close to his pod window.
+- Nobody speaks for a long time.
+- The pull from the south is the strongest yet — not fear, but something older, like the ice itself breathing.
+- Dango lies against Ako-chan's left side. Pen-san sits on her right, watching the sky quietly.
+- Colonel Adelie sits apart from the group, watching them. His eyes rest on Obia.
+- Ako-chan writes in red notebook: **Day sixty-eight. Antarctica. The light fills the whole sky. We are all here. Nine.**
+- Final line: "Something would begin tomorrow."
+- **Key fact:** Chapter 9 ends. Group is now nine: Ako-chan, Dango, Suke-san, Daru, Gabu, Riro, Pen-san, Colonel Adelie, Obia. Aurora Australis described as green at edges, white at center. Notebook entry: "Day sixty-eight. Antarctica. The light fills the whole sky. We are all here. Nine." Use exactly if referenced. Colonel Adelie is watching Obia from a distance.
+
+---
+
+# Story Timeline — Season 1, Chapter 10
+
+## Day 69 — `story_day: 69`
+
+### Ep79 — The Watch (morning)
+- Morning after the aurora. Colonel Adelie openly watches Obia from a distance — his gaze does not leave Obia throughout the morning.
+- Obia goes through its usual routine (checks pods, adjusts Riro's capsule, reads sensors) — careful, unhurried, under the Colonel's eyes.
+- Pen-san stands close to Ako-chan and says nothing. Very unusual for Pen-san.
+- Suke-san watches the Colonel watch Obia (not Obia directly).
+- The pull from the south is stronger than any previous day.
+- Obia stops at the sensor panel: "Something is changing." (said to no one, just into the cold air)
+- The Colonel takes one step forward. Obia does not turn.
+- **Key fact:** Colonel Adelie's monitoring of Obia is now open and deliberate. Suke-san is watching the Colonel, not Obia. The disturbance is at its strongest yet.
+
+### Ep80 — The Numbers (later that morning)
+- Obia goes to the navigation table and pulls up sensor data from the whole journey: England, Croatia, Jordan, Japan, the Pacific.
+- Obia: "The source is here. Under the ice. Very deep. The readings today are the biggest I have seen. Bigger than at sea. Bigger than anything before."
+- Obia: "Something is building. At the source. Very fast."
+- Colonel Adelie comes in, studies the screen. To Obia: "You collected all this. From England." / Obia: "Yes."
+- The Colonel says nothing more and walks out.
+- Numbers keep moving after he leaves.
+- Ending: "Outside, the air was very still. Too still."
+- **Key fact:** Obia has been collecting disturbance data since England and has it all on the navigation table. The Colonel's reaction is controlled — no outburst, just observation.
+
+---
+
+## Day 70 — `story_day: 70`
+
+### Ep81 — White (before dawn)
+- The south wind hits before dawn, very fast. Suke-san's ears go flat; he makes one low sound in his throat. Then the wind hits: sideways snow, hard and sharp.
+- Obia calls: "Back to the ship! Now!" They are 200 meters from the ship.
+- Ako-chan grabs Pen-san under one arm. Dango runs. Suke-san presses to her right. Obia pushes Gabu's pod from behind.
+- Obia's voice through the white: "Straight ahead! Fifteen meters. Keep going."
+- Dango on her left leg, Suke-san on her right — they move together through the blizzard.
+- The hull appears: dark and solid. They get up the ramp. Everyone in. Obia last.
+- The sound when the door seals: "Long and low, like the whole world breathing hard. Not the storm at sea. Something that came from the ground, not from the sky."
+- Pen-san is very still in her arms.
+- **Key fact:** Obia calls the retreat. Exact navigation voice line: "Straight ahead! Fifteen meters. Keep going." The blizzard sound is described as coming from the ground, not the sky — different from the sea storm.
+
+### Ep82 — Ice (late that night)
+- A long slow groan starts from the hull. Engines tried — ship moves a little, then stops.
+- Obia: "Ice. Moving against the hull. From the south and east."
+- White shapes visible through porthole: slow, enormous, pressing from both sides.
+- Dango flat on the floor, chin down, ears flat. Suke-san stands legs wide, nose at the wall where the sound comes from.
+- Colonel Adelie in the corridor: watches porthole, then Obia, then porthole, then Obia.
+- Obia: "We are surrounded on two sides. North and west are still open. But not for long."
+- From his pod, Daru: "Is the ship all right?" — Nobody answers.
+- **Key fact:** Ship is trapped by moving sea ice. Colonel Adelie's watch-Obia/watch-porthole rhythm established. Daru's question goes unanswered.
+
+---
+
+## Day 71 — `story_day: 71`
+
+### Ep83 — What Obia Knows (early morning)
+- Groaning all night. Ako-chan did not sleep. Suke-san paced (three steps, turn, three steps), very quiet.
+- Obia: "I know where the gap is. There is a gap in the ice. To the east. About three kilometers. It will not stay open for long."
+- Colonel Adelie enters. "How do you know this?"
+- Obia: "The data. From the first day. I read the disturbance from England to here. Every reading. Every day. The ice is moving in the same pattern. It is opening to the east. Now. For a short time only."
+- Colonel: "You carried this data all the way from England." / Obia: "Yes." / Colonel: "You did not tell us." / Obia: "There was nothing to tell. Until now."
+- Obia shows all the data on screen: England, Croatia, Jordan, Japan, Pacific, Antarctica.
+- Colonel (slowly): "East. You say east." / Obia: "Yes. East. But not for long."
+- Suke-san sat and did not look away from Obia.
+- **Key fact:** Obia's full data archive revealed. Exact exchange above — use if referenced. Suke-san is silently paying close attention.
+
+### Ep84 — East (morning)
+- Ako-chan: "How long do we have?" / Obia: "An hour. Maybe two. I do not know exactly."
+- Suke-san puts front paws on table edge and studies the screen. Then steps down without speaking.
+- Colonel (to himself): "This data. You carried it from England to here." — not a question.
+- Pen-san (very quietly): "What does it mean?" / Ako-chan: "It means we go east."
+- Colonel to Ako-chan: "Is this what you want to do?" / Ako-chan: "Yes." / Colonel nods once. To Obia: "Come." — Obia follows.
+- Engines start. Ice scrapes. Then the scraping softens — the gap opens.
+- Obia from engine room: "East. Hold east."
+- Open dark water appears outside the porthole.
+- Ako-chan lets out a long breath.
+- **Key fact:** Ako-chan makes the decision. Colonel defers to Ako-chan. Obia's line from engine room: "East. Hold east." They get through the gap.
+
+### Ep85 — Suke-san Watches (before midday)
+- Ice lets go just before midday. Hull free. Ship moves into open water.
+- Ako-chan's hands shake slightly. She holds the rail.
+- Suke-san comes and stands right beside her (not slightly to the side — right beside her, shoulder to her leg). She puts her hand on his back. He stays.
+- Blizzard softens to slow straight-down snow.
+- Suke-san watches Obia put the data away — all the readings, every day of the journey — back in its place. No hurry. No noise. Just the work.
+- Obia does not look up, does not check if anyone is watching, does not speak. Just does what it always does.
+- Suke-san's ears go back, then forward. He watches a long time.
+- Suke-san does not move away from Ako-chan's leg.
+- **Key fact:** Suke-san breaks his usual slightly-back-slightly-to-the-side position: stands right beside Ako-chan (shoulder to leg). He watches Obia work in silence. This is the moment his certainty forms.
+
+### Ep86 — The First (that evening)
+- Suke-san walks to Obia. Stops two steps away. Sits.
+- **Suke-san's exact words:** "You have no bad feeling in you." / [Obia silent] / "I watched. Since Japan. I could not tell before. You are not like a dog. Not like anything I know. So I could not tell." / [pause] / "But today. The way you worked. No hiding. No stopping. Just helping. The same as always." / "No bad feeling. None. I am sure now."
+- Obia does not speak. Its eyes stay on Suke-san.
+- Suke-san walks back to his place near Ako-chan.
+- Colonel Adelie watches the whole exchange from across the ship.
+- Colonel looks at Obia for a long time after Suke-san leaves. Does not speak. Does not move. But "something in the way he held himself was different now."
+- **Key fact:** Suke-san's exact words above — use these if referenced later. He is the FIRST to stand for Obia. The Colonel's position is visibly but silently shifting.
+
+---
+
+## Day 72 — `story_day: 72`
+
+### Ep87 — Still There (morning)
+- Blizzard gone. Sky clear, pale blue. Ice flat and still. Ship in open water.
+- Ako-chan goes out early and listens. The disturbance is still there.
+- Ako-chan: "It is still there." / Obia: "Yes."
+- Ako-chan: "We got through the blizzard. We got out of the ice. But the source—" / Obia: "The source is still there. Yes."
+- Ako-chan: "Can we stop it?" / Obia: "I do not know."
+- Ako-chan: "Then what do we do?" / Obia: "I am still looking. At the data. I am still looking."
+- The others come out one by one. Nobody speaks.
+- Final: the danger is stopped, but "the root of it — far below the ice — was still connected to something."
+- **Key fact:** Confirmed that stopping the immediate crisis (blizzard + ice) did NOT resolve the source. The disturbance remains. Obia: "I do not know" — no false reassurance. Use exact exchange if referenced.
+
+### Ep88 — The Root (evening, end of Chapter 10)
+- Evening. Everyone rests. Colonel Adelie watching Obia — but "something was different" from his earlier watching.
+- Suke-san near Ako-chan, eyes half-open.
+- Ako-chan writes in red notebook about: the blizzard, the ice, the gap east, Obia's data, Suke-san walking to Obia, what Suke-san said.
+- She writes in the notebook: **"Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice."**
+- Final: "Something was still there. Under the ice. Connected to something far away. They did not know what it was. But it was not over."
+- **Key fact:** Chapter 10 ends. The notebook entry is: "Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice." Use exactly if referenced. The crisis is over; the root cause is not.
+
+---
+
+# Story Timeline — Season 1, Chapter 11
+
+## Day 73 — `story_day: 73`
+
+### Ep89 — Goodbye (morning)
+- Pen-san presses against Ako-chan's legs. "You cannot go. Not yet."
+- **Ako-chan's promise:** "We will come back. One day." / Pen-san: "Promise?" / Ako-chan: "Yes. I promise."
+- Pods and capsule loaded. Suke-san walks up the ramp without looking back.
+- **Colonel Adelie speaks to Obia directly for the first time (positively).** He walks to Obia and stops two steps away: "You carried the data from England to here. Every reading. Every day." / Obia: "Yes." / Colonel: "You did not hide it. You just worked. That is enough." — then turns and walks back.
+- Pen-san has both small wings raised. Colonel Adelie stands beside him, straight and still.
+- Ship moves north. Two shapes grow smaller against the white.
+- **Key fact:** Ako-chan's promise to Pen-san: "We will come back. One day." Colonel's exact words to Obia above — use if referenced.
+
+---
+
+## Day 76 — `story_day: 76`
+
+### Ep90 — Heading North (3 days north of Antarctica)
+- Ice gone. Water dark and moving. Sky grey. Ship quiet — a different quiet without Pen-san.
+- Dango stays close to Ako-chan, not walking the deck.
+- Riro at the front rail watching the water. Says where he was found is "north of here. Far north."
+- Riro on going back: "I do not know if it is my home. But the food is good there. And the water is right."
+- Gabu (from pod): "The water is getting warmer. I can feel it through the walls."
+- Ako-chan opens the red notebook, looks at the last words, closes it again without writing.
+- **Key fact:** Riro's home location is "north of here" from 3 days north of Antarctica = North Pacific.
+
+---
+
+## Day 80 — `story_day: 80`
+
+### Ep91 — Riro (North Pacific)
+- Riro recognizes the water. "This is the water. This is it." / "I know this water. I know the way it moves."
+- Obia: "The current matches. This is the right place."
+- Riro asks for one last grooming. Ako-chan kneels and runs her fingers over his back — slow and careful. Riro's eyes go half-closed.
+- Dango sits right beside Ako-chan and watches. Makes no sound.
+- **Riro's farewell words:** "Good water. Good food. Good fur." Pause. "Good friends."
+- Riro climbs the rail, looks back once, drops into the sea.
+- A small dark shape rises ten meters out — Riro looks back, fur flat and wet, eyes bright — then turns and goes under. Does not come back up.
+- Dango puts his chin on the rail and stays like that for a long time.
+- **Key fact:** Riro's exact farewell: "Good water. Good food. Good fur. Good friends." Dango does not show jealousy — just watches and stays.
+
+---
+
+## Day 83 — `story_day: 83`
+
+### Ep92 — Suke-san (Japan)
+- Japan coast: dark green hills, pine and wet earth smell.
+- Dango and Suke-san stand at the front rail looking at the green hills together. Neither speaks at first.
+- **Dango and Suke-san's farewell exchange:** Suke-san: "You are not bad. For a soft dog." / Dango (tail moves once): "You are not bad. For a hard one."
+- Suke-san to Ako-chan: "You heard the animals. All the way. You did not stop." / Ako-chan: "No. I did not stop." / Suke-san: "The south is still there. The root of it." / Ako-chan: "I know." / Suke-san: "You will keep listening." / Ako-chan: "Yes. I will."
+- **Suke-san to Obia:** "Watch over her. That is all." / Obia: "Yes."
+- Suke-san goes down the ramp, walks toward the green trees. Does not look back.
+- Dango watches until Suke-san is gone, then sits looking at the place where Suke-san was.
+- Ako-chan puts her hand on Dango's back and keeps it there.
+- **Key fact:** Suke-san's words to Obia: "Watch over her. That is all." Dango/Suke-san exchange above — use exact quotes if referenced.
+
+---
+
+## Day 88 — `story_day: 88`
+
+### Ep93 — Five (5 days after Japan)
+- Five on the ship: Ako-chan, Dango, Obia, Daru (pod), Gabu (pod).
+- Dango walks the deck in slow loops — the way Suke-san used to. He is not thinking about it.
+- Daru asks repeatedly how far to Croatia. Gabu (from pod): "You will see it when you see it." / Daru: "I know that." (but keeps watching from the glass)
+- Ako-chan listens: the pull from the south is still there, far away, "like something very loud had moved far away and was still moving."
+- She thinks: Riro is in the water. Suke-san is in the trees. Pen-san is on the ice.
+- She looks at the two pod lights (green and orange) and thinks: still here. Some of them.
+- **Key fact:** Group is now five. Dango walking Suke-san's patrol route (not deliberate). The pull from the south has not shrunk but feels quieter/more distant.
+
+---
+
+## Day 95 — `story_day: 95`
+
+### Ep94 — Daru Part 1 (Dalmatian coast, Croatia — arrival)
+- Daru smells Croatia from inside his sealed pod, 200m from shore. "Open it. Open it now. I can smell it."
+- Out of the pod: sniffs air, turns left, turns right. "This is Croatia. This is my coast."
+- Recognizes a specific rock: "I know that rock. That one there. I know it."
+- Calls to Gabu's pod: "Gabu. Do you see? White rock. Very bright." / From inside pod, quietly: "I see."
+- Dango comes to the rail beside Daru, looks at the rock. Says nothing. Tail moves once.
+- Daru runs to Ako-chan's feet, back to rail, back to her feet. Cannot stop moving.
+- She watches him run. She laughs. He stops and looks up at her. She knelt and held out her hands. (Scene continues in Ep95.)
+- **Key fact:** Ep94 ends with Ako-chan kneeling, hands extended — Ep95 picks up from this beat. Use exact quotes above if referenced.
+
+---
+
+
+### Ep95 — Daru (Part 2) (Dalmatian coast, farewell)
+- Daru runs into Ako-chan's hands. Presses his whole body against her palms. He is warm and very still.
+- **Daru's farewell words:** "You are back." / Daru: "Yes. I am back."
+- Daru looks at Dango — Dango makes a low sound in his throat. Not a bark. Something quieter. Something for just the two of them.
+- Daru looks at Gabu's pod one more time (orange light steady and warm).
+- He climbs to the top of the rail and drops to the white rock below.
+- Runs left, runs right, finds a crack in the limestone, comes back out.
+- Climbs to a higher rock. Turns to face the ship. One still moment. Head high.
+- Then he turns. And he is gone.
+- Ako-chan stays at the rail for a long time after.
+- **Key fact:** Dango and Daru's farewell exchange above — use exact words if referenced. This is Daru's last scene.
+
+---
+
+## Day 98 — `story_day: 98`
+
+
+### Ep96 — Gabu Part 1 (Wadi Rum, Jordan — arrival)
+- **Travel note:** Obia took a different (faster) way south from Croatia (Day 95) to Jordan (Day 98) = 3 days. Established in opening line: "Obia took a different way south." No further explanation needed.
+- Red walls, pale sand, dry still air. No wind. No sound. Just the color of the rock.
+- Gabu steps out of pod and stops. Studies the red rock, pale sand, deep blue sky above the walls. Very still.
+- Obia: "The sensors say this is the right place." / Gabu (after a pause): "I know. I know this place."
+- Gabu walks down the ramp slowly. Each step careful. Not afraid — just paying attention.
+- Reaches the sand and presses all four feet down. "Warm. The right kind of warm."
+- He breathes in. Not in a hurry. He never was.
+- Ako-chan watches from a little back. Dango is on the ramp, looking at the sand, then the sky, then Gabu.
+- The pull from the south: still there. Small now. Far away. But still there.
+- (Scene continues in Ep97.)
+- **Key fact:** Ep96 ends with Gabu standing in the desert. The lizard dialogue and farewell are in Ep97. Use exact quotes above if referenced.
+
+---
+
+
+### Ep97 — Gabu (Part 2) (Wadi Rum, farewell)
+- Gabu turns to Ako-chan. She stands beside him — not too close.
+- Gabu: "The lizards will come back. When the south is quiet. They will come back."
+- Ako-chan: "Yes. I think they will."
+- Gabu: "I will count the days. Until they come back. I will count."
+- Ako-chan: "You will know the full pattern." / Gabu: "Yes."
+- Long eye contact. She does not look away. He does not either.
+- Gabu turns toward Obia at the top of the ramp. Looks for a long time — slow and careful.
+- **Gabu's farewell to Obia:** One slow nod. Obia's eyes are steady. It does not speak.
+- Gabu turns away. Walks toward the nearest red wall. Slow. Each step the same. No hurry. No looking back.
+- Goes around the rock. Gone.
+- Ako-chan stands in the hot sand. Red walls, blue sky. Pull from the south — small and far away.
+- Dango comes down the ramp and stands beside her. They look at the place where Gabu went.
+- Ako-chan: "She let out a long breath."
+- **Key fact:** Gabu's farewell to Obia: one slow nod (non-verbal acknowledgment). "I will count the days" echoes his Ep36 character. Exact exchanges above — use if referenced.
+
+---
+
+## Day 103 — `story_day: 103`
+
+### Ep98 — Three (5 days after Wadi Rum, at sea heading west)
+- Three on the ship: Ako-chan, Dango, Obia. No pods, no capsule. Very quiet.
+- Ako-chan asks if the pull from the south is smaller. Obia: "No. Not smaller. But different." / Ako-chan: "Different how?" / Obia: "I do not know yet. I am still looking."
+- Ako-chan lists each friend in their home: Riro in the water, Suke-san in the forest, Daru on his coast, Gabu in the desert.
+- Obia: "They are all where they should be." / Ako-chan: "Yes. Are we?" / Obia (after Dango presses to her knee): "We will be. Soon."
+- First star out. Obia's eyes blue-white in the dark.
+- **Key fact:** Obia's line: "We will be. Soon." Obia returns to England with Ako-chan (does not disappear). The pull from the south has not diminished but has changed quality — Obia is still investigating.
+
+---
+
+## Day 107 — `story_day: 107`
+
+### Ep99 — Home (early morning)
+- Harbor arrival in grey morning light. Dango knows first — nose on rail, small certain tail-wag.
+- Ako-chan smells England: cold sea, earth, grass, something green.
+- They walk through town to the familiar road.
+- Ako-chan sees: the oak tree, the fence, the rosebush, the gate. Same as when they left.
+- The robin in the oak tree: not singing. Just sitting. (Mirror of Ep7 departure.)
+- Dango checks the hedge and rosebush, comes back to her feet.
+- **The hedgehog appears near the hedge.** Ako-chan kneels. Hedgehog: "You came back." / Ako-chan: "Yes. I came back." / Hedgehog: "The ground still feels wrong. But less. Not as loud." / Ako-chan: "I know." — The hedgehog looks at her, then goes back under the hedge.
+- Obia comes in last. Stands in the garden. Eyes quiet.
+- Final: Obia still beside her. "That was something she had not thought about before she left. Now it was just true."
+- **Key fact:** Robin not singing — mirror of Ep7. Hedgehog's assessment: disturbance still present but diminished ("less. Not as loud.") — consistent with root still under ice but immediate crisis resolved. Use exact hedgehog exchange if referenced. Obia is still present in England (confirmed: does not leave or disappear in Season 1).
+
+### Ep100 — The Red Notebook (evening, end of Chapter 11 / Season 1)
+- Evening. Dango asleep at Ako-chan's feet. Obia in the corner of the room, eyes blue-white.
+- Ako-chan opens the red notebook to the first page: *I have to go.* Four words. (Mirror of Ep5.)
+- She reads through entries: Italy, Croatia, Wadi Rum, Japan, the whales, the ice, the storm, the aurora, the blizzard, Suke-san walking to Obia.
+- Last entry (from Ep88): *Day seventy-two. Antarctica. The blizzard is gone. We are safe. But the pull from the south is still here. The root of it is still under the ice.*
+- **New entry she writes:** *Day one hundred and seven. England. We are home. Riro is in the sea. Suke-san is in the forest. Daru is on his coast. Gabu is in the desert. Pen-san and the Colonel are on the ice.*
+- **Final lines she writes:** *The root of it is still there. Under the ice. We have not reached it yet. But we went all the way. And we all came back.*
+- **Last line she writes:** *We are not finished.*
+- She closes the notebook. The robin makes one small sound in the oak tree. Then quiet.
+- **Key fact:** Use exact notebook entries above if referenced in Season 2 or later. "We are not finished." is the final written line of Season 1. Obia is in the room — it did not leave. Chapter 11 / Season 1 ends.
+
+---
+
+# Story Timeline — Season 2, Chapter 12
+
+## Background: Time Jump
+
+- Season 2 opens "a few years" after Season 1 ends (Day 107).
+- Ako-chan and Dango are back in England. Obia is with them.
+- Ruka (Western Hermann's tortoise baby, gender undetermined) joined the household just a few weeks before Season 2 opens — met in Puglia, Italy during a solo trip Ako-chan took.
+- General Adelie's rank: promoted to General during Season 2, but Ako-chan does not know this until she reunites with the Antarctic crew. In Chapter 12 (and any episode before the reunion), Ako-chan refers to the character as "the Colonel." Use "General Adelie" only after the reunion is depicted.
+- story_day in Season 2 resets to Day 1.
+
+## Day 1 — `story_day: 1`
+
+### Ep1 — Morning (S2)
+- Same garden in England. Oak tree taller. Rosebush grown along fence. Ako-chan and Dango are older.
+- **Season: summer.** "The roses on the fence were open. It was summer." — explicit in text.
+- Ruka introduced: tiny tortoise, lives by the south wall (sunniest spot).
+- Dango has senior status with Ruka — not jealous (tortoise, not jealousy-triggering).
+- **Key fact:** Garden is "the good kind of quiet" — disturbance fully resolved by Season 2.
+
+### Ep2 — Same morning
+- Backstory of finding Ruka: Ako-chan alone in Puglia, sitting on a wall above the sea. Ruka appeared in dry grass below. Ruka pulled inside when picked up, then slowly came back out.
+- **Key fact:** Ako-chan found Ruka "just a few weeks ago" before S2 Day 1 — Ruka is a fresh hatchling, smaller than Daru and Gabu were when they joined in S1. No voice heard — just a still, certain feeling.
+- Ruka's corner: the south wall, where sun stays longest.
+
+---
+
+## Day 2 — `story_day: 2`
+
+### Ep3 — Afternoon
+- Dango's seniority: crossed the sea, walked on ice, saw aurora, blizzard, the special ship.
+- Dango watches Ruka protectively without interfering.
+- Ako-chan: "You are very good with her." (Ako-chan uses "her" for Ruka casually — story keeps gender ambiguous overall.)
+
+---
+
+## Day 3 — `story_day: 3`
+
+### Ep4 — Evening
+- Hedgehog visits. **Hedgehog: "The ground is quiet. Not just tonight. For a long time now."** — disturbance fully gone.
+- Ruka meets the hedgehog for the first time. Hedgehog: "Good."
+- **Key fact:** Ako-chan tells hedgehog Ruka is "from Italy."
+
+---
+
+## Day 4 — `story_day: 4`
+
+### Ep5 — Evening
+- Ako-chan opens red notebook. First page: *I have to go.*
+- She re-reads the S1 Day 107 entry and the final line: *We are not finished.*
+- **New S2 Ep5 entry she writes:** *Everything is quiet. Ruka is on my desk. Dango is asleep. The oak tree is outside. We are all here.*
+- **Final line of that entry:** *For now.*
+- **Key fact:** Use these exact words if the S2 notebook is referenced later.
+
+---
+
+## Day 5 — `story_day: 5`
+
+### Ep6 — Evening
+- Obia's corner: near the old shed (same place as S1 Ep1 first sighting).
+- Dango walks past Obia without stopping — peaceful coexistence.
+- **Obia: "I hear something. But I cannot name it."** — first hint of the signal.
+
+### Ep7 — Night
+- Obia's eyes change: brighter, harder. Wakes Ako-chan.
+- **Obia: "I hear something. Very far away. Very small. I cannot tell what it is yet."**
+- Direction: south. **Obia: "The ground is quiet. But this is not from the ground."**
+- Ako-chan, Dango, Obia stand in the dark garden looking south. Chapter 12 ends.
+- **Key fact:** Signal is from the south but distinct from S1 disturbance (ground is now quiet). Sets up Chapter 13.
+
+---
+
+# Story Timeline — Season 2, Chapter 13
+
+## Day 6 — `story_day: 6`
+
+### Ep8 — Morning (Chapter 13 opens)
+- Obia has been in the garden all night, still facing south. Eyes still hard blue-white.
+- Obia: "Still there. Not bigger. Not smaller. The same."
+- The signal is **different from the old disturbance**: "Before, the sound came from everything. From the ground. From the birds. From the water. It moved through all things. This is not like that."
+- **Obia's key description:** "Now the ground is quiet. The old sound is gone. What is left is this. One signal. From one place."
+- Ako-chan cannot feel anything from the south herself — only Obia can detect this signal.
+- **Key fact:** The signal is characterised as "one thing from one place" vs the old disturbance that "moved through all things."
+
+### Ep9 — Later that morning (same day)
+- Obia explains the signal is artificial: "A signal is made. Something or someone makes it. And it stays the same."
+- Reason we can hear it now: "I think it was always there. But before, the disturbance was louder. It covered everything. The signal was underneath. Now the disturbance is gone. And this is all that is left."
+- **Key fact:** The signal was always present — it was masked by the S1 disturbance.
+
+---
+
+## Day 7 — `story_day: 7`
+
+### Ep10 — "The Far South"
+- Obia confirms the signal comes from Antarctica: "The same distance as before. The same place."
+- The signal's nature: "It stays in one place. Very deep. Under the ice. And it does not move. It just sends. Again and again. The same pattern."
+- Ako-chan thinks of the Colonel, Pen-san, the aurora. "Something under the ice is calling."
+- **Key fact:** Signal source = Antarctica, under the ice. Same location as S1, but not the same phenomenon.
+
+### Ep11 — That evening
+- Obia tries to look through its own data, including "a different part. Older than the journey."
+- **Obia: "Something is in the way. I can see that the memory is there. I can feel the shape of it. But I cannot read it."**
+- Obia: "It feels important. Very important. More important than anything in the journey data."
+- **Key fact:** Obia discovers a blocked/locked memory older than the journey. First mention of the locked memory.
+
+---
+
+## Day 8 — `story_day: 8`
+
+### Ep12 — "Locked"
+- Ako-chan sees the light from Obia's chest in the garden at night (same as S1 Ep16 and S1 Ep77).
+- Obia: "The memory is there. I am certain now. I can see its edge. But I cannot open it."
+- **Obia's exact description of the locked memory:** "It is like a door. I can touch the door. I can feel that something is behind it. But it will not open. Something is locking it. And I do not have the key."
+- Obia: "I think they belong together. The signal and the locked memory. One is the answer to the other. But I cannot say which. Not yet."
+- **Key fact:** Obia uses the phrase "a locked memory" / "a door." The signal and the locked memory are connected. Exact wording above — use if referenced later.
+
+---
+
+## Day 11 — `story_day: 11`
+
+### Ep13 — "Three Days"
+- Three days of Obia working at night (Days 8–10); Ako-chan sees the light from the window.
+- Obia: "The memory is real. It is not empty. There is something inside it. I can feel the weight of it."
+- Obia: "The lock is strong. I have never found a lock like this inside myself. I think someone put it there. I think it was closed on purpose."
+- Ako-chan: "Someone made you. Someone built you. And they closed this memory."
+- **Obia's key conclusion:** "The signal and the locked memory — I think one needs the other. And I think the key is in the south. Under the ice. With the signal."
+- **Key fact:** Obia concludes the key to the locked memory is in the south (= Antarctica). Someone locked the memory on purpose. Use exact wording if referenced.
+
+### Ep14 — That evening (Chapter 13 ends)
+- Ako-chan opens the red notebook. Re-reads the S2 Ep5 entry: *Everything is quiet. Ruka is on my desk. Dango is asleep. The oak tree is outside. We are all here. For now.*
+- **New entry she writes:** *A signal. From the far south. Obia hears it. It does not stop. And there is a memory inside Obia — locked. Obia cannot open it. I think the key is in the south. Under the ice.*
+- **Final line she adds:** *We are going south again.*
+- Ako-chan asks Obia: "Do you want to go?" — **Obia's reply:** "I think we need to. The signal will not stop. And the memory — I cannot find the key here. I think it is there. And I think I have been waiting for it. Without knowing."
+- **Key fact:** Decision to go south is made. Exact notebook entries and Obia's reply above — use if referenced later.
+
+---
+
+# Story Timeline — Season 2, Chapter 14
+
+## Day 12 — `story_day: 12`
+
+### Ep15 — "The Plan" (morning)
+- Obia has a plan laid out on a flat pale surface with lines of light — the design for a flying boat.
+- **Obia's description:** "A flying boat. To go south. And to collect everyone before the south."
+- Obia has not made one before but knows what it needs.
+- Obia needs help: "I will need someone to hold parts. Some things cannot be done alone."
+- They identify a field past the hedge to the north as the building site.
+- **Key fact:** Obia's exact line above. This is the first time Obia explicitly asks for Ako-chan's help with a build.
+
+---
+
+## Day 14 — `story_day: 14`
+
+### Ep16 — "Night Work" (night → next morning)
+- Obia works in the field at night; Ako-chan watches from the window (blue-white light moving in the dark).
+- By morning, the shape of the flying boat body and the beginnings of the wings are visible.
+- Ruka watches from the desk, facing the window.
+- **Key fact:** The flying boat is larger than Obia's Season 1 ship. Ruka is present at the build site from Day 17 onward (Ako-chan brings her).
+
+---
+
+## Day 17 — `story_day: 17`
+
+### Ep17 — "Hands" (daytime)
+- Ako-chan starts helping without being asked — holds parts in place while Obia works.
+- Obia accepts silently. They work together all morning.
+- Dango watches from the field edge.
+- Ruka brought to the field; stays in a warm corner near the hedge each day from now on.
+- Obia's assessment: "You knew enough."
+- **Key fact:** First real collaboration between Ako-chan and Obia on a physical build. Use "You knew enough" if referenced.
+
+---
+
+## Day 20 — `story_day: 20`
+
+### Ep18 — "One Part" (morning)
+- A long curved piece will not fit. Obia is uncharacteristically still.
+- Ako-chan spots the problem: the piece needs to come in from the other side.
+- She shows the angle with her hands: "If you turn it. The curve faces the other way. Then it fits."
+- It works. Obia looks at her a little longer than usual afterward.
+- **Key fact:** Ako-chan's exact line: "If you turn it. The curve faces the other way. Then it fits." Use if referenced.
+
+---
+
+## Day 23 — `story_day: 23`
+
+### Ep19 — "Almost" (daytime)
+- Flying boat almost done — two days left on the inner connections.
+- Dango inspects the hull completely (walks all the way around, sniffs every join).
+- Ako-chan lists the friends they need to collect: Daru (Croatia), Gabu (Jordan), Suke-san (Japan), Riro (Pacific), Pen-san and the Colonel (Antarctica).
+- Plan: east first (Croatia, Jordan), then further east (Japan, North Pacific), then south.
+- **Key fact:** First time the reunion route is laid out aloud. Use "east first" order if referenced.
+
+---
+
+## Day 26 — `story_day: 26`
+
+### Ep20 — "It Rises" (morning → evening, end of Chapter 14)
+- The flying boat is complete. First test: it rises two hand-widths off the ground and holds steady.
+- Nobody speaks during the test. Dango's ears are up; he does not move.
+- **New notebook entry Ako-chan writes:** *The flying boat is ready. Tomorrow we go to collect everyone. Daru first. Then Gabu. Then Suke-san. Then Riro. Then south.*
+- **Final line she adds:** *We are going back.*
+- **Key fact:** Use exact notebook entries if referenced. Chapter 14 ends on Day 26. Departure for Croatia begins Day 27 (Chapter 15).
+
+---
+
+# Story Timeline — Season 2, Chapter 15
+
+## Day 27 — `story_day: 27`
+
+### Ep21 — "East" (morning, departure from England)
+- The flying boat lifts off from the field past the hedge. England, then the oak tree, recede below.
+- Ruka is in a warm padded corner with soft orange light inside the cabin; Ako-chan set it up the night before.
+- Dango settles on the cabin floor beside Ako-chan.
+- Ako-chan thinks of Daru: "I saw you coming. From up on the ridge. You took a long time." (exact S1 Ep21 quote)
+- The Adriatic below — limestone white in the sun. Obia: "The Adriatic."
+- **Key fact:** Ruka travels inside the flying boat in a warm corner; no special capsule mentioned, just warmth.
+
+### Ep22 — "White Rock" (afternoon, Croatia landing)
+- Flying boat lands on a flat limestone area near the Dalmatian coast.
+- Dango: "I remember this." / Ako-chan: "Croatia."
+- Obia: "Tomorrow morning. I will know the place by then." (signal located but not exact)
+- **Key fact:** They spend the night in Croatia before finding Daru. The limestone holds its warmth at night.
+
+---
+
+## Day 28 — `story_day: 28`
+
+### Ep23 — "Running" (morning, finding Daru)
+- Obia: signal is south along the coast path, about two kilometers.
+- They leave Ruka with the inner light on inside the flying boat.
+- Daru's signal gets close — then a small shape comes running. Fast. Straight.
+- Dango sees it first: "There."
+- Daru runs straight to Ako-chan's feet — same as S1 Ep21.
+- Daru is bigger now: "More weight. More shell."
+- **Daru's first words on reunion:** "You came back." (twice, between breaths)
+- Ako-chan: "Yes. We came back."
+- **Key fact:** Daru's reunion line: "You came back." Use if referenced.
+
+### Ep24 — "Baby" (same day, Daru sees Ruka)
+- Daru talks non-stop: lizards, seasons, a new crack in his rock, the color of winter sea.
+- Daru enters the flying boat and goes still in the middle of the cabin.
+- He sees Ruka in her corner.
+- **Daru's exact words:** "That is a tortoise." (quietly) / "A baby tortoise."
+- Daru waits patiently for Ruka to come back out after she retreats slightly.
+- **Daru's first word to Ruka:** "Hello." (very soft)
+- **Key fact:** Daru says "Hello" very softly to Ruka — unusual quiet for Daru. Use exact words if referenced.
+
+---
+
+## Day 29 — `story_day: 29`
+
+### Ep25 — "His Rock" (morning, departure from Croatia)
+- Daru shows Ruka his favorite rock on the coast: "This is the best rock. The best on this whole coast."
+- Ruka looks at the rock, then the sea, then Daru.
+- Daru watches Ruka look at his things — a quiet new pride (he is a "senior" now).
+- Ako-chan sets Ruka down on the rock; Daru stands beside her looking at the water.
+- **Daru's departure line:** "I am ready." (echo of S1 Ep22: "I am ready.")
+- **Key fact:** "I am ready." — use exact quote if referenced. Daru is consciously leaving his coast.
+
+### Ep26 — "Red" (same day, flying to Jordan, arriving Wadi Rum)
+- Daru at the window the whole flight; the landscape shifts from coast to brown desert to red.
+- When red sandstone walls appear, Daru goes quiet — unusual for him.
+- Obia: "Red sandstone. Wadi Rum. We are close."
+- Landing between red rock walls. Hot dry air. Daru: "Gabu lives here?"
+- **Key fact:** Daru's first reaction to Wadi Rum is rare silence. He asks: "Gabu lives here?"
+
+---
+
+## Day 30 — `story_day: 30`
+
+### Ep27 — "Watching" (morning, finding Gabu)
+- Morning at Wadi Rum. Very dry, sun already strong.
+- Daru finds the sand too hot, retreats to the shade of the flying boat's wing.
+- Obia: signal within one hundred meters.
+- Ako-chan knows Gabu will come when ready — she sits and waits.
+- Gabu appears on a low ledge beside an orange rock, very still.
+- **Ako-chan's greeting:** "Hello, Gabu." Gabu's eyes do not move but do not look away.
+- **Key fact:** Same watching behavior as S1 — Gabu appears when ready, not when called.
+
+### Ep28 — "Small" (same day, Gabu reunion, sees Ruka)
+- Gabu comes forward: three steps, stop, three steps, stop — same as S1.
+- He looks at Ako-chan, Dango, Obia. Then at Daru. **Gabu to Daru:** "Daru." / **Daru to Gabu:** "Gabu." — one word each.
+- Gabu looks at the flying boat hatch. Ruka is there.
+- Gabu studies Ruka for a very long time in silence.
+- **Gabu's words about Ruka:** "Small." / Ako-chan: "Yes. Very small." / Gabu: "Italy?" / Ako-chan: "Yes. From Puglia." / Gabu: (to Ruka) "Hello."
+- Ruka walks down the ramp on her own and stops in front of Gabu.
+- Daru goes completely quiet watching this — Ako-chan notes she has never seen Daru completely quiet before.
+- **Key fact:** Gabu's greeting exchange above — use exact words if referenced. Ruka walks to Gabu on her own.
+
+---
+
+## Day 31 — `story_day: 31`
+
+### Ep29 — "Two Seniors" (afternoon, Daru and Gabu together)
+- Daru and Gabu sit side by side under the flying boat's wing shade.
+- Daru reports lizards came back in spring on his coast. Gabu confirms the same at Wadi Rum.
+- **Daru: "Did you count the days?" / Gabu: "Yes."** / Daru: "Of course you counted the days." / Gabu: "Yes."
+- Ruka sits between them — she walked there herself; neither asked her.
+- Both "seniors" are visibly bigger and older than in S1 but still young.
+- **Daru: "She is very small." / Gabu: "Yes. Smaller than we were."** / Daru: "Is she all right?" / Gabu: "Yes. She is all right."
+- Evening: Gabu moves slightly closer to Ruka; Ruka does not move away.
+- **Key fact:** "Smaller than we were" and Gabu's "Yes. She is all right." — use exact wording if referenced.
+
+### Ep30 — "Three" (morning, departure from Jordan, end of Chapter 15)
+- Gabu stands at the edge of the sand one last time, looking at the red walls.
+- Ako-chan stands beside him. Does not speak.
+- **Gabu's farewell line:** "The lizards came back. When the south was quiet. They came back." (echoes his S1 Ep97 line: "The lizards will come back. When the south is quiet. They will come back.")
+- Ako-chan: "Yes. You were right." / Gabu: "I counted the days." / Ako-chan: "I know."
+- Gabu turns and walks to the flying boat without looking back.
+- Inside: Daru at the window, Ruka in her corner, Gabu on his side of the cabin.
+- **Notebook entry Ako-chan writes:** *Day thirty-one. Daru is with us. Gabu is with us. Ruka is between them. We go east now.*
+- Flying boat rises; red walls grow small, then gone. Chapter 15 ends.
+- **Key fact:** Gabu's farewell line echoes his S1 promise. Use exact notebook entry if referenced. Chapter 16 begins heading east toward Japan.
+
+---
+
+# Story Timeline — Season 2, Chapter 16
+
+## Day 32 — `story_day: 32`
+
+### Ep31 — "East" (flying from Jordan toward Japan)
+- Flying boat heads east from Jordan. Daru at window, Gabu settled, Ruka beside Gabu (her chosen spot).
+- Ako-chan thinks of Suke-san. Recalls his parting words: "You will keep listening." She kept her word.
+- Obia: "One more day. Maybe less." Daru repeats it softly to himself.
+- **Key fact:** "You will keep listening" — exact S1 Ep92 quote recalled here. Use if referenced.
+
+---
+
+## Day 33 — `story_day: 33`
+
+### Ep32 — "Green" (Japan landing)
+- Japan coast appears: dark green hills, pine trees, pale rock, wet earth smell.
+- Dango presses nose to window before anyone speaks.
+- They land in a wide green field between hills. Daru: "It is soft. Not like the coast. But it is good."
+- Obia: signal two kilometers east. Dango already facing east.
+- Ako-chan thinks: he already knows we are here.
+- **Key fact:** Japan smells of pine, wet earth, old stone — same as S1. Dango leads the way east.
+
+### Ep33 — "Standing" (finding Suke-san at the park)
+- Park at end of a quiet road. Trees at edges. Pale stone path under roots.
+- Suke-san is standing in the middle of the path — not hiding, not circling. Waiting.
+- Ako-chan thinks of the first time (S1): he had circled for two nights, come only when ready. This time he chose his spot and waited before they arrived.
+- She kneels. He presses his nose to her palm once, steps back.
+- **Suke-san's first words on reunion:** "You came back."
+- **Key fact:** Suke-san's reunion opening line: "You came back." Use if referenced.
+
+### Ep34 — "Suke-san" (reunion and meeting Ruka)
+- Suke-san to Ako-chan: "You kept listening." / Ako-chan: "Yes."
+- Dango steps forward: "Hello." / Suke-san: "Hello." — one each. They step back. That is enough.
+- Suke-san to Obia: "You watched over her." / Obia: "Yes." — Suke-san looks away. No further words to Obia.
+- Suke-san notices Ruka. Goes still. Moves one slow step to see better. Lowers his nose carefully. Ruka watches, does not pull back.
+- Suke-san: "Its name?" / Ako-chan: "Ruka." / Suke-san: "Good." (one nod)
+- Suke-san's final line: "When do we go?"
+- **Key fact:** "You kept listening" — Suke-san's acknowledgment of Ako-chan's S1 promise. Suke-san to Obia: "You watched over her." echoes S1 Ep92 farewell ("Watch over her. That is all."). Use exact lines if referenced.
+
+---
+
+## Day 34 — `story_day: 34`
+
+### Ep35 — "Ready" (Suke-san joins, departure from Japan)
+- Walking back: Suke-san on Ako-chan's right (a little back, a little to the side — same as S1).
+- Daru at top of ramp: "Suke-san!" / Suke-san: "Daru." / Daru: "You are bigger!" / Suke-san: "So are you."
+- Gabu at top of ramp. Suke-san and Gabu exchange: "The desert tortoise." / "Yes." / "You counted the days." / Gabu blinks. "Yes." — exact S1 Ep48 echo.
+- Suke-san boards, finds his spot: right side, a little back, a little to the side. Settled.
+- Riro recalled through Ako-chan's memory as they fly north: "Good water. Good food. Good fur. Good friends." (exact S1 Ep91 farewell)
+- **Key fact:** Group is now six (Ako-chan, Dango, Obia, Ruka, Daru, Gabu, Suke-san). Flying north.
+
+---
+
+## Day 35 — `story_day: 35`
+
+### Ep36 — "North" (flying north over the Pacific, searching for Riro)
+- North Pacific: cold, wide, dark waves, grey sky. Daru at window: "There is nothing there."
+- Suke-san: "I can smell it. The water here. Colder. Older." — senses the North Pacific quality.
+- Dango: "He is here somewhere."
+- Ako-chan thinks of Riro: the small wet shape she lifted from the sea the first time. His "Good water. Good food. Good fur. Good friends."
+- Obia: "Getting close. The signal is moving in the water." / Final line: "There."
+- **Key fact:** Suke-san can smell the difference in the North Pacific water. Dango senses Riro's direction.
+
+### Ep37 — "The Water" (Riro reunion)
+- Riro spotted below: moving on his back, paws to chest. Not struggling — at home.
+- Obia brings flying boat low. Riro swims up, pulls himself out. His fur is full and well kept.
+- **Riro's reunion opening:** "You came back." / Ako-chan: "Yes." / Riro: "I found good water." / Ako-chan: "I can see that."
+- Riro asks about the back of his fur (still can't reach it himself — running gag).
+- Riro looks into the flying boat: sees everyone, then: "Everyone is here." / Ako-chan: "Almost. One more stop. South."
+- Riro looks back at the sea once, then boards.
+- Inside: Obia has Riro's water capsule (larger than S1) already installed and running in the corner near the left wall. Riro presses a paw to it. Obia: "For the long way south." He settles against it.
+- **Key fact:** "I found good water." — Riro's reunion line. He is healthy and content in the North Pacific. Use if referenced. Riro's water capsule is established here (Day 35), not later.
+
+---
+
+## Day 36 — `story_day: 36`
+
+### Ep38 — "Fur" (Riro meets Ruka)
+- Riro finds his spot in the flying boat: corner near left window, turns twice, settles, grooms.
+- Daru: "He does this for a very long time." / Gabu: "He always has."
+- Riro stops: sees Ruka. Walks over carefully. Studies the shell.
+- Riro: "No fur." / Ako-chan: "No."
+- Riro touches the shell edge gently. Ruka watches, does not pull back.
+- Riro: "The shell is very smooth." / "It does not need grooming." (said with satisfaction)
+- Dango's tail moves once, watching.
+- **Key fact:** Riro's assessment of Ruka's shell: "It does not need grooming." (approves of the design). Use if referenced.
+
+- **Key fact:** Ruka's new position: between Gabu and Riro (chosen herself, established in Ep38). Group count: 8.
+
+---
+
+## Day 37 — `story_day: 37`
+
+### Ep39 — "South" (chapter 16 end)
+- Flying south. Daru asleep at window. Gabu watching the cabin (checking each member). Ruka in shell. Riro grooming finished, looking at water. Dango sitting up beside Ako-chan.
+- Obia: "We will reach the cold waters by tomorrow."
+- **Notebook entry Ako-chan writes:** *Day thirty-seven. Suke-san is with us. Riro is with us. We are all here. We go south.*
+- Final lines: Something that felt like being ready. "The south was waiting. They were going."
+- **Key fact:** Notebook entry above — use exactly if referenced. Chapter 16 ends at Ep39.
+
+---
+
+## Day 38 — `story_day: 38`
+
+### Ep40 — "The Cold" (chapter 17 start, equipment)
+- Morning. Ice plates visible on the water below — first ice, not yet joined, drifting slowly.
+- Riro spots them first from the window: "Ice." He stays at his capsule in the corner — already settled, water already running (established Ep37).
+- Obia brings out two larger capsules (green for Daru, orange for Gabu — bigger than S1 versions). Daru wakes and claims his. Gabu watches the orange one.
+- Ruka's pod: small yellow pod (smaller than S1 Daru/Gabu size), warm steady yellow glow. Obia says her name; Ruka retreats into shell. Obia leaves the pod near her corner without forcing it.
+- Daru observes: "Same colour" (pod yellow matches Ruka's shell). Obia: "Yes."
+- Ruka does not come out — but does not move away from the yellow pod either.
+- **Key fact:** Daru's green capsule and Gabu's orange capsule first appear here (larger than S1). Ruka's yellow mini-pod first appears here — she has not entered it yet. Riro's capsule was already established in Ep37. Use exact colour names if referenced.
+
+---
+
+## Day 39 — `story_day: 39`
+
+### Ep41 — "The Wall" (Antarctica visible on horizon)
+- Flying boat comes out of the clouds. Antarctica appears: a white and grey wall across the whole horizon.
+- Nobody speaks. Dango presses nose to glass.
+- Ako-chan recalls S1 memories: the aurora (green at edges, white at centre, "Nine"), the morning they left (Pen-san with both wings up, the Colonel beside him), the promise she made.
+- Suke-san faces south without turning. Even Daru is quiet.
+- **Key fact:** Ako-chan recalls notebook entry "Day sixty-five. Antarctica. The whales went back. We go on." and the S1 departure scene. Her promise to Pen-san is present in her mind. She used to refer to "the Colonel" — has not yet seen him to learn of his promotion.
+
+### Ep42 — "Into the White" (blizzard begins)
+- As they fly closer, ice and cloud and wind press together. The window goes white — blizzard.
+- Obia: "Signal. Still there. Still below us."
+- Ako-chan: "Can you still hear it?" / **Obia: "I can still hear it. We go down."**
+- Suke-san moves to front of cabin, body low, ears flat — the same listening stillness as the forests of Japan.
+- Flying boat descends through the white toward the signal.
+- **Key fact:** Obia's exact line: "I can still hear it. We go down." — use if referenced.
+
+### Ep43 — "Land" (landing in blizzard)
+- Still in the blizzard — impact, jolt, then stillness. Engines quiet.
+- Obia: "We are down. All readings are good. We are safe."
+- Suke-san faces door, reading air through hull. Daru: "Are we there?" / Ako-chan: "Yes."
+- Ruka in her corner fully in shell. Yellow pod glows beside her. Nobody opens the door.
+- They wait inside for the blizzard to pass.
+- **Key fact:** Ruka has NOT entered the yellow pod yet — she enters it in Ep44, spontaneously.
+
+---
+
+## Day 40 — `story_day: 40`
+
+### Ep44 — "The First Step" (door opens, Ruka enters pod, first step onto ice)
+- Morning. Blizzard smaller but still going. Obia: "We should go now. While we can see."
+- Obia passes through cabin activating Antarctic mode on each capsule (deeper hum, brighter warmth): green, orange, Riro's.
+- Ako-chan in cold-weather suit (almost no weight, blocks all cold). Dango: boots and vest. Suke-san: already wearing his.
+- Obia opens the door. Cold comes in — hard and sharp.
+- Everyone looks at yellow pod. Ruka still in corner, in shell. Nobody says anything.
+- **Ruka moves on her own** — comes out of shell, looks at door, looks at yellow pod, walks in. Pod door closes.
+- Nobody had said a word. Nobody had asked her to go in.
+- Ako-chan and Dango step out. First step onto Antarctica.
+- **Key fact:** Ruka enters the yellow pod spontaneously, with no prompting. This is the moment she joins the exterior group. Use "nobody said a word / nobody asked her" if referenced.
+
+### Ep45 — "Ahead" (Suke-san leads, "I know this cold")
+- Suke-san leads, reading the wind without directions.
+- He stops once, adjusts direction.
+- Ako-chan: "Do you know the way?" / Suke-san: "The wind. I know the wind here."
+- **Suke-san: "I know this cold."** — his body remembers Antarctica from S1.
+- Ako-chan thinks of him on the ship deck through the blizzard in S1.
+- Obia: "The signal is below us now. South and down. We are close."
+- **Key fact:** Suke-san's exact line: "I know this cold." — use if referenced. He navigates by wind without being directed.
+
+### Ep46 — "Down" (slope, crack in ice, cave entrance)
+- Flat ice gives way to a slope. They descend.
+- Obia: "Signal. Stronger. Below us." — the source is below, not ahead.
+- The ice opens: a crack, long and dark, going down. Cold older-than-blizzard air rises from inside.
+- The crack walls glow pale blue-white from inside.
+- Obia: "The signal. Strongest so far. It comes from below. From inside."
+- Ako-chan: "Down." — Suke-san goes first, then Dango, then Ako-chan, then Obia and capsules.
+- **Key fact:** The crack entrance to the ice cave is described as glowing pale blue-white from inside. Air from below is old and still, different from blizzard cold.
+
+### Ep47 — "Blue" (inside cave, signal intensifies, everyone stops)
+- One step into the crack and the blizzard sound stops entirely.
+- The cave widens below. Walls, ceiling, floor all ice. The ice glows blue-white — steady, deep.
+- Everyone walks in silence. Deeper into the cave.
+- Obia stops. Says: "The signal."
+- They all feel it — a pull, a pressure from deeper ahead. Not frightening, just very close.
+- Nobody moves. Standing in the blue light, feeling the pull.
+- **Key fact:** The blue-white glow of the cave walls is described as "like the light inside a winter lake." The signal is now felt physically rather than just detected. Obia: "The signal." (two words only). The group stops spontaneously.
+
+### Ep48 — "You Came Back" (Pen-san reunion)
+- Cave curves right. Suke-san stops — ears up and forward, not a warning.
+- Sound: small, quick footsteps from deeper in the cave, getting closer.
+- Pen-san runs straight to Ako-chan, presses against her legs.
+- **Pen-san: "You came back! You came back, you came back!"**
+- Ako-chan goes to her knees. Pen-san repeats quieter: "You came back."
+- **Ako-chan: "I promised."**
+- Pen-san goes still. She holds him — he is heavier, he has grown.
+- Dango makes one small sound. Pen-san: "Hello, dog." Dango's tail moves once.
+- **Key fact:** Pen-san's reunion line: "You came back!" (repeated). Ako-chan's reply: "I promised." — directly echoes S1 Ep89 promise. Pen-san addresses Dango as "Hello, dog" (same as S1 Ep74). Pen-san is noticeably heavier/larger than in S1.
+
+### Ep49 — "General" (General Adelie appears, promotion revealed)
+- Careful even footsteps from deeper in the cave. A figure emerges.
+- Ako-chan: "Colonel——" (starts to say)
+- Pen-san (quietly): "General now."
+- General Adelie stops two steps away. Looks at Ako-chan, Dango, then each in turn — capsules, Suke-san, Obia. Pauses at Obia.
+- General Adelie: "You came back." / Ako-chan: "Yes." / "All of them." / "All of them."
+- He looks at Ruka in the yellow pod, studies her. Then the capsules. Then Suke-san and Dango.
+- General Adelie: "Good." — then walks to Obia. Stands in front of Obia. Long silence. Obia's eyes steady.
+- General Adelie turns back, stands beside Pen-san: "Follow me. There is something you need to see."
+- **Key fact:** Ako-chan says "Colonel——" and is corrected by Pen-san: "General now." From this episode onward, use "General Adelie." His first words to Ako-chan: "You came back." Exact line to group: "Follow me. There is something you need to see." His look at Obia is long and silent — no words spoken to Obia in this episode.
+
+### Ep50 — "Under the Ice" (reunion complete, Chapter 17 ends)
+- General Adelie leads them deeper into the cave. Cave widens into a large curved space.
+- Obia: "Very close. Very strong."
+- General Adelie: "We found it some time ago. Something is here. Under the ice. Something that does not belong."
+- "It is not like the old disturbance. That is gone now. This is different. Older. Something that was put here."
+- Looking at Obia: **"Something is here. Under the ice. We have felt it. A long time."**
+- Obia does not speak. Nobody speaks.
+- Ako-chan thinks (not yet written): *We are all here. We came back. And it is here too. Waiting for us, under the ice.*
+- **Key fact:** General Adelie's exact line: "Something is here. Under the ice. We have felt it. A long time." — use if referenced. The "old disturbance" (S1) is explicitly confirmed as gone. What they feel now is the time machine signal — older, different, "put here." Chapter 17 ends.
+
+---
+
+# Story Timeline — Season 2, Chapter 18
+
+## Day 40 (continued) — `story_day: 40`
+
+### Ep51 — "Deeper"
+- General Adelie leads the group deeper into the cave. Path narrows; ice walls press close on both sides.
+- The glow changes character — deeper, held inside the ice itself.
+- Obia: "Close. Very close."
+- Dango presses to Ako-chan's side. Suke-san behind her.
+- Path goes down a steep slope.
+- Obia: "Still there. Growing stronger."
+- The cave widens at the bottom. Pen-san (very quiet): "It is just ahead."
+- **Key fact:** Signal felt in Ako-chan's chest as a deep pressure, not sound. Pen-san's unusual quietness noted.
+
+### Ep52 — "The Shape"
+- They descend into a large open space in the cave. In the middle: a huge shape, half-buried in the ice floor.
+- Too large to comprehend at first — eyes move from part to part.
+- Dango makes a low sound (not a bark, not a warning — something he has not made before). Makes it once more, then goes quiet.
+- Nobody moves. The shape does not move.
+- Ruka in her yellow pod, near the back of the group, watching.
+- General Adelie (not looking at the shape — looking at Ako-chan): "Now you see it."
+- **Key fact:** Dango's exact reaction: a low sound he has never made before, twice. General Adelie's line: "Now you see it." — use if referenced.
+
+### Ep53 — "Metal"
+- Obia raises one arm; a beam of white light falls across the shape.
+- Spacecraft-like shape: curved at top, wide at base, long smooth lines, dark grey metal, almost silver where lit. No sharp edges anywhere.
+- Beautiful. And very, very wrong — something this shape does not belong here, not in this time.
+- Nobody speaks. Pen-san very still. Dango pressed to Ako-chan's left side. All others watching.
+- Ice has grown up around the base; the metal surface above is untouched, not broken.
+- **Key fact:** The beam of light is the only movement. Nobody speaks — use "nobody spoke" if referenced.
+
+### Ep54 — "Around It"
+- They circle the machine slowly. It is longer than expected — far end disappears into the cave wall.
+- Pen-san to Ako-chan: "We came here many times. General Adelie and I. We walked around it. Just like this. But we never touched it."
+- General Adelie: "We did not know what it was. Only that the signal came from it. And that it was not ours."
+- Obia (close to the base, eyes reading the surface): "The signal is here. Strongest right at the surface. There is something inside it. I can feel the shape of it — the edge of something. But I cannot reach it from here."
+- Obia takes one step forward (episode ends on this beat).
+- **Key fact:** Pen-san's line above — use exactly if referenced. Obia's line: "I can feel the shape of it — the edge of something." — foreshadows the locked memory.
+
+### Ep55 — "One Step"
+- Obia moves to within one step, then touches the surface — five fingers flat on the metal.
+- Everything stops. The signal in Ako-chan's chest goes quiet, then becomes something else: "like a door opening instead of knocking."
+- Obia does not move. Its eyes are still, looking at something far inside itself.
+- Dango and Suke-san press to Ako-chan's sides. Even Pen-san does not speak.
+- The glow in the ice walls grows a little brighter.
+- Obia's hand remains flat on the metal surface — pale silver on dark silver.
+- **Key fact:** Exact description of signal change: "like a door opening instead of knocking." Use if referenced.
+
+### Ep56 — "The Door"
+- Glow grows in the walls, floor, and the metal itself.
+- Obia: "Something is opening."
+- Obia: "The door — it is opening."
+- A thin seam appears in the metal surface, running from above to below. Pale clear light comes from behind it.
+- Obia: "Something was locked. Inside me. I knew it was there. I could feel the edge of it. I could not open it. But now——"
+- Obia: "Now it is opening. Someone put a door inside me. And this — this is the key."
+- **Key fact:** Use Obia's exact lines above if referenced. A seam appears in the machine's surface.
+
+### Ep57 — "A Message"
+- Obia: "I remember. I remember now. Some of it. Not all of it. But some."
+- Obia: "Someone made this machine. A long time from now. In the future. I cannot see their face. But I know their hands. I know their work. Because they also — they made me."
+- Obia: "I was made by the same person who made this machine. And when they made me, they left something inside me. A message. Locked, so I could not read it until I came here."
+- Obia: "The message. It says: *Save the voices of the vanishing animals.*"
+- Ako-chan hears the words, then hears them again inside her head.
+- **Key fact:** The exact message from the future scientist: "Save the voices of the vanishing animals." Use verbatim if referenced. Obia's line: "Someone put a door inside me. And this is the key." — already in Ep56.
+
+### Ep58 — "The Voices"
+- Ako-chan and Obia discuss the meaning of "vanishing animals."
+- Obia: "Animals whose voices can no longer be heard. Because they are no longer here."
+- Obia explains that some extinctions are not so long ago — their voices are "still in the world, if you know where and when to go."
+- Obia: "The machine can go to those times. It can go back. To when those animals were still alive."
+- Obia: "I can take what you hear and send it forward. Into the future. To the person who made me. To the world that needs those voices."
+- Ako-chan: "So we go back." / Obia: "Yes." / Ako-chan: "To find them." / Obia: "Yes."
+- **Key fact:** The mission structure established here. Ako-chan hears → Obia transmits to the future. Exact exchange above — use if referenced.
+
+### Ep59 — "We Go"
+- Ako-chan looks at each member in turn: Dango, Suke-san, Riro, Daru, Gabu, Ruka, Pen-san.
+- General Adelie: "We have been waiting for you to come back. For this."
+- General Adelie: "I did not know what it was. When we found it. I could feel that it was waiting. I did not know for what. Now I know."
+- Ako-chan thinks of the red notebook's last line from S1: *We are not finished.*
+- Ako-chan: "We go in." Nobody objects. Nobody says no.
+- **Key fact:** General Adelie's exact lines above — use if referenced. Ako-chan recalls "We are not finished." (S1 Ep100). No one opposes.
+
+### Ep60 — "Inside" (Chapter 18 / Part 3 ends)
+- The seam opens — smooth and silent. A space appears in the side of the machine.
+- Light from inside: pale and very clear, unlike the cave glow or anything outside. "Like the light before sunrise, except still and even."
+- Ako-chan steps through first. Interior: wider than expected, ceiling curved high, floor smooth and not cold, small points of light moving slowly along the walls.
+- All members board: Dango, Suke-san, Pen-san, General Adelie, Riro, Daru, Gabu, Ruka (in yellow pod), Obia.
+- Obia: "The door will close. Are you ready?" / Ako-chan looks at Dango, then the others. "Yes."
+- The seam closes. The cave outside is gone.
+- **Key fact:** Interior description above — use if referenced. The exact boarding order: Ako-chan first, then Dango, pods/capsule, Suke-san, Pen-san, General Adelie last. Chapter 18 ends. Part 3 (The Time Machine and the Decoded Memory) ends.
+
+---
+
+# Story Timeline — Season 2, Chapter 19
+
+## Day 41 — `story_day: 41`
+
+### Ep61 — "Fog" (First time jump — Japan, late 19th century)
+- The time machine makes its first jump. A soft shift, then silence. The seam opens.
+- Wet, heavy, old cold — different from Antarctica. Tall dark trees. Roots. Moss. Fog everywhere.
+- They step out: Ako-chan first, then Dango, Suke-san, Obia, Pen-san, General Adelie, pods and capsule.
+- Suke-san reads the air immediately — ears straight, nose up, not speaking.
+- A crow calls once far above and goes quiet.
+- **Key fact:** First time jump. Late 19th century Japan mountain forest. Suke-san is immediately alert.
+
+### Ep62 — "Howl" (The Honshu wolf's howl)
+- They walk deeper into the fog. Then: a howl. Long, rising, clear.
+- Suke-san stops completely — every part of him listening. Ears straight up, tail low and still.
+- Dango stops beside Suke-san. Both dogs face the fog in silence.
+- Ako-chan feels it: not words but weight — winters, long runs, forests without end.
+- Howl fades. Suke-san's one word: **"There."**
+- Something old has opened in his eyes — something she has never seen there before.
+- **Key fact:** Suke-san's exact word: "There." The howl is felt as weight, not only sound. Use if referenced.
+
+### Ep63 — "Eyes" (Honshu wolf appears)
+- The wolf comes out of the fog slowly. Stops ten steps away.
+- Small by wolf measure. Grey coat, white at chest. Narrow face. Eyes like still water — dark, calm, deep.
+- It looks at Suke-san first. Suke-san: no fear, only something very old and unnamed.
+- Wolf and Suke-san look at each other; neither moves.
+- Wolf's eyes move across others, then find Ako-chan. She meets them and lets herself be looked at fully.
+- Wolf looks back at Suke-san. Suke-san sits down. The wolf sits down too.
+- "Not enemies. Not friends. Something older than those words. Something the mountain had always known."
+- **Key fact:** Wolf looks at Suke-san first, then Ako-chan. Both sit down. The moment described as "something older than strangers, older than names."
+
+### Ep64 — "First" (First voice sampling + first turbulence)
+- Ako-chan moves toward the wolf slowly, nothing in her hands.
+- She opens herself to its voice: cold winters, long runs, fog between trees, the mountain in every season.
+- She nods to Obia. Obia goes still, eyes change quality — "somewhere else, doing something far away and quiet."
+- **Obia: "Done."**
+- The wolf walks back three steps, then gives one final long howl. Clean. Clear.
+- They return to the machine. Seam closes. Floor moves.
+- First turbulence: "deeper in the walls than before — a shake. Low and brief. Like something pushing through."
+- **Key fact:** Obia's sampling line: "Done." (one word, used the same way each time). Wolf's final howl: "clean, clear, going up through the trees." First turbulence: "low and brief, like something pushing through."
+
+### Ep65 — "The Island" (Second jump — North Atlantic, early 19th century)
+- Shake passes. Seam opens to: salt, wind, sound of water on rock. No trees, no wood smell.
+- A rocky North Atlantic island. Grey stone, dark water below. Waves on the rocks.
+- Birds on flat rock near the edge: black and white, upright, small folded wings — cannot fly. Bigger and heavier than expected. Very old feeling.
+- One stops and looks toward the group. Does not run.
+- Pen-san makes one small, very quiet sound — "not his usual sound. Not happy, not excited. Something else. Something she had never heard from him before."
+- Pen-san stares at the birds with very wide eyes. General Adelie equally still beside him.
+- **Key fact:** North Atlantic, early 19th century — Great Auks. Pen-san's unusual quiet (a sound never heard from him before). General Adelie equally still.
+
+### Ep66 — "The Original" (Pen-san and General Adelie with Great Auks)
+- Pen-san walks forward slowly — not like himself. General Adelie walks beside him. Both slow, both quiet.
+- Pen-san stops three steps from the nearest Great Auk. Bigger than him, long heavy bill, white patches over eyes. But the shape is familiar.
+- **Pen-san: "Hello."** (very softly)
+- The Great Auk makes a sound — "low, not loud, coming from deep inside its chest" — that stays in the cold air.
+- Pen-san stands still, receiving something. Ako-chan catches the edge: "something warm inside something very old."
+- General Adelie holds himself "very careful, very still — as if this mattered, as if he would carry it."
+- Even Dango and Daru are quiet.
+- **Key fact:** Pen-san's greeting: "Hello." (very softly). The Auk's sound: "low, from deep inside its chest." General Adelie described as holding himself as if this is something he will carry. Use exact quotes if referenced.
+
+### Ep67 — "Second" (Second voice sampling + second turbulence)
+- Ako-chan kneels on the rock before a Great Auk.
+- Voice: water and cold, the long time of being in the world, dark sea, fish below surface, islands in summer, sound of waves.
+- She nods to Obia. **Obia: "Done."**
+- Pen-san takes one last look at the bird he spoke to, then turns away.
+- Second turbulence: "harder. Two seconds. Three. The walls made a low sound she had not heard before — something deep in them straining."
+- Nobody speaks after it passes.
+- **Key fact:** Second turbulence: harder and longer than the first, with a new wall sound. Obia's line is the same: "Done."
+
+### Ep68 — "Open Sea" (Third jump — Bering Sea, 18th century)
+- Seam opens immediately after the shake fades. Air: cold, salt, open water in every direction.
+- They stand on a low wide ice shelf. The Bering Sea — 18th century. No ships, no smoke, no mark of any hand.
+- Riro comes out of his capsule and looks at the water.
+- **Riro's words:** "It is different. The water here. It is not like my water. It is more." (said very quietly, not to anyone in particular)
+- Something large is below the surface — moving slowly, coming.
+- **Key fact:** Riro's exact words about the pristine Bering Sea: "It is different. The water here. It is not like my water. It is more." Use if referenced.
+
+### Ep69 — "The Gentlest Voice" (Steller's Sea Cows)
+- Riro sees them first — makes a short quiet sound, raises one paw toward the water.
+- Two Steller's Sea Cows: round-backed, smooth, grey-brown like old stone. "Moving like something with all the time in the world."
+- They stop at the edge of the ice. The nearest raises its head. Small, dark, warm eyes.
+- The voice comes to Ako-chan "like something wide and slow — the way a wave comes on a long flat beach, taking its time, filling every space before it goes back."
+- When she nods to Obia, her eyes are wet. She does not know when that happened.
+- **Obia: "Done."**
+- Riro sits on the ice, presses front paws together, looks at the sea cow. The sea cow looks back.
+- **Key fact:** Riro sees sea cows first. The sea cow's voice: "wide and slow, like a wave on a long flat beach." Ako-chan's eyes are wet. Riro presses front paws together and holds the sea cow's gaze. Use if referenced.
+
+### Ep70 — "Three" (Sea cows leave, third turbulence, Suke-san's warning)
+- Sea cows make one more low long sound each, then turn and swim slowly away.
+- Riro watches until they are gone. Then: **"Ready."** (very quietly)
+- They return to the machine. Seam closes.
+- Third turbulence: immediate. "Moved through the floor, through her feet, up through her chest." Lower and harder than before.
+- Small lights along the walls flicker once (did not happen in first two turbulences).
+- Duration: four to five seconds.
+- Suke-san stiffens, ears flat, nose working — even inside the machine.
+- **Suke-san: "Three times now."**
+- Ako-chan says nothing. She had felt it too.
+- **Key fact:** Riro's farewell word: "Ready." Suke-san's exact line: "Three times now." Lights flicker for the first time during the third turbulence. Chapter 19 ends.
+
+---
+
+# Story Timeline — Season 2, Chapter 20
+
+## Day 41 (continued) — `story_day: 41`
+
+### Ep71 — "Unstable"
+- Immediately after 3rd turbulence. Machine steady. Lights back to normal.
+- Suke-san moves in short, restless steps — not his usual loops. Does not stop.
+- Obia at the side panel, reading data: "Three jumps. The first was small. The second was larger. The third was larger still. Each one harder than the last. The difference is growing between them."
+- Suke-san makes a short sound in his throat.
+- Obia: "Any jump from here. Even back. The pattern may continue." (stops)
+- Ako-chan: "What happens?" / **Obia: "I do not know. I do not have data for this."**
+- Ruka is inside her yellow pod in the corner, very quiet.
+- Suke-san sits near Ako-chan's feet at last — head up, ears forward, eyes not closing.
+- **Key fact:** Obia's exact line: "I do not know. I do not have data for this." — use if referenced. This is the first time Obia admits having no predictive data. Obia's warning about "any jump from here — even back" sets up the return-trip accident in Ep73.
+
+### Ep72 — "Home"
+- Suke-san stands and calls for return: "Three voices. We have three. That is what we came to do. We go back."
+- **General Adelie: "He is right. Three jumps. Three times it grew harder. The machine needs the ground beneath it. We do not push further."**
+- Ako-chan thinks silently about a fourth voice — something older than all three, never heard — but looks at Suke-san's unblinking eyes, Riro's stillness, Pen-san's quiet watch.
+- **Ako-chan: "Home."**
+- Obia turns to the panel; lights shift to the "return" rhythm.
+- Ruka comes out of her yellow pod on her own, stands at the edge looking at Ako-chan — steady, clear. Does not step forward, but does not go back inside.
+- **Key fact:** Ako-chan's key line: "Home." — use if referenced. Ruka exits pod on her own before the return jump. There is no 4th intentional target; Ice Age Australia is reached only by accident in Ep73.
+
+### Ep73 — "Lost"
+- Jump begins. Machine heavier than before; light goes wrong and pressed.
+- **Suke-san: "Something is wrong. Now."**
+- A crack opens — white light in the air itself, too bright, widening fast.
+- Suke-san makes a sound — not words, something older than words.
+- Dango lunges for Ruka — misses.
+- Ruka is gone. (She was out of the yellow pod, standing on the machine floor.)
+- Daru runs immediately, no sound, no pause.
+- Gabu — who never moves before thinking — is already running.
+- Together they go through the crack without stopping, without looking back.
+- Crack closes. One hard shake. Then stillness. Lights return to normal.
+- **Ako-chan: "Find them."** (to Obia; voice does not shake)
+- **Key fact:** Suke-san's exact line: "Something is wrong. Now." Ako-chan's final line: "Find them." — Obia does not yet know where the three were taken; the calculation happens off-screen between Ep73 and Ep78. Ruka was OUT of her pod when the crack formed. Daru and Gabu jumped in together. The crack closes before anyone else can follow.
+
+### Ep74 — "Red Earth" (Ice Age Australia — Daru, Gabu, Ruka only)
+- Dry, wide land. Red earth. Pale sky. Dry yellow grass. Thin grey-green tree. Dark hills far away.
+- No ice, no fog, no cold. A completely new environment for all three.
+- Ruka on the red earth, pulled fully into her shell. All legs in. No movement.
+- Daru presses against Ruka's shell. **Daru: "Ruka."** (very softly) — no answer.
+- Gabu looks at the land slowly, one direction at a time. Checking.
+- Both feel very small — not afraid exactly, but aware of how alone they are.
+- A large, low, slow shape appears in the distance near the red rocks.
+- Gabu steps forward, putting himself between the shape and Ruka's shell.
+- Daru moves to Gabu's side.
+- **Key fact:** Daru's whispered line: "Ruka." — use if referenced. Daru and Gabu act in unison without speaking. Ruka fully in shell, not responding.
+
+### Ep75 — "Meiolania"
+- The Meiolania approaches slowly. Very heavy. Each step carries full weight.
+- Description: very large tortoise; shell wide and dark, color of old rock, long raised ridges; thick neck; short wide legs.
+- Head: two horns — one above each eye, curved slightly forward, solid (part of skull itself). Face ancient. Eyes dark and calm.
+- Tail: thick, with hard round spikes at the end.
+- Daru and Gabu hold their ground. Ruka's shell is behind them.
+- Meiolania stops at twenty steps, then ten, then stops.
+- It looks at Daru, then Gabu — reading them, unhurried.
+- Daru's heart moving fast; he keeps his feet on the ground.
+- Gabu thinking, and staying.
+- Meiolania does not come closer. It waits.
+- **Key fact:** First clear description of Meiolania: horned skull, ridged shell, round-spiked tail. It stops and waits — not threatening.
+
+### Ep76 — "Still"
+- A long silence — Gabu counts more than forty seconds.
+- Meiolania's head moves slightly — not toward or away, just: noticing.
+- Daru looks at the Meiolania's eyes: dark, calm, very old — older than limestone or desert, older than names.
+- Recognition: the Meiolania understands what they are. "Same shell. Same ground. The same slow way of moving through the world."
+- Gabu feels it too — his head tilts slightly, eyes go quiet.
+- Ruka still in shell, but behind them.
+- **Key fact:** The recognition is non-verbal — felt, not spoken. Daru's internal description: "Something from before names." Use if referenced.
+
+### Ep77 — "Ruka"
+- The Meiolania lowers its head — all the way down until the horns are near the red earth. Holds this position.
+- A sound from deep inside the creature — not from its mouth, but further in. Low, warm, wide.
+- Felt through feet, shell, behind eyes.
+- **The sound is not words, but Daru understands it: "I know what you are. I am glad you are still here."** (Daru's internal understanding, not a quoted line)
+- Behind them: Ruka's head appears — just the top, then eyes, then all of it. Slow and careful.
+- The Meiolania stays low. The warm sound comes again, quieter.
+- Ruka takes one step forward, then another.
+- Ruka stops two steps from the Meiolania's lowered head. Eye contact.
+- Ruka lowers her own head — the same way the Meiolania had.
+- The warm sound fills the air.
+- **Key fact:** Meiolania's "welcoming sound" described above — use if referenced in future episodes. Ruka's response: she mirrors the Meiolania's head-bow. This is the core emotional moment.
+
+### Ep78 — "Found"
+- Machine arrives in Ice Age Australia — pale, dry, warm sunlight. (No preamble; Obia's calculation happens off-screen between Ep73 and Ep78.)
+- Ako-chan steps out first. Dango immediately runs without direction — nose-led.
+- Everyone follows: Obia, Suke-san, Riro, Pen-san, General Adelie.
+- Dango finds them first: Daru, Gabu, Ruka — all three present, all whole.
+- Ruka is OUT of her shell (no longer hiding) when they arrive.
+- Ako-chan kneels, opens her hands. Ruka walks into her palms.
+- Ruka is warm and shaking a little.
+- Daru pushes against Ako-chan's knee with the top of his shell (his usual gesture). Gabu stands still, watching Ako-chan's face.
+- Ako-chan holds Ruka. Dango presses on one side, Suke-san on the other.
+- In the distance, the Meiolania is moving slowly away through the dry grass.
+- Ako-chan watches until it is gone. Says nothing.
+- **Key fact:** Ruka is out of her shell when found. Daru's physical greeting: head-press against Ako-chan's knee. Ako-chan watches the departing Meiolania in silence.
+
+### Ep79 — "Voices"
+- All sit on the red earth together.
+- Daru talks first — fast, the way he always does — describing the crack, the landing, the approach of the Meiolania.
+- Gabu takes over when Daru runs out of words — slow, one thing at a time.
+- Ako-chan listens the way she always does: wide and still.
+- Daru's voice: bright, alive, full of red earth and fear-mixed-wonder.
+- Gabu's voice: deep and slow — and inside it, carefully carried, the warm sound the Meiolania made. Ako-chan hears it through Gabu.
+- She receives the Meiolania's voice through Gabu's voice. Nods to Obia.
+- **Obia: "Done."**
+- **Riro: "Four."** (very quietly)
+- **Pen-san: "Four."**
+- Ako-chan holds Ruka closer. Says nothing.
+- **Key fact:** The 4th sampling is completed here. Ako-chan receives Meiolania's voice THROUGH Gabu — second-hand transmission, but Obia accepts it. Exact lines: Obia: "Done." / Riro: "Four." / Pen-san: "Four." — use if referenced.
+
+### Ep80 — "The Old Ground" (Chapter 20 ends)
+- Nobody leaves immediately. Quiet time in Ice Age Australia.
+- Suke-san walks out, stands in the wind reading the land, then returns without speaking.
+- Dango stays at Ako-chan's side.
+- Ruka remains in Ako-chan's hands, not back in her shell.
+- Daru and Gabu sit close together, quietly (unusual for Daru).
+- **Pen-san: "This place. It is very old."** / Ako-chan: "Yes."
+- General Adelie at the machine door, watching the land — still and careful, taking it all in.
+- Ako-chan thinks about all four voices now held in Obia and the machine — sent into the future.
+- **Ako-chan: "Ready."** — and one by one they enter the machine. Daru first, then Gabu, Pen-san, General Adelie, others.
+- Ako-chan goes last. One final look at the red earth. Steps inside.
+- Seam closes. Chapter 20 / Part 4 ends.
+- **Key fact:** Pen-san's line: "This place. It is very old." Chapter 20 ends with seam closing. The return to the present is in Chapter 21.
+
+---
+
+# Story Timeline — Season 2, Chapter 21
+
+## Day 41 (continued) — `story_day: 41`
+
+### Ep81 — "Back" (return to present-day Antarctica)
+- The seam opens to the ice cave — pale blue walls, same ice, same stillness. Antarctica.
+- She steps out first. "We are back," said Obia.
+- Dango makes a small sound — not a bark. Between worry and relief.
+- Each member emerges: Pen-san looks at General Adelie; Suke-san reads the air; Riro wide-eyed; Daru looks at Gabu; Gabu stays near the machine door; Ruka presses one paw to the yellow pod window.
+- "Four voices. Held somewhere in Obia. Somewhere in the machine. Four animals who had been gone from the world for a very long time."
+- Pen-san sits beside Ako-chan in silence — unusual for him. At last: "Four." / Ako-chan: "Yes. Four."
+- **Key fact:** Return to present-day Antarctica confirmed. Pen-san's unusual silence noted. Use exact exchange if referenced.
+
+### Ep82 — "Four Voices" (night in the machine)
+- They stay inside the machine. Obia confirms: "All four. The wolf. The Great Auks. The sea cows. The Meiolania. All of it is here. All of it recorded."
+- Ako-chan lets out a slow breath.
+- Daru prompts the group to talk about each encounter. Daru was in his pod for the wolf — could see but not feel what those outside felt. **Daru to Suke-san:** "What did it feel like? When it looked at you. I was in the pod. I could see it. But I could not feel what you felt."
+- Suke-san on the wolf: "Old. Something older than names."
+- Pen-san on the Great Auks: "It made a sound from very deep inside. I did not know a bird could sound like that. I think I knew. But I did not know I knew."
+- General Adelie says nothing, but listens carefully.
+- Riro on the sea cows: "Wide. So wide." He presses his front paws together.
+- Nobody talks about the Meiolania. Daru and Gabu are quiet. Ruka sits between them.
+- Obia, again, quietly: "All four."
+- **Key fact:** Suke-san's exact line: "Old. Something older than names." Pen-san's exact line above. Riro presses front paws together (same gesture as Ep69). Use if referenced.
+
+---
+
+## Day 42 — `story_day: 42`
+
+### Ep83 — "Not Yet" (morning, Ako-chan listens)
+- Ako-chan wakes before the others and opens herself to listen.
+- The old disturbance is gone — she is sure. But something else is still here: "A thread. Thin and wrong under the quiet, like a note that did not belong in the song. The animals near the top of the ice sounded just a little strained."
+- Dango opens one eye and watches. Ako-chan: "Not yet." (not to him, just aloud)
+- She opens the red notebook, holds the pen, does not write. The last entry: *Day thirty-seven. Suke-san is with us. Riro is with us. We are all here. We go south.*
+- She had expected the four voices collected to mean something settled. It did not.
+- **Key fact:** Ako-chan explicitly confirms the S1 disturbance is gone, but senses a "thin thread" still present — the open time machine connection. The unwritten notebook moment echoes her method throughout the journey.
+
+### Ep84 — "The Connection" (Obia's discovery)
+- Obia turns from the side panel: "I have been looking at the machine."
+- Obia's explanation: "The four voices are here. They have been sent forward. That part is done. But the machine itself — it is still open."
+- **Obia's exact words:** "When this machine was made, a connection was built into it. Between two times. The time it was made — far ahead, in the future. And this time. Now."
+- The disturbance came through that connection. The future is "very badly hurt" and the hurt was leaking through.
+- Ako-chan: "But the ground is quiet now. The hedgehog said so."
+- Obia: "Quieter. But the connection is still there. Both ends. Things still pass through it — not loudly, but they do. That is what you felt this morning."
+- **Obia's key line:** "To close it, someone has to go to the future end. And close it from the inside."
+- Dango lifts his head. Ako-chan: "You mean—" / Obia: "Yes."
+- **Key fact:** The disturbance mechanism confirmed: the time machine connection (future to past) is still open. Closing it requires someone to operate from the future end. Use exact Obia wording if referenced.
+
+### Ep85 — "I Must Go" (Obia's announcement to the group)
+- The group gathers without being asked — they sense something.
+- Obia explains the open connection. Then: "I have to go. I have to take the data. And I have to close the connection. I must go alone."
+- Dango makes "a very low sound. Not a growl. Something older and quieter than that."
+- Suke-san looks at Obia for a long time. Then looks away.
+- Riro begins grooming — his nervous response.
+- Nobody says a word.
+- **Key fact:** Obia's exact announcement: "I have to go. I have to take the data. And I have to close the connection. I must go alone." — use verbatim if referenced. The group's reactions (Dango's sound, Suke-san looking away, Riro grooming) are established here.
+
+### Ep86 — "No Words" (first silence after the announcement)
+- Long silence. The machine's lights keep moving as if nothing changed.
+- Dango makes the low sound again — puts it into the air and leaves it.
+- Suke-san looks at the wall. Not at Obia, not at Ako-chan. Ears back. Very still.
+- Riro grooms: "starting and stopping, starting again, moving too fast through his fur."
+- Daru sits down. Nothing to say — most unusual for him.
+- Gabu watches Obia steadily, does not look away.
+- Pen-san moves one step closer to Ako-chan and stops. Does not ask to be held.
+- General Adelie looks at the floor.
+- Ruka steps away from Gabu and stands facing Obia — alone, not in shell, not moving.
+- Ako-chan says nothing. "The words had landed. They were still landing."
+- Dango presses harder against her leg. She puts her hand on him.
+- **Key fact:** Each character's wordless reaction established here — use as reference for their respective farewell scenes in Ch22.
+
+---
+
+## Day 43 — `story_day: 43`
+
+### Ep87 — "Close" (unspoken farewell preparations)
+- Daru follows Obia around the machine all day — a few steps behind, stopping when Obia stops. After the fourth time, Obia turns. Daru: "I am just here." Obia says nothing. Daru stays.
+- Gabu watches Obia from across the machine. Does not follow, but eyes move with Obia.
+- Suke-san sits near the machine's door. Not blocking it. Just near it. Very still.
+- Riro grooms all morning, slowly, completely. "Nothing missed, nothing rushed. By midday he looked exactly right. He began again."
+- Pen-san sits near Obia's feet during the afternoon. Not talking. Just there.
+- Ruka walks to Obia and presses her shell against Obia's foot. Stays a long time. Obia does not move.
+- Evening: Daru walks back to Gabu and sits beside him. They do not speak.
+- **Key fact:** Daru's line: "I am just here." Ruka's silent gesture (shell against Obia's foot) — use if referenced.
+
+### Ep88 — "Write It Down" (night, Ako-chan and Obia)
+- Everyone else asleep. Ruka alone not fully asleep — watching.
+- Ako-chan gets up and stands beside Obia.
+- Ako-chan: "Are you afraid?" / Obia: "I am not sure what I am."
+- Ako-chan: "I am afraid. For you."
+- Obia: "Will you keep listening? After this." / Ako-chan: "Yes. I will."
+- **Obia's key request:** "The animals — the ones that are still here. Keep listening to them. Always."
+- **Obia's second request:** "And write it down. In the red notebook. All of it. Every voice."
+- **Ako-chan's reply:** "I will write all of it. Every voice I hear. I will not forget any of them."
+- Obia: "I know. I know you will not."
+- Ako-chan sits on the floor beside Obia's feet and stays until morning.
+- **Key fact:** Obia's exact requests above — use if referenced in Ch22 or S3. Ruka is the only one awake (watching). This is the key dialogue exchange between Obia and Ako-chan.
+
+---
+
+## Day 44 — `story_day: 44`
+
+### Ep89 — "Well Done" (Obia's farewell to Pen-san and General Adelie)
+- Evening. Obia finds them in the cave. Pen-san near the cave wall. General Adelie standing still at the edge of the blue light.
+- General Adelie looks at Obia for a long time — "the same careful eyes that had watched Obia since the very first night in Antarctica."
+- General Adelie: "You came with a message. You carried it all the way. You did what you were built to do. Your duty is done. Well done."
+- **Pen-san moves silently and stands so close his side touches Obia's leg. Says nothing.**
+- Obia looks down at Pen-san. Pen-san looks up. Neither speaks.
+- Pen-san sits down and presses against Obia's side. "He was heavier than he had been the first time they met. He had grown."
+- Obia does not move away.
+- They stay like that for a long time in the cold blue light.
+- **Key fact:** General Adelie's exact farewell line: "Your duty is done. Well done." — use if referenced. Pen-san's silence is notable (in contrast to his usual non-stop speech). This is the Antarctic pair's private farewell to Obia, separate from the main departure in Chapter 22.
+
+### Ep90 — "Morning" (end of Chapter 21)
+- Morning comes. The machine's small lights shift. Obia's eyes change. One by one, all wake without being called.
+- They gather outside the machine, in the cave space — blue light on all of them.
+- Obia stands at the machine's entrance.
+- **Formation:** Dango on Ako-chan's left. Suke-san on her right, a little back, a little to the side. Riro near his capsule, fur smooth. Daru and Gabu beside each other, Ruka between them. Pen-san and General Adelie nearby.
+- "All of them there. All of them looking at Obia."
+- Nobody speaks. The connection under the ice is still running — not yet closed.
+- Ako-chan looks at Obia. Obia looks at her. She thinks of the red notebook. Of all four voices.
+- **Final lines:** "This was the morning before it happened. They all knew it."
+- **Key fact:** Chapter 21 ends. Suke-san's formation position confirmed: right of Ako-chan, a little back, a little to the side (same as always). The actual departure is Chapter 22. Chapter 21 title to be confirmed.
+
+---
+
+# Story Timeline — Season 2, Chapter 22
+
+## Day 44 (continued) — `story_day: 44`
+
+### Ep91 — "Shell" (Ruka in shell, Daru and Gabu flank Obia)
+- Ruka is inside her yellow pod (Antarctic cave — pod required), pulled fully into her shell. Not looking out.
+- Daru presses his nose to the pod wall: "Ruka." No answer. He and Gabu stand side by side looking up at Obia.
+- Obia crouches near the pod: "You went to the oldest ground. The oldest ground there is. And you walked out to meet it. I do not forget that."
+- Ruka's front leg appears briefly and presses against the inside of the pod wall, then pulls back in.
+- Obia's farewell to Daru and Gabu: "Thank you. Both of you." Daru opens his mouth, closes it. Gabu steps one step closer to Obia's foot and stops.
+- **Key fact:** Ruka remains in her yellow pod throughout Ch22 (Antarctic environment — pod required). Her brief leg against the pod wall is her wordless farewell. Exact Obia line above — use if referenced.
+
+### Ep92 — "Suke-san" (Suke-san bows his head)
+- Suke-san walks steadily from his place and stops in front of Obia.
+- Long silence. Then Suke-san lowers his head all the way down — same motion as the Meiolania's head-bow — and holds it there.
+- Obia places one hand lightly on top of Suke-san's head. Suke-san raises his head, holds Obia's gaze one more moment, then walks back to his place without looking back.
+- Ako-chan thinks of Suke-san's first words about Obia ("Not that thing") and how he became the first to stand beside it.
+- **Key fact:** Suke-san's bow to Obia mirrors the Meiolania's gesture (Ep77). No words spoken between them. His closing of the circle is wordless.
+
+### Ep93 — "Dango" (Dango clings, Ako-chan separates them)
+- Dango crosses to Obia and presses hard against it — both paws on Obia's chest, head against its shoulder. Makes his "too big to carry" sound.
+- Obia's words to Dango: "I was there from the very beginning. And so were you. You were watching before anyone else. Before she knew what was wrong. You saw it all."
+- Ako-chan gently brings Dango back. He trembles against her leg.
+- **Key fact:** Obia's exact words to Dango above — use if referenced. Dango's reaction is physical, not verbal; he does not look at Ako-chan after.
+
+### Ep94 — "Hands" (Ako-chan places hand on Obia's head)
+- Ako-chan stands before Obia. No words at first. She remembers the first morning — the silver shape by the shed, the cool voice, telling it no.
+- She reaches out and puts her hand on top of Obia's head.
+- Ako-chan: "I will keep listening. I will write all of it. I promise."
+- Obia says nothing. She holds her hand there a long time, then takes it back.
+- **Key fact:** Ako-chan's promise echoes Ep88. No new words from Obia here — the silence is the response.
+
+### Ep95 — "In" (Obia enters the machine, seam closes)
+- Seam opens. Obia takes one step in, then stops and turns just enough for its eyes to find Ako-chan one last time. A long quiet moment. Then Obia goes inside.
+- Seam closes slowly, without sound. Pale light grows thinner. Dango presses hard against Ako-chan.
+- She believes something is beginning to close beneath the ice.
+- **Key fact:** Obia's last look at Ako-chan through the seam — use if referenced. No final words spoken.
+
+### Ep96 — "Gone" (machine disappears, silence)
+- The machine grows thin, outline softens, and disappears. No dramatic moment — slow and quiet.
+- Dango makes one very small sound. No one else makes any sound.
+- Ako-chan confirms: the thread under the ice is gone. For the first time in a very long time, she hears only what is near her.
+- She turns to see everyone: Suke-san, Dango, Pen-san, General Adelie, Riro, Daru, Gabu, Ruka.
+- Final thought: "She was glad they were there."
+- **Key fact:** The disturbance thread is fully gone by Ep96 — confirmed by Ako-chan in the cave.
+
+---
+
+## Day 45 — `story_day: 45`
+
+### Ep97 — "Quiet Skies" (flying boat north)
+- The flying boat lifts off from Antarctica into grey sky. Nobody speaks.
+- **Key fact:** Pen-san and General Adelie stay in Antarctica. Farewell on the ice before boarding: Pen-san pressed against Ako-chan's leg and stayed until she stepped back. General Adelie looked at her with precise, still eyes and said nothing. That was enough.
+- Formation in the flying boat (northbound): Dango pressed to Ako-chan's side (same as since the cave), Suke-san slightly right and back (his usual place), Riro near his water capsule with paws pressed together, Daru quiet at front window, Gabu beside him.
+- Ako-chan touches the red notebook in her coat pocket every hour or so since the cave.
+- Final line: "They all looked out their windows and let the sky carry them north."
+- **Key fact:** Daru's silence on the flight is noted as the longest quiet she has ever heard from him.
+
+---
+
+## Day 50 — `story_day: 50`
+
+### Ep98 — "Still" (back in England, voices' disturbance is gone)
+- They return to England. Ako-chan stands at the garden gate a long time before going in.
+- Days pass: normal life resumes. Dango in his window spot. Ruka by the warm wall.
+- One morning Ako-chan listens to the voices in the garden: hedgehog, pigeons, fox, robin.
+- **Confirmed:** the wrongness (the pull from the south, the note under every note) is completely gone.
+- The robin sings one clear line.
+- **Key fact:** Ako-chan explicitly confirms the disturbance is gone in England. This is the moment she is certain Obia succeeded.
+
+### Ep99 — "Who" (the question crystallizes)
+- Same morning in the garden. Ako-chan thinks through the logic: someone built the machine, built Obia, sent it back to find her specifically.
+- She had felt this truth below the surface for a long time but had not stated it to herself plainly. Now she does.
+- "Someone had chosen her. Someone had known she could hear the animals."
+- The question: who? She does not know. But she has the question clearly now, and she will not let it go.
+- Dango: "I know. I am thinking." (Ako-chan to Dango)
+- **Key fact:** This is the first time Ako-chan consciously articulates the question of who made Obia and the machine. Use if referenced in S3.
+
+### Ep100 — "Obia——" (red notebook, Season 3 bridge)
+- That night at her desk. Same coat, one lamp.
+- She opens the red notebook to the last written entry: *Day thirty-seven. Suke-san is with us. Riro is with us. We are all here. We go south.*
+- She thinks of all four voices (wolf, Auks, sea cows, Meiolania). She thinks of Obia's last look through the seam.
+- She puts pen to page and writes: *Obia——*
+- She stops. She has so much to say but does not know how to begin.
+- She looks at the word. Then she breathes in. And begins.
+- **Key fact:** The first word she writes is "Obia——" (with the dash). The notebook entry is never shown beyond this. Chapter 22 ends. Season 2 ends. Season 3 bridge: Ako-chan is writing to Obia.
