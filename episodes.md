@@ -3,17 +3,23 @@ layout: default
 title: Episodes
 permalink: /episodes/
 ---
+{% comment %}
+  Chapter numbers are global (Ch1–34): S1 = Ch1–12, S2 = Ch13–24, S3 = Ch25–34.
+  Each episode page carries season / chapter / episode in its front matter.
+{% endcomment %}
 <div class="episodes-page">
   <h1>Episodes</h1>
 
   <div class="season-block">
     <h2>Season 1 &mdash; A1</h2>
 
+    {% assign s1_titles = "The Voice in the Garden|Following the South|The Turtle on the Rocks|The Red Desert|The Long Way East|Building the Ship|Voices in the Deep|Through the Storm|The White Land|Into the Snow|The Confession|The Way Home" | split: "|" %}
+    {% for n in (1..12) %}
     <div class="chapter-block">
-      <h3>Chapter 1 &middot; The Voice in the Garden</h3>
+      <h3>Chapter {{ n }} &middot; {{ s1_titles[forloop.index0] }}</h3>
       <ul class="episode-list">
-        {% assign s1c1 = site.pages | where: "season", 1 | where: "chapter", 1 | sort: "episode" %}
-        {% for ep in s1c1 %}
+        {% assign eps = site.pages | where: "season", 1 | where: "chapter", n | sort: "episode" %}
+        {% for ep in eps %}
         <li>
           <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
           <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
@@ -21,147 +27,20 @@ permalink: /episodes/
         {% endfor %}
       </ul>
     </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 2 &middot; South by Rail</h3>
-      <ul class="episode-list">
-        {% assign s1c2 = site.pages | where: "season", 1 | where: "chapter", 2 | sort: "episode" %}
-        {% for ep in s1c2 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 3 &middot; A Small Light</h3>
-      <ul class="episode-list">
-        {% assign s1c3 = site.pages | where: "season", 1 | where: "chapter", 3 | sort: "episode" %}
-        {% for ep in s1c3 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 4 &middot; The Curious One</h3>
-      <ul class="episode-list">
-        {% assign s1c4 = site.pages | where: "season", 1 | where: "chapter", 4 | sort: "episode" %}
-        {% for ep in s1c4 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 5 &middot; The Patient One</h3>
-      <ul class="episode-list">
-        {% assign s1c5 = site.pages | where: "season", 1 | where: "chapter", 5 | sort: "episode" %}
-        {% for ep in s1c5 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 6 &middot; The Watchful One</h3>
-      <ul class="episode-list">
-        {% assign s1c6 = site.pages | where: "season", 1 | where: "chapter", 6 | sort: "episode" %}
-        {% for ep in s1c6 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 7 &middot; The Voice of the Whales</h3>
-      <ul class="episode-list">
-        {% assign s1c7 = site.pages | where: "season", 1 | where: "chapter", 7 | sort: "episode" %}
-        {% for ep in s1c7 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 8 &middot; Into the Storm</h3>
-      <ul class="episode-list">
-        {% assign s1c8 = site.pages | where: "season", 1 | where: "chapter", 8 | sort: "episode" %}
-        {% for ep in s1c8 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 9 &middot; At the End of the South</h3>
-      <ul class="episode-list">
-        {% assign s1c9 = site.pages | where: "season", 1 | where: "chapter", 9 | sort: "episode" %}
-        {% for ep in s1c9 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 10 &middot; The Root of It</h3>
-      <ul class="episode-list">
-        {% assign s1c10 = site.pages | where: "season", 1 | where: "chapter", 10 | sort: "episode" %}
-        {% for ep in s1c10 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 11 &middot; All the Way Home</h3>
-      <ul class="episode-list">
-        {% assign s1c11 = site.pages | where: "season", 1 | where: "chapter", 11 | sort: "episode" %}
-        {% for ep in s1c11 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
+    {% endfor %}
 
   </div>
 
   <div class="season-block">
     <h2>Season 2 &mdash; A1&ndash;A2</h2>
 
+    {% assign s2_titles = "The Signal from the South|Building the Flying Boat|Gathering the Friends|South to the Ice|What Obia Remembers|The First Jump|The Island in the Storm|The Rift|Into the Ice Age|Obia's Goodbye|The Long Way Back|Home Without Him" | split: "|" %}
+    {% for n in (13..24) %}
     <div class="chapter-block">
-      <h3>Chapter 12 &middot; A New Small Thing</h3>
+      <h3>Chapter {{ n }} &middot; {{ s2_titles[forloop.index0] }}</h3>
       <ul class="episode-list">
-        {% assign s2c12 = site.pages | where: "season", 2 | where: "chapter", 12 | sort: "episode" %}
-        {% for ep in s2c12 %}
+        {% assign eps = site.pages | where: "season", 2 | where: "chapter", n | sort: "episode" %}
+        {% for ep in eps %}
         <li>
           <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
           <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
@@ -169,38 +48,20 @@ permalink: /episodes/
         {% endfor %}
       </ul>
     </div>
+    {% endfor %}
 
-    <div class="chapter-block">
-      <h3>Chapter 13 &middot; A Door That Will Not Open</h3>
-      <ul class="episode-list">
-        {% assign s2c13 = site.pages | where: "season", 2 | where: "chapter", 13 | sort: "episode" %}
-        {% for ep in s2c13 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
+  </div>
 
-    <div class="chapter-block">
-      <h3>Chapter 14 &middot; The Flying Boat</h3>
-      <ul class="episode-list">
-        {% assign s2c14 = site.pages | where: "season", 2 | where: "chapter", 14 | sort: "episode" %}
-        {% for ep in s2c14 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
+  <div class="season-block">
+    <h2>Season 3 &mdash; A2&ndash;B1</h2>
 
+    {% assign s3_titles = "The Quiet Years|Gray and Red|The First Words|Reading the Distances|Building Alone|Building Together|Blue-White Light|The Parting|The Ones Who Remember|To the Beginning" | split: "|" %}
+    {% for n in (25..34) %}
     <div class="chapter-block">
-      <h3>Chapter 15 &middot; Three Tortoises</h3>
+      <h3>Chapter {{ n }} &middot; {{ s3_titles[forloop.index0] }}</h3>
       <ul class="episode-list">
-        {% assign s2c15 = site.pages | where: "season", 2 | where: "chapter", 15 | sort: "episode" %}
-        {% for ep in s2c15 %}
+        {% assign eps = site.pages | where: "season", 3 | where: "chapter", n | sort: "episode" %}
+        {% for ep in eps %}
         <li>
           <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
           <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
@@ -208,97 +69,7 @@ permalink: /episodes/
         {% endfor %}
       </ul>
     </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 16 &middot; Eight</h3>
-      <ul class="episode-list">
-        {% assign s2c16 = site.pages | where: "season", 2 | where: "chapter", 16 | sort: "episode" %}
-        {% for ep in s2c16 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 17 &middot; The Ice Below</h3>
-      <ul class="episode-list">
-        {% assign s2c17 = site.pages | where: "season", 2 | where: "chapter", 17 | sort: "episode" %}
-        {% for ep in s2c17 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 18 &middot; Save the Voices</h3>
-      <ul class="episode-list">
-        {% assign s2c18 = site.pages | where: "season", 2 | where: "chapter", 18 | sort: "episode" %}
-        {% for ep in s2c18 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 19 &middot; Before They Were Gone</h3>
-      <ul class="episode-list">
-        {% assign s2c19 = site.pages | where: "season", 2 | where: "chapter", 19 | sort: "episode" %}
-        {% for ep in s2c19 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 20 &middot; The Oldest Ground</h3>
-      <ul class="episode-list">
-        {% assign s2c20 = site.pages | where: "season", 2 | where: "chapter", 20 | sort: "episode" %}
-        {% for ep in s2c20 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 21 &middot; What Remains</h3>
-      <ul class="episode-list">
-        {% assign s2c21 = site.pages | where: "season", 2 | where: "chapter", 21 | sort: "episode" %}
-        {% for ep in s2c21 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="chapter-block">
-      <h3>Chapter 22 &middot; What We Carry</h3>
-      <ul class="episode-list">
-        {% assign s2c22 = site.pages | where: "season", 2 | where: "chapter", 22 | sort: "episode" %}
-        {% for ep in s2c22 %}
-        <li>
-          <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-          <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
+    {% endfor %}
 
   </div>
 </div>

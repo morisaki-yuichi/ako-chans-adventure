@@ -52,7 +52,7 @@
 - **Ep6「We Leave Tomorrow」**：朝、Ako-chanがObiaに出発を告げる。荷造り。
   - 🔒引用アンカー（Obia）：*"I thought you might come."* / （Ako-chan）：*"We leave tomorrow."*
   - 確定：ObiaはEp3からずっと庭の古いshedのそばに留まり、一晩動いていない（"It did not move all night."）。
-  - 確定：Ako-chanの同行表明は現在進行形 *"I am coming with you. I am going to the south."*（S1はwill不使用。Obiaの固定台詞のみ例外）。
+  - 確定：Ako-chanの同行表明は現在進行形 *"I am coming with you. I am going to the south."*（**S1はwill不使用。例外＝① Obiaの固定台詞、② 仲間が旅に加わる"誓い"の定型 *"I will go with you"*＝Ep3 Obia "I will come with you" のエコー（Ep21 Daru ほか合流回）**）。
   - 確定：荷物に warm clothes・gloves・warm hat・赤い日記帳・Dangoのお気に入りのおもちゃ（his favorite toy）を入れる。
   - ✅執筆済み（word_count 275）。
 
@@ -127,4 +127,64 @@
   - 配置：next_ep は空欄（Ch3 Ep16 執筆時に ep016.prev_ep=ep015 と相互リンクを張る／Ep7→Ep8 と同じ運用）。
   - ✅執筆済み（word_count 273）。
 
-<!-- Ch3 以降は執筆後に追記（Day 7〜） -->
+## Chapter 3「The Turtle on the Rocks」— クロアチア・ダルマティア海岸（Ep16〜24）
+
+**Ch3 共通**
+- ★**Daru合流＝三人→四人**（最初の仲間）。以後 Ako-chan・Dango・Obia＋Daru。
+- ★**Podが初登場（Ep22）＝読者に仕組みを初めて見せる**：リクガメが中で歩くとPodが連動して動く（自走式）。**Daruは全力歩行→高速移動・発光色は赤**。冷却/湿度/UV機能は設定上あるが、ここでは基本の仕組み（歩く→動く・中が温かい）を中心に。「カプセル」とは呼ばない＝**Pod**。
+- ★**Dangoの嫉妬アーク #1（最初の嫉妬）**：Ako-chanがDaruに構うとDangoが嫉妬を見せ始める（以後 Gabu→Suke-san→Pen-san で段階的に激化）。
+- Daru：ダルマティアヘルマンリクガメのベビー♂・甲長7cm・甲羅は黄茶×黒の強いコントラスト。**好奇心旺盛・すぐ行動する**。話し方は元気（例 "What is that? Let me see! Let me see!"）。
+- 地理：クロアチア・ダルマティア海岸（白い石灰岩の岩場・アドリア海）。実在・地図で追える。
+- 「signal」の語：Ep13以降、Ako-chanにとって**含みのある語**。Ep23でObiaが openly 口にするとき、Ako-chanは内心ざわつく（言葉にはしない）。
+
+### Day 7 — ダルマティア到着〜Daru出現
+- **Ep16「White Rocks, Blue Sea」**：フェリーでダルマティア海岸へ。白い石灰岩の岩場・白い崖・アドリア海。トカゲが「南から来る変な声」を告げる。何かがいる気配。モード：静・観察。
+  - 🔒台詞（トカゲ・英語確定）：*"A strange voice comes."* / *"It comes from the south. Far away."* / *"Can you hear it? Something is wrong."* / *"It is close now. Be careful."*
+  - 確定：Ako-chan *"I hear it too."*／トカゲは岩の割れ目(crack)へ消える。Dangoはトカゲの匂いを嗅ぐが声は聴こえない（"Only Ako-chan can." をEp2から再呼応）。Obiaは静止し遠くを見る（まだ距離）。
+  - 確定：締めは「南＋もう一つの近い気配」の二重（"something else is here too. Something close."）＝Ep17のDaruの音への伏線。Daruの名・姿は出さない。
+  - ✅執筆済み（word_count 270）。
+- **Ep17「The Sound Under the Rock」**：岩陰から甲羅が石に当たる音（*Tap. Tap.*「a round, hard sound」「something with a hard back」）。全員が静止して待つ。姿は見えない・名乗らない。
+  - 確定：Ako-chan *"It is okay. We are friends. Come out."* と呼びかけるが、何も出てこない。Dangoは耳を立て鼻を動かすが**足を踏み出さない**（Ako-chanと同じく静止）。
+  - 確定：Daruの正体（baby tortoise）はこの回ではまだ明かさない（読者にも"something"のまま）。Ep18で初めて姿＋名乗り。
+  - ✅執筆済み（word_count 274）。
+- **Ep18「Curious」**：岩陰から猛スピードで小さな丸いものが飛び出す＝**Daru登場・命名確立**。走り回って全員に挨拶。好奇心の塊。※転換点の1語タイトル例外。
+  - 🔒台詞（Daru名乗り）：*"Hello! Hello! I am Daru!"* / *"Who are you? Where do you go?"* ★**名前「Daru」はこの回で作中確立**（Ep16–17は "something / the thing / a baby tortoise"）。
+  - 追加台詞（Daru）：*"What is that? What is that?"* / *"Let me see! Let me see!"* / *"Wow! Big water! So big!"*（元気・即行動の口調）。Ako-chan *"Hello, Daru. I am Ako-chan."*
+  - 確定（外見）：ベビーのリクガメ・甲羅は黄茶(yellow-brown)に黒い線(black lines)・手のひらより小さい(no bigger than her hand)。
+  - 確定（配置）：Dangoは驚いて後ずさり（"steps back fast"・耳が伏せる）＝**まだ嫉妬ではなく驚き**（嫉妬の芽はEp19）。Obiaは静止して観察。
+  - ✅執筆済み（word_count 270）。
+
+### Day 8 — 信頼〜合流〜Pod
+- **Ep19「Nose to Nose」**：DangoとDaruが初めて向き合う。双方が後ずさり、また近づく。「最初の了解」。★**Dangoの最初の嫉妬の芽**（Ako-chanがDaruに構うとDangoが間に入る／不機嫌）。
+  - 台詞（Daru）：*"You are big. And soft! So soft!"*（Dangoの毛に対して）。Ako-chan *"You are so brave."* / *"You are my Dango. Always."*
+  - 確定（嫉妬#1の芽）：Ako-chanがDaruを撫でる→Dangoが**間に割り込み**、Ako-chanの脚に強く寄りかかる／Daruを見ない／尻尾が低いまま＝**"芽"に留める**（激化させない）。Ako-chanがDangoの頭に手を置き安心させると尻尾が少し動く。が、片目はDaruを見続ける。
+  - 確定：Daruの呼称は地の文で "the little tortoise" 可（Dangoは "the big dog"）。
+  - ✅執筆済み（word_count 274）。
+- **Ep20「Already There」**：Daruが崖の縁に近づいてしまう。Dangoが無言で体を当てて押し戻す。Daruの無鉄砲とDangoの世話。
+  - 確定：崖は Ep16 で確立済みの "white cliffs"（海まで straight down）。Daruは白い鳥を追って**一気に縁へ（"He is already there."＝タイトル）**。Ako-chan *"Daru! Stop!"*（※"Stop"単独タイトルはEp84用・ここは台詞なので可）。
+  - 確定：Dangoが**吠えずに**体を入れて押し戻す（"He does not bark."）＝無言の庇護。Daruは危険を理解せず *"What? What is down there?"* と覗きたがる。
+  - 確定（関係）：救出後、Daruは引かず一瞬静かに→「犬とカメの間に何かが通う」（Ep21の隣に座る受容への布石）。Dangoの世話＝嫉妬の裏面。
+  - ✅執筆済み（word_count 275）。
+- **Ep21「I Will Go With You」**：赤リスが異変を告げる。Daruが**仲間に加わる**決意。🔒台詞（Daru）：*"I do not understand. But I will go with you."*（"will"はEp3 Obia "I will come with you" のエコー＝**意図的な will 例外**。合流回の"誓い"定型）
+  - 🔒台詞（赤リス）：*"You hear it too. Something is wrong. It comes from far away."*／Ako-chan *"I have to go to the south. I have to find it."*（"I have to go" は Ep5 日記のエコー）。
+  - 確定（合流＝四人）：本文 "Now they are four. Ako-chan, Dango, Obia, and Daru."（Pod合流前の正確な人数）。
+  - 確定（関係）：DangoがそっとDaruの**横に座る**（押さない・離れない）＝受容。③は乾いた草の匂いを運ぶ風。
+  - ✅執筆済み（word_count 276）。
+- **Ep22「Warm Inside」**：Daruが加わり、ObiaがDaru用の**Podを作る（＝Pod初登場・命名確立）**。🔒台詞（Obia）：*"For you. It is warm inside."* / *"It is a Pod. It keeps you safe and warm."* **仕組みを読者に見せる**：Daruが中で歩く→Podが連動して転がる／速く歩く→速く動く／走る→高速・**赤く光る**。中は柔らかく温かい。Daruが恐る恐る入り、最後は中で眠そうに落ち着く。
+  - 確定（命名）：Obiaが "Pod" と命名＝**作中確立点**。「カプセル」不使用。発光色：**赤**（Daru）。
+  - 確定（描写）：Pod は "something round / a clear ball"（透明な球）。Dangoは転がるPodに後ずさり→また嗅ぐ→吠えて追う（軽い好奇・嫉妬は激化させない）。
+  - 確定：`signal` の語はこの回では未使用（Ep23でObiaが口にする）。
+  - ✅執筆済み（word_count 273）。
+
+### Day 9 — 旅立ち（海岸を離れる）
+- **Ep23「Far to the South」**：Obiaが長時間スキャン。🔒台詞（Obia）：*"The signal is from somewhere deep. Far to the south."*＝旅の方向の確認。
+  - 確定（伏線#2）：Ako-chanが "signal" の語から **Ep13の送信#1を内心で結びつける**（夜の列車・青い光・低いハム・南を向くObia）。だが**問いたいのに言葉にしない**（"She wants to ask Obia why. But she does not say a thing."）＝3回の積み重ねの第二歩（送信シーンではなく"signal"語による不安の深化）。
+  - 配置：Daruは割り込むがObiaに止められる（"Wait, Daru. Be still."）。モード：静・観察／内面。
+  - ✅執筆済み（word_count 272）。
+- **Ep24「The Shore Grows Small」**：フェリー出発。Daruが故郷の海岸が遠ざかるのをじっと見つめる＝初めての「故郷が遠ざかる」感覚（走らない・話さない・静か＝"This is new for Daru."）。
+  - 🔒台詞（Daru）：*"That is my home. It is far now."*／章末 *"And the road goes on."*
+  - 確定：DaruのPodは甲板に（"His Pod rests near him in the sun."）。海岸が thin pale line→消える→Daruは前を向く（友がそばに・"He is not alone."）。
+  - 章クローザー。次章Ch4（ヨルダン・ワディラム／Gabu）へ。
+  - ✅執筆済み（word_count 272）。
+
+<!-- Ch4 以降は執筆後に追記（Day 10〜） -->
