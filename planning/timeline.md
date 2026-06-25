@@ -37,25 +37,30 @@
   - 確定：異変を訴える動物が増えていく段階（ハリネズミ→キツネ→フクロウ）。すべて南を指す。
   - 追加台詞（キツネ）：*"Do you feel it? It comes from the south. The night is not right."* ／（フクロウ）：*"South. All of us look south now."*
   - 確定：夜の庭が異常に静か（鳥も虫も鳴かない）。"It feels wrong, just like the hedgehog said." とEp2のハリネズミ台詞を地の文で呼応させる。
+  - 確定：本文ではキツネを "A red shape comes out of the dark. It is a fox." と描写（赤い体色）。配置はAko-chan＋Dangoが戸口で並んで暗い庭を見る。Obiaはshedのそばで動かず（"By the old shed, Obia stands in the dark."）。
+  - ✅執筆済み（word_count 274）。
 - **Ep5「I Have to Go」**：同じ夜、赤い日記帳に初めて書く。**Ep3のObiaの言葉を受けた記入**。
   - 🔒引用アンカー（日記・初回）：*"I have to go."* ※Ep100で読み返し／S2 Ep199「Obia——」／S3 Ep300 続き、の三段日記の起点。
   - 確定：頭の中で異変を訴える動物たちの声が重なる（ハリネズミ／キツネ／フクロウの台詞が断片的に反響）。その後Obiaの言葉 *"You will go. I will come with you."* を想起 → 日記を書く流れ。
   - 確定：赤い日記帳はこの時点で「新品（new）」。Ako-chanが初めて開く。
   - 確定（継続性）：聴けるのはAko-chanだけ、を再確認（"No one else can hear them. Only Ako-chan."）。
   - 🔧配置（修正）：Dangoは**室内**（Ako-chanのそば／足元・戸口）で静かにしている。**夜に屋外で単独に立たせない**（前回テストの「窓の外で立つ」は誤り）。「夜を見る」を出すなら室内の窓辺で。
-  - 🔧数（修正）：日記の一行 *I have to go.* は**4語**。"three words" 等の誤カウント禁止（"four words" か、数えない言い回しに）。
+  - 🔧数（修正）：日記の一行 *I have to go.* は**4語**。"three words" 等の誤カウント禁止（"four words" か、数えない言い回しに）。本文は "Four small words." と表記。
+  - ✅執筆済み（word_count 272）。
 
 ### Day 3 — 出発前日
 - **Ep6「We Leave Tomorrow」**：朝、Ako-chanがObiaに出発を告げる。荷造り。
   - 🔒引用アンカー（Obia）：*"I thought you might come."* / （Ako-chan）：*"We leave tomorrow."*
   - 確定：ObiaはEp3からずっと庭の古いshedのそばに留まり、一晩動いていない（"It did not move all night."）。
   - 確定：Ako-chanの同行表明は現在進行形 *"I am coming with you. I am going to the south."*（S1はwill不使用。Obiaの固定台詞のみ例外）。
-  - 確定：荷物に warm clothes・赤い日記帳・Dangoのおもちゃ を入れる。
+  - 確定：荷物に warm clothes・gloves・warm hat・赤い日記帳・Dangoのお気に入りのおもちゃ（his favorite toy）を入れる。
+  - ✅執筆済み（word_count 275）。
 
 ### Day 4 — 旅立ち
 - **Ep7「Before Light」**：夜明け前の出発。三人（Ako-chan・Dango・Obia）が初めて並んで庭に立ち、一歩を踏み出す。**＝旅立ちの日**。
-  - 確定：夜明け前・露・霧でEp1の朝と意図的に呼応（"It is just like the first morning."）＝章のブックエンド。
+  - 確定：夜明け前・露・霧でEp1の朝と意図的に呼応（"It is just like the first morning."）＝章のブックエンド。Ep1冒頭の "Dew sits heavy on the grass. A thin mist rests by the fence." を逐語で再現。
   - 追加台詞（Obia）：*"It is time."*
   - 確定：隊列は「Dango walks beside her. Obia walks in front.」。庭→門→南への道、で章クローズ。
+  - ✅執筆済み（word_count 274）。
 
 <!-- Ch2 以降は執筆後に追記（Day 5〜） -->
