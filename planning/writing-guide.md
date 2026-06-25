@@ -4,8 +4,8 @@
 
 | シーズン | CEFRレベル | 1文の目安語数 | 使用語彙の目安 | 時制の目安 |
 |---------|-----------|------------|-------------|----------|
-| Season 1 | A1 | 10語以内（最大12語） | 頻出1000語以内 | 現在形・過去形・現在進行形のみ |
-| Season 2 | A1〜A2 | 12語以内（最大15語） | 頻出1500語以内 | S1＋未来形（will）、can/could、過去完了形（文脈明確化に必要な場合のみ） |
+| Season 1 | A1 | 10語以内（最大12語） | 頻出1000語以内 | 現在形ベース・回想に単純過去形・現在進行形 |
+| Season 2 | A1〜A2 | 12語以内（最大15語） | 頻出1500語以内 | S1＋will（意図・予測）、can/could |
 | Season 3 | A2〜B1 | 15語以内（最大18語） | 頻出2500語以内 | S2＋過去進行形、現在完了形 |
 
 ---
@@ -28,13 +28,23 @@
 |-----------|-----------|
 | イディオム全般（e.g., "give up", "let down"） | "stop trying", "make sad" など直訳的な表現 |
 | 接続詞の多用（although, whereas, however） | ピリオドで文を区切る |
-| 受動態（The door was opened.） | Ako-chan opened the door. |
-| 長い名詞句（the sound of the wind blowing） | the wind's sound / the wind blew |
+| 受動態（The door was opened.） | Ako-chan opens the door. |
+| 長い名詞句（the sound of the wind blowing） | the wind's sound / the wind blows |
 | 省略形を多用しすぎない（会話では可：I'm, it's, don't） | 地の文では基本展開形 |
 
 ---
 
 ## 3. 文法・文構造ルール（Season 1）
+
+### 地の文の時制：現在形ベース
+
+**地の文は現在形を基本とする。** 回想・完了した動作には単純過去形を使う。過去完了形（had done）は全シーズンで使用禁止。
+
+```
+現在形（ベース）:  Ako-chan looks up. The sky is gray.
+単純過去（回想）:  Yesterday, Obia found a signal. Now she is quiet.
+現在進行形:       The wind is blowing.
+```
 
 ### 1文の構造
 - **基本はS＋V＋O（第3文型）またはS＋V（第1文型）**
@@ -42,7 +52,7 @@
 
 ```
 Good:
-  Ako-chan looked up. The sky was gray. She heard a sound.
+  Ako-chan looks up. The sky is gray. She hears a sound.
 
 Avoid:
   Looking up at the gray sky, Ako-chan heard a sound that seemed to come from far away.
@@ -52,17 +62,17 @@ Avoid:
 - 関係代名詞節（who/which/that 節）
 - 過去完了形（had done）
 - 仮定法（If she were...）
-- 不定詞の形容詞的用法（a place to go）→ "a place. She could go there." と分割
+- 不定詞の形容詞的用法（a place to go）→ "a place. She can go there." と分割
 - 分詞構文（Walking home, she saw...）
 
 ### 推奨文型（Season 1）
 ```
 現在形:     Dango is happy.
-過去形:     He ran to Ako-chan.
+単純過去:   He ran to Ako-chan.
 現在進行形: The wind is blowing.
 助動詞:     She can hear animals. / She could not move.
 There構文:  There is a small turtle near the rock.
-疑問文:     "What is that?" said Dango.
+疑問文:     "What is that?" says Dango.
 ```
 
 ### 接続の原則
@@ -77,15 +87,31 @@ There構文:  There is a small turtle near the rock.
 Season 1のルールをベースに、以下を追加・緩和する。
 
 ### Season 2 で追加される文型
-- **過去完了形（had done）**: 時系列を明確にするために必要な場合に限り使用可。
 - **未来形（will）**: 登場人物の意図・予測を表す場合に使用可。
 - **can/could**: 能力・可能性を表す場合に使用可。
 
 ### Season 2 で引き続き禁止
 - 関係代名詞節（who/which/that 節）
+- 過去完了形（had done）
 - 仮定法（If she were...）
 - 分詞構文（Walking home, she saw...）
 - 過去進行形・現在完了形（これらはSeason 3から）
+
+---
+
+## 3-S3. 文法・文構造ルール（Season 3 追加）
+
+Season 2のルールをベースに、以下を追加・緩和する。
+
+### Season 3 で追加される文型
+- **過去進行形（was/were doing）**: 背景の動作・中断された動作を表す場合に使用可。
+- **現在完了形（have/has done）**: 経験・結果・継続を表す場合に使用可。
+- **関係代名詞節（who/which/that）**: 複雑な心理描写・説明に限り使用可。使いすぎない。
+
+### Season 3 で引き続き禁止
+- 過去完了形（had done）
+- 仮定法（If she were...）
+- 分詞構文（Walking home, she saw...）
 
 ---
 
@@ -99,7 +125,6 @@ Season 1のルールをベースに、以下を追加・緩和する。
 ### ★ 必須：4ビート構造
 
 **すべてのエピソードは以下の4ビートを必ず含めること。**
-これはエピソードアウトライン（`s1-episode-outline.md` / `s2-episode-outline.md`）に明示されている。
 
 | ビート | 内容 | 目安語数 |
 |--------|------|----------|
@@ -128,16 +153,16 @@ Season 1のルールをベースに、以下を追加・緩和する。
 
 ### 良い終わり方の例
 ```
-She did not know why. But she felt it. Something was coming.
+She does not know why. But she feels it. Something is coming.
 
-Dango looked at her. Then he looked away. He did not bark.
+Dango looks at her. Then he looks away. He does not bark.
 
-Ako-chan opened the red notebook. She held the pen. But she did not write.
+Ako-chan opens the red notebook. She holds the pen. But she does not write.
 ```
 
 ### 避けるべき終わり方
-- 「まとめ」で終わる（"That was a good day."）
-- 次エピソードの内容を説明して終わる（"The next day, they went to..."）
+- 「まとめ」で終わる（"That is a good day."）
+- 次エピソードの内容を説明して終わる（"The next day, they go to..."）
 
 ### エピソードタイトルのルール
 
@@ -145,8 +170,8 @@ Ako-chan opened the red notebook. She held the pen. But she did not write.
 - キャラクター名のみ（例：*Daru*、*Suke-san*、*Pen-san*）
 - 一般的すぎる1語（例：*Five*、*North*、*Home*、*Night*）
 
-**例外：感情の盛り上がりとなるエピソード**  
-物語上の大きな転換点・感情的なクライマックスに限り、上記の禁止タイトルを効果的に使ってよい。  
+**例外：感情の盛り上がりとなるエピソード**
+物語上の大きな転換点・感情的なクライマックスに限り、上記の禁止タイトルを効果的に使ってよい。
 例：*Obia*（Obiaが仲間になる瞬間）、*Stop*（送信停止宣言）
 
 この例外は意図的な「取っておき」として機能する。禁止タイトルが突然現れることで、そのエピソードの重さが際立つ。
@@ -161,10 +186,10 @@ Ako-chan opened the red notebook. She held the pen. But she did not write.
 - 音で状況が伝わるよう、**感覚的な語を積極的に使う**
 
 ```
-The wind was cold. It touched her face. She pulled her coat close.
+The wind is cold. It touches her face. She pulls her coat close.
 （触覚・体の動作で状況を伝える）
 
-The turtle did not move. It just looked. Its eyes were very still.
+The turtle does not move. It just looks. Its eyes are very still.
 （繰り返しで静寂を表現）
 ```
 
@@ -178,13 +203,13 @@ The turtle did not move. It just looked. Its eyes were very still.
 - 動物のセリフはA1語彙でも「その動物らしさ」が出るように工夫する
 
 ```
-"Cold," said the hedgehog. "The ground feels wrong."
+"Cold," says the hedgehog. "The ground feels wrong."
 （ハリネズミ：短い言葉、体の感覚）
 
-"North," said the whale. "Go north. Follow us."
+"North," says the whale. "Go north. Follow us."
 （クジラ：雄大で少ない言葉）
 
-"Not safe," said Suke-san. "I do not like that smell."
+"Not safe," says Suke-san. "I do not like that smell."
 （柴犬：直感的・警戒心）
 ```
 
@@ -212,10 +237,9 @@ The turtle did not move. It just looked. Its eyes were very still.
 | **Daru** | 元気・好奇心・先に動く | "What is that? Let me see! Let me see!" |
 | **Gabu** | 静か・観察する・少ない言葉 | "Wait. Look at the shadow. Something is there." |
 | **Suke-san** | 短い・警戒・プライドがある | "I know. I felt it first." |
-| **Riro** | グルーミングへのこだわり | "My fur. It is wet. I need to fix it now." |
+| **Ruka** | 慎重・静か・自分のペース | （行動が先、言葉は少ない） |
 | **Pen-san** | 甘えん坊・純粋 | "Ako-chan! Pick me up! Please!" |
 | **General Adelie** | 命令調・短い・厳格 | "Stand here. Do not move. I will watch." |
-| **Ruka** | 慎重・静か・自分のペース | （行動が先、言葉は少ない） |
 
 ---
 
@@ -226,8 +250,8 @@ The turtle did not move. It just looked. Its eyes were very still.
 - ただし英語はA1なので、難しい説明は**Ako-chanが観察する視点**に置き換える
 
 ```
-Bad:  "Riro needs to groom his fur constantly to maintain its insulating properties."
-Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. She understood."
+Bad:  "Ruka needs to regulate her body temperature by moving between sun and shade."
+Good: "Ruka moves to the sunny stone. She stops. She is still. Ako-chan watches."
 ```
 
 ### 地名・交通機関
@@ -242,6 +266,29 @@ Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. S
 - 動物を電車・船に乗せることへの現実的な障壁
 - Ako-chanの親・家庭環境
 
+### S3：抽象・心理の描写（A2〜B1）
+
+S3は相貌失認・「種への判断」「内への問い」など抽象度の高いテーマを扱うが、**抽象を直接ナレーションしない**。生態描写と同じく「観察された具体行動・知覚」に置き換える。
+
+- **相貌失認は"言葉にせず見せる"**。診断名・説明を書かない。少年の知覚そのものを描く。
+
+```
+Bad:  The boy has prosopagnosia. He cannot recognize faces.
+Good: Every face is the same gray light. The boy cannot tell them apart.
+      But one light is red. Only one.
+```
+
+- **「種への判断」は行動・視線で**。内面の論評ではなく、少年が何を見て・見ないかで示す。
+
+```
+Bad:  The boy had judged humanity and found it empty.
+Good: The boy did not look at faces. He looked at the space between people.
+      The space was always the same. Gray. Quiet. Far.
+```
+
+- **感情の翻訳は動物に担わせる**。少年の不透明な内面は、近づく/離れる動物の所作と、Ako-chanが聴くその声で外在化する（→ s3.md「S3執筆方針・方針1」）。
+- **回想（再話）回の語数管理**：S1/S2の出来事をA2〜B1で語り直す回も、通常回と同じ270〜330語・4ビートを守る。既知の出来事でも"説明"で埋めず、知覚と所作で再構成する。
+
 ---
 
 ## 8. 品質チェックリスト（執筆後）
@@ -249,8 +296,8 @@ Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. S
 ### 語数・構造チェック
 - [ ] 270〜330語に収まっているか
 - [ ] 4ビート（設定・行動・補助テクスチャー・余韻）がすべて含まれているか
-- [ ] 最も長い文が12語以内か（S2は15語以内）
-- [ ] 禁止文型（関係代名詞節・過去完了形・仮定法）を使っていないか
+- [ ] 最も長い文が12語以内か（S2は15語以内、S3は18語以内）
+- [ ] 禁止文型（関係代名詞節・過去完了形・仮定法・分詞構文）を使っていないか
 
 ### 文体チェック
 - [ ] 冒頭1文が力強いか
@@ -259,7 +306,6 @@ Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. S
 - [ ] ③テクスチャービートが地の文を最低2文確保しているか
 
 ### 物語チェック
-- [ ] エピソードアウトライン（`s1/s2-episode-outline.md`）の4ビートに沿っているか
 - [ ] このエピソードで「起きたこと」が1つ明確にあるか
 - [ ] キャラクターの感情が地の文または行動で描かれているか
 
@@ -279,11 +325,14 @@ Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. S
 ---
 
 【執筆条件】
-- Target Level: CEFR A1（Season 1）/ A1〜A2（Season 2）
-- Vocabulary: NGSL上位1000語以内（S2は1500語）。固有名詞・動物名・地名は例外。
-- Sentence Structure: 1文は原則10語以内（最大12語）。関係代名詞節・過去完了形・仮定法は禁止。
-- Word Count: 270〜330語（目標300語）。
-- Paragraphs: 4〜6段落。
+- Target Level:
+    S1: CEFR A1（語彙1000語・1文10語以内・最大12語）
+    S2: CEFR A1〜A2（語彙1500語・1文12語以内・最大15語）
+    S3: CEFR A2〜B1（語彙2500語・1文15語以内・最大18語）
+- Tense: 現在形ベース。回想・完了した動作には単純過去形を使う。過去完了形（had done）は禁止。
+- Prohibited: 関係代名詞節（S1/S2）・過去完了形（全シーズン）・仮定法・分詞構文
+- Word Count: 270〜330語（目標300語）
+- Paragraphs: 4〜6段落
 - Dialogue: 1〜4箇所。各キャラクターの口調を守ること。
 - Ending: 余韻のある終わり方（まとめで終わらない）。
 
@@ -309,12 +358,10 @@ Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. S
 ---
 
 【このエピソードの4ビート仕様】
-（planning/s1-episode-outline.md または s2-episode-outline.md から転記）
 ① 設定: 【】
 ② 行動: 【】
 ③ 補助/テクスチャー: 【】
 ④ 余韻: 【】
-語数確保ポイント: 【⚠️ 注意点があれば転記】
 
 ---
 
@@ -341,8 +388,8 @@ Good: "Riro touched his fur. He touched it again. And again. Ako-chan watched. S
 - 同じシーンを2エピソードにまたがって描く場合、視点・焦点を変える
 
 ```
-Ep Nの最後: She looked at the sea. It was very big.
-Ep N+1の冒頭: The sea was still there in the morning. Big and quiet.
+Ep Nの最後: She looks at the sea. It is very big.
+Ep N+1の冒頭: The sea is still there in the morning. Big and quiet.
 ```
 
 - 章の最初のエピソードは、前章との間に「時間の流れ」を感じさせる1〜2文を入れる

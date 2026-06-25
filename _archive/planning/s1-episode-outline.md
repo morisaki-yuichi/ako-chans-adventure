@@ -40,7 +40,7 @@
 
 ### Ep 2「The Ground Feels Wrong」
 
-① **設定**：同じ日の午後。庭の端の草むら。太陽が高く、暖かい昼。Ako-chanが庭の草の間を歩いている。Dangoが近くで匂いを嗅いでいる。
+① **設定**：同じ日の午後。庭の端の草むら。太陽が高く、暖かい昼。Ako-chanが庭の草の間を歩いている。Dangoが近くで匂いを嗅いでいる——コーギーのパピー、カットしていないふわふわの長いしっぽがゆれている。
 
 ② **行動**：ハリネズミがゆっくり出てくる。Ako-chanが腰を下ろして待つ。「I cannot sleep. Many nights. The ground feels wrong. There is something. Under my feet. It comes from the south.」Ako-chanが耳を傾け、うなずく。Dangoが近づいてくるが声は聞こえない——聴こえるのはAko-chanだけ、ということが自然に示される。
 
@@ -364,7 +364,7 @@
 
 ③ **補助/テクスチャー**：岩場で全員が待つ間、Daruが何度もObiaの周りを覗きに来てはObiaに止められる。「Not now, Daru.」Daruが戻る。また来る。また止められる。DangoはAko-chanの足元で伏せたまま動かない。
 
-④ **余韻**：「Much further than that.」Ako-chanが繰り返す。小さな声で。海を見る。海は広く、静かだ。
+④ **余韻**：「Much further than that.」Ako-chanが繰り返す。小さな声で。海を見る。海は広く、静かだ。その夜、Ako-chanは気がついた——Obiaがまだ外にいる。青白い光が岩の上で点滅していた。何をしているのか——聞けなかった。
 
 ---
 
@@ -474,19 +474,19 @@
 
 ---
 
-### Ep 35「Sand and Waiting」
+### Ep 35「One Step Closer」
 
 ① **設定**：同じ場所、翌日。また朝。Gabuはまた岩の上にいる——昨日と同じ場所に。距離は変わっていない。
 
-② **行動**：Ako-chanが砂の上に座る。手のひらを地面に置く。熱い砂。でもそのままにしている。Gabuがこちらを見ている。Ako-chanが動かない。一分が経つ。Gabuがほんの半歩動いた——前に。また止まる。Ako-chanが動かない。風が来る。また止む。
+② **行動**：Ako-chanが砂の上に座る。手のひらを地面に置く。熱い砂。でもそのままにしている。Gabuがこちらを見ている。Ako-chanが動かない。一分が経つ。Gabuが一歩動いた——前に。また止まる。Ako-chanが動かない。風が来る。また止む。
 
 ③ **補助/テクスチャー**：砂が手のひらの下で熱い。DangoがAko-chanの横に来て、砂の上に伏せる。Daruが後ろで待っている——今日はほとんど動かない。Obiaが記録している。
 
-④ **余韻**：Gabuはまた元の場所に戻った——昨日より半歩だけ近い岩に。それだけ。でもAko-chanはその半歩を見ていた。
+④ **余韻**：Gabuはまた元の場所に戻った——昨日より一歩だけ近い岩に。それだけ。でもAko-chanはその一歩を見ていた。
 
 ---
 
-### Ep 36「One Step Closer」
+### Ep 36「Step by Step」
 
 ① **設定**：翌朝。Gabuがまた岩の上にいる。今日も同じように始まる。日が低い。空気がまだ少し冷たい。
 
@@ -572,7 +572,7 @@
 
 ② **行動**：Ako-chanが甲板に出る。海を見る。遠く深い場所から——何かが来る気がした。低い声。とても遠い。クジラだろうか。でも聴こえるかどうかも分からない——気がするだけかもしれない。Ako-chanが海に向かって立っている。どこかに日本がある。
 
-③ **補助/テクスチャー**：甲板の鉄が夜の冷気を帯びている。DaruとGabuが手すりの下に並んで収まっている——二つの甲羅が暗い海に向いている。DangoがぴったりとAko-chanの足首のそばにいる。
+③ **補助/テクスチャー**：甲板の鉄が夜の冷気を帯びている。DaruとGabuが手すりの下に並んで収まっている——二つの甲羅が暗い海に向いている。DangoがぴったりとAko-chanの足首のそばにいる。夜中に目が覚めた。Obiaが甲板にいた。青白い光が暗い海の上で点滅していた。Ako-chanは窓から見ていた——でも声をかけなかった。
 
 ④ **余韻**：声はまた消えた——気のせいだったかもしれない。でもAko-chanはまだ海を見ている。日本が向こうにある。
 
@@ -614,15 +614,15 @@
 
 ---
 
-### Ep 46「Left, Right, Left」
+### Ep 46「Still There」
 
-① **設定**：翌朝。山道を歩いている。Suke-sanがAko-chanの右後ろについている。Dangoが左についている。
+① **設定**：翌朝。山道。Ako-chanが一人でSuke-sanのいた岩の方へ向かっている。Dangoたちは後ろに残っている。松と土の匂い。
 
-② **行動**：DangoがAko-chanの右側に来ようとする——Suke-sanがすでにそこにいる。DangoがAko-chanの左側に来る——Suke-sanも来る。またDangoが右側に——Suke-sanも右側に。Ako-chanが笑う。止まる。両手を下ろして——Dangoの頭に左手、Suke-sanの頭に右手を同時に置く。二匹が止まる。
+② **行動**：Suke-sanがまだ岩の上にいる——昨日と同じ場所に。Ako-chanがゆっくり近づく——一人で。数メートル手前で止まる。Suke-sanが動かない——逃げない。来ない。でも岩にいる。二者が見合う。それだけ。Ako-chanがゆっくり向きを変えて戻っていく。
 
-③ **補助/テクスチャー**：山道に木漏れ日が落ちている。DaruがPodの中から見ている。「What are they doing?」Gabuが「Deciding.」と答える。
+③ **補助/テクスチャー**：松の木が風に揺れる。Dangoが遠くからこちらを見ている——来ない。DaruとGabuがPodの中から静かに見ている。Suke-sanの目がまっすぐAko-chanを見ている——揺れない。
 
-④ **余韻**：Ako-chanが二匹の頭から手を離す。DangoとSuke-sanが一瞬だけ互いを見る——また前を向く。左と右。
+④ **余韻**：Suke-sanはまだ岩の上にいる——動かなかった。「Still there.」それが何かを意味している。
 
 ---
 
@@ -678,7 +678,7 @@
 
 ① **設定**：完成の朝。船が港に浮いている——錆は落ち、板は張り替えられた。Obiaが最後の確認をしている。全員が甲板にいる。
 
-② **行動**：Ako-chanが全員を見る。Dango。Obia。Daru。Gabu。Suke-san。六人。「Ready?」誰も反対しない。船が動き始める——港を出る。南へ。エンジンの音が甲板に響く。
+② **行動**：Ako-chanが全員を見る。Dango。Obia。Daru。Gabu。Suke-san。六人。乗り込むとき——DangoがAko-chanの左に来る。Suke-sanが右に来る——一瞬、左右が入れ替わりそうになる。Ako-chanが両方の頭に手を置く——止まる。二匹が止まる。「Ready?」誰も反対しない。船が動き始める——港を出る。南へ。エンジンの音が甲板に響く。
 
 ③ **補助/テクスチャー**：エンジンの振動が甲板を伝わる。Suke-sanが船の縁に立ち、日本の山の方向をしばらく見てから——向き直る。南を向く。Daruがエンジンの上を走り回ろうとして、Gabuに止められる。
 
@@ -770,11 +770,11 @@
 
 ① **設定**：夕方。日が傾いてきた。岩の影が長く伸びている。まだゾウガメと一緒にいる。
 
-② **行動**：ゾウガメが続ける。「Something is wrong in the south. We have felt it before. Very long ago.」Ako-chan:「How long ago?」ゾウガメがゆっくり首を動かす。「Long before your kind walked. Long before these islands were here.」意味はまだ分からない。でも言葉が残る。Ako-chanが赤い日記帳を取り出す。書く。
+② **行動**：ゾウガメがゆっくり首を動かして、続ける。「In the old stories——a creature. On an island, very far away. Long, long ago. Much, much bigger than us. And the south was wrong then too. We do not know more than that. Only the story.」Ako-chanが静かに聞いている。意味はまだ分からない。でも言葉が残る。Ako-chanが赤い日記帳を取り出す。書く。
 
 ③ **補助/テクスチャー**：日が傾き、岩の影が長く伸びる。Gabuがゾウガメの言葉をずっと聞いたあと、一度だけDaruを見る——何も言わない。DangoがAko-chanの足元に来て、伏せる。
 
-④ **余韻**：ゾウガメが静かに動き出す——また岩の影へ戻っていく。Ako-chanが日記帳を閉じる。「Very long ago.」その言葉がまだ頭の中にある。南に何があるのか——まだ分からない。でも誰かがずっと前から知っていた。
+④ **余韻**：ゾウガメが静かに動き出す——また岩の影へ戻っていく。Ako-chanが日記帳を閉じる。「Only the story.」その言葉がまだ頭の中にある。遠く、大きく、ずっと昔——南に何があるのか、まだ分からない。でも誰かがずっと前から知っていた。
 
 ---
 
@@ -896,7 +896,7 @@
 
 ② **行動**：窓の外に白いものが浮いている——小さな欠片。氷だ。Ako-chanが窓に近づく。みんなが窓に集まる。Daru:「Does it not melt?」Gabu:「Here it does not.」Daru:「Why?」Gabu:「It is too cold.」Daru:「Oh.」またDaruが窓を見る。「It is very white.」
 
-③ **補助/テクスチャー**：氷の欠片が窓の横を通り過ぎる。もう一つ来る。また一つ。Dangoが窓に鼻を押し当てて曇らせる。Suke-sanが黙って窓の外を見ている。Obia:「Minus five. And dropping.」
+③ **補助/テクスチャー**：氷の欠片が窓の横を通り過ぎる。もう一つ来る。また一つ。Dangoが窓に鼻を押し当てて曇らせる。Suke-sanが黙って窓の外を見ている。Obia:「Minus five. And dropping.」それからObiaが計器を見る——もう一度見る。「The numbers. I have not seen this before.」計器の光が点滅する。「What does it mean?」「We are very close. Closer than I thought.」
 
 ④ **余韻**：氷の欠片が増えてきた。海の色が変わっている——暗い青から黒に近い青へ。白い欠片が黒い海に浮いている。Ako-chanは窓から離れない。
 
@@ -918,7 +918,7 @@
 
 ① **設定**：上陸した。南極大陸の端。氷と雪。風が強い。白が眩しい。
 
-② **行動**：Ako-chanが氷の上に最初の一歩を踏み出す。氷が固い——地面の感触とは全然違う。冷たい。でも確かに立っている。全員が降りてくる。Dangoが一歩踏み出す——少し滑る。また踏み出す——また少し滑る。慎重に歩く。
+② **行動**：Ako-chanが氷の上に最初の一歩を踏み出す。氷が固い——地面の感触とは全然違う。冷たい。でも確かに立っている。全員が降りてくる。Dangoが一歩踏み出す——少し滑る。また踏み出す——また少し滑る。慎重に歩く。Ako-chanが立っている。足の下が固い。静かだ——でも何かが聞こえる。動物の声ではない。言葉でもない。低く、遠く、ずっと続いている。氷の下から来ているような気がした。Ako-chanはそれを誰にも言わない。
 
 ③ **補助/テクスチャー**：Suke-sanが氷の上に降りた瞬間——立ち止まる。目を閉じる。四方の匂いを深く吸う。長い。また吸う。また長い。目を開ける。また前を向く。
 
@@ -928,7 +928,7 @@
 
 ### Ep 70「Put It On」
 
-① **設定**：基地に近い場所。Obiaが南極装備を出している。風が続いている。冷たい。
+① **設定**：船の近く。氷の上。Obiaが南極装備を出している。風が続いている。冷たい。
 
 ② **行動**：Obiaが保温ブーツを出す——Dangoの前に置く。Dangoがじっと見る——また、これだ。Dangoが後ずさりしかける。その瞬間——Suke-sanが横から「Put it on.」低く、短く、はっきりと。Dangoが止まる。Suke-sanを見る。Suke-sanが動かない。Dangoが足を差し出す。
 
@@ -942,7 +942,7 @@
 
 ### Ep 71「He Came Running」
 
-① **設定**：基地の近く。氷の上。風が少し弱まっている。
+① **設定**：船の近く。氷の上。風が少し弱まっている。
 
 ② **行動**：遠くから声が来た——「Ako-chan!」走ってくる形が見える。黒い、小さい。転んだ——でも立ち上がってまた走る。エンペラーペンギンのヒナ。Pen-san。「You came! I knew you would come! I knew it!」Ako-chanの前に来て止まる。息を切らしている。Ako-chan:「Pen-san. We came.」
 
@@ -954,7 +954,7 @@
 
 ### Ep 72「Pick Me Up」
 
-① **設定**：基地の近く。Pen-sanと全員が一緒にいる。風が少し来ている。
+① **設定**：船の近く。氷の上。Pen-sanと全員が一緒にいる。風が少し来ている。
 
 ② **行動**：Pen-sanがAko-chanを見上げる。「Ako-chan. Pick me up. Please.」Ako-chanが腰を下ろして、Pen-sanを抱き上げる。Pen-sanが「Oh.」と小さく言う。Dangoが目を細くする——Pen-sanのヒナ羽がふわふわだ。Ako-chanがそれを抱っこしている。Dangoが見る。
 
@@ -966,7 +966,7 @@
 
 ### Ep 73「Tell Me About Obia」
 
-① **設定**：翌日。基地の近く。風が静かだ。遠くに氷の壁が見える。
+① **設定**：翌日。船の近く。氷の上。風が静かだ。遠くに氷の壁が見える。
 
 ② **行動**：遠くから一羽が来た——小さい。でも歩き方がまっすぐで速い。アデリーペンギン。来るのを止めない。Ako-chanたちの前に来て——即座に。「Tell me about Obia.」挨拶もない。ただそれだけ。Ako-chan:「Who are you?」「Colonel Adelie. Tell me about Obia.」
 
@@ -978,11 +978,11 @@
 
 ### Ep 74「Night Signal」
 
-① **設定**：深夜。基地の中は静かだ。全員が眠っている——はずだ。
+① **設定**：深夜。船の中は静かだ。全員が眠っている——はずだ。
 
 ② **行動**：Obiaが静かに動いている。ドアを開けて、外に出る。気温が下がっている。Obiaが何かを始めた——青白い光が点滅する。送信している。データを送っている。どこへ、何を送っているのか——分からない。でも送っている。
 
-③ **補助/テクスチャー**：基地の外。氷の上。Obiaが一人で立っている。遠くの岩の上——Adelieがいる。動かない。ただ見ている。Obiaは気がついているか、気がついていないか——分からない。
+③ **補助/テクスチャー**：船の外。氷の上。Obiaが一人で立っている。遠くの岩の上——Adelieがいる。動かない。ただ見ている。Obiaは気がついているか、気がついていないか——分からない。
 
 ④ **余韻**：送信が終わる。Obiaが中に戻る。岩の上でAdelieがまだ見ている。風が来る。
 
@@ -990,7 +990,7 @@
 
 ### Ep 75「The Colonel Asks」
 
-① **設定**：翌朝。基地の入口のそば。Ako-chanがいる。
+① **設定**：翌朝。船の入口のそば。Ako-chanがいる。
 
 ② **行動**：Adelieが来る——まっすぐに。止まる。「Last night. I saw Obia. Outside. Alone. What was it doing?」Ako-chanが止まる。「Outside?」「Yes. Late. Before the wind came.」Ako-chanがObiaを見る。Obiaが答えない。Adelie:「What was it doing?」沈黙。
 
@@ -1002,11 +1002,11 @@
 
 ### Ep 76「Southern Animals」
 
-① **設定**：夕方。基地の中。外の風が壁を鳴らしている。全員が集まっている。
+① **設定**：夕方。船の中。外の風が船体を鳴らしている。全員が集まっている。
 
-② **行動**：Pen-sanが話す。「The seals did not come where they always came. The skuas flew in circles. The ice moved wrong.」Ako-chan:「When did it start?」「Many weeks ago. Before you came.」「We did not know why.」
+② **行動**：Adelieが前に出る。「I will tell you what we have seen.」淡々と、でも正確に。「The seals did not come where they always came. The skuas flew in circles.」止まる。「The whales. None came south this year. Not one. In all my years——it has never happened before.」Ako-chan:「None?」「None.」Pen-sanが続ける。「I heard the ice too. It sounds different. At night.」小声で、でも確かに。Ako-chan:「When did it start?」Adelie:「Many weeks ago. Before you came.」
 
-③ **補助/テクスチャー**：外の風がベースの音を立て、基地の壁がかすかに鳴る。Pen-sanが話すたびにDaruが前のめりになり、GabuがDaruの甲羅を軽く押さえて静止させる。
+③ **補助/テクスチャー**：外の風がベースの音を立て、船の壁がかすかに鳴る。Pen-sanが話すたびにDaruが前のめりになり、GabuがDaruの甲羅を軽く押さえて静止させる。
 
 ④ **余韻**：Pen-sanが話し終わる。静かになる。Ako-chanがObiaを見る。Obiaが静かに立っている。動かない。
 
@@ -1022,9 +1022,9 @@
 
 ### Ep 77「The Ice Knows」
 
-① **設定**：南極基地の近く。Obiaがまた計測をしている。氷の平原が広がっている。
+① **設定**：船の近く。氷の平原が広がっている。Obiaがまた計測をしている。
 
-② **行動**：Obiaが振り返る。「The source is close. Under the ice. The ice knows where it is.」Suke-sanが空気を嗅ぐ——目を閉じて、深く。それからDangoを見る。Dangoがうなずく——DangoとSuke-sanが珍しく同じ方向を向く。Ako-chan:「What is below the ice?」Obia:「The ice is different here. Something is below.」
+② **行動**：Obiaが振り返る。「The signal is strongest here. Right here.」Suke-sanが空気を嗅ぐ——目を閉じて、深く。それからDangoを見る。Dangoがうなずく——DangoとSuke-sanが珍しく同じ方向を向く。Ako-chan:「What is below the ice?」Obia:「Something is below. I cannot reach it. Not from here.」沈黙。「But it is here.」
 
 ③ **補助/テクスチャー**：Adelieがすぐ横に来て、Obiaを見ている——また観察している。Pen-sanが後ろから聴いている。DaruがGabuに「What is below the ice?」と聞く。Gabu:「We will find out.」
 
@@ -1038,7 +1038,7 @@
 
 ② **行動**：Obiaが言う。「The numbers are rising. Fast.」Adelieが空を見る——立ち止まる。「It is a blizzard. The worst kind.」Ako-chan:「How long?」「Hours. Maybe tonight.」Pen-sanが振り返る——いつもと顔が違う。真剣だ。「We need to go inside. All of us. Now.」Pen-sanが走り始める——今回は転ばない。
 
-③ **補助/テクスチャー**：空が白くなってきた——雲が来ている。Dangoが鼻を上げる——匂いが変わっている。Suke-sanが基地の方向を向いて動き始める——急いでいる。
+③ **補助/テクスチャー**：空が白くなってきた——雲が来ている。Dangoが鼻を上げる——匂いが変わっている。Suke-sanが船の方向を向いて動き始める——急いでいる。
 
 ④ **余韻**：Ako-chanが空を見る。白い。Ep62の嵐とは違う——今回は陸の上だ。どこにも逃げる場所がない。
 
@@ -1046,7 +1046,7 @@
 
 ### Ep 79「White Out」
 
-① **設定**：夜。吹雪が来た。外は見えない——白一色。基地の壁が鳴っている。
+① **設定**：夜。吹雪が来た。外は見えない——白一色。船の壁が鳴っている。
 
 ② **行動**：Suke-sanが扉のそばに立つ。「Everything is locked.」扉を確認する。窓を確認する。Ako-chanが全員を確認する——全員いる。外が轟いている。「Is everyone here?」全員がいる。
 
@@ -1058,7 +1058,7 @@
 
 ### Ep 80「Wrong Direction」
 
-① **設定**：深夜。吹雪の中。基地の中。外の音が続いている。
+① **設定**：深夜。吹雪の中。船の中。外の音が続いている。
 
 ② **行動**：Obiaが窓の近くで計測している。「The sea ice is moving.」「Where?」「Wrong direction. It should not move this fast.」Ako-chanが窓に近づく——何も見えない。「The ship.」「Yes. The ship may be in danger.」船が氷に囲まれている。
 
@@ -1070,7 +1070,7 @@
 
 ### Ep 81「What Obia Knows」
 
-① **設定**：同じ夜。基地の中。みんながObiaを見ている。
+① **設定**：同じ夜。船の中。みんながObiaを見ている。
 
 ② **行動**：Obiaが立ち上がる。「I know a way. For the ship. The ice will open here——in three hours. If we move it there now.」Adelie:「How do you know this?」Obia:「I have been watching the ice. For weeks.」「Show me.」Obiaが地図を出す。AdelieがObiaの横に来る。「Here?」「Yes. And here. In three hours.」Adelie:「You are sure?」「Yes.」
 
@@ -1082,7 +1082,7 @@
 
 ### Ep 82「It Never Stops」
 
-① **設定**：数時間後。船が安全な場所に移動した。基地の中。全員が戻っている。
+① **設定**：数時間後。船が安全な場所に移動した。全員が船の中に戻っている。
 
 ② **行動**：AdelieがじっとObiaを見ている。Obiaが計測を続けている——止まらない。Adelie:「It never stops.」Ako-chanが聞く。「What do you mean?」「It is always working. Always watching. It does not rest.」沈黙。「It is not acting. It is just working.」
 
@@ -1094,7 +1094,7 @@
 
 ### Ep 83「I Am Faster」
 
-① **設定**：吹雪がまた強くなった夜。基地の中。外が轟いている。
+① **設定**：吹雪がまた強くなった夜。船の中。外が轟いている。
 
 ② **行動**：Obiaが立つ。「There is a problem. Outside. With the anchor.」「I will go.」Ako-chan:「No. It is too dangerous.」「Stay. I go alone. I am faster.」Obiaがドアを開ける——吹雪が一瞬入ってくる。Obiaが出る。ドアが閉まる。外が暗い——Obiaが見えない。
 
@@ -1106,7 +1106,7 @@
 
 ### Ep 84「No Bad Feeling」
 
-① **設定**：Obiaが戻ってきた。吹雪がまだ続いている。基地の中。
+① **設定**：Obiaが戻ってきた。吹雪がまだ続いている。船の中。
 
 ② **行動**：Obiaが入ってくる。冷たい。でも無事だ。Ako-chanが近づく。Suke-sanが——Obiaの前に立つ。じっと見る。長い間、見る。それから。「You have no bad feeling in you. None. I am sure now.」Obiaが静かに立っている。Suke-sanが一歩下がる。
 
@@ -1118,7 +1118,7 @@
 
 ### Ep 85「Confession」
 
-① **設定**：翌日。吹雪が少し弱くなっている。Ako-chanとObiaが基地の隅に、二人きりでいる。
+① **設定**：翌日。吹雪が少し弱くなっている。Ako-chanとObiaが船の隅に、二人きりでいる。
 
 ② **行動**：Obiaが話す。「Ako-chan. I have to tell you something.」Ako-chanが待つ。「I have been watching. All this time. And sending data. I do not know where it goes. I do not know why. But I send it. Every night.」Ako-chan:「Data about what?」「About the animals. The voices. Everything you find.」「And you think——」「I think my sending caused this. The disturbance. I think it is connected to me.」
 
@@ -1154,7 +1154,7 @@
 
 ### Ep 88「We Go Home」
 
-① **設定**：翌朝。基地の中。全員が集まっている。
+① **設定**：翌朝。船の中。全員が集まっている。
 
 ② **行動**：Obiaが言う。「I stopped. I do not know if it will help.」沈黙。Ako-chan:「We go home. We watch.」Pen-sanが前に出る。「We stay. We watch from here.」Adelie:「We stay. We watch from here.」Ako-chanがPen-sanを見る。Adelieを見る。「Thank you.」
 
