@@ -16,3 +16,5 @@ exclude:
   - "README.md"
   - Gemfile
   - Gemfile.lock
+  - tools/
+  - _preview/

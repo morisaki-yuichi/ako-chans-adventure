@@ -13,6 +13,7 @@
 | `planning/s2-episode-list.md` | S2 全話エピソード配置（タイトル・役割）|
 | `planning/s3-episode-list.md` | S3 全話エピソード配置（タイトル・役割）|
 | `planning/timeline.md` | Day-by-day story events and exact dialogue |
+| `planning/continuity-ledger.md` | **内容矛盾を防ぐ3台帳**（A.知識状態・命名／B.配置・動線／C.数・量）— 執筆前に必ず確認 |
 | `_archive/` | 旧S1・S2エピソードおよび旧設定ファイルのアーカイブ（参照用） |
 
 ## Writing a New Episode — Required Steps
@@ -24,7 +25,8 @@
    - Which `story_day` value to assign
    - What each character already knows at that point in the story
    - Exact wording of any dialogue that later episodes might quote back
-4. Read `planning/writing-guide.md` Section 9 の執筆プロンプトテンプレートに4ビートを転記してから執筆開始する。
+4. Read `planning/continuity-ledger.md` の3台帳を確認する：その話で**まだ確立していない名前・事実を先取りして呼ばない**（例：名前は確立回まで使わない）・**各キャラの居場所/動線が自然か**・**数え語の確定値**（例：*I have to go.* は4語）。
+5. Read `planning/writing-guide.md` Section 9 の執筆プロンプトテンプレートに4ビートを転記してから執筆開始する。
 
 ### In the frontmatter
 - Set `story_day:` (integer) to the in-story day number.

@@ -10,7 +10,7 @@ permalink: /episodes/
     <h2>Season 1 &mdash; A1</h2>
 
     <div class="chapter-block">
-      <h3>Chapter 1 &middot; The Voices in the Garden</h3>
+      <h3>Chapter 1 &middot; The Voice in the Garden</h3>
       <ul class="episode-list">
         {% assign s1c1 = site.pages | where: "season", 1 | where: "chapter", 1 | sort: "episode" %}
         {% for ep in s1c1 %}
