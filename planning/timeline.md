@@ -449,4 +449,69 @@
   - 配置：Daruは怖がってPodに戻る／GabuはゾウガメのそばにとどまるDango は足元。next_ep は空欄（Ch8 Ep55 執筆時に ep055.prev_ep=ep054 と相互リンク）。
   - ✅執筆済み（word_count 285）。
 
-<!-- Ch7 完了（Ep46〜54）。Ch8 以降は執筆後に追記（Day 51〜） -->
+<!-- Ch7 完了（Ep46〜54）。 -->
+
+## Chapter 8「Through the Storm」— ガラパゴス〜南極近海（Ep55〜62・8話）
+
+**Ch8 共通**
+- 一行は**六人＋船**。ガラパゴス→南極近海。**S1屈指のアクション章**（動・出来事モード中心）。これまでの静かな章との緊張のコントラスト。
+- ★**Ep58＝クジラの恩返し（Ep50「We will not forget.」の回収）**：嵐のピークで転覆寸前の船を、**あのクジラが仲間を連れて来て**囲い、体を張って波を受ける。**行動で見せる・説明しすぎない**。
+- 8話を嵐一色にせず**緊張と小休止の波**：予兆（55-57）→ピーク／救援（58-59）→余韻・解放（60）→氷の接近（61-62）。
+- ★**Ep59＝Ako-chanのリーダーシップ**：クジラが声で進路を届け、Ako-chanが冷静に全員へ指示（"Obia: route. Dango: stay down."）。**声が嵐を切る＝彼女の"聴く力"が鍵**。
+- ★**Ep60「Glasses Off」＝緊張の解放**：嵐の後、Dangoと二人きりでAko-chanが**メガネを外して静かに泣く**。赤メガネモチーフ（外す＝素の自分・無防備）。
+- 送信#3はCh10（Ep72）＝この章では送信シーンなし。
+- 地理：南極海（嵐の海）→氷山。実在・地図で追える。
+
+### Day 51 — ガラパゴスを離れ南へ
+- **Ep55「Grey Water」**：南下。海の色が青→灰、水温が季節外れに低い。③手すりが冷たい。Suke-sanが船首で南の空気を鼻で読み、一度だけAko-chanを見る（野生の勘が危険を察知）。モード：静・観察（不穏）。
+  - 確定（情景）：海が青→灰へ・季節外れの冷水（"It is not the right time for cold. But the cold is here."）。鳥も魚もいない空虚な海（"The sea has no birds now. No fish jump in the waves."＝Ep46/54「鳥のいない空」と通底）。③手すりが冷たい（"The metal is very cold. It bites her skin."）。
+  - 配置：Suke-sanが**船首で南の空気を読み、一度だけAko-chanを振り返る**（無言・"Just once." 野生の勘で危険を先に察知＝"He feels the danger first."）。DangoはAko-chanの足元／ObiaはAko-chanの近くで南を見る／Daru・GabuはPodで休む（赤・青の光）。
+  - 注意（期間表現なし）：章末伏線は "Something waits down there. She knows it now." に留め、嵐の内容を先取りしない。
+  - ✅執筆済み（word_count 285）。
+
+### Day 58 — 嵐（予兆→静寂→ピーク→脱出）
+- **Ep56「The South Sends It」**：嵐の予兆。気圧・風速・空の色が変わる。Obiaが警告。遠くから複数のクジラの声が重なる。
+  - 確定（時間経過）：Day51→Day58（"Many days pass. The ship sails on, far to the south."）。
+  - 確定（予兆）：空が灰→黒・低く垂れる雲・風が強まる・冷たい雨（"The pressure drops. The wind comes fast."）。🔒 Obia *"The air is wrong." / "A storm. A big one. It comes from the south." / "We cannot turn back. The storm is too close."*（Obiaの代名詞 "it"）。
+  - 確定（クジラの声・複数が重なる）：遠くから複数のクジラの声が重なる（"Many whales call at once. The voices come together over the waves."）。**これは深海の背景異変への反応＝恩返し（Ep58）の先取りはしない**。Ako-chanは "They are calling." と受け取るのみ（意味は不明）。
+  - 配置：Dangoが脚に身を寄せる／Suke-sanが暗い空へ低く唸る。
+  - ✅執筆済み（word_count 279）。
+- **Ep57「Two Hours」**：嵐直前の不気味な静寂。🔒 Obia *"Two hours. Maybe less."* DangoがAko-chanから離れない。モード：静（嵐前の張り詰め）。
+  - 確定（不気味な静寂）：風が止み海が凪ぐ・クジラの声も止む・音が消える（"There is no sound now. No wind. No waves." / "The world holds its breath." / "The sea is a flat grey glass."）。Ako-chanは "This calm is wrong. She knows this kind of wrong." と感じる。
+  - 🔒台詞：Obia *"It is close now." / "Two hours. Maybe less."*（**完全一致・嵐到達予告**。Obia "it"）。
+  - 配置：**DangoがAko-chanから離れない**（"He does not move from her. He leans hard on her leg."）→Ako-chanがかがんで抱きしめ "I am here. Stay close to me."。Suke-sanはAko-chanの右で低く緊張／Daru・GabuはPodの奥に隠れる／Obiaは船べりで見張る。
+  - ✅執筆済み（word_count 278）。
+- **Ep58「The Whale Wall」**：嵐のピーク。船が転覆寸前。そのとき**あのクジラが仲間を連れて来る＝恩返し**。クジラたちが船を囲い、体を張って波を受ける。行動で見せる。モード：動・出来事。
+  - 確定（嵐ピーク・転覆寸前）：黒い丘のような波が船を覆い船が大きく傾く（"The ship tips far to one side. ... It almost goes over."）。
+  - 確定（恩返し＝Ep50回収・行動で見せる）：暗い海から**複数のクジラ**が浮上し**船を壁のように囲う**（"They make a wall around the ship. Their great bodies take the waves. The water hits them, not the ship."）。近くの1頭の巨大な目がAko-chanを見つけ、Ako-chanが**前回助けたクジラ**だと気づく（"It is the whale from before. They helped it once. Now it helps them."）。🔒台詞（Ako-chan）：*"You came back."* クジラは**話さず**ただ波を受け続ける（説明しすぎない）。
+  - 🔒回想引用（Ep50「Thank You」の payoff）：Ako-chanが嵐の中で前のクジラの言葉を思い出す＝*"We will not forget," it said.*（**Ep50と完全一致**・誓い型willの正規例外・過去報告。"Now she knows what they mean."）。
+  - 配置：Dangoは床に伏せる／Suke-sanは爪を甲板に立てる／Daru・GabuはPodの奥／**Obiaが舵（the wheel）を握る**。**Obiaの代名詞 "it"**。
+  - ✅執筆済み（word_count 289）。
+- **Ep59「Cold and Clear」**：クジラがAko-chanに声で進路を届ける。Ako-chanが冷静に全員へ指示（🔒 *"Obia: route. Dango: stay down."* 等）。声が嵐を切り、嵐を抜ける。
+  - 確定（核＝聴く力→指示）：近くのクジラが**声で進路を届ける**（嵐を切る低く澄んだ声）。🔒台詞（クジラ）：*"This way. Follow us. Go where we go."* Ako-chanが聴き取り、冷静に短い指示を全員へ。
+  - 🔒台詞（Ako-chan・リーダーシップ）：*"Obia: route. Dango: stay down."*（**完全一致**）／*"Suke-san: watch the south."* / *"Daru, Gabu: stay in your Pods."* → 各自が役割を果たす（Obiaが舵を正しい向きへ／Dangoは伏せる／Suke-sanは南を見張る／2匹はPodで静止）。
+  - 確定（タイトル回収・余韻）：Ako-chanの声＝*"cold and clear. It cuts the storm like the whale's."*（タイトル "Cold and Clear" 回収）。嵐を抜ける（波が小さくなり風が落ちる）。手は震えても声は震えなかった（"But her voice did not shake. Not once."）。
+  - ✅執筆済み（word_count 270）。
+
+### Day 59 — 嵐の後（解放）
+- **Ep60「Glasses Off」**：Dangoと二人きりの部屋。Ako-chanが**メガネを外して静かに泣く**＝緊張の解放（赤メガネを外す＝無防備な素の自分）。モード：感情。
+  - 確定（解放）：夜・嵐の後の静かな船室でDangoと二人きり（"It is just the two of them."）。Ako-chanが床に座りDangoを膝に抱く→**赤いメガネを外す**（"Without them, her face looks small. ... This is her true face. No one sees it but Dango."）→静かに涙（"They are quiet. ... She does not make a sound."）。Dangoが頬をなめる。🔒台詞（Ako-chan）：*"It is okay."*（声も震える "But her voice shakes too."）。
+  - 確定（赤メガネモチーフ・余韻）：泣き終えて**メガネをかけ直す**＝張り詰めた自分に戻る（"She puts her glasses back on. Then she holds Dango until she sleeps."）。身体所作で感情を外在化（説明しない）。
+  - 注意（期間表現）：嵐の恐怖の回想は "She was so scared before." に留め、現異変の長期化を匂わせない。
+  - ✅執筆済み（word_count 274）。
+
+### Day 66 — 南極接近（氷〜装備）
+- **Ep61「First Ice」**：最初の氷山が現れ始める。全員が窓に集まる。🔒 Daru *"Does it not melt?"* → Gabu *"Here it does not."*
+  - 確定（時間経過）：Day59→Day66（"Days pass. The storm is far behind them now."）。空気が日ごとに冷える。
+  - 確定（最初の氷山）：朝、窓の外に最初の氷山（"a huge wall of ice"・船より高い）。全員が窓に集まる。③テクスチャー：近くで見ると氷は白だけでなく内側が青い（"It is not just white. It is blue too, deep inside."）・鳥も波もない静寂（"There are no birds. There are no waves."＝Ep46/54/55の「鳥のいない空」と通底）。
+  - 🔒台詞（完全一致）：Daru *"Ice! So much ice! Does it not melt?"* → Gabu *"Here it does not. Here it stays. It is too cold."*（賑やかなDaruが氷山の前で静まる＝"Even Daru is quiet."）。
+  - 配置：DangoはガラスにPaws／Suke-sanは耳を立てて外を見る。
+  - ✅執筆済み（word_count 272）。
+- **Ep62「Ready for the Cold」**：Obiaが防寒装備を配布。Dango/Suke-san＝保温ブーツ＆ベスト／Pod＝南極モード（断熱・保温強化）。**未来技術の由来には触れない**。章クローザー。次章Ch9（南極上陸・Pen-san）へ。
+  - 確定（防寒装備配布）：Obiaが箱から装備を配る。**Dango＝four small boots＋warm vest**（Ep26の "four small boots" と数値整合）／**Suke-san＝boots＋vest**（新しい物を警戒しつつ着用 🔒 *"They are warm. Good."*）／**Ako-chan＝軽く暖かいコート**（Obia作・**素材の由来＝未来技術には一切触れない**＝world.md §7準拠）。
+  - 確定（Pod南極モード換装）：ObiaがPodを寒冷対応に換装（"The Pods grow bigger and warmer inside." 🔒 Obia *"Now they keep the cold out."*）。Daru *"It is warm! So warm!"* 赤・青の光は "glow softly"。**Obiaの代名詞 "it"**。
+  - 確定（章クローザー余韻・伏線型）：*"Something waits there too. And they go to meet it."*（Ep54/Ep38/Ep15と同型の章末伏線）。**Pen-san等Ch9の内容は先取りしない**。次章Ch9（南極上陸・Pen-san）へ。
+  - ✅執筆済み（word_count 273）。
+
+<!-- Ch8 完了（Ep55〜62）。 -->
+<!-- Ch9 以降は執筆後に追記（Day 67〜） -->
