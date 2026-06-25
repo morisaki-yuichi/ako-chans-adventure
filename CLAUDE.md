@@ -54,21 +54,8 @@
 
 ### After completing a full Chapter
 - Propose 3 chapter title candidates based on the chapter's content, and confirm with the user before proceeding.
-- Add a new chapter block to `episodes.md` following the existing pattern:
-  ```liquid
-  <div class="chapter-block">
-    <h3>Chapter N &middot; Chapter Title</h3>
-    <ul class="episode-list">
-      {% assign s1cN = site.pages | where: "season", 1 | where: "chapter", N | sort: "episode" %}
-      {% for ep in s1cN %}
-      <li>
-        <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
-        <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  ```
+- **No manual block is needed in `episodes.md`.** That page is data-driven: each season loops over its chapters and pulls episode pages automatically via `site.pages | where: "season", N | where: "chapter", N | sort: "episode"`. As long as each new episode's frontmatter carries the correct `season` / `chapter` / `episode` / `title` / `word_count`, the chapter renders on its own. Adding a hand-written chapter block would cause a **duplicate** chapter.
+- The only `episodes.md` edit ever required is the **chapter title**: confirm the chapter's title is present at the right position in that season's `sN_titles` pipe-separated list (e.g. `s1_titles`). The confirmed S1–S3 titles are already filled in, so normally there is nothing to change.
 
 ## Critical Continuity Rules
 

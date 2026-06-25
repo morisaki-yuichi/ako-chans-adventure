@@ -83,7 +83,9 @@
 |------|--------|------|
 | 日記の最初の一行 *I have to go.* | **4語** | ⚠️ "three words" は誤り（今回テスト）。数えるなら "four words"、または数えない言い回し（"a line" / "the words"）に |
 | Obiaの目 | **2つ**（pale blue） | "two eyes" 可 |
-| Ch1の一行（party）の人数 | **3**（Ako-chan・Dango・Obia） | Ep7「three of them」可。Obia合流前（Ep1–2）は2 |
+| 一行（party）の人数 | Ch1〜2＝**3**（Ako-chan・Dango・Obia）／Daru合流後（Ep21〜）＝**4**／Gabu合流後（Ep31〜）＝**5** | Ep7「three of them」可。Ep21 本文 "Now they are four."／Ep31 本文 "Now they are five. Ako-chan, Dango, Obia, Daru, and Gabu." |
+| Gabu出現〜合流の距離・時間（Ep28） | 距離＝**fifteen meters**（タイトル）／待ち時間＝**an hour** | Gabuは岩上15m・全員で1時間待つ |
+| Dangoの砂漠ブーツ（Ep26） | **4つ**（"four small boots"）＋鼻先マスク1 | 4本脚に対応 |
 | 期間表現 | 厳密管理しない（"説明しない"方針）が、**異変の継続期間を長く言わない**（Obia到着＝Ep1以降） | timeline.md の Day 割付と矛盾させない |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。

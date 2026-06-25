@@ -187,4 +187,78 @@
   - 章クローザー。次章Ch4（ヨルダン・ワディラム／Gabu）へ。
   - ✅執筆済み（word_count 272）。
 
-<!-- Ch4 以降は執筆後に追記（Day 10〜） -->
+## Chapter 4「The Red Desert」— ヨルダン・ワディラム（Ep25〜33）
+
+**Ch4 共通**
+- ★**Gabu合流＝四人→五人**（2匹目のリクガメ）。Daru（赤・高速・元気）と対照的に **Gabuは慎重・静か・じっくり観察**（甲長7cm・鮮やかな黄×黒：控えめな黒縁＋各甲板中央に黒斑）。Pod内は**一定のリズム→安定走行・発光色は青**。
+- ★**Gabuの信頼は数日かけて**築く（Daruの即合流と対照）。Ep27（気配）→Ep28（15m・待つ）→Ep29（一歩）→Ep30（数日・少しずつ）→Ep31（向こうから来て座る＝**無言の合流**）。
+- ★**Gabuの声**：少ない言葉・観察的（例 *"Wait. Look at the shadow."*）。**合流は台詞でなく行動**（Daru/Obiaの "I will go with you" 型は使わない＝キャラ対比）。
+- ★**酷暑装備（Ep26）**：Ako-chanに**熱反射クロス**（超軽量・熱を跳ね返す）／Dangoに**肉球保護ブーツ＋鼻先マスク**（Dangoは全力拒否→観念＝軽い笑い）。
+- ★**Pod冷却・排熱機能（Ep26）を初描写**：砂漠の酷暑でもDaruのPod内は快適に保たれる。
+- Dangoの嫉妬：継続（Gabuにも）。ただしDaruより目立たず、**Daruを静止させる"世話役"**の面が強まる（待つ場面で暴走を抑える）。
+- 異変（Ep25）：夜行性のサソリ・トカゲが昼間に岩陰から這い出し、同じ方向（南）を向く（ワディラム＝段階1）。南の通底を継続。
+- 地理：ヨルダン・ワディラム砂漠（赤い砂・赤い岩壁・酷暑）。実在・地図で追える。**Ch3〜Ch4間は陸路＋フェリーで数日移動（本文では描かない）**。
+
+### Day 12 — ワディラム到着〜装備〜気配
+- **Ep25「Red Sand」**：ワディラム入口（the desert / Wadi Rum・赤い砂・赤い岩・高い石壁）。前から来る熱。モード：静・観察（酷暑と不穏）。
+  - 🔒引用アンカー（Obia）：*"The temperature is very high."*（章共通の固定台詞）。
+  - 確定（異変・段階1）：夜行性のサソリ・トカゲが**昼間**に岩の割れ目から這い出し、隠れず**南**を向く（"They sit still in the hot sun. ... They look to the south."）。
+  - 🔒台詞（トカゲ）：*"You should not be out now,"* はAko-chan。トカゲ＝*"We cannot stay inside."* / *"Something pulls us from the south."*（異変が南を指す・"説明しない"範囲）。
+  - 配置：Daruは**Pod内**（"So hot! So red!"＝元気だが暑さに一瞬黙る）。Dangoはそばで激しくパンティング。Obiaは名乗り済み・地の文で可、**Obiaの代名詞は "it"**。
+  - ✅執筆済み（word_count 275）。
+- **Ep26「Dango Says No」**：装備配布。モード：動・出来事（軽い息継ぎ）。
+  - 確定（装備）：Ako-chan＝**熱反射クロス**（"a light cloth ... thin and silver and cool" / "It sends the heat away."）。Dango＝**肉球保護ブーツ4つ＋鼻先マスク**（"four small boots" ＋ "a little mask"）。Dangoは**全力拒否→観念**（"No, no, no!" → 大きなため息 → 履く → ぎこちなく歩く＝軽い笑い）。
+  - 🔒台詞（Obia）：*"The ground is too hot."* / *"You need help out here."* / *"It sends the heat away."*（**Obiaの代名詞は "it"**：It gives / It holds）。
+  - 確定（**Pod冷却機能・初描写**）：DaruのPod内は酷暑でも快適（"The Pod sends the hot air away. Inside it stays soft and cool." / Daru *"It is nice in here!"*）。
+  - 確定（嫉妬）：Dangoの嫉妬は控えめに継続（Daruへ "a flat look"）。
+  - ✅執筆済み（word_count 277）。
+- **Ep27「The Watcher」**：夕方（日が低い・影が長い）。岩と同じ色の小さな丸い形が一瞬動いて消える＝**Gabuの最初の気配**（未命名）。モード：静・観察。
+  - 確定（気配）：Gabuは本文で **"something" / "the small thing" / "someone"** とのみ呼ぶ（名・姿は出さない）。"It is small and round and still. It is the same color as the stone."→一度動いて消える。
+  - 確定（Dango）：Dangoが匂いの跡を追うが岩で途切れ**届かない**（"the trail stops at the rocks. He cannot find the small thing."）→ 低い声。
+  - 🔒台詞（Daru）：*"What was it? What was it?"*（好奇心）。
+  - 確定（締め）：「確かにいた」という確信で終える（"Something is there in the rocks. ... Someone is out there."）＝Ep28（翌朝・15m）への伏線。
+  - ✅執筆済み（word_count 273）。
+
+### Day 13 — 15メートル〜最初の一歩
+- **Ep28「Fifteen Meters」**：翌朝（早朝・涼しい）、Gabuが低い岩の上に現れる。距離**約15メートル**。逃げない・近づかない。全員で**1時間**待つ。モード：静・観察。
+  - 確定（Gabu未命名）：本文では **"a small tortoise" / "the small tortoise" / "it"**（名・声は出さない）。**Daruは名前で区別**（"the tortoise"＝Gabuのみ）。
+  - 確定（外見・初描写）：*"Its shell is yellow with black marks."*（鮮やかな黄＋黒斑。Daruの "yellow-brown with black lines" と対比）。
+  - 確定（Gabuの性格・布石）：観察的＝*"It only watches and waits." / "This one is not like Daru at all. It does not rush."*（即行動のDaruと対照）。
+  - 確定（③・世話役）：Daruは**Pod外**で待機。動こうとする（"Let me look! Let me look!"）→**DangoがDaruの甲羅に体を当てて静止**させる（"Dango leans on Daru's shell. He holds him still with his body."）。Obiaも静止して見る（"it"）。
+  - 数（C台帳）：距離＝**fifteen meters**（タイトル）／待ち時間＝**an hour**。
+  - ✅執筆済み（word_count 279）。
+- **Ep29「One Step Closer」**：同日・日中（酷暑）。Ako-chanが熱い砂に座り、**手のひらを砂に平らに置く**（差し出さず開いて待つ）。Gabuが**一歩**動く。誰も動かない。慎重な信頼構築の始まり。
+  - 確定（所作）：*"She does not reach for the tortoise. She just waits, with her hand open."* → Gabuが *"one small step toward Ako-chan."*（一歩のみ・それ以上来ない）。
+  - 確定（③）：Dangoは息を止めDaruをPod外で押さえる。汗がメガネの横を伝う（"Sweat runs down beside her glasses."）。
+  - ✅執筆済み（word_count 274）。
+
+### Day 14 — 少しずつ
+- **Ep30「Step by Step」**：翌日。Gabuが**止まる→見る→また一歩**で少しずつ近づく。**昨日より近い**が、まだ来ない。モード：静・観察。
+  - 確定（接近のリズム）：*"Step by step, it comes closer. It stops. It looks. It walks again."* → *"It comes nearer than yesterday now. But ... It does not come all the way."*
+  - 確定（③・Daru）：Daruが**息を止めて体を丸くする**（"He holds his breath this time. He pulls into a tight little ball."）。砂を踏むGabuの足音だけ。
+  - 確定（余韻・継続性呼応）：信頼構築の段階を回想＝*"First only a shape. Then fifteen meters away. Then one step on the sand."*（Ep27気配→Ep28・15m→Ep29一歩）。"数日かけて"は信頼構築のみを指し、異変の長期化は示唆しない。
+  - ✅執筆済み（word_count 284）。
+
+### Day 15 — 合流〜Pod
+- **Ep31「Steady」**：Gabuがまっすぐ歩いてきてAko-chanの前に座る。それだけ。でも全部だった。**＝Gabu合流（無言の行動）**。※転換点の1語タイトル例外。
+  - ★**Gabu命名・作中確立点**：合流は**無言の行動**（迷わずまっすぐ来て座る＝"It walks straight to her, slowly and steadily. Then it sits down right in front of her."）。**Daru/Obiaの "I will go with you" 型は使わない**（キャラ対比）。名前はGabu自身が**最小の一語**で名乗る：Ako-chan *"Hello. I am Ako-chan."* → Gabu *"Gabu."*（これ以前は "a small tortoise / the tortoise / it"）。
+  - 確定（人数）：本文 *"Now they are five. Ako-chan, Dango, Obia, Daru, and Gabu."*（Ep21 "four" の継続。**C台帳：合流後＝5**）。
+  - 確定（対比描写）：Daruの賑やかな登場（Ep18）と明示的に対比＝*"This is not like the day Daru came. Daru ran and shouted and jumped. Gabu came slowly, on his own feet."*
+  - 確定（Dango）：嫉妬は激化せず受容寄り＝Gabuを長く見たあと尻尾を振り始める（"his tail begins to wag slowly"）。
+  - ✅執筆済み（word_count 276）。
+- **Ep32「His Own Pace」**：Gabu用の**Podを作る**。一定のリズム→安定走行・**青い発光**。説明はDaruのとき（Ep22）より省く。
+  - 🔒台詞（Obia）：*"For you, Gabu."* / *"It is warm and safe inside."*（**Obiaの代名詞は "it"**：It works / It glows）。
+  - 確定（Pod・Gabu仕様）：一定のリズム→**安定走行**・発光色は**青**（"It glows a soft blue." / "The blue Pod rolls in an even line. ... It keeps one calm and steady beat."）。Daruの赤・高速と対照（"It does not rush like Daru's."）。
+  - 確定（対比の定型）：赤＝quick and bright／青＝calm and steady。以後の並走描写の基準。
+  - ✅執筆済み（word_count 273）。
+
+### Day 16 — 砂漠を出る
+- **Ep33「Two Shells」**：砂漠（Wadi Rum）を出る。DaruとGabuのPodが**対照的なリズム**で並んで動く（赤＝高速／青＝安定）。Gabuが一度だけ砂漠を振り返る。章クローザー。次章Ch5（アジア陸路〜日本）へ。
+  - 確定（並走）：*"Daru runs hard inside his red Pod. ... Gabu walks at his steady, even pace. ... The two shells travel on as one."*（タイトル "Two Shells" 回収）。
+  - 確定（Gabuの別れの所作）：Gabuが**一度だけ**砂漠を振り返る→前を向き二度と振り返らない（"He looks for just one moment. Then he turns to the road ahead. He does not look back again."）＝**Ep24 Daruの「故郷が遠ざかる」と対の構図**。
+  - 🔒章末アンカー：*"The road goes on, to the east."*（Ch5＝東へ、への接続。Ep24 章末 "And the road goes on." と呼応）。
+  - 注意（期間表現）：Gabuの故郷描写は "This red desert was his home." とし、**"for a long time" 等の期間表現は使わない**（継続性ガード）。
+  - 配置：next_ep は空欄（Ch5 Ep34 執筆時に ep034.prev_ep=ep033 と相互リンク／Ep24→Ep25 と同運用）。
+  - ✅執筆済み（word_count 270）。
+
+<!-- Ch5 以降は執筆後に追記（Day 17〜） -->
