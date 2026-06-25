@@ -31,6 +31,10 @@
 | 受動態（The door was opened.） | Ako-chan opens the door. |
 | 長い名詞句（the sound of the wind blowing） | the wind's sound / the wind blows |
 | 省略形を多用しすぎない（会話では可：I'm, it's, don't） | 地の文では基本展開形 |
+| can not（2語に分ける） | **cannot**（1語）に統一する |
+| 様態副詞のフラット形（動詞を slow/soft/quick 等で修飾） | **-ly形に統一**（slowly/softly/quickly）。例 ×"sits up slow" → ◯"sits up slowly"。※slow/soft は**形容詞**としては可（"a slow train" / "Her breath is slow and soft"）|
+| 同じ畳語の多用（on and on／up and up／closer and closer 等） | 章内で繰り返さない。1か所程度に留め、他は具体描写に変奏 |
+| 三連形容詞の多用（A and B and C：例 "wide and blue and bright"） | 1話に1回まで。多用すると平板。2語に減らす／コンマ列（A, B, and C）に散らす |
 
 ---
 
