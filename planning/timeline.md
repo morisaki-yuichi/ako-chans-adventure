@@ -261,4 +261,51 @@
   - 配置：next_ep は空欄（Ch5 Ep34 執筆時に ep034.prev_ep=ep033 と相互リンク／Ep24→Ep25 と同運用）。
   - ✅執筆済み（word_count 270）。
 
-<!-- Ch5 以降は執筆後に追記（Day 17〜） -->
+## Chapter 5「The Long Way East」— アジア陸路〜日本（Ep34〜38）
+
+**Ch5 共通**
+- ★**S1で最短の章（5話）＝移動章**。ワディラム→アジア陸路→日本の港。**各話に異なる感覚の焦点**を与えて長距離を持たせる（だれさせない）。
+- 一行は**五人＋2つのPod**（Ako-chan・Dango・Obia・Daru[赤・高速]・Gabu[青・安定]）。Daru饒舌×Gabu無言の対比は継続。
+- 移動手段：**陸路＋フェリー**（中東〜アジア）。実在の地理・地図で追える（地名は控えめでも"東へ向かう実感"を）。
+- ★**背景異変（カラス・魚）＝Obiaの送信とは別系統**。**進行中の現象**として描く（送信直後の異変＝Ep14とは区別）。説明しない。
+- 南：異変の源は依然「南」。ただしアジア/日本での"現れ方"は **カラスが無言で旋回／南方の魚が北上して打ち上げ**（world.md 段階2）。
+- 送信/signal の伏線はCh5では休止（#2＝Ep47 太平洋）。Suke-sanはCh6で登場（Ep38は港到着＝その余韻）。
+
+### Day 17 — 砂漠を出て東へ
+- **Ep34「Always East」**：砂漠を離れ東へ。景色が砂→草→農地→山と変わる。Pod内のDaru（高速・赤）とGabu（安定・青）の対比。モード：移動・テクスチャー。
+  - 🔒台詞（確定）：Daru *"And then?"* → Obia *"East."*（2往復・Obiaは "East." のみ繰り返す＝Daruの好奇心×Obiaの淡白の対比）。
+  - 確定（景色変化）：red sand → pale brown stone → green plants → grass → farms（wide and flat）→ blue mountains。一行は**五人＋2 Pod**。signal/送信への言及なし（Ch5は伏線休止）。
+  - 確定（締め）：Ako-chanが "East" の一語を胸に抱く（"She holds that small word close. ... East."＝タイトル回収）。
+  - ✅執筆済み（word_count 271）。
+
+### Day 20 — アジア（背景異変①）
+- **Ep35「The Silent Crows」**：背景異変①。**カラスが鳴かなくなり、無言で空を旋回し続ける**（声＝沈黙が不気味＝カラスの台詞は出さない）。Ako-chanが見上げる。Dangoが落ち着かない。※Obiaの送信とは切り離す。モード：静・観察（不穏）。
+  - 確定：カラスは台詞なし。Ako-chanが声を待つが**何も受け取れない**（"But nothing comes to her."）＝不気味さの核。
+  - 確定（呼応）：Ep25 と同じ地の文 *"It is the same wrong as before."* を再使用。源は**南**（"It comes from the south, she knows."）。**進行中の背景異変＝Obiaの送信とは無関係**。
+  - 台詞（Daru）：*"Why are they so quiet?"*（Ako-chanは答えられない）。配置：Dangoは耳を伏せ低く唸る（"A low growl"）／Gabuは空を見て静止。
+  - メモ：畳語 *"round and round"* を**Ch5で1回**使用済み（以降のCh5本文では別表現に変奏する）。
+  - ✅執筆済み（word_count 274）。
+
+### Day 22 — 海沿い／フェリー（背景異変②）
+- **Ep36「Fish on the Shore」**：海沿い・フェリー。背景異変②：**南方の魚が北上して沿岸に打ち上げられる**。Ako-chanが魚の**弱く混乱した声**を聴く。③：潮の匂い、濡れた砂利、銀色の体。モード：静・観察。
+  - 🔒台詞（魚・弱く lost な断片）：*"Cold." / "The water is cold." / "Wrong way." / "We came the wrong way." / "Where is the warm sea?"*（Ako-chanは"受け取る"＝聴く）。
+  - 確定：銀色の小魚が浜に多数打ち上げ（北上した南方の魚）。Ako-chanは**一匹だけ海に戻す**（"too many"・全部は救えない無力感で締める）。
+  - 配置：Dangoは魚に近づかず後ずさり／Gabuは静観／**Obiaは "It does not speak."（代名詞 it）**。
+  - ✅執筆済み（word_count 273）。
+
+### Day 24 — 日本接近（休息）
+- **Ep37「Different Green」**：日本へ近づく。土地・空気の変化（"different green"）。**仲間の疲れと結束**を描く休息のテクスチャー回。DaruとGabuが緑の違いを話す。モード：休息・テクスチャー（異変の描写なし＝休符回）。
+  - 🔒台詞：Daru *"That green is different!" / "It is not like home. Not like the desert."* →（Gabu）*"Yes. It is darker. And more wet."*
+  - 確定（結束）：一行は疲れているが一体（"The long road made them one group."）。DaruとGabuがフェリーのデッキで並んで休む（赤・青＝Ep33「Two Shells」の並走を想起）。Dangoは膝に頭を載せる。**Obiaの目＝"pale and blue"（it）**。
+  - 余韻：*"Almost to Japan."*（港到着への予感）。
+  - ✅執筆済み（word_count 271）。
+
+### Day 25 — 日本の港へ
+- **Ep38「The Port」**：日本の港町に到着。深い緑の山・湿った空気・海と船の気配。**次章Suke-san登場への余韻**で締める。章クローザー。次章Ch6（日本・Suke-san・廃船改造）へ。
+  - 確定：日本の港町＝**陸路の終点**（"This is Japan, at the end of the road."）。深緑の急峻な山・湿って暖かい空気・小さな漁港・漁船・ロープ・網。
+  - 配置：町の老人たちが一行を見る（"A dog, a girl, a silver thing. And two round Pods."＝**Obiaは町民視点で "a silver thing"**・名は出ない）。台詞 Daru *"We are here!"*／Gabuは緑の山を見る。
+  - 🔒章クローザー余韻（**Suke-san伏線・名は出さない**）：海を渡る手段がまだない（*"How can they cross such big water?"*＝**Ch6 廃船への伏線**／will不使用で can）。**Dangoが港の上の岩の "something" に気づき見上げる→吠えない**（"High on the rocks, something is there. ... But he does not bark."）＝**Ep39 Suke-san登場への伏線**。Ep15「something waits there」と同型の章末伏線。
+  - 配置：next_ep は空欄（Ch6 Ep39 執筆時に ep039.prev_ep=ep038 と相互リンク／Ep33→Ep34 と同運用）。
+  - ✅執筆済み（word_count 281）。
+
+<!-- Ch6 以降は執筆後に追記（Day 26〜） -->
