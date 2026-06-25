@@ -83,7 +83,7 @@
 |------|--------|------|
 | 日記の最初の一行 *I have to go.* | **4語** | ⚠️ "three words" は誤り（今回テスト）。数えるなら "four words"、または数えない言い回し（"a line" / "the words"）に |
 | Obiaの目 | **2つ**（pale blue） | "two eyes" 可 |
-| 一行（party）の人数 | Ch1〜2＝**3**（Ako-chan・Dango・Obia）／Daru合流後（Ep21〜）＝**4**／Gabu合流後（Ep31〜）＝**5** | Ep7「three of them」可。Ep21 本文 "Now they are four."／Ep31 本文 "Now they are five. Ako-chan, Dango, Obia, Daru, and Gabu." |
+| 一行（party）の人数 | Ch1〜2＝**3**（Ako-chan・Dango・Obia）／Daru合流後（Ep21〜）＝**4**／Gabu合流後（Ep31〜）＝**5**／Suke-san合流後（Ep45〜）＝**6** | Ep7「three of them」可。Ep21 "Now they are four."／Ep31 "Now they are five. Ako-chan, Dango, Obia, Daru, and Gabu."／Ep45 "Six on Board"（六人＝＋Suke-san）。※Pod/Suke-sanは"匹"だが英語本文の通称人数として登録 |
 | Gabu出現〜合流の距離・時間（Ep28） | 距離＝**fifteen meters**（タイトル）／待ち時間＝**an hour** | Gabuは岩上15m・全員で1時間待つ |
 | Dangoの砂漠ブーツ（Ep26） | **4つ**（"four small boots"）＋鼻先マスク1 | 4本脚に対応 |
 | 期間表現 | 厳密管理しない（"説明しない"方針）が、**異変の継続期間を長く言わない**（Obia到着＝Ep1以降） | timeline.md の Day 割付と矛盾させない |

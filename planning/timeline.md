@@ -308,4 +308,69 @@
   - 配置：next_ep は空欄（Ch6 Ep39 執筆時に ep039.prev_ep=ep038 と相互リンク／Ep33→Ep34 と同運用）。
   - ✅執筆済み（word_count 281）。
 
-<!-- Ch6 以降は執筆後に追記（Day 26〜） -->
+## Chapter 6「Building the Ship」— 日本・港（Ep39〜45・7話）
+
+**Ch6 共通**
+- ★**Suke-san登場・合流＝五人→六人**（2匹目の犬）。**豆柴のパピー♂**：赤茶色＋白い靴下（口周り・頬・胸・内腿・手足の先が白）・キツネに似た三角の顔・ピンと立った耳・くるりと巻いた尻尾。**野生の勘が強く警戒心旺盛**。Daru（陽気）/Gabu（慎重だが温厚）とも違い、**鋭く"測る"**。
+- ★**Suke-sanはObiaを特に強く警戒**。信頼は最も遅く条件付き：合流（Ep44）しても**まだObiaを完全には信用しない**（解決はCh10）。声＝鋭く少ない（"I do not know yet."）。**合流は台詞でなく行動**（道具を拾う＝Gabu型／"I will go with you" は使わない）。位置＝**常にAko-chanの右・少し後ろ**（ここで定位置確立）。
+- ★**廃船改造のものづくり章**：Obia設計＋全員で港の廃船を修復・改造し、太平洋横断の船を造る。
+- 一行：五人＋2Pod → Suke-san合流で**六人**（Ep45「Six on Board」）。
+- Dangoの嫉妬：Suke-san（しかも犬＝直接のライバル）にも継続。Ep45で**左右の取り合い**（新しい味付け）。
+- signal：Ep42でObiaが口にする（"very far south"＝旅の方向）。**送信#2はCh7（Ep47）＝この章では送信シーンなし**。
+- 地理：日本の港町（Ep38から継続）。松・土の匂い、潮、錆びた金属。航路は太平洋（ガラパゴスへ・大方向は南）。
+- 命名：**Suke-sanの名はCh6で確立**（初めて口をきく回＝Ep41目安／それ以前は "the small red-brown dog" 等。名前を先取りしない）。
+
+### Day 26 — Suke-san出現〜接近
+- **Ep39「Sharp」**：港の高い岩の上に豆柴（未命名）。鋭い視線が Dango→Ako-chan→**Obiaで止まる**＝「最初の測定」。モード：静・観察。※1語タイトル例外。
+  - 確定（外見・初描写）：*"It is red-brown, with white socks. Its face is sharp, just like a fox. Its ears stand straight up. Its tail curls over its back."*（豆柴の特徴）。
+  - 確定（命名前の呼称）：本文では **"a small dog" / "the small dog" / "it"**（名は出さない＝Ep41で確立）。
+  - 確定（視線の順）：Dango→Ako-chan→**Obiaで停止**し長く留まる（"The small dog watches Obia. Its eyes are slow and careful."）。**Obiaの代名詞は "it"**。
+  - 確定（③）：Daru *"Who is that? Who is that?"* →沈黙して静止。Gabuも青Podで静止。松と土の匂い。Dangoも嗅がず見上げて静止。
+  - 締め：*"Something sharp is in its eyes. Something careful. Something that waits."*＝最初の測定の余韻。
+  - ✅執筆済み（word_count 275）。
+- **Ep40「Still There」**：同日・日中。Ako-chanが**一人で**岩に近づく（Dangoに "Stay" と告げ置いていく）。逃げない——来ない——でもまだいる。モード：静・観察。
+  - 確定（所作）：Ako-chanは岩に登らず下から見上げ *"Hello. We are friends."* と呼びかける→犬は何も返さないが**逃げず・隠れず・留まる**。
+  - 🔧配置：Dangoは下で待ち心配そうに見る（whine）。Obiaは boats のそばで静止。Daru/Gabuも下で静観。
+  - 確定（余韻）：距離は同じだが「逃げなかった・見ていて留まった＝a start」で締める（"It watched her come, and it stayed. That is something. That is a start."）。
+  - メモ：畳語 *"step by step"* を**Ch6で1回**使用済み（以降のCh6本文では別表現に変奏）。
+  - ✅執筆済み（word_count 273）。
+
+### Day 27 — 観察〜船の発見
+- **Ep41「Not Yet」**：翌朝、豆柴が岩から降りてObia近くの低い石に座り**2時間**観察し続ける。モード：静・観察。※Suke-sanが初めて口をきく＝**命名確立点**。
+  - 🔒引用アンカー：Ako-chan *"What do you think?"* → Suke-san *"I do not know yet."*（声＝低く鋭い "Its voice is low and sharp."）。警戒の理由＝Obiaが"何か"だと勘づいている。
+  - ★**Suke-san命名・作中確立点**：観察の核台詞のあと Ako-chan *"What is your name?"* → **"Suke-san," he says at last.**（Gabuの最小一語型に倣う）。**これ以前（Ep39–40）は "the small dog / it"。命名後は地の文で "he" に切替**。
+  - 確定（観察対象）：Obiaの silver body と **pale blue eyes** を見続ける（"It looks like it wants to know something."）。**Obiaの代名詞は "it"**。
+  - 確定（③）：Daruが質問したがるがGabuが寄りかかって静止させる。塩と松の匂い・カモメ。
+  - 締め：Ako-chanもObiaに"何か"を感じるが正体は分からない＝*"But like Suke-san, she does not know what. Not yet."*（Suke-sanの警戒とAko-chanの直感を重ねる）。
+  - ✅執筆済み（word_count 276）。
+- **Ep42「We Need a Ship」**：港の端で**廃船を発見**。モード：動・出来事。signal語＝旅の方向（送信#2はCh7・この章では送信なし）。
+  - 🔒引用アンカー（Obia）：*"The signal is very far south. We need a real ship."*（章共通の固定台詞）。続けて廃船を見て *"We can fix this."*
+  - 確定（廃船・初描写）：港の端の大きく古い船。*"Its paint is all gone now. Its wood is grey and cracked. Rust runs down its metal sides."* 漁船では小さすぎる（"too small for such big water"）→大きな廃船が必要。**Obiaの代名詞は "it"**。
+  - 確定（③）：Daru *"A ship! A ship! Look at it!"* と赤Podで駆け寄る。Gabuは後ろから高い甲板を静かに見上げる（無言）。潮と錆びた金属の匂い。Dangoは古い船体を嗅いで錆の匂いを嫌う。
+  - 確定（配置）：Suke-sanは**離れた岩から**見る（まだ降りてこない・"He does not come close. But he watches every move."）。命名後＝地の文 "he"。
+  - ✅執筆済み（word_count 274）。
+
+### Day 28〜29 — 船づくり〜Suke-san合流
+- **Ep43「All Hands」**：廃船の修復・改造を**数日かけて全員で**（Obia中心）。モード：動・出来事。
+  - 確定（各自の関わり）：Obiaが中心で設計・修復（"It points and plans. It builds with care."）。Ako-chanは板を運ぶ。Daruは走り回り足元で邪魔（"What is this? What is this?"）。Gabuは黙々と小物を山に積む。Dangoはロープを咥えて落として拾い直し**邪魔しつつ頑張る**（"But he tries so hard."）。
+  - 確定（Suke-san）：**離れた岩から見ている——でも目が離せない**（"his sharp eyes never leave them. He watches Obia most of all."）。日が経つごとに**少しずつ縁に近く座る**（"each day he sits a little nearer the edge."＝Ep44合流への布石）。Obiaは時折岩を見るが**呼ばない**（"It does not call out to Suke-san. It just lets him watch."）。
+  - 確定（経過）：数日で廃船が strong and new に変わる（"The days pass. The old ship changes slowly."）。
+  - ✅執筆済み（word_count 277）。
+- **Ep44「One More」**：Suke-sanが静かに岩を降りて**ロープ（道具）を咥えて運ぶ**＝**無言の合流**。誰も何も言わない。モード：感情・静。
+  - 確定（合流の所作）：長くObiaを見たあと岩を降り、石の上のロープを咥えて材木の山へ運び、降ろして見上げ「どうするか待つ」（"No one says a word to him."）。**台詞での "I will go with you" 型は使わない**（Gabu型＝行動で示す）。
+  - 確定（③・反応）：Ako-chanは息を止め、Dangoは頭を上げて凝視、Daruは叫ぼうとするがGabuが静止させる＝**静けさを保つ**（"They let it stay quiet."）。Suke-sanは警戒を残す（"He is still ready to run away. But he does not run."）。
+  - ★**Suke-san定位置の作中確立**：*"He stands by Ako-chan's right side, a little behind."*（＝シリーズ通しの定位置「Ako-chanの右・少し後ろ」をここで確立）。
+  - 🔒継続（信頼）：**まだObiaを完全には信用していない**＝*"But he does not trust Obia. Not all the way. Not yet."*（解決はCh10）。締め＝*"Still, he is one more now. One more on the long road."*（タイトル回収）。
+  - 注意（人数）：Ep44では**"six" を出さない**（人数宣言はEp45）。無言の合流に留める。
+  - ✅執筆済み（word_count 275）。
+
+### Day 30 — 出航
+- **Ep45「Six on Board」**：船完成。全員乗り込み**出港・南へ**。モード：動・出来事→余韻（章クローザー）。
+  - 🔒引用アンカー（人数＝六）：*"Now they are six on board. Ako-chan, Dango, Obia, Daru, Gabu, and Suke-san."*（Ep21 "four"／Ep31 "five" の継続。**C台帳：Suke-san合流後＝6**）。締め直前 *"Six friends on one ship, going south."*
+  - 確定（出港）：完成した船は tall and strong・新しい白い帆。古い廃船の姿は消えた（"The grey old ship is gone now."）。港を離れ南へ針路（"It turns its nose toward the open sea."）。日本の緑の丘が遠ざかる。
+  - ★**左右の取り合い**：Suke-sanは**右・少し後ろ**（Ep44で確立した定位置）を占める→Dangoが割り込むがSuke-sanは動かず→**Dangoは左**に回る。Ako-chanが笑って**両方の頭に手を置く**：*"There is room for both of you."*（Dangoの嫉妬アークの新しい味付け）。Daru *"Two dogs now!"*／Gabuは静かに横を転がる。
+  - 確定（余韻）：*"Whatever waits out there, they go to meet it. Together."*（will不使用で前向きに締める）。※次章の内容（太平洋・送信#2）は先取りしない。
+  - 章クローザー。次章Ch7（太平洋〜ガラパゴス・★送信#2）へ。
+  - ✅執筆済み（word_count 283）。
+
+<!-- Ch7 以降は執筆後に追記（Day 31〜） -->
