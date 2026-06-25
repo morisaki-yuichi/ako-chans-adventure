@@ -52,7 +52,7 @@
 - **Ep6「We Leave Tomorrow」**：朝、Ako-chanがObiaに出発を告げる。荷造り。
   - 🔒引用アンカー（Obia）：*"I thought you might come."* / （Ako-chan）：*"We leave tomorrow."*
   - 確定：ObiaはEp3からずっと庭の古いshedのそばに留まり、一晩動いていない（"It did not move all night."）。
-  - 確定：Ako-chanの同行表明は現在進行形 *"I am coming with you. I am going to the south."*（**S1はwill不使用。例外＝① Obiaの固定台詞、② 仲間が旅に加わる"誓い"の定型 *"I will go with you"*＝Ep3 Obia "I will come with you" のエコー（Ep21 Daru ほか合流回）**）。
+  - 確定：Ako-chanの同行表明は現在進行形 *"I am coming with you. I am going to the south."*（**S1はwill不使用。例外＝① Obiaの固定台詞、② 仲間が旅に加わる"誓い"の定型 *"I will go with you"*＝Ep3 Obia "I will come with you" のエコー（Ep21 Daru ほか合流回）、③ 物語を運ぶ"誓い"（例：クジラ Ep50 *"We will not forget"*＝Ch8 恩返しの伏線）**）。
   - 確定：荷物に warm clothes・gloves・warm hat・赤い日記帳・Dangoのお気に入りのおもちゃ（his favorite toy）を入れる。
   - ✅執筆済み（word_count 275）。
 
@@ -373,4 +373,80 @@
   - 章クローザー。次章Ch7（太平洋〜ガラパゴス・★送信#2）へ。
   - ✅執筆済み（word_count 283）。
 
-<!-- Ch7 以降は執筆後に追記（Day 31〜） -->
+## Chapter 7「Voices in the Deep」— 太平洋〜ガラパゴス（Ep46〜54・9話）
+
+**Ch7 共通**
+- 一行は**六人＋船**（Ako-chan・Dango・Obia・Daru・Gabu・Suke-san）。太平洋を渡りガラパゴスへ→さらに南へ。
+- ★**Ep47＝Obia送信シーン #2**（送信3回シリーズの2回目）。#1（Ep13）と同型（無言・南向き・目がpale blueで明るく光る・低いハム）。今回は**Ako-chanがより深く追求しようとするが、Obiaはやはり答えない**。★**Suke-sanも目撃**＝彼のObia警戒が続く理由に。
+- ★**Ep48＝送信#2直後の異変＝クジラ座礁**（#1のヤモリ＝Ep14より明確に大きい）。Ako-chanは「送信→直後に異変」の2例目に半ば気づくが**まだ言葉にしない**（確信は#3＝Ep72）。**送信由来の異変（座礁）と、生き物が伝える背景異変（深海の声）を混同させない**。
+- ★クジラ救助→礼（Ep49-50）。🔒クジラ *"We will not forget."*＝**嵐での恩返し（Ch8）への伏線**。
+- ★ガラパゴスのゾウガメ（Ep51-54）：Daru/Gabu（小さなリクガメ）と巨体のゾウガメの対面＝「同じ甲羅・でも違う」。**世代と時間の重み**。
+- ⚠️**Ep53「古い記憶」の継続性注意（最重要）**：ゾウガメの語る記憶は**遠い過去の別の出来事**＝個体の一生を超えた**祖先の言い伝え**（S2マイオラニアの伏線）。🔒 *"Long ago——a creature. On a far island. Much bigger than us. And the south was wrong then too."* **これは"今の異変が昔からある"という意味ではない**（今の異変はObia到着＝Ep1から、は不変）。"then too"＝**昔も別の異変があった、という並行する過去の事象**として描く。Ako-chanにも読者にも、今の異変との繋がりは明示しない。
+- Ep54：異変が臨界点手前。ゾウガメが動かなくなり何時間も空を見上げる＝南が近づいている。章クローザー。
+- 地理：太平洋（鳥のいない静寂）→ガラパゴス（乾いた溶岩岩・ウミイグアナ・ゾウガメ）。実在・地図で追える。
+
+### Day 31 — 太平洋へ
+- **Ep46「No Birds」**：太平洋へ出る。鳥のいない静寂（広大さゆえか異変ゆえか分からない）。③帆を鳴らす風の音だけ。Suke-sanが空を見上げるが何も言わない。モード：静・観察。
+  - 確定：船は日本を離れ太平洋の真っ只中（"The land of Japan is far behind."）。Ako-chanが空に鳥がいないことに気づく＝"There are no birds. No gulls cry above the waves."／原因を判じかねる（"Maybe the sea is just too wide. ... Or maybe something is wrong out here. She cannot tell."）＝広大さか異変か未確定。
+  - 配置：Suke-sanは**Ako-chanの右**（"at her right side"）で空を見上げ無言（耳・鼻だけ動く）。Dangoは脚にもたれ静止。Daru/GabuはPod内で静か。
+  - 🔒継続：「鳥のいない空」は**Ep48でも継続**（座礁クジラの場面で "Still no birds call above."）。Day31→35で通底する不穏。
+  - ✅執筆済み（word_count 280）。
+
+### Day 34 — ★送信 #2
+- **Ep47「The Watch Again」**：**2回目のObia送信**。Ako-chanが再びObiaの謎の行動を目撃。🔒 Ako-chan *"Obia? What are you doing?"* → **Obiaは答えない・振り向かない**（#1と同パターン）。今回は**より深く問おうとする**が無応答。★**Suke-sanも目撃**しObiaへの警戒が裏付けられる。確定：Obiaの目がpale blueで明るく光る／低いハム／南を向く（Ep13と同所作）。
+  - 場面：夜・船の甲板（Ako-chanは眠れず上がってくる）。Obiaは**船首に独り**で立つ＝Ep13（列車の窓辺）と同型。
+  - 🔒引用（Ako-chan・より深い問い）：核台詞のあと *"Please. What is it? Tell me."* → **やはり無応答**（"But still no answer comes."）。送信の正体は語らせない（告白はEp83）。
+  - 確定（Ep13エコー）：問われるとハム音が止み目が暗くなる＝*"The low hum stops at last. The pale eyes go dim again."*（Ep13 "The pale eyes go dim again." と同句）。締めは *"Two times now. The same strange thing. Something is wrong. But she does not say it. Not yet."*＝**送信"監視"の目撃が2回目**（半ば気づくが言語化しない）。
+  - 🔒Suke-san目撃：暗がりで静止し低く唸る＝*"He does not trust the silver thing."*（Ep44 "he does not trust Obia. Not yet." を継続）。**Obiaの代名詞は "it"**。
+  - 注意：この回の「Two times」は**監視（the watch）の目撃回数**を指す（Ep13→Ep47）。「送信→直後の異変」の2例目への気づきは**Ep48**に置く（混同しない）。
+  - ✅執筆済み（word_count 286）。
+
+### Day 35 — クジラ（座礁→救助→礼）
+- **Ep48「In the Shallows」**：送信直後、**浅瀬で座礁したクジラ**を発見（島／浅瀬に停泊中）。Ako-chanがクジラの声を聴く（深海・遠方の異変を伝える）。③船べりから見下ろす黒い背中、引いていく潮。Ako-chanは「送信→異変」の2例目に半ば気づくが言葉にしない。
+  - 場面：朝・灰色の空。低い緑の島の近く（**ガラパゴスではない**＝Day49上陸より前の太平洋の島）。浅瀬に座礁した大きなクジラ・引いていく潮（"The tide pulls slowly away from it. ... Soon it cannot reach the deep again."）。
+  - 🔒引用（クジラ・雄大で少ない言葉＝**背景異変＝深海の乱れ**を伝える）：*"Lost." / "The deep is wrong." / "Cold rises from the south. I came the wrong way." / "Help me. The water pulls away."* ※**"We will not forget." はEp50**（ここでは出さない）。
+  - 🔒継続（重要・混同防止）：クジラの声が伝えるのは**深海の背景異変**。**座礁という出来事**＝送信直後の異変。本文は両者を別物として扱う（クジラの台詞で送信を語らせない）。
+  - 🔒継続（送信→異変・2例目の気づき）：Ako-chanが前夜のObia（Ep47）とこの出来事を結びつけ**かけるが言語化しない**＝*"Last night Obia stood and hummed. Now a whale lies stuck below. It happened once before too. The small things in the daylight. ... Two times now. She opens her mouth to speak. But no words come out. She is not sure. Not yet."*（Ep14 "She opens her mouth. But she does not speak. ... Not yet." の意図的反復／**確信は#3＝Ep72**）。"The small things in the daylight" ＝Ep14のヤモリ・コウモリを指す。
+  - 配置：Dangoは船べりから吠える／Suke-sanは硬直して浅瀬を見る／Daru・GabuはPodから覗く。**鳥のいない空はEp46から継続**（"Still no birds call above."）。
+  - 注意（期間表現）：気づきの想起は "It happened once before too." とし、**"long ago" 等の期間表現は使わない**（Ep14＝Day6→Ep48＝Day35。継続性ガード）。
+  - ✅執筆済み（word_count 278）。
+- **Ep49「All Together」**：全員でクジラを助ける。Ako-chanの指示・Obiaの力・犬たちの吠え＝協力。
+  - 確定（救助の段取り）：引き潮で座礁したクジラを全員で助ける。Ako-chanが各自に役割を与える（指示役）＝皮膚を濡らす（バケツで海水）／🔒 Obia *"It is heavy." / "I am strong."* と押す（Obiaの力）／Dango・Suke-sanが砂を掘り**吠える**／Daru・Gabuは小石を転がす。やがて**潮が戻り**、全員で押してクジラが深みへ滑り出て自由になる（"It is free. It is safe."）。
+  - 🔒台詞（Ako-chan）：*"We help it now." / "All together."*（タイトル "All Together" 回収）／*"Hold on. The water comes back soon."*／解放時 *"Now! Push now! All together!"*
+  - 配置：Suke-sanも救助に参加（警戒は残しつつ行動を共にする）。**Obiaの代名詞は "it"**。礼の台詞はEp50（この回では出さない）。
+  - ✅執筆済み（word_count 290）。
+- **Ep50「Thank You」**：クジラが礼を告げ深海へ。🔒 *"We will not forget."*（Ch8 嵐での恩返しの伏線）。
+  - 🔒引用（クジラ・雄大で少ない言葉）：*"Thank you, child." / "You came to me. You did not turn away." / "We will not forget."*（最後の語＝Ep58 嵐での恩返しの伏線。**意図的なwill例外＝"誓い"型**）。
+  - 🔒引用（Ako-chan）：*"I heard you." / "We could not leave you here."*
+  - 確定（別れの所作）：クジラが大きな尾を上げ→深く潜る→広い波紋を残して消える（"The deep takes it home."）。友らは砂で静かに見送り、Ako-chanは手を上げて見送る。Dangoは空の海へ一度吠える。
+  - 確定（余韻）：Ako-chanの胸に "a warm and quiet thing" が残る（名づけられない＝恩返しの伏線を**説明しない**）。
+  - ✅執筆済み（word_count 284）。
+
+### Day 49 — ガラパゴス上陸
+- **Ep51「Galapagos」**：ガラパゴス上陸。乾いた溶岩岩・ウミイグアナ・そして巨大な影＝**ゾウガメとの初対面**。③岩の熱が足裏に。DaruがGabuに体を寄せ巨大な影を見上げる。※固有名詞タイトル。
+  - 確定（時間経過）：クジラ救助（Day35）から**Day49まで太平洋を航行**（"Many days pass on the open sea."）。🔒 Obia *"Galapagos."*（地名のみ・Ep9 "France." と同型）。
+  - 確定（情景・生態）：黒い溶岩岩・乾いて暑い島・足裏に伝わる岩の熱（"The heat comes up through their shoes."）。**ウミイグアナ**（marine iguanas）が岩で日光浴し逃げない・波で泳ぐ＝実在の生態。
+  - 確定（ゾウガメ初対面）：長い影→巨大なゾウガメ（"It is huge. It is bigger than them all." 首を空へ伸ばす）。**まだ無言・対話なし**（"The Same Shell"＝Ep52／"古い記憶"＝Ep53 はここでは出さない）。
+  - 配置：**DaruがGabuに小さな甲羅を寄せて見上げる**（🔒③）＝"He leans his small shell against Gabu."。Dangoは横で静止・Suke-sanも無言・イグアナも待つよう静止。**小さな2匹×巨体**の対比（Ep52「同じ甲羅・でも違う」への布石）。
+  - ✅執筆済み（word_count 291）。
+- **Ep52「The Same Shell」**：Daru/Gabuがゾウガメの前に立つ。同じ甲羅を持つ者として——でも何かが違う（世代と時間の重み）。
+  - 🔒台詞（ゾウガメ・深く遅い声）：*"You have a shell too." / "The same shell. Like mine."*（タイトル "The Same Shell" 回収）。
+  - 確定（対比＝世代と時間）：同じ形・同じ硬い甲羅、しかし**小さく新しい（Daru/Gabu）×巨大で灰色で古い（ゾウガメ・甲羅に深い割れ目）**。Ako-chan視点 *"They are the same. But they are not the same."*／*"The same shell, far apart in time."*
+  - 🔒台詞（Daru・賑やかさが鎮まる）：*"You are so big." / "So big. So very big."*（普段の大声が小さくなる）。ゾウガメは答えず静かに見守る。**今の異変・古い記憶（Ep53）はここでは語らない**。
+  - 配置：Dangoは少し離れて見て**吠えない**／Suke-sanは静止して目を見開く／イグアナは岩で休む。**DaruがGabuと身を寄せ合う**。
+  - ✅執筆済み（word_count 284）。
+
+### Day 50 — 古い記憶〜空を見上げる
+- **Ep53「A Very Old Memory」**：ゾウガメが**古い言い伝え（祖先の記憶）**を語る。🔒 *"Long ago——a creature. On a far island. Much bigger than us. And the south was wrong then too."* 意味はまだ分からない（S2マイオラニアの伏線）。※上記⚠️＝今の異変が昔からある意ではない。
+  - 🔒**継続性ガード（最重要・実装済み）**：記憶は**ゾウガメ自身の一生の記憶ではない**＝祖先の言い伝え。本文で明示：*"This is not my own memory." / "The old ones gave it to me. They had it from the old ones before. It comes from far, far back in time."*
+  - 🔒**今の異変との連結を一切張らない（実装済み）**：ゾウガメ自身も意味を知らない（*"It does not know what the story means."*）／Ako-chanも理解しない（*"She does not understand it at all. It is old and strange and far away."*）。本文は**今の「南が wrong」（Ep1以降の現異変）と古い記憶を比較・接続しない**（"then too" は🔒引用内のみ＝**並行する別の過去の事象**）。期間表現でも現異変の長期化を匂わせない。
+  - 配置：Daruは問おうとして言葉が出ない／Gabuは石を見て動かない／Dangoは足元で静か／Suke-sanはゾウガメを見続ける。
+  - ✅執筆済み（word_count 283）。
+- **Ep54「Looking at the Sky」**：異変（臨界点手前）。ゾウガメが動かなくなり、何時間も空を見上げる。南が近づいている。章クローザー。次章Ch8（嵐・南極近海）へ。
+  - 確定（異変・段階3＝world.md）：ゾウガメが**突然動かなくなり空を見上げ続ける**（"It does not move. It does not blink. ... The hours pass slowly."）。空には何もない（*"No clouds. No birds. Nothing at all."*＝Ep46「鳥のいない空」と通底）。🔒台詞（Ako-chan）：*"What is it? What do you see?"* → ゾウガメ無応答。
+  - 🔒継続（**現異変**との接続＝可）：Ako-chanはこれを**今まで追ってきた「南の wrong」**と認識する＝*"It is the wrong thing. The same wrong from far away. It is stronger here than ever before. The south is very close now."*（Ep2/Ep25 の "wrong" と呼応。**Ep53の古い記憶とは結びつけない**）。Suke-sanも南へ唸り感じ取る。
+  - 確定（章クローザー余韻・伏線型）：*"She does not know what waits down there. But something does."*（Ep15「something waits there」/Ep38 と**同型の章末伏線**）。Ch8（嵐）の内容は先取りしない。
+  - 配置：Daruは怖がってPodに戻る／GabuはゾウガメのそばにとどまるDango は足元。next_ep は空欄（Ch8 Ep55 執筆時に ep055.prev_ep=ep054 と相互リンク）。
+  - ✅執筆済み（word_count 285）。
+
+<!-- Ch7 完了（Ep46〜54）。Ch8 以降は執筆後に追記（Day 51〜） -->
