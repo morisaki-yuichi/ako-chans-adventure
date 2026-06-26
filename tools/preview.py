@@ -6,7 +6,7 @@ Renders episode Markdown files through the real _layouts + assets/css so you can
 review pages exactly as GitHub Pages would show them — without Ruby/Jekyll.
 
 Usage:
-    python3 tools/preview.py [DIR ...]      # default: season1 season2
+    python3 tools/preview.py [DIR ...]      # default: season1 season2 season3
     cd _preview && python3 -m http.server 4000
     open http://localhost:4000/
 
@@ -106,7 +106,7 @@ def render_liquid(tpl, page, content):
 
 
 def main():
-    dirs = sys.argv[1:] or ["season1", "season2"]
+    dirs = sys.argv[1:] or ["season1", "season2", "season3"]
     ep_layout = strip_layout_frontmatter(
         open(os.path.join(ROOT, "_layouts/episode.html"), encoding="utf-8").read())
     def_layout = strip_layout_frontmatter(
