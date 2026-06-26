@@ -1058,3 +1058,64 @@
   - 🔧レビュー適用（Phase C・第3バッチ Ep132-133）：①**ep133 関係代名詞節を解消**（"Something that called them here."→"Something called them here."＝thatを外し独立節に・S2禁止回避）。②洞窟テクスチャーの過密 dark×6/ice×6 を各話で変奏：ep132 dark6→4（"the dark gap"→"the deep gap"／"turn toward the dark"→"toward the cave"）・ice6→5（"bits of ice"→"bits of frost"）／ep133 dark6→5（"stand still in the dark"→"down here"）・ice6→5（"The ice here"→"The stone here"）。結果：fm＝284/280（範囲内）・story_day 全14・最長文≤9語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・三連各1・畳語=漸増強意・🔒逐語一致・先取りなし。still/blue/cave/walls×4は洞窟テクスチャー（§5「壁の質感を描く」推奨）で据え置き。
 
 <!-- Ch16（Ep126〜133）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
+
+## Chapter 17「What Obia Remembers」— 南極・洞窟・使命（Ep134〜141・8話）
+
+**Ch17 共通**
+- ★**S2 最重要章＝使命の reveal**。洞窟の奥→**タイムマシン発見**→Obiaが触れて**暗号記憶が復号**→**使命判明**（声を救え→未来へ転送）→跳躍の仕組み説明→準備→最初の跳躍の予感（章クローザー）。
+- ★**reveal の境界（確定 2026-06-26＝使命のみ）**：Obiaが思い出すのは**「何をするか」＝使命**のみ＝*"Save the voices of the dying animals. Send them to the future."*。**⚠️伏せる（S3へ）**：①**誰が作ったか（少年）**②**「the future」の正体（少年の成人後の時代・誰の時代か）＝"the future" は抽象のまま**③**タイムループ**④赤い首輪の正体⑤Ep1の「目」＝Obia。Obiaは機械が自分の目的と繋がると感じるが、**出自（誰が・いつ送ったか）は思い出さない**。
+- ★**機械の仕組み（明かす）**：行き先はセット済み・**同行メンバーはタイムマシンが選ぶ**・どこへ行くかは到着して初めて分かる（*"The machine chooses. We do not."*）。
+- ★**まだ伏せる（Ch22へ）**：**異変の根本原因（機械が現代↔未来を開いたまま＝未来の崩壊が漏れる）**はCh17では明かさない。Ch17は「声を救う使命」まで。異変と機械の因果はEp179（Ch22）。
+- ★**Ako-chanの役割**：Ako-chanが**声を聴く**（S1の動物語能力）／Obiaが**未来へ転送**する。Ep140で本人が自覚（*"I am ready."*）。
+- 場所：全編**洞窟内**（暗い・古い氷・Obiaの青白い光が主光源）。一行＝7＋Pen-san＋Adelie（全員洞窟内で reveal を目撃）。**数は明示しない**。
+- Obia＝it（洞窟で目が道を照らす）／Dango引用台詞なし（所作）／Ruka＝she最小台詞。
+- Day割付：Ch16末＝Day14（洞窟を下る）。Ch17は洞窟内で連続＝Day14〜15（loose）。
+
+### Day 14 — 洞窟最奥〜タイムマシン
+- **Ep134「Deeper In」**：全員で洞窟の奥へ。古い氷の壁がそびえる。冷気が増し足音が反響。Obiaの光だけが道を照らす。
+  - 🔒台詞（Ako-chan）：*"Something is down here. I feel it."*
+  - モード：移動の静寂（洞窟）。③：氷のきしみ、青白い光、白い息、深まる闇。④：奥へ行くほど信号が強くなる。
+  - 確定：Ep133の続き。⚠️洞窟テクスチャー（ice/dark/cold）は§5で近接3回超を変奏（前章で過密だった点に注意）。
+  - ✅執筆済み（word_count 276）。Day14。Ep133の続きで洞窟を下る。🔒Ako-chan *"Something is down here," / "I feel it."*（逐語）。Obiaの青白い光が主光源（it）。信号が奥で強まる（"The hum runs through the ice like a pulse."）。一行全員（Dango足元/Suke-san右/Pen-san big feet/General/Daru・Gabu・RukaはPod内）。締め＝"Something waits at the end of the dark. And it is close now."（reveal未／予感）。畳語 "down and down"（漸増）。
+- **Ep135「The Machine in the Ice」**：洞窟のいちばん奥。古い氷に半分埋まった機械＝**タイムマシン**。誰もこんなものを見たことがない。信号はここから来ていた。
+  - 🔒台詞（Ako-chan）：*"What is this?"*／（Obia）：*"...I think I know it."*
+  - モード：静・観察（発見）。③：氷に埋まった金属、かすかな駆動音、青白く反射する光、静止する全員。④：機械がObiaを待っていたかのようだ。
+  - 確定：**タイムマシン初登場**。地の文は "the machine / a machine" 等（"time machine" の語をいつ出すかは執筆判断＝Obiaが仕組みを説明するEp139までに自然に）。⚠️Obiaは「知っている気がする」まで＝出自は語らない。
+  - ✅執筆済み（word_count 275）。Day14。古い氷に半分埋まった機械を発見（"Half-buried in the old ice — a machine. Its metal is smooth and gray and strange."＝本話三連）。信号源＝"The signal came from this place all along."。🔒Ako-chan *"What is this?"*（softly）→Obiaが機械に近づき *"...I think I know it."*（⚠️**出自・仕組みはまだ語らない**＝"知っている気がする"のみ）。締め＝"It seems to wait for Obia. Only for Obia."（Obiaとの繋がりを匂わすが reveal せず）。
+
+### Day 14〜15 — 復号〜使命判明
+- **Ep136「Obia Touches the Machine」**（確定タイトル・旧 episode-list "He Touches It" ＝"He"回避。Ep113 "What Obia Cannot Read" と同方針）：Obiaがゆっくり機械に触れる→暗号記憶が動き始める→目が激しく明滅。
+  - 🔒台詞（Obia）：*"It is opening. The memory... is opening."*（現在進行形＝可）
+  - モード：感情・転換。③：触れる手、走る光、震えるObia、見守る仲間たち。④：忘れていた何かが戻ってこようとしている。
+  - ⚠️**地の文の代名詞は it を厳守**（Obia="it"）。タイトルも "He" を使わない（→"Obia Touches the Machine"）。
+  - ✅執筆済み（word_count 270）。Day14。Obiaが銀の前足で機械に触れる（"Obia lifts one silver paw up slowly."）→記憶が目覚め始める（"The locked memory begins to wake."＝Ep106/Ep113の回収）。🔒Obia *"It is opening," / "The memory... is opening."*（現在進行＝可・"hard, as if from far away"）。Obia=it厳守・タイトルも He不使用（確定 "Obia Touches the Machine"）。⚠️**中身は未開示**＝"Something forgotten starts to rise. ... no one knows what it will be."（reveal境界＝Ep138まで保留）。仲間は凍りつくように見守る（Dango伏せ/Suke-san stiff/Pen-san General に寄る/Ruka静止）。
+  - 🔧レビュー適用（Phase C・第1バッチ Ep134-136）：reveal境界クリア（出自/未来/ループ/少年 言及なし）。§5の中心オブジェクト/光の過密を語数中立で変奏＝ep135 "a hall of ice"→"a high hall"（ice）／"The machine waits in its bed of ice"→"It rests…"（machine5→4）→wc275／ep136 "the silver body"→"its own body"・"the silver shell"→"its hard shell"（silver4→2）・"The light from the machine"→"The glow…"（light5→4）→wc270維持。結果：fm＝276/275/270（範囲内）・story_day 全14・最長文≤9語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・三連各1・🔒逐語一致。ep135 machine・各話 blue/light は発見の中心要素で残置。
+- **Ep137「Fragments」**：記憶は一度に解けない。断片ずつ戻る。Obiaは自分が**何のために作られたか**を少しずつ思い出す。
+  - モード：感情・断片。③：明滅する目、途切れる言葉、断片的なイメージ、Ako-chanの不安。④：使命の輪郭が霧の中から現れる。
+  - ⚠️**reveal境界厳守**：思い出すのは**目的（使命）の断片**のみ。**誰が作ったか・未来の正体・ループは思い出さない**（"何のために" の "何" ＝使命であって "誰が" ではない）。
+  - ✅執筆済み（word_count 274）。Day14。記憶は断片ずつ（"It returns in small, broken pieces."）。Obiaが見る断片＝**動物・声・"A sense of something it must do."**（＝使命の輪郭のみ／"Wide lands. Far skies. Open seas. Creatures of every shape and kind."）。⚠️**出自・誰が・未来・ループは出さない**＝"Obia begins to know what it **is for**. Not all of it. Not yet. ... A purpose, rising from the mist."（"what it is for"＝目的のみ）。Obia *"...so many..."*（断片的な発話）。三連 "soft and far and faint"。
+- **Ep138「Save the Voices」**：ついに使命が浮かび上がる。絶滅する動物たちの声を救い、未来へ送ること。それがObiaの目的だった。
+  - 🔒台詞（Obia）：*"Save the voices of the dying animals. Send them to the future."*
+  - モード：感情・reveal。③：はっきりするObiaの声、息をのむ仲間たち、氷の静けさ、機械の光。④：旅の本当の意味が明らかになる。
+  - ⚠️**"the future" は抽象のまま**（誰の時代かは言わない）。異変との因果（Ch22）はまだ出さない。Ako-chanの「声を聴く役」を本人/地の文がここで結びつけてもよい（S1能力との接続）。
+  - ✅執筆済み（word_count 271）。Day15。**使命 reveal の核**＝🔒Obia *"Save the voices of the dying animals."* … *"Send them to the future."*（逐語・間に "A long pause."）。**"the future" は抽象**（"Send them to the future" / "into the future"＝誰の時代かは言わない）✓。**Ako-chanの役割をS1能力と接続**＝"The dying voices — she can hear them. She always could, her whole life long. Now she knows why that gift is hers. She will be the one to listen. Then Obia will send the voices on."。旅の意味の収束＝"The signal. The south. The ice. All of it led to this one task."。⚠️**出自/少年/ループ/異変原因(Ch22)は一切なし**✓。voices×4は使命キーワードの意図的強調で据え置き。仲間の絶句（Daru動けず/Gabu甲羅に引く/Pen-san目を見開く/Dango見上げる）。
+
+### Day 15 — 仕組み〜跳躍準備
+- **Ep139「The Machine Chooses」**：Obiaがタイムマシンの仕組みを説明。行き先はセット済み・同行メンバーは機械が選ぶ・どこへ行くかは到着して初めて分かる。
+  - 🔒台詞（Obia）：*"The machine chooses. We do not."*
+  - モード：説明・静。③：機械のパネル、点る記号、聞き入る仲間たち、Ako-chanの覚悟。④：誰も何が待つかを知らない。
+  - 確定：跳躍ルール（world.md §8）＝Ako-chan・Obiaは全跳躍必須／メンバーは機械が選定／行き先は登録済みだが誰も知らない。
+  - ✅執筆済み（word_count 271）。Day15。Obiaが仕組みを説明＝**時間移動の明示**（"It can carry us through time,"）＝跳躍ルール（行き先セット済み・到着まで不明・Ako/Obia必須・**メンバーは機械が選ぶ**）。🔒Obia *"The machine chooses. We do not."*（逐語）。⚠️**出自/未来の正体は出さない**（機械の機能説明のみ）。締め＝"She does not know what waits ahead. She does not know who it will choose."（Ep141への緊張）。
+  - 🔧レビュー適用（Phase C・第2バッチ Ep137-139）：reveal境界クリア（出自/未来正体/ループ/少年 言及なし・"the future"抽象・"through time"は機能説明）。①ep139 受動解消 "The places are already set inside."→"The places sit ready inside it."（能動）。②ep139 machine×6→5（"The machine hums low…"→"It hums low there…"）。いずれも語数中立。結果：fm＝274/271/271（範囲内）・story_day 14,15,15（非減少）・最長文≤8語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・三連 ep137のみ1・🔒逐語一致。ep138 voices×4・ep139 machine×5 は reveal/中心オブジェクトの主題語で据え置き。
+- **Ep140「We Do Not Know Where」**：行き先不明のまま跳躍準備。不安だがやらねば。Ako-chanは声を聴く役と知る。Obiaが転送。
+  - 🔒台詞（Ako-chan）：*"I am ready."*
+  - モード：感情・覚悟。③：準備する手、機械の低い音、冷気、それぞれの緊張した顔。④：恐れと覚悟が同居。
+  - 確定：Suke-sanとGeneral Adelieがそばで身構える。Ako-chanの役割（声を聴く）＝S1能力の接続。
+  - ✅執筆済み（word_count 276）。Day15。跳躍準備（行き先不明＝"No one knows where it will send them."）。🔒Ako-chan *"I am ready,"*（"soft and sure"＝コンマ付き付加形容＝ep128 "says, soft and low" と同型で許容）。恐れと覚悟の同居（"Fear sits heavy in her chest. But she knows that she must go."）。Suke-san身構え／General "Stand steady,"／Ako-chanの決意（"She will not let the voices fade."）。三連 "quiet and small and brave"。⚠️誰が選ばれるか・行き先は未開示。
+- **Ep141「The First Jump Is Set」**：タイムマシンが最初の跳躍を準備。記号が点り低い音が高まる。機械が最初のメンバーを選ぼうとしている。誰が選ばれるかまだ分からない。
+  - モード：緊張・章クローザー。③：強まる駆動音、震える空気、青白い光、息を止める全員。④章クローザー：最初の跳躍が始まろうとしている。
+  - 確定（章末リンク）：next_ep は空欄（Ch18 Ep142執筆時に ep142.prev_ep=ep141 と相互リンク）。⚠️**誰が選ばれるか・行き先（ニホンオオカミ・日本山奥）はCh18＝先取りしない**（"選ぼうとしている"まで）。
+  - ✅執筆済み（word_count 274）。Day15。章クローザー＝跳躍直前のクライマックス。機械が hum/light を高めながら**選ぼうとしている**＝🔧**誰が選ばれるか未開示**（"Who will it pick for the first jump? No one knows. ... The choice could fall on any of them."）。締め＝"Ako-chan shuts her eyes and waits. The first jump is about to begin."（ジャンプ実行直前で閉じる）。⚠️**行き先(ニホンオオカミ/日本)・選定メンバーはCh18 Ep142**。
+  - 🔧レビュー適用（Phase C・第3バッチ Ep140-141）：先取り厳守（誰が選ばれるか/行き先/狼/日本 未開示）。§5クライマックスのcrescendo過密を語数中立で変奏＝ep141 light×6→4（"shiver in the light"→"…glow"／"The cold light"→"The cold glare"）・hum×5→4（"floor hum"→"floor throb"）／ep140 cold×4→3（"cold and very still"→"dark and very still"）。結果：fm＝276/274（範囲内）・story_day 全15・最長文≤8語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・三連 ep140のみ1・🔒逐語一致。
+
+<!-- Ch17（Ep134〜141）執筆完了。確定台詞・新情報・word_count 追記済み。 -->

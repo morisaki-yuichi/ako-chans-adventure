@@ -106,6 +106,11 @@
 | **General Adelie（S2）** | Colonel→**General に昇進**（rank変化・サイズ~70cmで不変）。厳格不変 | Ep131。Ako-chanは思わず旧rank "Colonel Adelie!" と呼ぶ→訂正。**Pen-sanの昇進説明は能動**（受動 "He was promoted!" 不使用＝確定2026-06-26）。命名後は地の文 "the General / he" |
 | 南極装備配布（S2 Ep127） | **Ako-chan(防寒服)／Dango・Suke-san(ブーツ＆ベスト)**。Pen-san/Adelie不要・リクガメはPod内(南極モード断熱) | S1 Ep72系装備の再現。Dangoはブーツを嫌がる→Suke-sanの一瞥で観念(軽い笑い・Dango引用なし) |
 | 洞窟入口の発見 | **S2 Ch16 Ep132で初めて発見**（Gabuが気づく）。S1拠点は船のみ＝洞窟は未知 | ⚠️タイムマシン本体・使命・暗号記憶復号は**Ch17(Ep135-136)**＝Ch16では先取りしない（Ep133"奥に何かがある"予感まで） |
+| タイムマシン初登場／復号 | **Ep135でタイムマシン発見**／**Ep136でObiaが触れて暗号記憶が復号開始**（Ep106発見・Ep113"still locked"の回収） | 古い氷に半分埋まる。"is opening"(現在進行=可)。地の文 "the machine"。 |
+| **使命の reveal（Ep138・確定2026-06-26＝使命のみ）** | Obiaが思い出すのは**使命のみ**＝*"Save the voices of the dying animals. Send them to the future."* | ⚠️**S3まで伏せる**：誰が作ったか(少年)／「the future」の正体(誰の時代か＝**"the future"は抽象のまま**)／タイムループ／赤い首輪の正体／Ep1の「目」＝Obia。Obiaは出自(誰が・いつ送ったか)を思い出さない |
+| 異変の根本原因 | **Ch17では明かさない**（使命まで）。機械が現代↔未来を開いたまま＝未来の崩壊が漏れる、はEp179(Ch22) | Ch17の reveal は「声を救う使命」のみ。異変と機械の因果は別（Ch22） |
+| タイムマシンの跳躍ルール | Ako-chan・Obiaは全跳躍必須／**同行メンバーは機械が選定**／行き先は登録済みだが誰も知らない(到着して初めて分かる) | world.md §8。Ep139 *"The machine chooses. We do not."*。Ako-chan=声を聴く役／Obia=未来へ転送 |
+| Ako-chanの役割（跳躍） | **Ako-chanが絶滅動物の声を聴く**（S1の動物語能力）→**Obiaが未来へ転送** | Ep140で自覚 *"I am ready."*。声はAko-chanにしか聴こえない |
 | Rukaの甲長 | **5cm**（Daru/Gabuの7cmより小さい＝3匹中最小） | S2の「先輩逆転」（Ch24）の前提。網目状の黒模様・頭側面に黄色い丸斑 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
