@@ -920,3 +920,78 @@
   - 🔧レビュー適用（Phase C・第3バッチ Ep115-117）：①**ep116 関係代名詞節を解消**（"All that is left now is the sky."＝that関係詞節＝S2禁止 → "Only the sky is left now."）→word_count 276→274。②ep116 still×5→4（"clear and still"→"clear and calm"）。③ep115 grass×4→3（"spill out across the grass"→"…the ground"）。結果：fm＝271/274/275（範囲内）・story_day 全7・最長文≤9語・禁止文型/robot/Obia代名詞/三連/畳語なし・人数4厳守（ep116/117にDaru/Gabu/Suke不出）・ep117は "never saw/felt … before"＝単純過去で現在完了回避（正）。
 
 <!-- Ch14（Ep109–117）全話✅執筆済み＆レビュー完了（2026-06-26）。各Epに確定台詞・新情報・word_countを追記済み。レビュー：第1バッチ109-111／第2バッチ112-114／第3バッチ115-117。章タイトル "Building the Flying Boat" はユーザー確認済み（s2-episode-list 2026-06-25）。 -->
+
+## Chapter 15「Gathering the Friends」— 空路・再集結（Ep118〜125・8話）
+
+**Ch15 共通**
+- ★**再集結章（空路）**。飛行艇で **England→クロアチア(Daru)→ヨルダン・ワディラム(Gabu)→日本(Suke-san)→南へ**。一行が **4→7** に増える：Daru再合流(Ep118)＝5／Gabu(Ep120)＝6／Suke-san(Ep123)＝7。
+- ★**各Podは飛行艇に積んで持参**（Daru/Gabu用の新Podは Ch14 制作時に作り積載済み）→再合流時に**手渡し**：Daru＝**赤**（全力歩行→高速）Ep119／Gabu＝**青**（一定リズム→安定）Ep121。Ruka＝**黄**（ミニPod・既出）。
+- ★**リクガメ3匹が揃う（Ep124）**＝**Rukaが最小・最新入り**（先輩逆転の伏線。回収はCh24）。3Podの色＝赤・青・黄。
+- ★**サイズ（確定 2026-06-26）**：Daru/Gabuは3年で**成長したが まだ小さい亜成体**（baby 7cm→~12cm程度・**手に乗る小ささ**・Podに収まり中で歩ける）。「成体／大型」とは描かない（コーギー寸法と同じくリアリティ重視）。性格は不変：Daru＝元気・即行動／Gabu＝静か・観察。
+- ★**Dango（確定 2026-06-26）**：引き続き**引用台詞なし**。Ep123 Suke-san「You are big now.」への返し「You too.」は**Dangoに言わせず無言の所作＋地の文**で伝える（S1 Ep91踏襲）。Suke-sanの台詞のみ引用。
+- **Suke-san**：成犬・警戒の鋭さ不変・定位置＝**Ako-chanの右・少し後ろ**（S1から継続）。Ako-chanには駆け寄るが**まず全員を確かめる**。
+- **Obia**＝it（飛行艇内・操縦のそば）／**Ruka**＝she・最小台詞。**人数の明示はEp124の全員列挙に一本化**（確定 2026-06-26）＝**個々の再合流(118/120/123)では数を出さず暗黙**（感情ビート優先："The first friend is back" / "They travel south together" / "The whole family stands here" 等）。Ep124で7人を列挙して"全員揃った"を示す。
+- ⚠️**先取り禁止**：Pen-san/General Adelie（南極＝Ch16）・南極・タイムマシン・跳躍・使命は出さない。行き先は "south" まで。
+- Day割付：Ch14末＝Day7（初飛行）。Ch15は空路で各地へ＝Day8〜（非減少・loose・"説明しない"）。
+
+### Day 8前後 — クロアチア（Daru再合流）
+- **Ep118「Back to Croatia」**：飛行艇がダルマティア海岸に降りる。岩場で成長したDaru。3年で大きくなったが走り出す元気は不変。
+  - 🔒台詞（Daru）：*"Ako-chan! You came back!"*
+  - モード：動・出来事（再会）。③：白い岩、青い海、駆け寄るDaru、Dangoの再会の吠え。④：最初の仲間が戻ってくる。
+  - 確定：Daru＝**成長したがまだ小さいリクガメ**（手に乗る・"He is bigger now. But he still fits in her two hands."）・元気不変。人数→5（声に出した宣言はしない＝感情優先）。Pod手渡しはEp119。
+  - 確定（地理・呼応）：ダルマティア海岸（Croatia）・白い崖／アドリア海。S1の出会い（Ep17–18）を地の文で回想：*"She met Daru here three years ago. He was a tiny baby then, no bigger than her hand. He came out from a crack in these rocks."*（S1 "no bigger than her hand" と一致）。
+  - 確定（配置）：Dangoは吠えて尻尾を振る（引用台詞なし）。Obiaは飛行艇のそばで静止（地の文 "it"）。Rukaは不出（搭乗中だがこの回は描かない）。締め＝*"The first friend is back with them again."*（現在形・will不使用）。
+  - ✅執筆済み（word_count 282）。Day8。next_ep=ep119／prev_ep=ep117（章跨ぎ・ep117.next_ep も更新済み）。
+- **Ep119「Daru's Pod」**：Ako-chanがDaruに新Podを手渡す。中で全力歩行→高速回転。赤い発光が戻る。
+  - 🔒台詞（Daru）：*"Fast! It is fast!"*
+  - モード：動・出来事。③：赤く光るPod、猛スピード、巻き上がる砂、笑うAko-chan。④：Daruは、Daruのままだ。
+  - 確定：Daru Pod＝赤・高速（S1 Ep22の仕組み再現＝歩く→Pod連動回転／全力→高速／**赤く光る**）。新Pod＝Ch14で制作・持参。手渡し台詞（Ako-chan）：*"This one is for you, Daru."*（Ep109 Obiaのミニポッド台詞と同型）。
+  - 確定：Pod＝"round and clear / a clear ball"（S1表記踏襲）。製作者は明言しない（"Daru had a Pod like this once." と回想のみ）。Dangoは吠えて追う（引用台詞なし）。Obiaは飛行艇のそばで静止（"it"）。
+  - 締め＝*"Three years are gone now. But Daru is still Daru. Fast, glad, and never still for long."*（Ep120 Gabu版 "But Gabu is still Gabu." と対の定型）。
+  - ✅執筆済み（word_count 277）。Day8。
+### Day 9前後 — ヨルダン・ワディラム（Gabu再合流）
+- **Ep120「Back to the Desert」**：飛行艇がワディラムへ。赤い岩壁・酷暑。岩の上に成長したGabuが静かに待つ。慌てずまっすぐ見ている。
+  - モード：静・観察（再会・静）。③：赤い砂、揺れる熱気、岩の上のGabu、熱反射クロスを着るAko-chan。④：Gabuは、変わらず静かだ。
+  - 確定：Gabu＝成長したがまだ小さい・静か不変（"He is bigger now, but still small."）。Ako-chanの熱反射クロス（S1 Ep26装備）再登場：*"her light silver cloth. ... It sends the hot air away from her."*（S1 "It sends the heat away." と呼応）。人数→6はEp121手渡し後でも可。
+  - 確定（Gabu所作）：高い岩の上で静止して待つ→ゆっくり降りてくる（"He sits calm and straight in the sun. He waits, patient as ever." → "slow and sure, he begins to climb down. He does not hurry."）。**この回はGabuに引用台詞なし**（Ep121で初台詞 "...Thank you."）。
+  - 確定（S1呼応）：Gabuの信頼構築を地の文で回想：*"He took many days to trust her then. He came to her slow, step by step."*（S1 Ep27–31＝15m→一歩→数日→無言の合流）。Daruは red Pod で *"Gabu! Gabu! We came back!"*。締め＝*"But Gabu is still Gabu. Quiet, calm, and full of patience."*
+  - ✅執筆済み（word_count 272）。Day9。
+  - 🔧レビュー適用（Phase C・第1バッチ Ep118-120）：①cross-ep tic「the way he always did」が ep119(Daru)/ep120(Gabu) で逐語重複 → **ep120を "patient as ever." に変奏**（ep119は単発残置）→word_count 274→272。結果：fm＝282/277/272（範囲内）・story_day 8,8,9（非減少）・最長文≤11語・禁止文型/関係詞節/robot/Obia代名詞なし・**Dango引用台詞0**・三連各1・畳語 "faster and faster"(漸増OK)＋**"barks and barks"＝Ch15の畳語tic1回**(以降のCh15は別表現に)・寸法/人数/伏せ範囲OK。ep119 fast/Pod・ep120 still/slow/redはキャラ/設定の意図反復で据え置き。"by heart"(ep119)はborderline idiomだが常套句で許容。
+- **Ep121「Gabu's Pod」**：Ako-chanがGabuにPodを手渡す。一定リズム→安定走行。青い発光。
+  - 🔒台詞（Gabu）：*"...Thank you."*（短い）
+  - モード：静・観察。③：青く光るPod、規則正しい動き、砂漠の風、DaruとGabuの並ぶPod。④：二匹の甲羅がまた並んで動く（赤・青）。
+  - 確定：Gabu Pod＝青・安定（S1 Ep32再現＝一定リズム→smooth/even line・**青く光る**・"It does not race."）。手渡し台詞（Ako-chan）：*"This one is for you, Gabu."*。Gabu初台詞 *"...Thank you."*（"Just two small words."＝Thank you=2語・C台帳の数え語に整合）。
+  - 確定（並走・S1呼応）：*"Ako-chan saw these two shells travel once. Now they roll along together once again."* 赤＝quick and bright／青＝calm and slow（S1 Ep32–33「Two Shells」の対比定型を踏襲）。
+  - 確定（人数6・**暗黙化**）：数を明示せず *"They travel south together now. The journey holds them all once more."*（＝Ako-chan・Dango・Obia・Ruka[搭乗]・Daru・Gabu＝6だが**数は出さない**。人数の明示は**Ep124の全員列挙に一本化**＝ユーザー決定 2026-06-26）。Dango＝吠えず尻尾/耳の所作（引用台詞なし）。Obia＝"it"。
+  - ✅執筆済み（word_count 273）。Day9。
+### Day 10前後 — 日本（Suke-san再合流）
+- **Ep122「Back to Japan」**：飛行艇が日本へ。深い緑の山・湿った空気・海の匂い。Ako-chanがSuke-sanの気配を探す。
+  - モード：静・観察。③：緑の山、霧、土と松の匂い、耳を澄ますDango。④：Suke-sanはまだ姿を見せない。
+  - 確定：Suke-sanの名・姿はこの回では出さない（Ep123登場）＝S1 Ep38型の予感締め。本文は "a friend"／"the last friend" でのみ言及（"She does not call out a name."）。
+  - 確定（地理・呼応）：日本（緑の山・霧・雨・土と松と石の匂い）。Dangoが故郷の匂いに気づく＝*"He came here once, three years ago. ... not fear. ... more like hope."*（S1 Ep39「Sharp」港の松＋warm earthの匂いと呼応）。DaruとGabuはPod内で静止。締め＝*"The last friend stays out of sight."*（予感）。
+  - ✅執筆済み（word_count 272）。Day10。
+- **Ep123「Suke-san Returns」**：Suke-sanが山から現れる。成犬・警戒の鋭さ不変。Ako-chanに駆け寄るが まず全員を確かめる。成犬同士のDangoとしばらく見つめ合う。
+  - 🔒台詞（Suke-san）：*"You are big now."*（Dangoへ。※Suke-san＝豆柴のPOVで「大きくなった」＝コーギーは柴より大きい・比較の意）
+  - 🔧**Dango返答**：*"You too."* は**言わせない**＝無言の所作＋地の文で相互承認を伝える（S1 Ep91踏襲・**引用はSuke-sanのみ**）。
+  - モード：感情／再会。③：山を降りるSuke-san、二匹の距離、立てた尾、再会の沈黙。④：最後の仲間が揃う。
+  - 確定：Suke-san＝成犬だが豆柴＝小型不変（"He is bigger now, but still small and quick."）・鋭さ不変（"His sharp fox face" / "His careful eyes move over each one."）。**まず全員を確認**：*"He runs to Ako-chan first of all. But then he stops and checks them all. ... Ako-chan. Dango. Obia. The Pods."*（S1 Ep39の視線移動を踏襲）。
+  - 🔒台詞（Suke-san・逐語確定）：*"You are big now."*（Dangoへ・唯一の引用）。
+  - 🔧Dango返答（S1 Ep91踏襲）：**引用なし**。無言の所作＋地の文：*"Dango does not bark. He makes no sound at all. He ... presses his head against the smaller dog. ... Ako-chan hears the meaning clear. You too, the quiet press says."*（"You too" は地の文の意味づけであってDangoの引用台詞ではない／Dangoは "the big dog" と絶対表現しない＝相手Suke-sanを "the smaller dog" と置く）。
+  - 確定：人数→7。Suke-san定位置＝Ako-chanの**右・少し後ろ**（"He stands at her right, a step behind. It is the same spot as always."）。締め＝*"The whole family stands here once more."*（機械的な"seven"宣言はEp124の列挙に委ねる）。
+  - ✅執筆済み（word_count 271）。Day10。
+  - 🔧レビュー適用（Phase C・第2バッチ Ep121-123）：①**ep122 三連2→1**（"The air is cool and damp and soft."→"…cool and damp."＝"earth and pine and stone" を本話の唯一の三連に）→word_count 274→272。②**ep121 calm/slow/sure の再利用過多を解消**（冗長な要約 "He is calm here, sure and slow."→"He is glad to be here again."＝calm4→3・slow4→3・sure3→1）。結果：fm＝275/272/271（範囲内）・story_day 9,10,10（非減少）・最長文≤9語・禁止文型/関係詞節/robot/Obia代名詞なし・**Dango引用台詞0（Ep123 "You too" は所作化）**・三連各1・🔒3本逐語一致。③**ep121の人数を暗黙化**（ユーザー決定2026-06-26）："Six of them travel south together now."→"They travel south together now."（数を出さず＝118/123と一貫。**人数明示はEp124に一本化**）→word_count 275→273。ep121 Pod/Gabu語・ep122 mist/quiet/still は意図テクスチャーで据え置き。最終fm＝273/272/271。
+### Day 11前後 — 全員集合〜南へ
+- **Ep124「All Together Again」**：全員が飛行艇に揃う。Ako-chan・Dango・Obia・Suke-san・Daru・Gabu・Ruka。リクガメ3匹でRukaが**最小・最新入り**。DaruとGabuがその小さな新入りを見る。
+  - モード：静・観察。③：飛行艇の中の定位置、3Podの色（赤・青・黄）、揃った気配。④：仲間がまた一つになった。
+  - 確定（人数7・体感列挙）：定位置を列挙：Dango＝足元／Suke-san＝右・少し後ろ／Obia＝操縦のそば(it)／Daru＝赤Pod／Gabu＝青Pod／Ruka＝小さな黄Pod。*"Seven of them, together at last."*＋*"Not one friend is missing now."*（"now they are seven"型の機械宣言は不使用）。⚠️Pen-san/Adelie不出（南極Ch16）。
+  - 確定（Ruka＝最小・最新入り＝先輩逆転Ch24布石）：3Pod並走＝赤・青・黄／*"the yellow Pod is the smallest one. Ruka is the littlest of the three. She is also the newest friend of all. Daru and Gabu look at the small newcomer."* 三者対比 *"Daru is loud. Gabu is slow. But little Ruka is the quiet one."* Ruka＝she・引用台詞なし（"calm and still, as always"）。
+  - ✅執筆済み（word_count 277）。Day11。
+- **Ep125「South Again」**：飛行艇がさらに南へ。全員を乗せて。次は南極。Ako-chanは3年前の旅（船）を思い出す。今は空。
+  - モード：移動・テクスチャー。③：下に広がる海、雲、エンジンの音、それぞれの仲間の姿。④章クローザー：白い大陸が近づいてくる。
+  - 確定（回想・船→空）：3年前の南下は**船**＝*"Back then, they sailed south on a ship. They crossed the open ocean on the waves. ... The ship is gone. This time, they have wings."*（S1の廃船改造・南極航路と呼応／"説明しない"範囲で迂回には触れない）。台詞なし回。
+  - 確定（章クローザー予感）：南極・装備・洞窟は**名指ししない**。締めは白い大陸の予感のみ＝*"A pale shape lies at the world's far edge. A great white land, far away. It is still far off. But it draws near. Their long road leads them there."*（"south" は本文で使用＝タイトル回収・行き先は"south"まで）。
+  - 確定（章末リンク）：next_ep は空欄（Ch16 Ep126執筆時に ep126.prev_ep=ep125 と相互リンク）。⚠️南極・装備・洞窟はCh16＝先取りしない（"白い大陸が近づく"予感まで）。
+  - ✅執筆済み（word_count 274）。Day11。**Ch15（Ep118〜125）完成。**
+  - 🔧レビュー適用（Phase C・第3バッチ Ep124-125）：内容/規約は良好（Ep124＝7人列挙＋"Seven of them"＝唯一の人数明示で一本化どおり・3Pod色赤青黄・Ruka最小最新入り／Ep125＝船→空の回想・南極は"great white land"の予感のみで先取りなし）。§5反復のみ変奏（中立）：ep125 sea×6→4（P1 "the sea spreads"→"the ocean spreads"・P5 "through the pale sky"→"through the quiet sky" でpale3→2も同時に解消）、ep124 friend×4→3（"each friend"→"each one"）。結果：fm＝277/274（範囲内）・story_day 11,11・最長文≤9語・禁止文型/関係詞節なし・三連/畳語なし・🔒なし回。
+
+<!-- Ch15（Ep118〜125）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
