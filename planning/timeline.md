@@ -593,4 +593,71 @@
   - 確定（章クローザー余韻）：*"Something is wrong. And the long night is only starting."*（静かな不穏で締め・Ch10の送信#3/猛吹雪は先取りしない）。next_ep＝/season1/chapter10/ep072/。
   - ✅執筆済み（word_count 277）。
 
-<!-- Ch9 完了（Ep63〜71）。Ch10 以降は執筆後に追記（Day 72〜） -->
+<!-- Ch9 完了（Ep63〜71）。 -->
+
+## Chapter 10「Into the Snow」— 南極・猛吹雪と救出（Ep72〜82・11話）
+
+**Ch10 共通（S1クライマックス）**
+- ★**送信3回シリーズの最終回（Ep72）→最大の異変＝snow storm→Obia消失→救出**。11話の波：送信#3(72)→追求・公表(73-74)→嵐接近(75-76)→嵐突入・消失(77)→話し合い・Suke-san宣言(78-79)→捜索・発見・蘇生(80-82)。
+- ⚠️**用語：英語本文は "snow storm" に統一**（"blizzard" 不使用。Adelie *"It is a snow storm. The worst kind."*）。Ch8 "storm" と地続き。
+- ⚠️**will未解禁**：Ep79 Ako-chanの同行表明は **"I am going too." / "I go too."**（"I will go too." にしない）。Suke-san *"I trust Obia."*（現在形＝可）。
+- ★**赤い首輪**：S1では「Obiaが元から付けている赤い首輪」。⚠️**正体（Ako-chan作）はS3まで伏せる**。Ep76でObiaがこっそりDangoに託す→Ep78でDangoがみんなに伝える→Ep80でDangoが**気配＋首輪の匂い**で追跡→Ep82でAko-chanが**つけ直す（復活の原因でなく再会の象徴）**。
+- ★**Ep74＝Ako-chanが沈黙を破る**：これまで「言葉にしない」できた送信の符合を**初めてみんなに公表（3回目）**。ヨーロッパ(Ep13)・太平洋(Ep47)でも同じだったと明かす。※**送信の意味/正体はまだ不明**（告白はEp83/Ch11）。
+- ★**Ep82 蘇生の枠付け＝感情の並置・無因**：抱きしめる→涙が落ちる→ゆっくり目が光る、を**並べるだけで原因を述べない**。理由はS3まで伏せる。
+- ★**Suke-san信頼アークの payoff（Ep79）**：話し合いで *"I trust Obia."* と宣言→捜索を主導（Dangoと協力）。
+- ★**Adelie＝Ch10は"監視者"のまま**（信頼転換はEp88/Ch11）。救出を見届けることがEp88への布石。
+- ★**Pen-san・Adelie＝登場後は終始一行に同行**：船で一緒に嵐を凌ぐ。⚠️**ペンギンの群れは基本描かない**（描くとしても遠景の背景のみ）。⚠️**Ch10では分離・別れの布石を作らない**＝南極残留の哀感は**最後の別れ（Ch11-12）でのみ**扱う。Ep75でPen-sanが初めて真剣な顔（危険を察知）。
+
+**Pen-san・Adelie 場面別役割**（登場後は終始一行に同行・群れは描かない）：72=Adelie送信目撃／Pen-sanは一行と船内で就寝中。73=Adelie追求。74=両者同席（Adelie黙視）。75=Adelie命名／Pen-san初めて真剣な顔。77=**全員（Pen-san・Adelie含む）船内へ退避**（群れhuddleは描かない）。78-79=**Pen-san・Adelieも船内の話し合いに同席**（AdelieがDangoの首輪告白・Suke-sanの信頼宣言を見届ける＝Ep88布石）。80=Adelie地形先導（未だ不信＝見届け）・Pen-san情で同行・捜索はSuke-san＋Dango主導。81=Adelie沈黙して見届け／Pen-san情の反応。82=両者見届け（Adelieの言語化はEp88）。
+
+### Day 72 — 送信#3〜公表
+- **Ep72「Night Signal」**：3回目のObia送信。深夜Obiaが一人で外へ出て送信。Adelieが岩上から静かに見る（#3の現場証人）。③扉の隙間の冷気・青白く光るObiaの目・雪を踏む音。Pen-sanは一行と船内で就寝中。
+  - 確定（証人の転換）：**今回の目撃者はAko-chanでなくColonel**（Ako-chanは就寝中）。これがEp73でAdelieが追求する根拠＝送信符合の公表がEp74でAko-chan主導になる流れの起点。
+  - 確定（送信描写）：Obiaが船を出る→南を向いて静止→*"Its eyes shine pale blue."*・*"A low hum comes from it, soft and deep."*。回想連結＝*"The same shape. The same sound. Again, like before."*（Ep13/47の挙動を想起・**"third/3回目"の数え語はEp74へ温存**）。
+  - 確定（章クローザー余韻）：Colonelが一晩中見届ける＝*"Something is wrong. And now he knows it too."*（Ep71 *"Something is wrong. She knows it."* の意図的反復・主語をAko-chan→Colonelへ）。
+- **Ep73「The Colonel Asks」**：翌朝Adelieが追求。🔒 Adelie *"Last night. I saw Obia. Outside. Alone. What was it doing?"* → Obiaは答えない。
+  - 確定（本文での分割）：地の文を挟み *"Last night,"* → *"I saw Obia. Outside. Alone."* → *"What was it doing?"* の順で発話（語は🔒どおり）。Obiaは無言（*"Still Obia says nothing at all."*）。
+  - 🔒継続（監視）：Adelie締めの一言＝*"I am watching it."*（Ep70の *"It never stops. I am watching it."* と地続き＝Ch10も**監視者のまま**）。
+  - 確定（Ako-chanの心境・Ep74への布石）：Ako-chanが**列車・船の2夜を回想**＝*"She thinks of the train, far behind. She thinks of the ship at sea."* → 締め *"This is not the first time. And she knows that now."*（公表はEp74）。
+- **Ep74「The Third Time」**：Ako-chanが**初めてみんなに公表**＝これが3回目。ヨーロッパ(列車Ep13)・太平洋(船Ep47)でも同じだったと明かす。※意味/正体はまだ不明（告白はEp83）。Adelie同席（不審の裏付け・黙って見る）。
+  - 🔒公表（Ako-chan）：*"Last night was not the first time."* / *"I saw this before. Two times."* / *"Once on the train. Near the start."*（=Ep13）/ *"Once on the ship. At night."*（=Ep47）/ *"Obia stood alone. It looked south."* / *"The same light. The same hum."* / 締め *"This is the third time."*（**3回目の数え語はここで初出**）。
+  - 確定（Suke-sanの裏付け）：Suke-san *"I saw it too,"* / *"On the ship. In the dark."*（=Ep47で#2を目撃した事実の回収）。
+  - ⚠️確定（意味は伏せたまま）：Ako-chanがObiaに *"What does it mean?"* → **Obiaは答えない**（*"She does not know what it means. She does not know why."*）。送信の意味/正体は未開示（告白はEp83）。締め *"But three times is too many. ... Something is wrong here. And now they all know it."*
+
+### Day 73 — 嵐接近〜突入〜消失
+- **Ep75「The Worst Kind」**：数値が急上昇。コンパスが狂い始める。Adelieが南極の専門家として🔒 *"It is a snow storm. The worst kind."* Pen-sanが**初めて真剣な顔**（本能で危険を察知・遊びが止まる）。
+  - 確定（Obiaの観測）：*"The numbers are very high," ... "Higher than before."* ＋コンパスが回り続け方向不明＝*"The needle spins round and round. It cannot find the way."* / *"The compass is wrong now."*（**snow storm用語は本Epで初出・統一**）。
+  - 確定（Pen-san）：いつも遊ぶPen-sanが初めて真剣＝*"His small face is still and serious. For the first time, he looks afraid."*（⚠️別れの哀感は出さない＝危険察知のみ）。
+  - 確定（締め）：*"The storm is close now. Very close. ... Something is coming. And there is little time left."*
+- **Ep76「Hold This」**：嵐直前、ObiaがこっそりDangoを呼び赤い首輪を外して渡す。🔒 Obia *"Hold this."* / *"I do not know why. But it is important. Hold it for me."* Dangoが戸惑う。⚠️首輪の由来は説明しない。
+  - 確定（場面）：Obiaが *"Dango," ... "Come here."* と**こっそり**呼ぶ（*"No one else is near them."*＝目撃者なし＝Ep78でDangoが伝えるまで皆は知らない）。Obiaが**自分の赤い首輪を外して**渡す。
+  - 確定（Dango）：受け取るが理解できない＝*"He is only a dog. He cannot use words."*（Ako-chanだけが声を聴ける設定と地続き）。首輪は *"warm from Obia's body."* / Dangoは口にくわえ離さない。⚠️首輪の由来（Ako-chan作）は一切示さない。
+  - 確定（締め）：Obiaが前足をDangoの頭に一瞬置く→*"Good," it says, soft and low.* / Dango *"Something is wrong. He feels it deep inside."*
+- **Ep77「White Out」**：snow storm到来。視界が白一色。**全員（Pen-san・Adelieも）船内へ退避**（ペンギンの群れは描かない）。気づくとObiaがいない（理由は誰も知らない）。③扉を閉じた瞬間、外の轟音が壁越しに。Daru・GabuがAko-chanの足元で震える。Pen-sanは怖がってAko-chanに寄る。
+  - 確定（退避メンバー）：Ako-chanが *"Inside! Everyone inside!"* → Dango・Suke-san・Daru・Gabu・Pen-san・the Colonel が船内へ（**Colonelが最後**＝*"The Colonel comes in last of all."*／⚠️**ペンギンの群れhuddleは描かない**）。扉を閉じる＝*"It closes with a loud, hard bang. The roar of the storm goes behind the wall."*
+  - 確定（不在発覚）：Ako-chanが室内の皆を見回す（Dango/Suke-san/Daru/Gabu/Pen-san/Colonelを確認）→ *"But one is not here."* → *"Obia?" ... "Obia!"* 無応答 → 🔒 *"Obia is gone. And no one knows why."*（理由は誰も知らない＝告白Ep83まで未開示）。Dangoは首輪をくわえたまま（Ep78の伝達へ）。
+
+### Day 73 夜 — 話し合い〜宣言
+- **Ep78「We Talk About Obia」**：船内で**全員（Pen-san・Adelie含む）**がObiaを話す（助けてくれたこと・不審な行動、両方）。**DangoがObiaから首輪を預かったことを伝える**＝預けて出た事実が重く響く。**Adelieもこの場で見届ける**（Ep88布石）。
+  - 確定（両論併記）：恩＝Ako-chan *"Obia helped us many times. It made our warm clothes. It found the way."* ／不審＝Suke-san *"But it kept secrets too. Those strange nights. The hum. The south."* ＋Colonel *"I do not trust it. I saw it that night."*（＝Ch10も監視者のまま）。地の文 *"Both things are true. Obia helped them. And Obia hid things."*
+  - 確定（首輪の開示）：**Dangoが赤い首輪を部屋の中央に置く**→Ako-chanがDangoの声を聴いて皆へ伝える＝*"Obia gave this to Dango. Just before the storm came."* / *"It gave the collar away. Then it went out alone."*（⚠️由来は説明しない）。重みの表現＝*"The little red collar feels very heavy."*／Colonelも沈黙して見届ける（Ep88布石）。
+- **Ep79「I Trust Obia」**：🔒 Suke-san *"I trust Obia."* と宣言（**懐疑的なAdelieの前で**＝対比）→探しに出ようとする。Ako-chanも *"I am going too."*（will回避）。だが**snow stormはまだ続き、コンパスも狂って方向不明**→今は探せない、と止められる。
+  - 🔒宣言（信頼アークpayoff）：Suke-san *"I trust Obia."*（本文で2回）／*"Obia left this for us. Obia is one of us. I trust Obia."* かつて警戒＝*"Suke-san was afraid of Obia before. He watched it. He growled at it. But not now."* 対比＝Colonel *"You believe in it?"* → Suke-san *"I do."*（Colonelは未だ不信）。
+  - 🔒出発表明（will未解禁）：Suke-san *"I am going out. Obia needs us now."* ／Ako-chan *"I am going too."*（⚠️ *"I will go too."* 不使用）。
+  - 確定（制止）：Colonelが止める＝*"You cannot see out there. The compass is broken. There is no way. You go out, you get lost too."* → 締め *"But they cannot go. Not yet."*（捜索はEp80＝嵐後）。
+
+### Day 74 — 捜索〜発見〜蘇生
+- **Ep80「After the White」**：嵐が過ぎ、みんなで捜索。Suke-sanとDangoが協力＝**Dangoは気配＋首輪の匂い**で追う。Pen-sanも一行と同行（情の存在）。Adelieが地形の専門家として先導（※まだObiaを信じてはいない＝見届けに来た）。
+  - ⚠️確定（Pen-san）：船内に退避していたPen-sanがそのまま同行（**「群れから戻る」描写は不使用**＝分離・別れの布石を作らない方針に統一）。
+  - 確定（追跡）：嵐は夜のうちに止む。Dangoが**赤い首輪の匂いを嗅ぐ**（*"He takes a long, deep smell of it. It carries Obia's smell."*）→鼻を地につけ追跡（Suke-san協力 *"This way," says Suke-san.*）。Adelie先導＝*"He picks the safe way... But he still does not trust Obia. He comes to see, not to believe."*（Ch10監視者のまま）。締め＝*"They only hope to find their friend."*
+- **Ep81「Frozen」**：雪に埋もれかけ、凍って動かないObiaを発見。誰も声を出せない。Adelieが沈黙して見届ける（Ep88への種）。③白い平原・埋もれた銀の体・消えた目の光。※1語タイトル。
+  - 確定（発見）：犬たちが雪の小山で止まる→雪に埋もれたObia発見。*"It is hard and cold as the ice. Its blue eyes are dark now. The light in them is gone."* Ako-chan *"Obia,"* → 無応答。⚠️**この時点では蘇生の兆しなし**（蘇生はEp82）。
+  - 確定（沈黙）：*"No one can say a word."* Dangoが鼻で押す（離れない）・Suke-sanが雪に伏す・Colonelは黙して見下ろす（Ep88への種・言語化しない）。締め＝*"The cold land holds them all."*
+- **Ep82「The Light Returns」**：Ako-chanがObiaを抱きしめ、涙がObiaにこぼれる→**ゆっくり目が光り始める**（**原因は述べない＝感情の並置**）。Ako-chanが首輪をObiaにつけ直す（再会の象徴）。章クローザー。次章Ch11（告白・別れの朝）へ。
+  - ⚠️確定（無因の並置）：抱擁→涙（*"Her tears fall down on its face. One tear. Then more."*）→ *"Then something changes in her arms. Slowly, a small light comes. ... The pale blue light is soft and warm. Obia's eyes open slowly."* **因果語（because/so 等）は使わず時間語 "Then" のみで並置**。理由はS3まで伏せる。
+  - 確定（首輪＝再会の象徴）：蘇生**後**にAko-chanが赤い首輪をつけ直す＝*"She puts it back around Obia's neck. It is where it should be now."*（⚠️復活の原因ではない・由来も説明しない）。
+  - 🔒章クローザー：*"The long night is over now."*（Ep71クローザー *"the long night is only starting."* と対の回収）。Adelieはこの場でも見届けるのみ（言語化＝Ep88へ温存）。next_ep＝/season1/chapter11/ep083/（章跨ぎ）。
+
+<!-- Ch10 完了（Ep72〜82）。 -->
+
+<!-- Ch11 以降は執筆後に追記（Day 75〜） -->
