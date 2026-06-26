@@ -1304,3 +1304,72 @@
   - ✅執筆済み（word_count 272）。Day19。章クローザー。🔒Obia *"We will go together," ... "We will find them."*（逐語）✓。モード=感情・絆。**Obiaは責めない**＝"Obia does not blame her. ... It does not speak of the lost jump."✓（Ep166自責への応答）。たどる光の筋＝"Then it finds a thin line of light. The three friends left this faint trail."。Ako-chanの涙が止まる＝"Slowly, her tears begin to stop." ＋ "A small, brave hope grows in her."。Obia=it。④二人が追って跳ぶ＝"Then the two of them jump after their friends. ... Wherever they are. Whenever they are."（行き先不明＝氷河期/マイオラニアleakなし・Ch21先取りせず）✓。next_ep 空欄✓。
 
 <!-- Ch20（Ep160〜167）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
+
+---
+
+## Chapter 21「Into the Ice Age」— 3回目跳躍・救出・マイオラニア（Ep168〜176・9話）
+
+**Ch21 共通**
+- ★**3グループPOVクロスカット（この章唯一）**＝エピソードごとに視点を切替え緊張を高める。
+  - **リクガメ組**：Ruka・Daru・Gabu（氷河期オーストラリアで孤立）
+  - **時空組**：Ako-chan・Obia（追跡）
+  - **現代組**：Suke-san・Dango・Pen-san・General Adelie（南極の洞窟で待機）
+- ★**開幕＝リクガメ組（Ep168）**：「追跡が来るか未確定」の3匹側の不安を先に見せる（読者はEp167で追跡決断を知る＝ドラマ的アイロニー）。
+- ★**各Ep冒頭でPOVを接地**（場所/グループが分かる1文目）。A2読者が3スレッドを追えるよう視点切替を明示。
+- ★**行き先＝氷河期のオーストラリア周辺**（Ch20で温存した行き先がここで開示）。冷たく広い・見慣れない巨大な植物・灰色の空。
+- ★**マイオラニア＝描写のみ・"Maiolania"不使用（確定 2026-06-26・ユーザー選択）**＝"the giant tortoise / the great shell / the ancient one / the huge turtle" 等。⚠️**companion命名なし**（狼と同じ descriptive）。**怒っていない・ただ見ている**（benign/ancient/observing）。Ako-chanが見上げるほど巨大。
+- ★**声の型＝言葉でない感覚（確定・3つの声で唯一）**：Ep174「Not Words」＝**引用台詞なし**。感覚として届く（"very old, very big, very still"）。Ako-chanが受け取り→Obiaが記録。⚠️**事故跳躍なのに三つ目の声＝使命が果たされる**（偶然が使命を完成）。
+- ★**"We will not forget"＝Ep175でAko-chanが言う**（**S2初出＝designated payoff**・Ch18/19で温存）。will例外（物語を運ぶ誓い＝クジラの誓い／S2末「Obia——」に連なるシリーズモチーフ）。
+- ★⚠️**現代組は何が起きたか知らない**（裂け目・三匹消失はCh20で不可視）。Ep171は「長すぎる・何かあった」と**心配するだけ**＝**Rukaの喪失・裂け目を現代組に知らせない**（具体的な異変知識を持たせない）。できるのは待つことだけ。
+- ★**Ako-chanの自責の緩和**：三匹を無事見つける（Ep173）＝**安堵が中心**。⚠️speech で過度に解決しない（Daru/Gabuは自らの意思で追った・Rukaは事故＝完全な免罪はしない）。
+- ⚠️**跳躍衝撃の逓増の頂点**：Ep176帰還＝**いちばん大きな衝撃**（4回中最大）。
+- ⚠️**伏せる継続**：①"the future"抽象（Ep174転送）②**異変の根本原因・収束せず・Obiaの別れはCh22＝先取りしない**（Ch21は救出と三つ目の声まで＝"三つの声が集まった・でも旅はまだ終わらない"予感まで）。
+- 語り規約：Obia=it（時空組で同行・記録役）／**Ruka=she・台詞最小**（ショックで動かない＝所作中心）／**Daru=引用台詞あり**（Ep168 "Where... are we?"・**Ep170で初めて言葉が出ない**＝対照）／Gabu=静か・少ない言葉／Dango引用なし／Pen-san・General=現代組（Ep171）／3Pod色＝赤青黄。
+- Day割付：Ch20末＝Day19（はざま）。Ch21＝**全話Day19**（救出は連続・時空分断はストーリー上だが story_day は単一の語り現在）。⚠️**現代組を別Dayにしない**（"後の時間"と誤読させない）。
+
+### Day 19 — 救出（3グループPOVクロスカット）
+- **Ep168「The Other Side」**（リクガメ組）：Daru・Gabu・Rukaが氷河期オーストラリアに着地。冷たく広く見知らぬ世界。3匹だけ。Rukaはショックで動かない。誰かが来るか分からない。
+  - 🔒台詞（Daru）：*"Where... are we?"*
+  - モード：静・観察（孤立）。③：冷たい風、見慣れない巨大な植物、広い灰色の空、震える小さな甲羅。④：DaruがRukaの隣に寄り添う。
+  - 確定：**行き先＝氷河期豪州を開示**。Ruka=she・動かない（所作）。⚠️マイオラニアはまだ出さない（Ep170）。
+  - ✅執筆済み（word_count 280）。Day19。リクガメ組POVで開幕（"Daru opens his eyes."）。🔒Daru *"Where... are we?"*（逐語・"His thin voice fades in the wind. No one answers him."）。行き先＝氷河期豪州を**設定で開示**（"Strange, huge plants" / "The sky is wide and flat and gray."＝地名は出さず＝キャラは知らない）。⚠️Ruka=she・ショックで静止（"She does not move at all. Her small shell trembles ... The shock holds her still."）✓。Daruが寄り添う（"'I am here,' he says softly. 'We are here with you.'"）。④ドラマ的アイロニー＝"they do not know if anyone will come."（読者はEp167で追跡を知る）。三連 "wide and flat and gray"（1話1回）。⚠️マイオラニア未出。
+- **Ep169「Following the Rift」**（時空組）：はざまでAko・Obiaが三匹を追う。Obiaが経路を必死にたどる。でも同じ場所・時代に出られる保証なし。不確かなまま跳ぶ。
+  - 🔒台詞（Ako-chan）：*"Can you follow them?"*／（Obia）：*"I will try."*
+  - モード：感情・追跡。③：ねじれる光、強い衝撃、Ako-chanの祈る顔、Obiaの集中する目。④：どこに出るか二人にも分からない。
+  - 確定：Ch20 Ep167の続き（"the space between times" から跳ぶ）。Obia=it。
+  - ✅執筆済み（word_count 273）。Day19。時空組POV（"Ako-chan stands in the space between times."＝Ch20の確定語を再利用✓）。🔒Ako-chan *"Can you follow them?"* / Obia *"I will try."*（逐語）。⚠️**保証なしを明示**＝"But it cannot promise more than this. The same place. The same time. It does not know if they will be there."✓。Ako-chanの祈り＝三匹を心に（"Daru's quick feet" / "Gabu, calm and slow" / "small Ruka, lost and afraid"）。Obia=it（"Its voice is calm and sure."）。④"They will not stop until they find them."。🔧レビュー：flat副詞 "shine bright and hard"→"shine, bright and hard"（コンマ付加形容）。
+- **Ep170「The Giant Shell」**（リクガメ組）：三匹の上に影。空を塞ぐほど大きな甲羅＝マイオラニア（**描写のみ**）。見上げてもてっぺんが見えない巨大なリクガメ。三匹を静かに見下ろす。三匹は動けない。Daru＝初めて言葉が出ない。
+  - モード：静・観察（畏怖）。③：巨大な甲羅、見上げる三匹、ゆっくりした巨大な動き、止まった時間。④：怒ってはいない。ただ見ていた。
+  - 確定：⚠️**Ako・Obiaはまだ到着していない**。⚠️**"Maiolania"不使用**＝"the giant tortoise / great shell"。**Daru沈黙＝Ep168の発話と対照**（言葉を失う）。
+  - ✅執筆済み（word_count 275）。Day19。リクガメ組POV。⚠️**"Maiolania"不使用・描写のみ厳守**＝"a tortoise. But it is huge. ... like a hill. ... The great shell ... The ancient one ... the giant tortoise"（呼称を変奏＝drone回避）✓。⚠️**Daru言葉を失う＝Ep168の発話と対照**＝"He opens his mouth to speak. But no words come out. For once, Daru has nothing to say."✓。benign＝"the deep eyes hold no anger. It does not want to hurt them. It only looks."✓。Rukaは巨大な存在の前で落ち着く（"Her small body does not tremble now."＝Ep168の trembles と対照・Ep173への布石）。④"far off, no one else comes for them. Not yet."（Ako/Obia未到達）。三連 "calm and deep and slow"（1話1回）。⚠️Ch22 leakなし。
+- **Ep171「Those Who Wait」**（現代組）：南極の洞窟で四人が待つ。見送ってからずいぶん経つ。1回目も2回目ももっと早く戻った。でも誰も戻らない。長すぎる。心配。でも何が起きたか分からない。
+  - 🔒台詞（Suke-san）：*"Too long. Something is wrong."*／（General Adelie）：*"...We wait. It is all we can do."*
+  - モード：静・待機（不安）。③：静まった洞窟、消えた跳躍の光、Dangoの落ち着かない足、過ぎる時間。④：何が起きたか四人には分からない。ただ待つ。
+  - 確定：⚠️**現代組は裂け目・喪失を知らない＝心配のみ**（具体的な異変知識を持たせない）。Dango所作（引用なし）。
+  - ✅執筆済み（word_count 275）。Day19。現代組POVで開幕（"Suke-san waits by the cave wall."）。🔒Suke-san *"Too long," ... "Something is wrong."*／General *"...We wait," ... "It is all we can do."*（逐語）。⚠️**現代組の無知を厳守**＝"No one knows what went wrong. No one knows where the friends are."✓（裂け目/Ruka喪失を知らず＝Ch18/19の帰還の早さとの差で"長すぎる"と察するのみ）。Dango所作＝"He walks back to Ako-chan's empty place. His feet tap ... He whines, low and soft."（引用なし）。Pen-san＝"feels the fear all the same"。④"the empty cave waits with them."。wait は題名キーワードで反復（意図的）。
+- **Ep172「Ako-chan Arrives」**（時空組）：Ako・Obiaが氷河期の大地に降り立つ。同じ時代に出られた。でも三匹の姿は見えない。冷たい大地を探す。声が広い空に消える。
+  - 🔒台詞（Ako-chan）：*"Ruka! Daru! Gabu!"*
+  - モード：動・探索。③：広い荒野、冷たい風、遠くの巨大な影、探す二人の足。④：あの影の方に、何かがいる。
+  - 確定：同じ時代に到達（Ep169の跳躍成功）。遠くの巨大な影＝マイオラニア（まだ "giant shell"）。
+  - ✅執筆済み（word_count 273）。Day19。時空組POV（"The light fades, and Ako-chan opens her eyes."）。跳躍成功＝Obia *"We are in the same time," ... "The trail ends here."*（Ep169 "I will try" の回収）。三匹は見えず＝"no red Pod ... no blue Pod ... no small yellow shape"（3Pod色で不在を示す）。🔒Ako-chan *"Ruka! Daru! Gabu!"*（逐語・"The cold wind takes her words away."）。遠くの巨大な影＝"A huge dark shape ... taller than any plant or hill."（まだ未識別＝Ep173で接近）。④"Whatever waits there, they will go to it."。三連 "wide and gray and bare"（1話1回）。⚠️Maiolania名は出さない。
+- **Ep173「Ruka Is Safe」**（合流）：Ako-chanがついに三匹を見つける。Rukaは無事。動かず巨大なリクガメを見上げている。Daru・Gabuもそば。Ako-chanが駆け寄る。
+  - 🔒台詞（Ako-chan）：*"You are safe! You are all safe!"*
+  - モード：感情・再会。③：見上げるRuka、駆け寄るAko-chan、巨大な甲羅、安堵の涙。④：間に合った。三匹は無事だった。
+  - 確定：時空組＋リクガメ組が合流。⚠️**自責の緩和＝安堵中心**（過度な speech 解決はしない）。
+  - ✅執筆済み（word_count 271）。Day19。時空組→合流POV。🔒Ako-chan *"You are safe!" ... "You are all safe!"*（逐語・speech tag split）。**Daru/GabuがRukaを守った**＝"They kept her safe through it all."（world.md整合）。⚠️**自責の緩和＝安堵中心・過度に解決しない**＝"Now the heavy fear melts a little inside her."（"a little"＝部分的緩和・完全免罪せず）✓。Ruka=she（"Ruka turns her small head ... looks at Ako-chan, then back up high."＝マイオラニアを見上げる・world.md整合・Ep170の落ち着きの継続）。マイオラニア＝描写のみ（"the giant tortoise / great shell / huge tortoise"）・benign（"The old eyes look down, calm and deep."）。④"For this one quiet moment, they are all together again."（→Ep174声へ）。"run warm"＝慣用depictive（warm/cold対比は意図的）で据え置き。
+- **Ep174「Not Words」**：マイオラニアの声は言葉ではない。感覚としてゆっくりAko-chanの中に届く。とても古い・とても大きな・静かな何か。Ako-chanが受け取る。Obiaが記録。事故の跳躍なのに三つ目の声＝使命が果たされる。
+  - モード：感情・核（声）。③：言葉のない声、Ako-chanの閉じた目、巨大な静けさ、光るObia。④：三つ目の声が救われた。偶然が、使命を完成させた。
+  - 確定：⚠️**引用台詞なし**（3つの声で唯一の"言葉でない"＝world.md §8）。⚠️"the future"抽象（Obia記録/転送）。マイオラニア＝描写のみ。
+  - ✅執筆済み（word_count 270）。Day19。合流POV（マイオラニアの足元）。⚠️**マイオラニアの声＝引用なし・感覚として届く**＝"It is not a sound. It is not a word." / "The voice is not words at all. It comes slowly, like a deep, warm wave."✓。指定感覚＝"It feels very old. It feels very big. It feels very still."（Ep174専用に温存した三連反復）✓。benign＝"There is no fear in it. There is no anger in it. There is only deep, quiet peace."。Obiaが記録/転送＝Ep148/157と同register *"I sent it," ... "The voice is safe now."* ＋ "It will live on, far away in time."（⚠️**"the future"抽象＝誰の時代か出さない**）✓。**Daru沈黙の継続**＝"Daru does not say a word now. Even he has no words for this."（Ep170との連続）。⚠️**事故跳躍なのに使命完成**＝"They came here by a broken jump. ... But they saved the last voice all the same. By chance, the long work is complete."✓。④"She will carry it always."。⚠️異変/Ch22 leakなし。🔧レビュー：flat副詞 "comes slow"→"comes slowly"／"glow bright and clear"→"glow, bright and clear"。⚠️語数floor（270）。
+- **Ep175「All of Us」**：全員を連れて帰還の跳躍の準備。Ako・Obia・Daru・Gabu・Ruka——今度は全員一緒。マイオラニアが静かに見送る。
+  - 🔒台詞（Ako-chan）：*"Thank you. We will not forget."*
+  - モード：感情・絆。③：寄り集まる五人、巨大な甲羅の見送り、高まる光、握り合う距離。④：今度こそ、みんなで帰る。
+  - 確定：**"We will not forget" S2初出＝designated payoff**（will例外・物語を運ぶ誓い）。マイオラニアへの感謝＝benign。三匹＝she(Ruka)/Daru/Gabu。
+  - ✅執筆済み（word_count 275）。Day19。合流POV（帰還準備）。🔒Ako-chan *"Thank you," ... "We will not forget."*（逐語・**S2初出 designated payoff**・will例外）✓。3Pod色＝赤(Daru)/青(Gabu)/黄(Ruka)を全て言及✓。マイオラニア＝benign見送り（"It is not angry. It never was." / "The ancient one dips its great head." / "It will stand here for many more years."）・描写のみ✓。Obia=it（中心で跳躍主導 *"Hold on to me,"*）。**全員一緒**＝"The five of them stand as one now." / "This time, they all go together."（Ep162-165の喪失と対比）。Rukaの成長＝巨大な存在を恐れない（"She is not afraid of the great one now."）。三連 "slow, and deep, and full of peace"（1話1回）。④"This time, they go home together."。⚠️Ch22 leakなし。
+- **Ep176「Home from the Ice」**：帰還の跳躍。光と、いちばん大きな衝撃（4回中最大）。氷河期→南極の洞窟。五人が氷の上に戻る。待っていた現代組が駆け寄る。Pen-sanがRukaに頬を寄せる。Dangoがぐるぐる回る。
+  - モード：動・再会（章クローザー）。③：眩しい光、戻る冷気、駆け寄る仲間、重なる安堵。④章クローザー：三つの声がすべて集まった。でも、旅はまだ終わらない。
+  - 確定（章末リンク）：next_ep は空欄（Ch22 Ep177執筆時に ep177.prev_ep=ep176 と相互リンク）。⚠️**衝撃＝最大（逓増の頂点）**。⚠️**異変収束せず／Obiaの別れ（Ch22）は先取りしない**（"三つの声が集まった・でも旅はまだ終わらない"予感まで）。3グループ全再合流（現代組と再会）。
+  - ✅執筆済み（word_count 271）。Day19。章クローザー。動・再会POV（洞窟＝3グループ全再合流）。⚠️**衝撃＝4回中最大**＝"Then comes the jump, hard and wild. It is the strongest jump of them all."✓（Ch18"少し大きい"→Ch19"さらに重い"→Ch21"最大"の頂点）。再会＝Suke-san *"You came back!"*（barks）／Dango所作 **"spins around and around"**（＝本章唯一の畳語ticを使用・引用なし）／Pen-san *"I was so afraid,"*（Rukaに頬・成体で"so much bigger than her now"）／General＝"a long, proud salute"（厳格）。④章クローザー＝"Now all three voices are safe. The wolf. The seabird. The ancient one." ＋ ⚠️**Ch22予感まで**＝"something still feels strange to her. She cannot name it. Not yet. ... But the journey is not over yet."（異変収束せず・Obiaの別れは先取りしない）✓。next_ep 空欄✓。🔧レビュー：flat副詞 "barks loud"→"barks loudly"。"around and around"＝本章唯一の畳語tic（許容）。
+  - **🔗 Ch20→Ch21 相互リンク済み**：ep167.next_ep=/season2/chapter21/ep168/ ／ ep168.prev_ep=/season2/chapter20/ep167/。
+
+<!-- Ch21（Ep168〜176）執筆完了。全9話 ✅・確定台詞・word_count・🔧レビュー追記済み。章末 ep176.next_ep 空欄（Ch22 Ep177で相互リンク）。 -->

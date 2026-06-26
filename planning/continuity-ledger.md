@@ -122,6 +122,10 @@
 | **「時空のはざま」の英語（Ch20-21・確定2026-06-26ユーザー選択）** | **"the space between times"**（"Not here. Not there. Just gray and still. No ground. No sky."）。Ep165初出・Ch21時空組POVでも同語 | 機構の詳説はしない（"the jump did not finish"程度）。"should"はS2既出（ep114/155）で可 |
 | **Ako-chanの自責アーク（Ch20）** | **Ep161決断（"I will go."＝反対を越え自ら選ぶ）→Ep166自責（"自分が決めたせい"＝涙・パニック）の因果を明確に結ぶ** | Obiaは責めず "We will go together."（Ep167）。s2.md「3回目直前の議論→決断→三匹喪失後の自責」 |
 | **3回目跳躍の行き先（Ch20-21）** | **事故跳躍＝登録外・不明**。Ch20は「三匹がどこのいつへ行ったか誰も分からない」まで。氷河期オーストラリア・マイオラニアは**Ch21で開示** | 1・2回目（登録済み・機械が選定）と異なり、裂け目による事故＝行き先未登録 |
+| **3グループPOVクロスカット（Ch21・この章唯一）** | リクガメ組(Ruka/Daru/Gabu・氷河期豪州)／時空組(Ako/Obia・追跡)／現代組(Suke/Dango/Pen/General・洞窟)。開幕＝リクガメ組(Ep168)。各Ep冒頭でPOV接地。**全話Day19**（現代組を別Dayにしない） | ⚠️**現代組は裂け目・三匹消失を知らない**（Ch20で不可視）＝Ep171は「長すぎる・心配」のみ・具体的異変知識を持たせない |
+| **マイオラニアの英語呼称（Ch21・確定2026-06-26ユーザー選択）** | **描写のみ・"Maiolania"不使用**＝"the giant tortoise / the great shell / the ancient one / the huge turtle"。**声＝言葉でない感覚（引用なし）**・benign/ancient/observing（怒っていない） | Maiolaniaは難語・多聴不向き。狼（"the wolves"）と同じ descriptive。声の型＝3つで唯一の"言葉でない"（world.md §8） |
+| **"We will not forget"（Ep175・S2初出）** | Ako-chanがマイオラニアに言う＝**S2の designated payoff**（Ch18/19で温存）。will例外（物語を運ぶ誓い） | クジラの誓い／S2末「Obia——」に連なるシリーズモチーフ。事故跳躍だが三つ目の声＝使命完成（偶然） |
+| **跳躍衝撃の頂点（Ep176）** | 帰還＝**4回中最大の衝撃**（往路<復路・1<2<3回目の頂点） | Ch18"少し大きい"→Ch19"さらに重い"→Ch21"最大"の段階増大の終点 |
 | **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
