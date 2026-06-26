@@ -1119,3 +1119,67 @@
   - 🔧レビュー適用（Phase C・第3バッチ Ep140-141）：先取り厳守（誰が選ばれるか/行き先/狼/日本 未開示）。§5クライマックスのcrescendo過密を語数中立で変奏＝ep141 light×6→4（"shiver in the light"→"…glow"／"The cold light"→"The cold glare"）・hum×5→4（"floor hum"→"floor throb"）／ep140 cold×4→3（"cold and very still"→"dark and very still"）。結果：fm＝276/274（範囲内）・story_day 全15・最長文≤8語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・三連 ep140のみ1・🔒逐語一致。
 
 <!-- Ch17（Ep134〜141）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
+
+---
+
+## Chapter 18「The First Jump」— 1回目跳躍・ニホンオオカミ（Ep142〜150・9話）
+
+**Ch18 共通**
+- ★**S2の跳躍メカニクスの初実演＝声収集の"型"を確立する章**。機械が選定→跳躍→絶滅動物の声をAko-chanが聴く→Obiaが未来へ転送→帰還。以後Ch19（オオウミガラス）・Ch21（マイオラニア）が同型を踏む。
+- ★**選ばれたメンバー＝Dango・Suke-san**（＋必須のAko-chan・Obia）。**洞窟に残る＝Daru・Gabu・Ruka・Pen-san・General Adelie**（Ep142でタイムマシンが選定）。⚠️**なぜこの二匹かは説明しない**（機械の選定は不可解なまま＝world.md §8・Ep139 *"The machine chooses. We do not."* の実演）。
+- ★**行き先＝19世紀末〜20世紀初頭・日本の山奥**（深い雪・静寂・**人の気配なし**）。**ニホンオオカミ＝最後の群れ**。痩せて、それでも誇り高い。
+- ★**声の型（確定 2026-06-26・ユーザー選択）＝狼の長は短い引用台詞**（A2・**誇り高く・悲しみ/怒りでなく**）。Ako-chanが受け取り→Obiaが未来へ転送。**マイオラニア(Ch21)だけが"言葉でない感覚"**＝3跳躍で声の出し方に差をつける（狼＝誇りの言葉／オオウミガラスCh19＝穏やかな声／マイオラニアCh21＝言葉でない）。
+  - 🔒狼の長（引用例・執筆時に最終確定）：*"We are the last. We do not run. This snow is ours. We are not afraid."*（誇り＝Ep150 *"It was proud."* と噛み合う）。⚠️**"We will not forget" 系の誓いはマイオラニアCh21の取り置き**＝狼には使わない。
+- ★**跳躍の衝撃＝逓増の起点**。往路<復路（復路がやや大きい）。⚠️Ch18は**"少し大きい"程度に留める**＝裂け目・分離はCh20。1回目<2回目<3回目の段階増大の最初。
+- ⚠️**伏せる**：①**"the future" は抽象のまま**（誰の時代かは言わない＝Ch17方針継続）②**異変の根本原因（機械が現代↔未来を開いたまま）はCh22**（Ep179）＝声を救えば異変が止まる等の因果をここで言わない③**裂け目・分離はCh20**。
+- ⚠️**絶滅動物は命名しない**＝狼は地の文 "the wolves / the pack / the old wolf / the leader" 等。**"extinct/絶滅" の語も使わない**＝A2平易化で "the last pack / almost gone / few left / soon, none" 等の体感表現に。
+- ⚠️**19世紀の人間（猟師等）を画面に出さない**（人の気配なし＝Ep144）。狼は**"狩られ始めている"ではなく"消えゆく/最後"のみ**（"狩られ始め"はオオウミガラスEp155の枠）。
+- 装備：南極装備（防寒服・犬ブーツ）はEp127で配布済み＝雪山でもそのまま自然（**言及は最小**）。
+- 語り規約：Obia＝it（転送役・目が光る）／**Dango引用台詞なし＝所作のみ**（Ako-chan足元・狼への本能的反応）／Suke-sanは引用台詞あり（野生の勘・警戒・橋渡し役）。Ako-chan＝声を聴く役（S1能力）。
+- Day割付：Ch17末＝Day15（洞窟・跳躍開始直前）。Ch18は跳躍を同日連続として扱い、帰還後にDay16へ＝**Day15〜16（loose・非減少）**。
+
+### Day 15 — 選定〜跳躍〜19世紀末日本
+- **Ep142「Who Goes」**：タイムマシンが最初のメンバーを選ぶ。光がDangoとSuke-sanを包む。＋必須のAko-chanとObia。選ばれなかった仲間は洞窟に残る。
+  - 🔒台詞（Ako-chan）：*"We will come back."*（will＝S2可／"残る仲間への誓い"型）
+  - モード：緊張・選定。③：選ぶ光、包まれる四人、残る仲間（Daru・Gabu・Ruka・Pen-san・General）の顔、機械の音。④：なぜこの二匹なのか、まだ分からない。
+  - 確定：跳躍組＝Ako-chan・Obia・Dango・Suke-san／洞窟残留＝Daru・Gabu・Ruka・Pen-san・General Adelie。⚠️**行き先（狼・日本）はEp144まで先取りしない**。人数の機械的宣言はしない（"光が包む"で示す）。⚠️Ep141 next_ep を ep142 へ更新（章頭の相互リンク・Phase Dで実施）。
+  - ✅執筆済み（word_count 298）。Day15。機械が選定＝光がDango→Suke-sanを包む（"A soft blue glow wraps around him."）。🔒Ako-chan *"We will come back,"*（逐語・"soft, but it does not shake"）。洞窟残留の5体を体感列挙（Daru/Gabu=Pod内・Ruka静止・Pen-san General に寄る）。⚠️選定理由は不問（"Why did it pick these two? No one knows. The machine gives no answer at all."）。Suke-san⇄Generalの無言の会釈（軍人の絆・所作）。Dango=所作のみ（whine/lick・引用なし）。"the four"＝Ako/Obia/Dango/Suke-san。締め＝跳躍直前で fade（"There is no turning back now. The jump is here."）。⚠️行き先・狼・日本は未開示。
+- **Ep143「The Jump」**：最初の跳躍。激しい光。引っ張られる衝撃。一瞬すべてが白く。次の瞬間、空気が変わる。冷たい。匂いが違う。
+  - モード：動・出来事。③：眩しい光、めまい、変わる温度、足元の感覚。④：目を開けると、そこは知らない時代だった。
+  - 確定：跳躍の体感（光・衝撃・温度/匂いの変化）。⚠️**まだ"どこ/いつ"を明言しない**（Ep144で雪の山奥と判明）。往路の衝撃＝基準値（復路Ep149でやや増す）。
+  - ✅執筆済み（word_count 274）。Day15。跳躍の体感＝白い光→引っ張られ"drags her forward"→上下不明→停止。Dangoの温もりが唯一の手がかり（"That small touch is all she feels."）。停止後＝硬い冷たい地面・違う匂い（"It smells clean and sharp and strange."＝本話三連1回）。Obia=it（"its blue eyes calm"）。⚠️**場所/時代を明言しない**＝締め "She does not know this place at all. She does not know this time."。往路衝撃＝基準値。🔧レビュー：flat副詞 "roars loud"→"roars loudly"（§2）。
+- **Ep144「Snow and Silence」**：19世紀末の日本の山奥。深い雪と静寂。木々が黒く立つ。人の気配はない。Ako-chan・Obia・Dango・Suke-sanだけ。Suke-sanが鼻を上げる。
+  - モード：静・観察。③：踏みしめる雪、木々の影、白い息、遠くの静けさ。④：この静けさの中に、何かがいる。
+  - 確定：**時代/場所を地の文で示す**（雪の山奥・日本＝**人は出さない**）。Suke-sanの野生の勘（鼻を上げる）。Dango＝所作。
+  - ✅執筆済み（word_count 278）。Day15。19世紀末日本の雪山＝"This is a mountain, high in old Japan."（exact date は出さない）。**人を出さない**＝"No house stands here. No path cuts the snow. No smoke rises in the empty sky. There is no one here at all."。Obia=it（"Its blue eyes glow softly"）。Dango=所作（雪を高く踏む・足元に密着）／Suke-san=野生の勘（鼻を上げ耳を回す）。締め＝Suke-sanが硬直し低く唸る→"They are not alone on this mountain."（Ep145の狼への布石）。⚠️狼は未登場・"extinct"語なし。🔧レビュー：flat副詞 "glow soft"→"glow softly"（§2）／§5 keyword密度を語数中立で変奏＝"deep in old Japan"→"high in"（deep×4→3）・"cold sky"→"empty sky"（cold×4→3）・"the snow seems to wait"→"the slope…"（snow微減）。snow×7 は題名キーワードで意図的反復＝据え置き。
+- **Ep145「The Last Pack」**：雪の中に狼たち＝ニホンオオカミ。最後の群れを生きる数頭。痩せて、それでも誇り高い。もうほとんど残っていない。Ako-chanがそれを感じ取る。
+  - モード：静・観察（出会い）。③：雪に立つ狼、鋭い目、静かな呼吸、白い景色。④：これが、消えゆく者たちの姿だ。
+  - 確定：⚠️**"extinct"語不使用**＝"the last pack / almost gone / few left" 等。狼に**名前を付けない**。狼は**誇り高い**（痩せても卑屈でない）。
+  - ✅執筆済み（word_count 275）。Day15。狼の群れ出現＝痩せて肋が見えるが誇り高い（"thin... But they stand tall and proud."）。⚠️**"extinct"語なし**＝"This is the last pack on the mountain. Soon there will be no more. Almost none are left now."（A2平易化）。狼=命名なし（"the wolves / the oldest one / one young wolf"＝代名詞 it）。**幼狼を群れが中央で守る**（pathos の新規ディテール・矛盾なし）。数は非確定（"only a few. So few."＝数え語トラップ回避）。Ako-chanの心が痛む（"her heart aches"・"her eyes fill, but she does not look away"）。締め＝"This is the shape of the last ones."。
+- **Ep146「Careful」**：狼たちが警戒。見知らぬ者をじっと見る。Suke-sanが同じ犬の仲間として、ゆっくり前に出る。緊張が雪の上に張りつめる。
+  - 🔒台詞（Suke-san）：*"We are not hunters. We listen."*
+  - モード：動・緊張。③：にらみ合う距離、立てた毛、Suke-sanの低い姿勢、張りつめた空気。④：狼が、一歩、近づく。
+  - 確定：Suke-san＝橋渡し（引用台詞）。⚠️**Dango＝所作のみ**（引用なし・Ako-chanのそばで本能的に身構える）。
+  - ✅執筆済み（word_count 274）。Day15。🔒Suke-san *"We are not hunters," ... "We listen."*（逐語）。Suke-san=同じ犬として低姿勢で前へ（"He is a dog, just like them. He shows them he means no harm."）。⚠️**Dango=所作のみ**（"A low growl builds in his throat. But Ako-chan rests a hand on him. He goes quiet."＝引用なし）。Obia=地の文 "Obia stands silent and still"（it・代名詞誤用なし）。狼が匂いで脅威でないと読むが まだ信用しない。締め＝老狼が一歩近づく（"One step closer. ... No one knows what comes next."）。Ep147への橋。
+- **Ep147「The Wolf's Voice」**：狼の長がAko-chanに語りかける＝**短い引用台詞**（確定）。短く、誇り高く、失われゆくことへの静かな言葉。Ako-chanがその声を受け取る。
+  - 🔒台詞（狼の長・引用例）：*"We are the last. We do not run. This snow is ours. We are not afraid."*（A2・誇り・悲しみでなく／執筆時に最終確定）
+  - モード：感情・核（声）。③：狼の低い声、Ako-chanの閉じた目、雪の静けさ、震える空気。④：声は、悲しみではなく、静かな誇りだった。
+  - 確定：**この回は引用あり**（マイオラニアCh21だけが"言葉でない"）。狼名なし（"the old wolf / the leader"）。Ako-chan＝聴く役（閉じた目で受け取る）。
+  - ✅執筆済み（word_count 277）。Day15。🔒狼の長（確定・足場の引用例を逐語採用）*"We are the last. We do not run. This snow is ours. We are not afraid."*。**声の型＝短い引用台詞**（ユーザー選択を実装）＝"Only Ako-chan can hear it."（S1能力＝Ako-chanのみ・再強調）。⚠️**誇り（悲しみ/怒りでない）**＝"It is not loud. It is not angry. There is no sorrow in it at all. Only something old and proud and strong."＋"The voice was not sad. It was proud."（**Ep150 🔒"No. It was proud." の布石**）。⚠️"We will not forget"系の誓いは不使用（Ch21取り置き）。転送（Obiaが送る）はEp148＝本話は受信で閉じる。Obia=it（"its blue eyes still"）。三連 "old and proud and strong"（本話1回）。🔧レビュー：flat副詞のコンマ付加形容化＝"voice comes low and slow"→"comes, low and slow"／"snow falls soft and slow"→"falls, soft and light"（"and slow"近接エコー解消・slow×3→2）。ep145 "breath comes slow"→"comes, slow"。
+- **Ep148「Sent」**：Ako-chanが受け取った声を、Obiaが未来へ転送する。Obiaの目が光る。声が時を越えて送られる。狼たちは、彼らが消えるまで、じっと見ている。
+  - モード：静・出来事。③：光るObia（it）、送られる声、見つめる狼、舞う雪。④：一つ目の声が、救われた。
+  - 確定：転送の型（Obiaの目が光る→声が時を越える）。⚠️**"the future" は抽象**（誰の時代かは言わない）。Obia＝it。
+  - ✅執筆済み（word_count 275）。Day15。Ako-chanが受け取った声をObiaへ（"I have the wolf's voice."）→Obiaが目を光らせ未来へ転送（"It sends it far across time. It sends it to the future."＝anaphora）。⚠️**"the future" 抽象**＝"Where it goes, no one knows. But it will be safe there."✓。狼は光を見守る（"They watch the strange blue light... They see the voice go away."）。Obia *"I sent it," ... "The voice is safe now."*。締め＝老狼が誇り高く頭を下げる（"One voice will not be lost. It will live on, far away in time."＝抽象）。Obia=it厳守。🔧レビュー：flat副詞 "shine bright"→"shine, bright"（コンマ付加形容）・"lands soft"→"lands softly"。"grow soft"は連結動詞=据え置き。
+
+### Day 16 — 帰還〜受け止め
+- **Ep149「Back」**：帰還の跳躍。再び光と衝撃。雪の山奥から南極の洞窟へ。往路より、衝撃が少し大きい。四人が氷の上（洞窟内・機械のそば）に戻る。待っていた仲間が駆け寄る。
+  - モード：動・出来事。③：眩しい光、めまい、戻る冷気、仲間の顔。④：戻ってこられた。でも、Ako-chanはまだ、狼の声を聴いている。
+  - 確定：**復路＞往路（少し大きい）＝逓増の起点**。⚠️**裂け目・分離はCh20＝ここでは"少し大きい"のみ**。戻り先＝**洞窟内**（機械のそば／"氷の上"はS1の沿岸でなく洞窟内の氷）。待つ仲間＝Daru・Gabu・Ruka・Pen-san・General。
+  - ✅執筆済み（word_count 275）。Day16。🔒Obia *"Hold on," ... "We jump back now."*。⚠️**復路＞往路＝逓増の起点**を明示＝"This time the pull is stronger." / "The jump back is harder than before."✓。⚠️**裂け目なし**（"少し大きい"のみ＝Ch20先取りせず）✓。戻り先＝**洞窟内・機械のそば**（"The cold air of the cave returns... The old machine hums close by... back in the deep cave."）✓。待つ5体が駆け寄る（Daru/Gabu Pod・Pen-san big feet=he・Ruka slowly・General tall）。締め＝Ako-chanはまだ狼の声を聴く（"Its proud words echo deep inside. It will not leave her, even now."）。🔧レビュー：flat副詞 "glows soft"→"glows softly"・"moves slow"→"moves slowly"。"grows bright"は連結動詞=据え置き。
+- **Ep150「What We Heard」**：最初の声の重さを、みんなが受け止める。Ako-chanは多くを語らない。狼の誇りと、消えていくこと。仲間たちは静かに聴く。
+  - 🔒台詞（Pen-san）：*"Was it... sad?"*／（Ako-chan）：*"No. It was proud."*
+  - モード：感情・章クローザー。③：洞窟の静けさ、寄り添う仲間、Ako-chanの遠い目、機械の低い音。④章クローザー：あと二つ、声が待っている。
+  - 確定（章末リンク）：next_ep は空欄（Ch19 Ep151執筆時に ep151.prev_ep=ep150 と相互リンク）。⚠️**Ep151（2回目＝オオウミガラス／Pen-san・General Adelie選定／北大西洋孤島）はCh19＝先取りしない**（"あと二つ、声が待っている"まで）。🔒Ako-chan *"No. It was proud."* はEp147の狼の誇りの回収。
+  - ✅執筆済み（word_count 272）。Day16。章クローザー。🔒Pen-san *"Was it... sad?"* / Ako-chan *"No," ... "It was proud."*（逐語・Ep147 "The voice was not sad. It was proud." の回収）✓。⚠️**Ch19先取りなし**＝"Two more voices wait somewhere in time. She does not know where. She does not know who."（オオウミガラス・孤島は出さない）✓。next_ep 空欄✓。配置：Dango膝・Suke-san右・Daru/Gabu Pod・Ruka小さく傍ら（定位置整合）。締め＝"Somewhere far off, the voices wait for her."。⚠️残課題（要ユーザー判断）：最終文 "Its low sound fills the quiet dark." の "Its" は段落頭の "the old machine" を指す（Dango "his" との対比で機械と読めるが、直前 "Dango's warm side" との近接で一瞬曖昧）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。
+
+<!-- Ch18 足場（Phase A）。執筆後に各Epへ ✅執筆済み（word_count・確定台詞・🔧レビュー適用）を追記する。 -->

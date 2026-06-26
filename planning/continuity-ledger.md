@@ -112,6 +112,10 @@
 | タイムマシンの跳躍ルール | Ako-chan・Obiaは全跳躍必須／**同行メンバーは機械が選定**／行き先は登録済みだが誰も知らない(到着して初めて分かる) | world.md §8。Ep139 *"The machine chooses. We do not."*。Ako-chan=声を聴く役／Obia=未来へ転送 |
 | Ako-chanの役割（跳躍） | **Ako-chanが絶滅動物の声を聴く**（S1の動物語能力）→**Obiaが未来へ転送** | Ep140で自覚 *"I am ready."*。声はAko-chanにしか聴こえない |
 | Rukaの甲長 | **5cm**（Daru/Gabuの7cmより小さい＝3匹中最小） | S2の「先輩逆転」（Ch24）の前提。網目状の黒模様・頭側面に黄色い丸斑 |
+| **跳躍メンバー登録（機械が選定）** | 1回目(Ch18)＝**Dango・Suke-san**／2回目(Ch19)＝Pen-san・General Adelie／3回目(Ch20-21)＝Ruka→Daru・Gabu（事故）。**全跳躍にAko-chan・Obia必須** | Ep142で1回目選定（光が包む）。洞窓残留＝選ばれなかった仲間。⚠️**選定理由は説明しない**（Ep139 *"The machine chooses. We do not."*） |
+| **絶滅動物の声の型（確定2026-06-26）** | **ニホンオオカミ(Ch18)＝短い引用台詞**（誇り高い）／**オオウミガラス(Ch19)＝穏やかな声**（引用可）／**マイオラニア(Ch21)＝言葉でない感覚**（引用なし＝唯一） | world.md §8はマイオラニアのみ"言葉でない"明記。狼=引用はユーザー選択。狼 🔒例 *"We are the last. We do not run. This snow is ours. We are not afraid."*。⚠️絶滅動物は**命名しない**／**"extinct"語不使用**（"the last pack/almost gone"等） |
+| **跳躍衝撃の逓増** | 往路<復路・1回目<2回目<3回目。**Ch18は"少し大きい"のみ** | 段階増大の起点。⚠️**裂け目・分離はCh20**＝Ch18-19で先取りしない |
+| **跳躍中/跳躍先のステージング（Ch18）** | 四人のみ＝Ako-chan・Obia・Dango・Suke-san。Dango=Ako-chan足元/所作のみ／Suke-san=右少し後ろ→警戒時 前へ出る（橋渡し・引用台詞あり）／Obia=it・転送役 | 19世紀末日本の雪山＝**人を出さない**。戻り先＝**洞窟内**（機械のそば） |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
 
