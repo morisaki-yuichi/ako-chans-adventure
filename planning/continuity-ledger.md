@@ -102,6 +102,10 @@
 | Daru/Gabuの新Pod（S2） | **再合流時に手渡し**：Daru＝赤(Ep119)／Gabu＝青(Ep121)。新PodはCh14制作時に作り飛行艇に積載・持参 | 仕組みはS1再現（Daru全力→高速・赤／Gabu一定リズム→安定・青）。Ruka＝黄(Ep109既出)。3Pod並走の色＝赤青黄 |
 | Daru/Gabuの成長サイズ（S2・確定2026-06-26） | 3年で**成長したが まだ小さい亜成体**（baby 7cm→~12cm程度・手に乗る）。「成体／大型」と描かない | コーギー寸法と同じくリアリティ重視。Podに収まり中で歩ける小ささを保つ。性格不変（Daru元気・Gabu静か） |
 | Dango "You too"（Ep123） | **Dangoに言わせない**＝無言の所作＋地の文で相互承認を伝える。引用はSuke-san "You are big now." のみ | [[A-2]] Dango引用台詞なし／S1 Ep91（"you are good"を所作化）と同じ解決 |
+| **Pen-san（S2・確定2026-06-26）** | ヒナ→**エンペラーペンギン成体＝genuinely大きい**（実~1.2m・Dangoを見下ろす）。"big"表現OK（生物学的に正確） | S2 Ch16 Ep130再合流。コーギー寸法ルールはDango専用＝Pen-sanには適用しない。甘えん坊不変。S1 Ep87「I will be a good Emperor.」回収 |
+| **General Adelie（S2）** | Colonel→**General に昇進**（rank変化・サイズ~70cmで不変）。厳格不変 | Ep131。Ako-chanは思わず旧rank "Colonel Adelie!" と呼ぶ→訂正。**Pen-sanの昇進説明は能動**（受動 "He was promoted!" 不使用＝確定2026-06-26）。命名後は地の文 "the General / he" |
+| 南極装備配布（S2 Ep127） | **Ako-chan(防寒服)／Dango・Suke-san(ブーツ＆ベスト)**。Pen-san/Adelie不要・リクガメはPod内(南極モード断熱) | S1 Ep72系装備の再現。Dangoはブーツを嫌がる→Suke-sanの一瞥で観念(軽い笑い・Dango引用なし) |
+| 洞窟入口の発見 | **S2 Ch16 Ep132で初めて発見**（Gabuが気づく）。S1拠点は船のみ＝洞窟は未知 | ⚠️タイムマシン本体・使命・暗号記憶復号は**Ch17(Ep135-136)**＝Ch16では先取りしない（Ep133"奥に何かがある"予感まで） |
 | Rukaの甲長 | **5cm**（Daru/Gabuの7cmより小さい＝3匹中最小） | S2の「先輩逆転」（Ch24）の前提。網目状の黒模様・頭側面に黄色い丸斑 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。

@@ -995,3 +995,66 @@
   - 🔧レビュー適用（Phase C・第3バッチ Ep124-125）：内容/規約は良好（Ep124＝7人列挙＋"Seven of them"＝唯一の人数明示で一本化どおり・3Pod色赤青黄・Ruka最小最新入り／Ep125＝船→空の回想・南極は"great white land"の予感のみで先取りなし）。§5反復のみ変奏（中立）：ep125 sea×6→4（P1 "the sea spreads"→"the ocean spreads"・P5 "through the pale sky"→"through the quiet sky" でpale3→2も同時に解消）、ep124 friend×4→3（"each friend"→"each one"）。結果：fm＝277/274（範囲内）・story_day 11,11・最長文≤9語・禁止文型/関係詞節なし・三連/畳語なし・🔒なし回。
 
 <!-- Ch15（Ep118〜125）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
+
+## Chapter 16「South to the Ice」— 空路〜南極到着（Ep126〜133・8話）
+
+**Ch16 共通**
+- ★**空路〜南極到着章**。海上を南下→最初の氷山→南極上陸→**Pen-san(成体)/General Adelie 再合流**→氷の崖で**洞窟入口発見**→洞窟へ。**S2核心（タイムマシン・使命）の入口**。
+- 一行7人（Ako-chan・Dango・Obia・Suke-san・Daru・Gabu・Ruka）。南極で **Pen-san・General Adelie** が加わる（南極在住＝合流して同行・南極残留組）。南極シーンの登場＝9（7＋Pen-san＋Adelie）だが**数は明示しない**（人数明示はEp124で一本化済み）。
+- ★**南極装備配布（Ep127）**：Obia→**Ako-chan・Dango・Suke-san**に防寒服／犬用ブーツ＆ベスト（S1 Ep72系装備の再現）。**Pen-san/Adelieは不要**（南極の生き物）。**リクガメ3匹はPod内（南極モード・断熱）**で保温。Dangoはブーツを嫌がる→Suke-sanがじっと見ると観念（軽い笑い）。
+- ★**Pen-san（確定）**：ヒナ→**エンペラーペンギン成体＝genuinely大きい**（実 ~1.2m・Dangoを見下ろす）。**これは生物学的に正確＝"big"表現OK**（コーギーと違いtoning不要）。S1 Ep87「I will be a good Emperor.」の回収。甘えん坊は不変。
+- ★**General Adelie（確定）**：ColonelからGeneralに昇進（**rank変化・サイズは~70cmで不変**）。厳格・規律正しい不変。Ako-chanは思わず旧rank "Colonel Adelie!" と呼ぶ→訂正される。命名後は地の文 "the General / he"。
+- ★**信号アーク（Ch13-14→）の収束点**：南極のタイムマシン発の信号源に近づく＝**洞窟へ導く**。⚠️**タイムマシン本体・使命・暗号記憶の復号は Ch17（Ep135-136）＝先取り禁止**。Ch16は Ep132 洞窟入口発見・Ep133「奥に何かがある」予感まで。
+- ★**洞窟**：S1では知らなかった場所（S1拠点は船のみ）。Ep132で**初めて入口を発見**。
+- **Dango**：引用台詞なし（所作）。コーギー寸法（big犬表現NG）。巨大化したPen-sanに**戸惑う/たじろぐ**（S1のPen-sanへの嫉妬の裏返し＝今は見上げる側）。**Obia**＝it（暗い洞窟では目が道を照らす）。**Ruka**＝she・最小台詞。
+- Day割付：Ch15末＝Day11。Ch16は南下継続〜到着〜探索＝Day12〜（非減少・loose）。
+
+### Day 12前後 — 海上南下〜装備
+- **Ep126「Over the Sea」**：飛行艇が海の上を南へ飛び続ける。果てしない水平線。陸はもう見えない。仲間はそれぞれ静か。
+  - モード：移動・テクスチャー。③：エンジンの振動、窓を流れる雲、下に広がる灰色の海、RukaのミニPod。④：南へ、南へ。海がだんだん暗く、冷たくなる。
+  - 確定：台詞なし可（静かな移動回）。一行7人。先取り禁止（南極まだ）。
+  - ✅執筆済み（word_count 273）。Day12。台詞なし回。一行7人それぞれの定位置（Dango足元／Suke-san見張り／Daru・Gabu・RukaはPod内／Obia操縦のそば"steady by the controls"）。海がだんだん暗く冷たく＝"The warm seas are far behind them now." / "Frost starts to touch the window edge."（世界が冷えていく＝world.md異変進行ではなく南下の体感）。締め＝"Something waits at the end of the sea. ... it draws near with every hour."（予感）。先取りなし。
+- **Ep127「The Gear」**：寒さが近づく。Obiaが南極装備を取り出し、Ako-chan・Dango・Suke-sanに配る。Dangoはブーツを嫌がるが、Suke-sanがじっと見ると観念して着ける。
+  - モード：動・出来事（軽い息継ぎ）。③：白い防寒服、犬用ブーツ、冷えてくる機内、息の白さ。④：南極が、もうすぐそこにある。
+  - 確定：装備＝Ako-chan(防寒服)／Dango・Suke-san(ブーツ＆ベスト)。Pen-san/Adelie不要。リクガメはPod内。Dango引用台詞なし（嫌がる所作＋地の文）。Obia台詞可（"it"）。
+  - ✅執筆済み（word_count 272）。Day12。装備配布＝**能動**（"Obia opens a long metal box. ... It lifts out a warm white coat. ... Then Obia takes out boots and vests."＝受動回避）。Obia台詞 *"The cold is near now," / "This is for you, Ako-chan," / "It will keep you warm in the ice."*（it）。装備＝Ako-chan防寒服／Dango・Suke-sanブーツ&ベスト／**"Daru, Gabu, and Ruka stay warm in their Pods."**（リクガメは装備不要・Pod内）。**Dangoのブーツ拒否→Suke-sanの無言の一瞥で観念**（"He shakes one boot off ... sits down hard ... Suke-san ... only stares, still and sharp. Dango lets out a long, low sigh." → 観念して履く＝Dango引用なし・所作のみ・軽い笑い "Ako-chan laughs softly"）。三連 "high and strange and slow"（本話の唯一の三連）。
+
+### Day 13前後 — 氷山〜上陸
+- **Ep128「First Ice Again」**：窓の外に最初の氷山。白く巨大に海に浮かぶ。Ako-chanに3年前の記憶が重なる。
+  - 🔒台詞（Daru）：*"I remember this."* ／（Gabu）：*"...Yes."*
+  - モード：静・観察。③：海に浮かぶ氷、青白い輝き、冷気、見つめる仲間たち。④：あのときの南極が、また近づいてくる。
+  - 確定：S1南極の記憶（Daru/Gabuも同行していた＝Ep63系）。
+  - ✅執筆済み（word_count 274）。Day13（"The next day"＝ep127 Day12の翌日）。🔒Daru *"I remember this,"*（"soft and low"）／Gabu *"...Yes,"*（"Just that."）逐語。最初の氷山＝核（"It is the first iceberg. It rises tall and bright from the sea."）。S1南極を**回想**＝*"The wind. The snow. **Pen-san's small gray face**. It all comes back to her now."*（baby Pen-sanの記憶＝Ep130巨大エンペラー再会の布石・先取りでない）。Dango/Suke-san/Ruka も窓辺。
+  - 🔧レビュー適用（Phase C・第1バッチ Ep126-128）：接近する寒さの cold/white/sea 密度（意図テクスチャー）から各話の最重クラスター1つを語数中立で変奏＝ep126 "The sea below grows darker"→"The water below…"（sea5→4）／ep127 "the gear for the cold"→"the gear they will need"（cold5→4）／ep128 "rises tall and white"→"rises tall and bright"（white5→4）。結果：fm＝273/272/274（範囲内）・story_day 12,12,13（非減少）・最長文≤9語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・🔒2本逐語一致。残る cold/white/ice は南極接近の意図テクスチャーで据え置き。
+- **Ep129「The White Land Again」**：飛行艇が南極に到着。白い大陸が再び目の前に。氷の上に降りる。冷たく静かで果てしない。3年ぶりの白。
+  - モード：静・観察。③：着地の振動、白い地平線、きしむ氷、防寒服ごしの寒さ。④：帰ってきた、とAko-chanは思う。
+  - 確定：上陸＝氷の上（S1拠点は船のみだったが今回は飛行艇で氷上に着地）。Pen-san/Adelieはまだ登場させない（Ep130-131）。
+  - ✅執筆済み（word_count 287）。Day13。飛行艇が氷上に着地（"The runners touch the icy floor. ... The ice creaks loud beneath them."）。3年ぶりの白＝回想（"Three years fall away in a breath. The same cold. The same white world."）。締め＝心内語 "I am back, she thinks. We came back at last."（Pen-san/Adelieはまだ）。三連 "flat and wide and pale"（本話唯一）。
+
+### Day 13前後 — Pen-san／General Adelie 再合流
+- **Ep130「Young Emperor」**：氷の上に大きなペンギン。Pen-sanだ。もうヒナではない。エンペラー成体になり、Dangoが戸惑うほど大きい。
+  - 🔒台詞（Pen-san）：*"Ako-chan! I grew up! Just like I said!"*（S1 Ep87「I will be a good Emperor.」の回収＝"just like I said"）
+  - モード：感情・再会。③：背の高い黒と白の体、大きな黒い目、駆け寄る大きな足、見上げるDango。④：3年で、ヒナは立派なエンペラーになった。
+  - 確定：Pen-san＝**genuinely大きい（成体エンペラー・正確）**＝Dangoが見上げる。甘えん坊不変。S1 Ep87の正確なwill台詞は timeline で確認のこと。
+  - ✅執筆済み（word_count 271）。Day13。🔒Pen-san *"Ako-chan! I grew up! Just like I said!"*（逐語）。**巨大化＝正確に big**（"a big one" / "so large now, she nearly falls" / "the huge bird"）＝Dangoの**視点反転**（"Once he looked down at a small chick. Now he must look up, far up."＝S1の嫉妬→今は見上げる側）。Dango＝戸惑い（"His ears fall back in surprise."）・引用なし・"does not bark or fuss"。甘えん坊不変（"still her sweet, soft Pen-san"）。締め＝"The chick became a fine young emperor. Just like he always said he would."（S1 will-vowの回収）。⚠️"says soft"→"says softly" 修正（フラット副詞）。
+- **Ep131「General Adelie」**：もう一羽がまっすぐ近づく。Ako-chanが思わず "Colonel Adelie!" と旧rankで呼ぶ→Pen-sanが得意げに昇進を教える→General Adelie本人は短く。
+  - 🔒台詞（Ako-chan）：*"Colonel Adelie!"*／（General Adelie）：*"Correct. General. Now—report."*
+  - 🔧台詞（Pen-san・**能動化**＝確定2026-06-26）：受動 "He was promoted!" は使わず**能動**に（例 *"He is a General now! He went up in rank!"* 等の得意げな能動）。
+  - モード：感情・再会（厳格の奥の喜び）。③：目の周りの白いリング、直立の姿勢、Pen-sanの得意げな顔、氷の上の足音。④：厳しさの奥に、再会の小さな喜び。
+  - 確定：Colonel→General（rank変化・サイズ不変~70cm）。命名後は地の文 "the General / he"。
+  - ✅執筆済み（word_count 273）。Day13。🔒Ako-chan *"Colonel Adelie!"*（旧rankで思わず）／General *"Correct. General."* … *"Now—report."*（逐語・間に地の文）。**Pen-sanの昇進説明＝能動**（"He is a General now! He went up in rank! A real General!"＝受動 "He was promoted!" 不使用・決定どおり）。Adelie＝白いリング・小さく厳格不変（"Small, strict, and straight as a rod." / "He did not change at all in three years."）。Ako-chanの信号説明 "We followed a signal to the ice."（タイムマシン未開示）。締め＝厳格の奥の喜び（"his eyes go soft. He is glad to see her back. He says nothing of it, of course."）。Dango引用なし。
+  - 🔧レビュー適用（Phase C・第2バッチ Ep129-131）：①ep130 "she says soft"→"says softly"（様態フラット副詞の-ly化）。②ep129 ice×8→5（"on the ice"句tic：'Ice reaches out'→'It reaches out'／'down on the ice'→'down on the ground'／'across the ice'→'across the snow'）。いずれも語数中立。結果：fm＝287/271/273（範囲内）・story_day 全13・最長文≤9語・禁止文型/関係詞節/**受動なし（Ep131能動化確認）**/robot/Obia代名詞なし・三連 ep129のみ1・🔒逐語一致・**Dango引用台詞0**。ep130 big×3=巨大エンペラー(正確)・ep131 Adelie描写語は据え置き。
+
+### Day 14前後 — 洞窟入口〜洞窟へ
+- **Ep132「The Ice Cliff」**：全員で氷の上を探索。高い氷の崖のそば。Gabuが何かに気づいて止まる。崖の陰にこれまで誰も気づかなかった洞窟の入口。
+  - 🔒台詞（Gabu）：*"Look. There."*
+  - モード：静・観察（発見）。③：そびえる氷の崖、暗い裂け目、冷たい風、近づく足音。④：洞窟の奥から、かすかな信号の気配がする。
+  - 確定：**洞窟入口を初めて発見**（S1未知）。Gabuの観察眼が見つける。⚠️タイムマシンはまだ見せない（Ch17）。
+  - ✅執筆済み（word_count 284）。Day14（"The next day"）。信号を辿る（"They look for the source of the signal."）→氷の崖→**Gabuが入口を発見**🔒*"Look. There,"*（"low and clear"）。入口＝崖の陰の暗い裂け目（"In the shadow of the ice — a gap. A dark crack opens in the cliff."）。**S1未知を明示**＝"No one knew this place before. Three years ago, they never saw it."（単純過去）。Obia *"The signal," / "It comes from inside."*（it）＝信号源は洞窟内。Pen-san/Adelie先導。⚠️タイムマシン未開示（"Something waits far back in the ice." の予感まで）。三連 "tall and blue and cold"（本話唯一）。
+- **Ep133「Into the Dark」**：全員で洞窟に入る。中は暗く、古い氷の気配。信号はこの奥から。Ako-chanが先に進む。Obiaの目が青白く道を照らす。
+  - モード：移動の静寂（洞窟）。③：氷の壁、反響する足音、冷気、Obiaの光だけ。④章クローザー：奥に、何かがある。
+  - 確定（章末リンク）：next_ep は空欄（Ch17 Ep134執筆時に ep134.prev_ep=ep133 と相互リンク）。⚠️**タイムマシン本体・使命は Ch17＝先取りしない**（"奥に何かがある"予感まで）。Obiaの光が道を照らす（"it"）。
+  - ✅執筆済み（word_count 280）。Day14（Ep132と同日・洞窟内）。章クローザー＝**洞窟を下る**。Obiaが先導し青白い目が道を照らす（"Its blue eyes glow in the dark. The light falls softly on the ice walls."＝it）。Ako-chanがそのすぐ後ろ。**S1未知**＝"No one came here before them."。信号が奥で強まる（"The signal grows stronger down here."）。締め＝"Something waits far down in the cave. Something old. Something called them here."（⚠️タイムマシン・使命は未開示＝Ch17）。畳語 "deeper and deeper"（漸増強意）。三連 "hard and smooth and dark"（本話唯一）。
+  - 🔧レビュー適用（Phase C・第3バッチ Ep132-133）：①**ep133 関係代名詞節を解消**（"Something that called them here."→"Something called them here."＝thatを外し独立節に・S2禁止回避）。②洞窟テクスチャーの過密 dark×6/ice×6 を各話で変奏：ep132 dark6→4（"the dark gap"→"the deep gap"／"turn toward the dark"→"toward the cave"）・ice6→5（"bits of ice"→"bits of frost"）／ep133 dark6→5（"stand still in the dark"→"down here"）・ice6→5（"The ice here"→"The stone here"）。結果：fm＝284/280（範囲内）・story_day 全14・最長文≤9語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・三連各1・畳語=漸増強意・🔒逐語一致・先取りなし。still/blue/cave/walls×4は洞窟テクスチャー（§5「壁の質感を描く」推奨）で据え置き。
+
+<!-- Ch16（Ep126〜133）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
