@@ -21,6 +21,8 @@
 | **Obia（名前）** | **Ep3** で本人が名乗る：*"I am Obia."* | Ep1–2：「目」「something」等。**名前を出さない** | Ep3以降は地の文で "Obia" 可。※用途・目的は名乗らない（謎のまま） |
 | Obiaの正体（未来のロボット／送信者） | S1では明かさない。告白は**Ep83（Ch11）** | — | S1中は「銀色の犬のようなもの」。誰も正体を知らない |
 | Daru / Gabu / Suke-san / Pen-san / Adelie | 各登場回（Ep18/31/39/65/67…）で名乗り or Ako-chanが受け取る | 登場前は言及しない | |
+| **Pen-san（名前）** | **Ep65** で**Ako-chanが付与**：*"I have a name for you. Pen-san."* | Ep64：群れの "small black shapes"（遠景・無名）／Ep65命名前：「the baby penguin / it」 | 自己命名型（Daru/Gabu/Suke-san）と異なりAko-chan付与。命名後は地の文 "Pen-san / he"。**人数宣言はしない**（南極残留の仲間） |
+| **Colonel Adelie（名前）** | **Ep67** で本人が名乗る：*"I am Colonel Adelie."* | Ep67名乗り前：「a new shape / the new bird / it」 | 命名後は地の文 "the Colonel / he"。S2で General に昇進（S1はColonel）。登場＝Obia監視弧の開始 |
 | 赤い首輪の正体（Ako-chan作） | **S3まで伏せる** | S1では「Obiaが元から付けている赤い首輪」 | S1で正体を匂わせない |
 
 ⚠️ 今回のテストで発生した誤り：Ep3でObiaは名乗らず（書き手は正しく "the silver thing" と表記）、なのにEp5地の文が "Obia's words" と先取り。→ **Ep3でObiaに名乗らせる**ことで根治（下記仕様修正済み）。

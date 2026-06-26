@@ -514,4 +514,83 @@
   - ✅執筆済み（word_count 273）。
 
 <!-- Ch8 完了（Ep55〜62）。 -->
-<!-- Ch9 以降は執筆後に追記（Day 67〜） -->
+
+## Chapter 9「The White Land」— 南極・上陸（Ep63〜71・9話）
+
+**Ch9 共通**
+- ★**南極上陸**。船を沿岸の氷に接岸し、**以後ストーリーは氷の上**で進む。⚠️**拠点は船のみ＝「基地」という建物は出さない**（world.md継続性ルール）。活動は船から視界の届く範囲。
+- ★**Pen-san登場・合流（Ep65-66）＝南極の仲間（7人目）**。エンペラーペンギンのヒナ♂・全身グレーの綿毛・黒い頭頂・白い頬〜顎・大きな黒目・丸い体型・**甘えん坊**。⚠️**Pen-sanは旅には同行せず南極に留まる**（合流＝仲間だが、Ch11出発時は残る。"全員が船に乗る"的な人数表現は避ける）。
+- ★**Dangoの嫉妬がピーク（Ep66）**：Ako-chanがモフモフのPen-sanを抱っこ→**嫉妬アークの頂点**（Daru→Gabu→Suke-san→Pen-sanの段階的積み上げの最高潮）。
+- ★**Colonel Adelie登場（Ep67）**：アデリーペンギン♂・約70cm・黒背白腹・**目の周りの白いリング**・短く丸いくちばし・小さいが気が強い**軍人肌**。Pen-sanの護衛兼教育係。**Obia監視弧の開始**。
+- ★**ObiaへのW警戒（Ep70）**：Adelieの監視＋Suke-sanの勘が重なり、Obiaへの不穏が増幅（Ch10-11の核心へ）。Adelieの「演技でなく本物だった」という認識はEp88「You worked. You did not hide.」に集約＝**先取りしない**。
+- ⚠️**Ep69：洞窟・氷の崖の入口は出さない**（S2 Ch17まで未発見）。
+- ★**Ep71＝3回目送信の前触れ**：Obiaの様子がどこかおかしい。静かな不穏で締める（送信#3＝Ep72 Ch10）。この章では送信シーンなし。
+- ⚠️**grammar注意（Ep65）**：episode-listの🔒「I knew you **would** come!」は **"would"＝S1（A1）で未解禁**（will/would/couldはS2解禁）。→ **wouldを使わない言い回しに置換**（例 *"Ako-chan! You came! I knew it! You came!"*）。
+- 地理：南極（白い大地・氷・極寒）。装備（犬ブーツ＆ベスト／Pod南極モード）はCh8から継続。
+
+### Day 67 — 上陸〜白い世界
+- **Ep63「Ice Under Feet」**：上陸。船を沿岸の氷に接岸。氷の上に最初の一歩（以後は氷上）。モード：動・出来事。
+  - 確定（接岸）：Obiaが舵を取り、船の側面が氷に触れて停止（"The side of the ship touches the ice."）。🔒台詞（Obia）：*"We are here." / "This is the white land."* Obiaが板を渡し *"You go first."*＝**Ako-chanが最初に氷へ降りる**（"She stands on the white land." / "She is really here."）。
+  - 🔒確定（Suke-san）：氷の上で**目を閉じ、長く深い息を吸い、四方（North and south, east and west）の匂いを読む**（"He reads the whole white land."）→*"New. It is all new."*
+  - 確定（拠点）：**拠点は船のみ**（基地表現なし）。氷上に降りるのは "come down" で統一。Dangoは氷を嗅いで冷たさに鼻を引く。
+  - ✅執筆済み（word_count 270）。
+- **Ep64「The White World」**：船を拠点に氷上を歩く最初の探索・日常。モード：静・観察。
+  - 確定（拠点・動線）：船から離れず近くを歩く（"The ship is their home out here. She does not go far."）＝**船から視界の届く範囲**（world.md §7準拠）。
+  - 確定（ペンギンの群れ＝遠景のみ）：遠くに**小さな黒い影が多数**立つ（"small black shapes"）。Ako-chan *"Are those birds? Way out there?"* **遠すぎて声は聴こえない**（"They are too far to hear."）＝個体接触・名は出さない（Ep65のPen-san登場への布石）。
+  - 確定（Suke-san）：右の定位置で新しい匂いを警戒＝*"Strange. I do not know this place."* Dangoは反対側を低く歩く。Daru/GabuはPod内。
+  - ③：きしむ氷（"The ice creaks ... a long, low sound."）・白い静寂（"The silence is deep and full."）・白い息。
+  - ✅執筆済み（word_count 280）。
+
+### Day 68 — Pen-san登場〜命名〜抱っこ（嫉妬ピーク）
+- **Ep65「He Came Running」**：Pen-san登場・命名。群れから一つの影が走り出て、転びながら近づく（甘えん坊のヒナ）。モード：動・出来事。
+  - 🔒引用アンカー（Pen-san・**would回避の確定版**）：*"Ako-chan! You came! I knew it! You came!"*（episode-listの "I knew you would come!" は**would＝S1未解禁のため不使用**・この置換版を正とする）。
+  - 確定（登場の所作）：氷上を走り*"Its little feet slip and slide."*→転ぶ→また走る（"It runs and falls, runs and falls."）。外見＝全身グレーの綿毛・頭頂が黒・頬が白・大きな黒目・丸い体型。
+  - ★**Pen-san命名・作中確立点（A台帳）**：**Ako-chanが名を付ける**＝*"I have a name for you. Pen-san."* → 以降の地の文・呼称は **"Pen-san" / "he"**（命名前は "the baby penguin / it"）。Daru/Gabu/Suke-sanの自己命名型とは異なり**Ako-chanが付与**。
+  - 配置：Dangoは**Ako-chanの前に立つ**（嫉妬の芽・ピークはEp66）。Suke-sanは警戒しつつ見守る。Gabuは青Podから覗く。Daru *"A bird! A new bird!"*（※Ep66 🔒 *"He walks. Like us!"* はここでは出さない）。
+  - 注意（人数）：**Pen-sanの人数宣言はしない**（南極に留まる仲間＝"全員が船に"型の数表現を避ける）。
+  - ✅執筆済み（word_count 275）。
+- **Ep66「Pick Me Up」**：Ako-chanがPen-sanを抱っこ→★**Dangoの嫉妬が最高潮**（アーク頂点）。モード：動・出来事＋感情。
+  - 🔒引用アンカー（Pen-san）：*"Pick me up." / "Please."*（甘えん坊・小さな翼を上げてせがむ）。
+  - 🔒引用アンカー（Daru）：*"He walks!" / "He walks. Like us!"*（リクガメ視点で二足歩行に驚く）。
+  - ★**Dango嫉妬ピーク（A台帳の段階回想を本文化）**：耳が伏せ・尾が下がり・脚の間に割り込み・**顔を背ける**＝*"This is the worst one yet. First came Daru. Then Gabu. Then Suke-san. And now a soft, round penguin in her arms."*（Daru→Gabu→Suke-san→Pen-sanの嫉妬アークを明示的に頂点化）。
+  - 確定（Ako-chanの収め方）：氷にひざまずき両方を抱える＝*"One arm for Pen-san. One hand for Dango." / "I am here for you too."*（※Ep45 "There is room for both of you." の**重複回避のため別表現**にした）。
+  - 確定（抱き心地）：Pen-sanは "soft and round and warm"・綿毛は "like a little cloud"。Ako-chan *"She never held a thing so soft."*
+  - ✅執筆済み（word_count 288）。
+
+### Day 69 — Adelie登場〜氷上の生活
+- **Ep67「Tell Me About Obia」**：Colonel Adelie登場・命名。一定リズムでまっすぐ歩いて来て、視線がObiaで止まる＝**Obia監視弧の開始**。モード：動・出来事。
+  - 🔒引用アンカー（Adelie）：*"I am Colonel Adelie." / "I watch over Pen-san." / "Tell me about Obia."*（声＝*"hard and sharp"*）。★**Adelie命名・作中確立点（A台帳）**＝本人が名乗る。命名後は地の文 "the Colonel / he"。
+  - 確定（外見）：背中は真っ黒・腹は白・**目の周りに白いリング**（"a white ring around each eye"）・くちばしは短く丸い・Pen-sanより大きい・**まっすぐ硬く立つ**（"tall and stiff"）・小さいが**怖れない**（軍人肌：*"He is small, but he is not afraid."*）。
+  - 確定（監視弧の開始）：登場直後から**視線がObiaに固定**（"His eyes stay on Obia."）。Suke-sanと睨み合う＝*"Two careful animals look at each other. Neither one looks away."*（Suke-sanの警戒と重なる布石）。
+  - 🔒継続性ガード：Ako-chanの弁護 *"Obia is my friend. Obia came all this way with us. Obia helps us."* に対しAdelieは**答えずObiaを見続ける**（"the Colonel keeps watching it."）。締めは *"Something new is on the ice now."*（完了形回避）。★**Adelieの「演技でなく本物」認識はEp88へ集約＝ここでは出さない**。Ako-chanの "It does not move away" は彼女のPOVであってAdelieの認識ではない。
+  - 確定（Obia代名詞 "it"）。
+  - ✅執筆済み（word_count 270）。
+- **Ep68「On the Ice」**：氷上生活のテクスチャー。Pod南極モード活躍。Pen-sanが仲間に馴染む。モード：静・観察（日常）。
+  - 確定（Pen-san×Daru/Gabu交流）：Pen-sanがPodを初めて見る＝Daru *"They are Pods. We walk, and they go!"* 赤Podを追って転ぶ→青Podの**Gabuの横に並ぶ**＝Pen-san *"You are slow. I like slow."*（Gabuは無言だがPen-sanのそばに居続ける）。Pen-sanが仲間に馴染む。
+  - 確定（拠点・装備）：Ako-chanは船の箱に座る（拠点＝船のみ）。Dango＝warm vest＋boots／Suke-san＝右で見張り／**装備の温かさ**（"everyone stays warm. Obia made good things for the cold."＝未来技術の由来に触れない）。
+  - ③：風（"The wind is soft and low." / 雪が "low over the ice like white smoke"）・**氷に映る光**（"the ice throws the light back. It shines under their feet and all around."）。
+  - 余韻：Pen-sanがAko-chanの膝で眠る＝*"For a while, no one needs to move." / "The world is calm and white."*（Adelie監視の深化＝Ep70へは出さない）。
+  - ✅執筆済み（word_count 288）。
+
+### Day 70 — 氷原探索〜Obia監視
+- **Ep69「The Far Ice」**：氷原の探索。氷山の造形と光。Adelieの監視は続く。モード：静・観察。
+  - 確定（動線・拠点）：前日より少し遠くまで歩くが**船は背後に見える範囲**（"the ship still shows behind them."＝拠点＝船のみ）。
+  - 確定（氷山の造形・光）：白い氷山の内側が青い（"deep inside, they are blue"）・陽光が透けて長い青い影（"long blue shadows"）・**風が削った "curves and points"・"towers"・"low and round"**＝造形のみ。⚠️**洞窟・氷の崖の入口は出さない**（S2 Ch17まで未発見）。Pen-san *"I know them! This is my home."*
+  - 確定（Adelie監視継続）：Adelieが**Obiaの後ろを一定リズムで歩き、視線を外さない**（"His eyes do not leave the silver shape."）。Suke-sanが「AdelieがObiaを見るのを見る」（二重監視の継続）。
+  - ✅執筆済み（word_count 283）。
+- **Ep70「The Colonel Watches」**：ObiaとAdelieの緊張が深まる。眠らず動き続けるObiaをAdelieがじっと監視。モード：静・観察（不穏）。
+  - 🔒引用アンカー（Adelie）：*"It never stops." / "I am watching it."*（完全一致）。
+  - 確定（夜・Obiaの挙動）：夜、船内で皆は眠る（**Pen-sanは夜は群れへ戻る**＝"went back to the birds for the night"）。**Obiaは外で眠らず氷上を歩き、南を見て、また歩く**（"It cannot rest. It cannot be still."）。⚠️**送信描写なし**（青白い発光・ハム音・送信は出さない＝Ep72へ温存）。
+  - 確定（W警戒の重なり）：低い氷の高みに**Adelieが座って監視**／**Suke-sanも眠れず外へ出て隣に立つ**＝*"Two watchers in the dark, side by side."* Suke-sanの不信継続＝*"He does not trust the silver thing. He never did."*（Ep44/Ep47を継続）。
+  - 確定（Ako-chan）：窓から3者（Obia・Adelie・Suke-san）を見て不穏を感じる＝*"She felt this before, on the long road. But it is stronger now."*（現在完了回避）。
+  - ✅執筆済み（word_count 274）。
+
+### Day 71 — 不穏（送信#3の前触れ）
+- **Ep71「Something Is Wrong」**：章クローザー。Obiaの様子がどこかおかしい（3回目送信の前触れ）。静かな不穏さで締める。モード：静・観察（不穏）。
+  - 確定（Obiaの異変）：皆から離れて立ち**南を again and again 見る**・口数が減る・問いに *"answers slowly"* または無応答・青い目が遠い。Ako-chan *"Obia? Are you okay?"* → Obia *"I am fine."*（だが声が flat and low）。⚠️**送信シーンは出さない**（Ep72へ）。
+  - 確定（群れの異変感知）：Suke-san＝Obiaと南を交互に見る・鼻が働く／Adelie＝終日動かず監視／Dango・Pen-san・Daru・Gabuも沈静（"The whole group feels the change."）。
+  - 🔒継続（回想カウント＝**two**）：Ako-chanが**2つの奇妙な夜**を回想＝*"One on the train, back near the start. One on the ship at sea."*（＝Ep13送信#1・Ep47送信#2の挙動。**"three"のカウントはEp74へ温存**／"long ago"等の期間表現は使わず "back near the start" に置換）。両夜とも「Obiaが一人で立ち南を見た」。
+  - 確定（章クローザー余韻）：*"Something is wrong. And the long night is only starting."*（静かな不穏で締め・Ch10の送信#3/猛吹雪は先取りしない）。next_ep＝/season1/chapter10/ep072/。
+  - ✅執筆済み（word_count 277）。
+
+<!-- Ch9 完了（Ep63〜71）。Ch10 以降は執筆後に追記（Day 72〜） -->
