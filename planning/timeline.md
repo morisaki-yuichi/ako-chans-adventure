@@ -660,4 +660,54 @@
 
 <!-- Ch10 完了（Ep72〜82）。 -->
 
-<!-- Ch11 以降は執筆後に追記（Day 75〜） -->
+## Chapter 11「The Confession」— 南極・送信停止と別れの朝（Ep83〜89・7話）
+
+**Ch11 共通（S1の核心＝告白と別れ）**
+- ★**Ep83-84＝Obiaの告白＋送信停止**。⚠️**告白で明かす範囲（決定）**：「ずっと見ていた／データを送っていた／宛先は分からない／自分の送信がこの異変を起こしたと思う」＋「やめる」**まで**。⚠️**"未来から来た"こと・タイムループ・送信の目的/宛先・赤い首輪の正体は明かさない**（S2/S3へ）。Obia自身も半ば分かっていない（"I do not know where it goes."）＝哀感。
+- ⚠️**Ep83 grammar**：確定台詞「I have been watching」は**現在完了進行＝S1未解禁**→**A1現在形に**（"I watch you." / "I send data."）。
+- ⚠️**will**：Ep84 Obia「I will stop. Here. Now.」＝**Obiaの固定台詞のwill例外**（Ep3と同枠＝可）。Ep87 Pen-sanは**折衷**＝中核の「I will be a good Emperor.」のみwillを残し、他はA1化（"I grow up now." / "You come back?"）。
+- ★**Ep88＝Adelieの信頼転換 payoff**：Ch9-10で見届けた"本物"を言語化。
+- ★**別れ（Ep87-89）**：Pen-san・Adelieは**南極に残る**（Ch10では布石を作らなかった＝ここで初めて扱う）。一行（Ako-chan・Dango・Obia・Daru・Gabu・Suke-san＝6）は帰路へ。
+- ★**Ep86＝送信停止の効果**：動物たちの声がわずかに静まり始める。Ako-chanは感じるが口に出さない（Ep99ハリネズミ「The ground is quiet. I can sleep again.」への布石）。
+- ★**赤い首輪**：Ep82でつけ直し済み。正体（Ako-chan作）は引き続きS3まで伏せる。
+
+### Day 74 夜 — 告白〜送信停止〜オーロラ
+- **Ep83「Confession」**：救出当日の夕方、暗くなってから、船内で一つの小さなランプの下、Obiaがゆっくり言葉を選んで打ち明ける。モード：静・感情。
+  - 🔒引用アンカー（Obia告白・A1確定）：*"I watch you. All of you."* / *"On the train. On the ship. Here."* / *"I send data. I do not know where it goes."* / *"I think my sending caused this."* / *"The storm. The lost voices. All the wrong things."* ※**未来・目的・宛先・タイムループ・首輪の正体は一切明かさない**（S2/S3へ）。Obiaの代名詞は "it"。
+  - 確定：Ako-chanが3夜（列車Ep13／船Ep47／氷Ep72の挙動：青い光・低いハム）を内心で結びつけ、ここで初めて腑に落ちる（"Now she understands."）。⚠️現在完了進行は不使用（"I watch you." の現在形）。
+  - 確定（反応）：Ako-chanは怒らない＝*"She is not angry. Her heart is full and sad."*／🔒 Ako-chan *"You came back. That is what matters now."* 締めはAko-chanがObiaの冷たい銀の手に触れる（無因の受容）。Dango・Suke-san（右）・Colonel・Pen-san・Daru/Gabu（Pod内）同席。
+  - ✅執筆済み（word_count 277）。
+- **Ep84「Stop」**：同夜。Obiaが送信をやめると宣言。モード：感情・転換。プログラムに反し、初めて自分の意志で動く＝**監視者から仲間へ**。※1語タイトル例外。
+  - 🔒引用アンカー（Obia）：*"I will stop. Here. Now."*（**Obiaのwill例外**＝Ep3と同枠）。
+  - 確定（自発性の枠付け）：*"No one tells it to stop. No one gives it an order. Obia chooses. Itself. For the first time."*（⚠️プログラム/未来の説明はしない）。決断の重み＝*"The little robot shakes, just once. Then it is still and sure."*
+  - 確定（送信停止の即時効果の予兆）：低いハム音が消える（"The low hum is gone now."）＝Ep86「声が和らぐ」への布石。🔒 Ako-chan *"Okay. We stop. Together."*＋Obiaの頭に手を置く→Obiaは引かない。**Dangoが初めて嫉妬せずObiaに寄りかかる**（"For the first time, he does not mind."＝嫉妬アークの収束）。
+  - ✅執筆済み（word_count 271）。
+- **Ep85「Aurora」**：その夜、Obiaが戸口で皆を呼び（🔒 Obia *"Come. Look up."*）、みんなで外に出てオーロラを見る。言葉の少ない満ちた静けさ。③緑の光が氷に映る・息の白さ・寄り添う体。※固有現象タイトル。モード：静・余韻。
+  - 確定：緑の光が水のように流れ、途中ピンクに変わりまた緑へ（"slow and soft"）。Ako-chanは初めて見る（"She never saw this before."＝⚠️現在完了不使用・単純過去）。
+  - 確定（配置・余韻）：全員が外で寄り添う（Dango左／Pen-san反対側／Suke-san右／Daru・Gabu Pod／Colonel）。締めの核＝**Obiaが"後ろ"でなく"横"に立つ**（"Obia stands beside her now. Not behind her. Beside her."＝監視者→仲間の視覚的回収）。"And for now, that is enough."
+  - ✅執筆済み（word_count 270）。
+
+### Day 75 — 声が和らぐ
+- **Ep86「The Voices Soften」**：送信停止の翌朝。動物たちの声が**わずかに**静まり始める＝送信停止の効果。Ako-chanは感じるが**口に出さない**（Ep99ハリネズミ「The ground is quiet. I can sleep again.」への布石）。モード：静・観察。
+  - 確定（声の変化）：声はまだ在るが softer／*"Not so afraid. Not so wrong."*／前日まで皆**南**を指していた（"Yesterday they all pulled to the south."）が今日は calm。アザラシ・海鳥の声で具体化（"A seal calls out... slow and easy." / 海鳥が "do not cry so loud now"）。⚠️**収束は"a little"に留める**（南極＝最悪点／完全収束はEp99）。
+  - 確定（因果の内省）：Ako-chanが**Ep84の送信停止と結びつける**＝*"Last night it said, 'I will stop.' And now the world feels a little soft."*（⚠️**口には出さず内心**＝"She does not say a word. She holds the feeling deep inside."＝Ep99公表への温存）。Obiaの代名詞 "it"。
+  - 配置：Pen-san遊ぶ／Daru[赤]・Gabu[青]Pod／Dango嗅ぐ／Suke-san右。✅執筆済み（word_count 270）。
+
+### Day 76 — 別れの朝
+- **Ep87「A Good Emperor」**：別れの朝（船は氷のそばで出発を待つ＝**まだ出航しない**／出航はEp89）。Pen-sanのお別れ。Pen-sanは**南極に残る**（S2で再会）。モード：感情・別れ。
+  - 🔒引用アンカー（Pen-san・折衷）：*"I grow up now."* / *"I will be a good Emperor."*（**唯一 will を残す中核台詞**）/ *"You come back?"* → 走ってきてAko-chanに抱きつく（"He runs to her and pushes into her arms."）。
+  - 🔒引用アンカー（Ako-chan・約束＝will不使用の現在形）：*"Yes, Pen-san. I come back. I promise."*（S2再会の布石）。Pen-san別れ際 *"Go now. I am okay."*（健気に強がる）。
+  - 確定（所作・外在化）：Pen-sanの心臓が速く打つ／首をAko-chanの首に押しつける／小さな翼を脇に押しつけ「大きく強く」あろうとする。Ako-chanの涙が一粒氷に落ちて凍る。**Dangoは嫉妬せず "only looks a little sad"**（嫉妬アーク収束の確認＝Ep84に続く）。Colonelは小さな友を黙って見守る（Adelieの別れはEp88）。
+  - 締め：*"The little Emperor stays on the ice. He watches her go, tall and small."*（健気さの逆説で締め）。✅執筆済み（word_count 270）。
+- **Ep88「The Colonel's Salute」**：Adelieのお別れ＝**信頼転換の payoff**（Ch9-10の"監視者"が見届けた"本物"を言語化）。Adelieも**南極に残る**。モード：感情・別れ（軍人肌の抑えた礼）。
+  - 🔒引用アンカー（Colonel→Ako-chan）：*"Mission accomplished."*（短く firm）。
+  - 🔒引用アンカー（Colonel→Obia）：*"You worked. You did not hide."* → **顎を下げる＝Adelie流の敬礼**（"He lowers his chin down low. ... it is his salute. From the Colonel, it means a lot."）。Obiaは無言で頭を下げ返す（"it dips its head to the Colonel too."）。Obiaの代名詞 "it"。
+  - 確定（監視アークの回収）：Adelieが見ていた事実を列挙＝*"For many days, he watched it. He did not trust it at all. He watched it work all day and night. He watched it walk out in the snow alone."*（Ep70 不眠監視／Ep72・76 単独で雪へ＝の payoff）。⚠️**Ep70注記どおり「演技でなく本物」をここで初めて言語化**（先取りしない原則を守って集約）。
+  - 🔒（Ako-chan）：*"Thank you, Colonel."* → Colonelは *"one short nod"*。締め *"From the Colonel, that is everything."* 配置：Pen-sanがAdelieの後ろ／Daru[赤]・Gabu[青]Pod／Suke-san頭を下げる。✅執筆済み（word_count 282）。
+- **Ep89「The Morning We Leave」**：別れの朝＝**章クローザー**。船が南極の氷を離れ、白い大陸が遠ざかる。帰路の始まり。モード：別れ→静の余韻。
+  - 確定（人数＝6）：帰路の一行は **Ako-chan・Dango・Obia・Daru・Gabu・Suke-san**（"Six friends stand on the deck."）。**Pen-san・Adelieは氷に残り見送る**（"Two small shapes ... Pen-san and the Colonel."＝南極残留の確定）。
+  - 🔒（Ako-chan・見送り＝will不使用）：*"Goodbye! I come back!"*（Ep87 "I come back. I promise." と一致＝S2再会の布石）。Pen-sanが片翼を振る／Colonelは直立。
+  - 確定（声の収束・継続）：*"The voices are quiet today."*（Ep86の収束を継続＝Ep90「Going Quiet」へ接続）。締めの核＝**Obiaが"横"に立つ**（"Obia stands beside her, not behind."＝Ep85と連続）＋方角は**北**（"She turns to face the north now."＝Ep90 太平洋北上へ）。
+  - 🔒章クローザー余韻：*"But the long road home starts here. And the ship sails on."*（Ep24/Ep33 章末 "And the road goes on." モチーフの回収）。next_ep＝/season1/chapter12/ep090/（章跨ぎ）。✅執筆済み（word_count 271）。
+
+<!-- Ch11 完了（Ep83〜89）。Ch12 以降は執筆後に追記（Day 77〜） -->
