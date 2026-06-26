@@ -5,7 +5,7 @@
 | シーズン | CEFRレベル | 1文の目安語数 | 使用語彙の目安 | 時制の目安 |
 |---------|-----------|------------|-------------|----------|
 | Season 1 | A1 | 10語以内（最大12語） | 頻出1000語以内 | 現在形ベース・回想に単純過去形・現在進行形 |
-| Season 2 | A1〜A2 | 12語以内（最大15語） | 頻出1500語以内 | S1＋will（意図・予測）、can/could |
+| Season 2 | A1〜A2 | 12語以内（最大15語） | 頻出1500語以内 | S1＋will（意図・予測）、could/would（can/cannot は S1既出） |
 | Season 3 | A2〜B1 | 15語以内（最大18語） | 頻出2500語以内 | S2＋過去進行形、現在完了形 |
 
 ---
@@ -33,7 +33,7 @@
 | 省略形を多用しすぎない（会話では可：I'm, it's, don't） | 地の文では基本展開形 |
 | can not（2語に分ける） | **cannot**（1語）に統一する |
 | 様態副詞のフラット形（動詞を slow/soft/quick 等で修飾） | **-ly形に統一**（slowly/softly/quickly）。例 ×"sits up slow" → ◯"sits up slowly"。※slow/soft は**形容詞**としては可（"a slow train" / "Her breath is slow and soft"）|
-| 同じ畳語の多用（on and on／up and up／closer and closer 等） | 章内で繰り返さない。1か所程度に留め、他は具体描写に変奏 |
+| 畳語 X and X の多用 | **漸増の強意**（faster and faster／closer and closer／smaller and smaller 等）は標準英語として**許容**。**リズムのtic**（on and on／sniffs and sniffs／talks and talks／looks and looks 等）は**1章に1回まで**、他は具体描写に変奏 |
 | 三連形容詞の多用（A and B and C：例 "wide and blue and bright"） | 1話に1回まで。多用すると平板。2語に減らす／コンマ列（A, B, and C）に散らす |
 
 ---
@@ -68,6 +68,7 @@ Avoid:
 - **現在完了形（have/has done, has been able to 等）※Season 3から解禁**
 - **過去進行形（was/were doing）※Season 3から解禁**
 - 仮定法（If she were...）
+- **未来形 will / 条件法 would・could** ※**Season 2から解禁**。S1は **can / cannot のみ**使用可。**例外：will のみ**「Obia固定台詞・仲間の合流の誓い・物語を運ぶ誓い」に限り可（timeline.md の will例外注記参照）
 - 不定詞の形容詞的用法（a place to go）→ "a place. She can go there." と分割
 - 分詞構文（Walking home, she saw...）
 
@@ -76,7 +77,7 @@ Avoid:
 現在形:     Dango is happy.
 単純過去:   He ran to Ako-chan.
 現在進行形: The wind is blowing.
-助動詞:     She can hear animals. / She could not move.
+助動詞:     She can hear animals. / She cannot move.（can/cannot のみ。could/would/will は S1禁止）
 There構文:  There is a small turtle near the rock.
 疑問文:     "What is that?" says Dango.
 ```
@@ -94,7 +95,7 @@ Season 1のルールをベースに、以下を追加・緩和する。
 
 ### Season 2 で追加される文型
 - **未来形（will）**: 登場人物の意図・予測を表す場合に使用可。
-- **can/could**: 能力・可能性を表す場合に使用可。
+- **could / would**: 能力・可能性・条件を表す場合に使用可（**can/cannot は S1既出**）。
 
 ### Season 2 で引き続き禁止
 - 関係代名詞節（who/which/that 節）
