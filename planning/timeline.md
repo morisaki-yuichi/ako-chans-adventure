@@ -857,3 +857,66 @@
     - 結果：fm＝290/284（範囲内）・最長文9語・三連各1・禁止文型/robot/Obia代名詞なし・🔒「We go again」逐語。
 
 <!-- Ch13（Ep101–108）全話✅執筆済み＆レビュー完了（2026-06-26）。各Epに確定台詞・新情報・word_countを追記済み。 -->
+
+## Chapter 14「Building the Flying Boat」— イギリス・制作（Ep109〜117・9話）
+
+**Ch14 共通**
+- ★**飛行艇制作章**（イギリス・庭）。一行＝**Ako-chan・Dango・Obia・Ruka の4人**。⚠️**Daru/Gabu/Suke-san/Pen-san/Adelie はまだ再合流していない**（Ch15以降）＝Ep116完成・Ep117初飛行の場面に**彼らを出さない**（先取り禁止）。
+- ★**制作順**：①Ruka用**ミニPod**（黄・最小）をEp109完成→Ep110でRukaが扱いを習得→②**飛行艇**の設計→制作→完成（Ep111–116）→③**初飛行**（Ep117・章クローザー＝3年ぶりの旅が空から）。Rukaは飛行艇制作中、傍らでPodを覚えながら静かに見守る。
+- ★**ミニPod（Ruka・確定）**：Daru/Gabuより小さい。発光色＝**黄**。Rukaはゆっくり止まりながら歩く→控えめな動き。Obia："This one is for you, Ruka."（Ep109）。
+- ★**飛行艇（確定）**：Ako-chan＋Obia共同制作。**無名＝"the flying boat"**（S1の船と同じく命名しない）。庭で組み上がる大型機（翼・骨組み・エンジン）。全員＋3Pod を乗せられる規模（再合流を見越す）。⚠️**飛行・着水/着陸の仕組みは説明しない**（"飛行艇"だが砂漠にも降りる＝Ch15-16。機構は不問）。Obia技術の由来も伏せる。
+- ★**信号アーク継続（Ch13→）**：Ep113＝Obiaの暗号記憶は**まだ開かない**（"Still locked. I cannot open it." ＝Ep106 "I cannot read it." の継続）／Ep114＝南への引きが**強まる**。⚠️使命の中身・タイムマシン・跳躍は**伏せる**（復号はCh17）。
+- **Obia呼称**：既定 "Obia"＋"it"。"the silver one" は不気味さ狙いで1話0–1回（Ep113の暗号記憶の不穏に1回なら可）。**親密ビートでは名前**。制作中の昼の庭シーン＝Obiaは庭で作業（屋外・昼）。
+- **Dango**：引用台詞なし（所作＋地の文）。コーギー成犬の寸法基準（[[continuity-ledger]]）＝"big（大型犬）"表現は使わない。Ep115で「手伝おうとして邪魔になる」軽い息継ぎ。
+- Day割付：Ch13末＝Day4。制作で日数経過（"説明しない"・loose）。Ep109〜117をDay5〜（非減少）で割付。
+
+### Day 5前後 — Ruka用ミニPod
+- **Ep109「Ruka's Pod」**：Ako＋ObiaがRuka用ミニPodを作る（黄・最小）。Rukaが中で止まりながら歩くとPodは控えめに動く。
+  - 🔒台詞（Obia）：*"This one is for you, Ruka."*
+  - モード：静・観察／制作。③：小さなPod、黄色い淡い光、Rukaの慎重な足、組み立ての音。④：Rukaは新しい乗り物をじっと見ている。
+  - 確定：Ruka代名詞she・最小台詞（所作中心）。発光色＝黄（Daru赤・Gabu青と対比）。⚠️Daru/Gabu不在（再合流前）＝Podの色対比は"以前作った"記憶としてのみ可、現場に出さない。
+  - ✅執筆済み（word_count 277）。Day5・昼の庭（屋外）。一行＝4人（Ako・Dango・Obia・Ruka）。🔒Obia：*"This one is for you, Ruka."*（逐語・"Its voice is flat and kind."＝親密ビートなので名前 "Obia"＋it）。制作経緯＝単純過去 "For days, the two of them built it together."。ミニPod確定描写＝最小（"It is smaller than the ones Obia made before."＝Daru/Gabuの過去作への記憶参照のみ・現場に色対比は出さない）／黄の淡い光（"A soft yellow light glows inside it."）。Ruka＝she・台詞なし（所作："takes one slow step ... pulls her head in"／"She does not climb in. Not yet."＝Ep110習熟への引き）。③＝小さなclicks/taps（組み立ての音）・黄の光・風・遠い鳥・戸口のDango（"He does not come near."）。発光色：黄。
+- **Ep110「Learning the Pod」**：Rukaが自分のペースでPodの扱いを覚える。速くは動かない。止まって、考えて、また動く。Ako-chanは急かさない。
+  - モード：静・観察。③：Pod内のRuka、ゆっくりした回転、止まる時間、見守るAko-chanの目。④：Rukaのやり方は、Rukaのやり方だ。
+  - 確定：Rukaの「慎重・自分のペース」を所作で。台詞は最小/無し。
+  - ✅執筆済み（word_count 270）。**Day6**（"The next day is calm and gray."＝ep109 Day5の翌日。story_day 5→6に修正＝本文の"next day"と整合）・庭。Rukaが自分のペースでPod習熟＝所作の核 "Stop. Look. Walk. That is how Ruka goes."。Ako-chanは急かさない（"She wants Ruka to choose for herself."）＝最小台詞 *"Take your time,"*（Ako-chanの1台詞のみ・Rukaは無言）。③＝Pod内のRuka・ゆっくりした回転（"turns in a slow, wide circle"）・止まる時間（"Time seems to slow down with her."）・伏せたDango（"lies nearby with his head down"）。締め＝"Ruka's way is Ruka's way."（意図反復のhinge）。発光色：黄（継続）。
+
+### Day 6前後 — 飛行艇 設計・制作
+- **Ep111「The Flying Boat」**：ミニPod完成後、Ako＋Obiaが飛行艇の設計・制作に入る。二人が中心。Rukaは傍らでPodを覚えながら静かに見守る。
+  - モード：動・出来事／制作。③：広げた設計図、大きな骨組み、Obiaの正確な手、Ako-chanの汗。④：今度の旅は、空を行く。
+  - 確定：飛行艇＝無名。Ako＋Obia共同。先取り禁止（再合流の仲間は出さない）。
+  - ✅執筆済み（word_count 285）。Day6・庭。ミニPod完成後、飛行艇の設計・制作に入る（始動）。飛行艇＝**無名**（"a flying boat" / "the frame" / "the boat"・固有名なし）。🔒Obia *"We start with the frame,"*（it・正確な手）。Ako＋Obia共同＝二人の噛み合い（"They pass parts back and forth. They do not need many words."）。S1の船を単純過去で参照＝"Much bigger than the ship was." / "Their old ship sailed the cold seas."（"big" は機体には可＝コーギー寸法ルールはDango専用）。③＝広げた設計図（"A wide drawing"）・大きな骨組み・金属の音・Ako-chanの汗（"Sweat runs down Ako-chan's face."）。Ruka＝傍らのPodで静かに見守る（"watches the two of them work."）。Dangoは金属の匂いを嗅ぐ。⚠️機構・着陸方法は説明しない／再合流の仲間は不出。締め＝"This time, the journey goes by sky."（S1船旅との対比）。
+  - 🔧レビュー適用（Phase C・第1バッチ Ep109-111）：①ep110 story_day 5→6（本文"The next day"との整合）。②"Obia's hands move fast and sure." が ep109/ep111 で逐語重複＋"sure"がフラット副詞許容外 → **ep111を "Obia's hands are quick and exact." に変奏**（ep109は単発idiomとして残置）。③ep109 grass×4→3（"kneels close on the grass"→"kneels close beside her"）→word_count 278→277。結果：fm＝277/270/285（範囲内）・story_day 5,6,6（非減少）・最長文≤10語・禁止文型/robot/三連/畳語なし・🔒台詞逐語一致。ep110のPod×11/slow×5は"Learning the Pod"の中核モチーフ＋floor270のため据え置き。
+- **Ep112「Wing and Frame」**：制作継続。翼・骨組み・エンジン。少しずつ形になる。Ako-chanとObiaの手が噛み合う。
+  - モード：制作テクスチャー（③厚め）。③：金属の匂い、工具の音、夜まで続く作業、組み上がる翼。④：大きなものが庭に生まれていく。
+  - 確定：語数不足になりやすい制作回＝③を厚く。
+  - ✅執筆済み（word_count 285）。Day7・庭（朝→夜まで続く作業）。純制作回（信号アークは進めない＝Ep113/114で進める）。翼が組み上がる＝核（"They lift the other wing next. Now the boat has two wide wings."）＋エンジン搭載（"It is heavy and dark and round."＝本話の三連形容詞1回）。③厚め＝金属の匂い（"The smell of oil hangs in the air."）・工具の音（"Metal taps on metal. Tools turn and click."）・夜まで続く作業（"The sun goes down ... But the work does not stop. Obia's eyes light the metal with a soft glow."）。Ako＋Obiaの噛み合い（"They pass each tool between them."＝Ep111 "back and forth" と別表現）。Ruka＝Podで見守る／Dango＝エンジンのそばで眠る。締め＝"Something big is taking form here. And it is theirs."（受動 "being born" を回避し能動 "taking form" に）。"wing(s)" はタイトル主題の反復で許容。
+- **Ep113「What Obia Cannot Read」**（確定タイトル・旧"The Memory He Cannot Read"＝"He"回避）：作業の合間、Obiaが暗号記憶にもう一度触れようとするが、まだ開かない。不穏な予感。
+  - 🔒台詞（Obia）：*"Still locked. I cannot open it."* ＝Ep106 "There is something in me. I cannot read it." の継続。
+  - モード：静・観察（不穏）。③：明滅するObiaの目、止まる手、夜の静けさ、Ako-chanの横顔。④：その記憶が何なのか、まだ誰も知らない。
+  - ⚠️先取り禁止：使命の中身は明かさない。"the silver one" を1回使うなら不気味さ演出として可（親密ビートでは名前）。
+  - ✅執筆済み（word_count 297）。Day7夜（Ep112の作業が一区切りした深夜・庭）。🔒Obia *"Still locked," ... "I cannot open it."*（逐語・Ep106 "I cannot read it." の継続＝"open"へ進展）。Obiaが暗号記憶に再び触れる＝止まる手＋目の明滅（"Its hands stop in the air. Its blue eyes flicker, on and off."＝**畳語tic "on and off" をCh14で1回使用**・以降は変奏）。"the silver one" を不気味さに**1回**（"The silver one seems far away now."）／親密ビートは名前（"She rests her hand on Obia's cold side."）。⚠️使命の中身・正体は伏せる（"No one knows what it is. Not even Obia. Not yet."）。Ako-chanの横顔／夜の静けさ＝③。信号と暗号記憶を初めて並置（"She thinks of the signal ... She thinks of the memory Obia cannot read."）＝Ep114への布石。三連形容詞なし。
+- **Ep114「What the Signal Wants」**：Obiaがさらに信号を解析。南への引きが強まる。
+  - 🔒台詞（Obia）：*"I do not know why. But we must go."*（理由は知らないを貫く）
+  - モード：静・観察。③：信号の音、明滅するObiaの目、南を指す気配、Dangoの落ち着かない様子。④：南で、何かが待っている。
+  - ⚠️Ch13 Ep104-106の信号ビートと差別化＝ここは「引きが強まる・確証」。同じ描写の反復にしない。
+  - ✅執筆済み（word_count 272）。Day7深夜（Ep113と同じ夜の続き・庭）。🔒Obia *"I do not know why," ... "But we must go."*（逐語・Ep105 "We must go south. I do not know why." の語順反転エコー＝理由は知らないを貫く "Its voice is calm and sure."）。**Ch13信号との差別化＝引きが強まる/確証**：明示的に対比（"This is not like that first faint call. Back then, the signal was thin and far. Now it is deep and clear and strong."＝本話の三連形容詞1回／"It does not fade in and out now. It stays."）＋"It is stronger now than at the start."。信号の引きを体感で外在化（"It tugs at her, soft but strong. The whole garden seems to lean toward it."）。③＝信号の音（hum rises and falls）・目の明滅・南を指す気配・**Dangoの落ち着かなさ**（戸口に立つ・耳が立つ・尾が低い・"He does not lie back down."＝引用台詞なし）。⚠️使命・正体・タイムマシン・跳躍は伏せる。締め＝"Something wants them to come. And soon, they will go."（南へ・will）。
+  - 🔧レビュー適用（Phase C・第2バッチ Ep112-114）：①**story_day修正 6→7**（ep112 "It rose part way yesterday. Today they build the wings."＝frame上げ=ep111(Day6)の翌日。ep113/114はその同夜）。連鎖＝109:5/110:6/111:6/112:7/113:7/114:7（非減少）。②ep114 "He knows that something is starting." が Ep108(コミット済)と逐語重複 → "He knows the night is changing now." に変奏（→word_count 271→272）。③ep112 wide×4→3（"wings stretch wide"→"stretch far"）。④ep114 strong系×5→4（"feels strong tonight"→"feels heavy tonight"・残りは信号crescendoの意図反復）。結果：fm＝285/297/272（範囲内）・最長文≤9語・禁止文型/robot/Obia代名詞なし・三連各1（規約内）・🔒3本逐語一致・ep113 "the silver one"×1（不気味さに的確）。
+
+### Day 7前後 — 完成へ
+- **Ep115「Dango Wants to Help」**：軽い息継ぎ回。Dangoが制作を「手伝おう」とする。工具をくわえて運ぶが邪魔になる。Ako-chanが笑う。Rukaは騒ぎの横で落ち着いている。
+  - モード：動・出来事（息継ぎ）。③：くわえた工具、振られる尻尾、散らかる部品、Rukaの静けさ。④：にぎやかな庭。旅の前の穏やかな一日。
+  - 確定：Dango引用台詞なし（所作）。コーギー寸法基準。
+  - ✅執筆済み（word_count 271）。Day7朝・庭（飛行艇ほぼ完成）。明るい息継ぎ回＝Ep114の不穏から一日引く（信号の不穏は引かない）。Dango＝**引用台詞なし**・所作のみ＝工具（big metal wrench＝"big"はレンチに係り＝Dango非該当）をくわえて運ぶ→部品の箱にぶつかり散らかす（"They spill out across the ground. Bolts and screws roll everywhere."）。コーギー寸法＝"His thick legs kick up the grass."（big犬表現なし）。Ako-chanが笑う（最小台詞 *"Oh, Dango,"*）／Rukaは騒ぎの横で静止（she・"She is calm in all the noise."）。締め＝"It is a calm, good day before the road."（旅前の穏やかな一日）。
+- **Ep116「Ready to Fly」**：飛行艇がついに完成。庭に大きな翼が広がる。全員が見上げる。**Dango・Ruka・Obia**が見ている（⚠️Daru/Gabu/Suke-sanはまだ再合流していない＝出さない）。
+  - モード：静・観察。③：完成した機体、朝の光に光る翼、見上げる顔、静かな期待。④：あとは、飛ぶだけ。
+  - ⚠️**人数4の厳守**（Ako・Dango・Obia・Ruka）。先取り禁止。
+  - ✅執筆済み（word_count 274）。Day7朝・庭。飛行艇完成＝核（"It is finished now, at last."）。**見上げるのは4人のみ**＝Ako-chan・Dango（足元・"His tail is still."）・Ruka（Pod内・"She lifts her small head toward the wings."）・Obia（"Its pale blue eyes shine in the light."）。⚠️Daru/Gabu/Suke-san不出（先取り禁止厳守）。③＝朝の光に光る翼（"The early sun touches its wings. They shine soft and gold." / "The wings shine like still water."）・見上げる顔・静かな期待（"They all feel the same quiet hope."）。S1船と比較＝"It is bigger than their old ship was."（boatに"big"系は可）。家族確認＝"Dango. Ruka. Obia. And her."（=4）。締め＝"Only the sky is left now."（あとは飛ぶだけ）。
+- **Ep117「Into the Sky」**：飛行艇が初めて空へ。庭が、イギリスが小さくなる。南へ。Ako-chanは窓の外を見る。Dangoが足元にぴたり。RukaはミニPodの中。
+  - モード：動・出来事。③：浮き上がる感覚、下に広がる景色、エンジンの振動、雲。④章クローザー：3年ぶりの旅が、空から始まる。
+  - 確定（章末リンク）：next_ep は空欄（Ch15 Ep118 執筆時に ep118.prev_ep=ep117 と相互リンク）。先取り禁止（クロアチア・Daru再合流はCh15）。
+  - ✅執筆済み（word_count 275）。Day7・庭→空。章クローザー＝**3年ぶりの旅が空から始まる**。一行4人が搭乗（Ako-chan前方／Dango足元／**RukaはミニPod内**／Obiaは操縦のそば）。初飛行＝浮き上がる感覚（"The lift feels strange and light. Ako-chan's stomach drops a little."）・下に広がる景色（"England spreads out far below. The green fields grow small and neat."）・エンジンの振動（"The engine hums, deep and steady. Ako-chan feels it in her chest."）・雲（"White mist wraps around the wings."）。Ako-chan最小台詞 *"Hold on,"*。⚠️行き先は伏せ "south" のみ（"Ako-chan turns the boat toward the south."＝Ep118クロアチアは先取りしない）。締め＝"The long road begins again. This time, it begins in the sky."（S1徒歩出発との対比・will不使用の現在形クローザー）。next_ep空欄（Ch15で相互リンク）。
+
+  - 🔧レビュー適用（Phase C・第3バッチ Ep115-117）：①**ep116 関係代名詞節を解消**（"All that is left now is the sky."＝that関係詞節＝S2禁止 → "Only the sky is left now."）→word_count 276→274。②ep116 still×5→4（"clear and still"→"clear and calm"）。③ep115 grass×4→3（"spill out across the grass"→"…the ground"）。結果：fm＝271/274/275（範囲内）・story_day 全7・最長文≤9語・禁止文型/robot/Obia代名詞/三連/畳語なし・人数4厳守（ep116/117にDaru/Gabu/Suke不出）・ep117は "never saw/felt … before"＝単純過去で現在完了回避（正）。
+
+<!-- Ch14（Ep109–117）全話✅執筆済み＆レビュー完了（2026-06-26）。各Epに確定台詞・新情報・word_countを追記済み。レビュー：第1バッチ109-111／第2バッチ112-114／第3バッチ115-117。章タイトル "Building the Flying Boat" はユーザー確認済み（s2-episode-list 2026-06-25）。 -->

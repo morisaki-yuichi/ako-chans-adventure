@@ -69,6 +69,8 @@
 | **ハリネズミ** | 庭（生垣の根元など）。Ep2に登場、Ep99で再登場（対の構図） | |
 | **Suke-san**（S1 Ch6〜） | 常に**Ako-chanの右・少し後ろ** | シリーズ通しの定位置 |
 | **Daru/Gabu/Ruka** | 移動は**常にお気に入りのPod**（発光：赤/青/黄） | 直接の接触時のみPodを出る。⚠️**S2 Ch13ではRukaはまだPod無し**（ミニPod完成＝Ep109）。Ch13のRukaは家の中／庭の定位置（縁石の日溜まり・Dangoの水器のそば・玄関の棚の上）に直に居る |
+| **Ruka用ミニPod** | **Ep109で完成**（黄・Daru/Gabuより小さい最小Pod）。Ep110でRukaが習熟 | S2 Ch14。Rukaはゆっくり止まりながら歩く→控えめな動き。以後Rukaの移動はミニPod |
+| **飛行艇** | **Ep116で完成**（Ep111設計開始）。Ako-chan＋Obia共同制作・**無名＝"the flying boat"** | S2 Ch14。庭で制作。全員＋3Podを乗せる規模。機構・着陸方法は説明しない（砂漠にも降りる）。Ep116完成・Ep117初飛行の場に**再合流前の仲間（Daru/Gabu/Suke-san）を出さない** |
 | **Pen-san / Adelie**（南極） | 氷の上／船周辺。S1の拠点は**船のみ**（基地なし） | |
 
 ### B-2. Ch1のシーン別ステージング
@@ -95,7 +97,7 @@
 | Gabu出現〜合流の距離・時間（Ep28） | 距離＝**fifteen meters**（タイトル）／待ち時間＝**an hour** | Gabuは岩上15m・全員で1時間待つ |
 | Dangoの砂漠ブーツ（Ep26） | **4つ**（"four small boots"）＋鼻先マスク1 | 4本脚に対応 |
 | 期間表現 | 厳密管理しない（"説明しない"方針）が、**異変の継続期間を長く言わない**（Obia到着＝Ep1以降） | timeline.md の Day 割付と矛盾させない |
-| S2 Ch13 一行の人数 | **4**（Ako-chan・Dango・Obia・Ruka） | Daru/Gabu/Suke-san/Pen-san/Adelieはまだ再合流していない。再合流＝Ch15以降。Ch13で人数を声に出して宣言する必要はない |
+| S2 Ch13–14 一行の人数 | **4**（Ako-chan・Dango・Obia・Ruka） | Daru/Gabu/Suke-san/Pen-san/Adelieはまだ再合流していない。再合流＝Ch15以降。**Ep116完成・Ep117初飛行の場に再合流前の仲間を出さない**。人数を声に出して宣言する必要はない |
 | Rukaの甲長 | **5cm**（Daru/Gabuの7cmより小さい＝3匹中最小） | S2の「先輩逆転」（Ch24）の前提。網目状の黒模様・頭側面に黄色い丸斑 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
