@@ -1244,4 +1244,63 @@
   - 確定（章末リンク）：next_ep は空欄（Ch20 Ep160執筆時に ep160.prev_ep=ep159 と相互リンク）。⚠️**Ch20の"We should stop"明言はEp160＝先取りしない**（Ep159は**不安・顔を見合わせる**まで＝無言の同意）。Suke-san（洞窟残留・待機側）＋General（経験側）が逓増を察知。
   - ✅執筆済み（word_count 270＝floor）。Day18。章クローザー。⚠️**"We should stop" 不使用厳守**＝無言の同意のみ＝"Suke-san looks up at the General. ... He gives a slow, heavy nod. Neither of them says a word. But they both feel the same fear."✓。逓増の総括＝"The first jump was hard. The second was harder still. ... The next jump will be worse."。④"One more jump lies ahead... that one will be the hardest. ... maybe it is the most dangerous of all."（Ch20への緊張）。next_ep 空欄✓。⚠️**裂け目・Ruka消失（Ch20）leak なし**✓。配置整合（Pen-san氷上・Dango・Ruka・Daru/Gabu Pod）。⚠️語数floor（270）。
 
-<!-- Ch19 足場（Phase A）。執筆後に各Epへ ✅執筆済み（word_count・確定台詞・🔧レビュー適用）を追記する。 -->
+<!-- Ch19（Ep151〜159）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
+
+---
+
+## Chapter 20「The Rift」— 3回目跳躍・危機（Ep160〜167・8話）
+
+**Ch20 共通**
+- ★**S2最大の転換点＝3回目跳躍で事故が起きる章**。議論（やめるべき）→Ako-chanの決断（行く）→機械がリクガメ三匹を選ぶ→**跳躍直後に時空の裂け目**→**Ruka消失**→**Daru/Gabu追跡**→Ako/Obiaが**「時空のはざま」に取り残される**→自責→Obia「一緒に探そう」→追って跳ぶ（章クローザー）。
+- ★**跳躍組＝Ako-chan・Obia・Daru・Gabu・Ruka（5＝機械が選定）／現代組＝Dango・Suke-san・Pen-san・General Adelie（洞窟残留）**。⚠️**選定理由は不問**（machine chooses）。
+- ★⚠️**最重要継続性：裂け目・三匹消失・はざまは「現代組（洞窟）には見えない」**（s2.md）。**Ch20は跳躍組視点で進める＝洞窟の現代組が異変を目撃する描写を入れない**（現代組の不安は Ch21 の現代組POV＝"長すぎる・戻らない"まで／異変の中身は見えない）。
+- ★**「時空のはざま」の英語＝"the space between times"（確定 2026-06-26・ユーザー選択）**。体感＝"Not here. Not there. Just gray and still. No ground. No sky."。**Ch21時空組POVでも同語**。⚠️機構の詳説はしない（"the jump did not finish" 程度）。
+- ★**Ako-chanの自責アーク（本章の情の核）**：Ep161で「行く」と決断（Suke-san/Generalの反対を越えて）＝**伏線**。Ep166で「自分が決めたせいだ」と爆発（涙・パニック）＝**Ep161の決断との因果を明確に結ぶ**。Obiaは責めず「一緒に行こう」（Ep167）。
+- ★**1語タイトル例外**：Ep163「Ruka」＝消失の転換点（S1 "Obia"/"Stop" と同じ取り置き）。他は文/名詞句。
+- ⚠️**行き先（氷河期オーストラリア・マイオラニア）はCh21＝出さない**。**事故跳躍ゆえ行き先は登録外＝不明**。Ch20は「三匹がどこのいつへ行ったか誰も分からない」まで。
+- ⚠️**伏せる継続**：①"the future"抽象（本章は声収集なし＝出番少）②異変の根本原因（Ch22）③マイオラニア・氷河期（Ch21）。
+- 語り規約：Obia=it（はざまでAko-chanのそば・流れをたどる役）／**Ruka=地の文 "she"・台詞は最小**（消失は所作中心）／**Daru=引用台詞あり／Gabu=無言で追う（引用なし・所作）**／Dango引用なし。3Pod発光色＝赤(Daru)/青(Gabu)/黄(Ruka)。"should"＝S2既出（ep114/155）で可。
+- Day割付：Ch19末＝Day18。Ch20＝**Day19**（休息後に3回目を試みる〜事故〜はざま＝連続・非減少）。
+
+### Day 19 — 議論〜決断〜跳躍事故〜はざま
+- **Ep160「We Should Stop」**：3度目を前に Suke-san・General Adelie が進言。二人はAko-chanの体を心配。
+  - 🔒台詞（Suke-san）：*"The jumps are too strong now. We should stop."*／（General Adelie）：*"I agree. It is too dangerous."*
+  - モード：緊張・議論。③：洞窟の緊張、二人のまっすぐな目、機械の低い音、迷う空気。④：止めるべきか。進むべきか。
+  - 確定：Ch19 Ep159で温存した"stop"明言がここで解禁。"should"はS2既出。二人＝Ako-chanの身を案じる（敵対でなく）。
+  - ✅執筆済み（word_count 273）。Day19。🔒Suke-san *"The jumps are too strong now," ... "We should stop."*／General Adelie *"I agree," ... "It is too dangerous."*（逐語・speech tag split）。⚠️**二人の動機を明示**＝"He fears for the girl, not the mission."✓（敵対でなく身を案じる）。Suke-san定位置＝"at Ako-chan's right, a little back."✓。逓増の根拠＝Ep158回収（"Her hands shook after the last one."）。Dango所作（leans・wide eyes・引用なし）。④決断保留＝"Should they stop here? Should they go on? She does not answer yet."（Ep161へ）。
+- **Ep161「I Will Go」**：Ako-chanが決断＝「行く」。あと一つの声を救わねば。危なくても。自ら選んで進む。Obiaは止めない。
+  - 🔒台詞（Ako-chan）：*"I will go. We are so close."*
+  - モード：感情・決断。③：決意の顔、握った手、見つめる仲間、機械の光。④：**この決断が、のちの自責につながる（伏線）**。
+  - 確定：will＝S2可（意図）。⚠️**Ep166の自責はこの決断を指す**＝後で因果を明確に結べるよう、ここで"自ら選んだ"ことを刻む。
+  - ✅執筆済み（word_count 284）。Day19。🔒Ako-chan *"I will go," ... "We are so close."*（逐語）。⚠️**自ら選んだことを強く刻む（Ep166自責の伏線）**＝"She chooses this herself. No one pushes her forward. The choice is hers, and hers alone."✓。根拠＝声を聴けるのは自分だけ（"Only she can."＝S1能力）。Obia=it（止めず "It will go where she goes."）。Dango＝所作（"He does not understand her words. But he feels her choice, and stays."＝引用なし）。3Pod色（赤Daru/青Gabu/黄Ruka）。④伏線締め＝"She does not know what this choice will cost her."。choice×5は自決の主題語＝意図的。
+- **Ep162「The Rift Opens」**：機械が三度目のメンバー＝Daru・Gabu・Ruka を選ぶ（＋必須Ako・Obia）。現代組（Dango・Suke-san・Pen-san・General）は洞窟に残り五人を見送る。光が五人を包み跳躍開始。だが直後、跳躍の最中に五人の周りで時空の裂け目が開く。
+  - 🔒台詞（Obia）：*"Something is wrong! Hold on!"*
+  - モード：動・出来事（転換）。③：包まれる五人、見送る四人、跳躍の渦、突然ねじれる光。④：跳躍の中で、何かが壊れ始めた。
+  - 確定：跳躍組5＝Ako・Obia・Daru(赤)・Gabu(青)・Ruka(黄)。⚠️**裂け目は跳躍組にのみ＝現代組視点を出さない**（s2.md）。
+  - ✅執筆済み（word_count 272）。Day19。機械が三匹のPodを選ぶ（赤Daru→青Gabu→黄Ruka・"Three turtles. And Ako-chan and Obia, as always."）。現代組4は"stay back"・"watch the five from the dark"。Ako-chan *"We will come back,"*（Ep142エコー＝ドラマ的アイロニー）。裂け目＝"A deep crack runs through the white. It splits the spinning light in two."→🔒Obia *"Something is wrong!" ... "Hold on!"*（逐語）。⚠️**現代組の不可視を正しく明示**＝"the four in the cave see only light. They cannot see the crack inside the jump."✓（s2.md継続性ルールをCh21へ布石・目撃描写ではない）。④"something begins to come apart."。🔧レビュー：flat副詞 "flash bright"→"flash brightly"。light×8は跳躍現象の主題語で据え置き。⚠️行き先(氷河期)leakなし。
+- **Ep163「Ruka」**：跳躍の渦の中で裂け目がRukaを飲み込む。最小のRukaがミニPodごと裂け目の奥へ。自分の意思ではない・あっという間。Ako-chanが手を伸ばすが届かない。
+  - 🔒台詞（Ako-chan）：*"Ruka!"*
+  - モード：感情・喪失（**1語タイトル例外**）。③：渦巻く光、引き込まれる小さな黄色い光、伸ばす手、悲鳴。④：Rukaが、裂け目の中へ消える。
+  - 確定：⚠️**Ruka＝she・台詞なし**（あっという間／所作）。恐怖はグラフィックでなく**無防備さ・伸ばす手**で（A2幼年読者向け）。黄色い光＝RukaのミニPod。
+  - ✅執筆済み（word_count 272）。Day19。1語タイトル例外。🔒Ako-chan *"Ruka!"*（逐語・唯一の台詞）✓。モード=感情・喪失。Ruka=she・台詞なし＝**無防備さで描く**（"She cannot hold on. She cannot fight it." ／"Her yellow Pod" ＝ミニPod）✓・非グラフィック✓。届かぬ手＝"Ako-chan's hand closes on nothing."。喪失の三段＝"Ruka is gone. The little Pod is gone. The light is gone."（意図的反復）。④"And she could not hold on."（→Ep166自責へ）。⚠️裂け目は跳躍組視点のみ（現代組leakなし）✓。
+- **Ep164「After Her」**：その瞬間、Daru・Gabuが動く。迷わず、それぞれ自分の意思でRukaを追って裂け目に飛び込む。赤と青の光が黄色を追って闇へ。Ako-chanとObiaは別の流れに引き離され追えない。
+  - 🔒台詞（Daru）：*"Ruka! I'm coming!"*／Gabu＝**無言でまっすぐ裂け目へ（引用なし・所作）**。
+  - モード：動・出来事。③：飛び込む二匹、赤と青の光、閉じかける裂け目、止める間もない一瞬。④：三匹が向こうへ。はざまに残るのは、Ako-chanとObiaだけ。
+  - 確定：⚠️Gabu所作のみ（Daruと対照＝Daru発話／Gabu沈黙の決意）。Ako/Obiaは"別の流れ"に引き離され追跡不能（救援はCh21）。
+  - ✅執筆済み（word_count 271）。Day19。🔒Daru *"Ruka! I'm coming!"*（逐語）✓。⚠️**Gabu=無言の所作のみ**＝"He says no word at all. But his choice is just as strong."✓（Daru発話／Gabu沈黙の対照）。各自の意思＝"They do not stop to think."。色：赤Daru→青Gabu→黄Ruka追跡。Ako/Obiaは別の流れに引離＝"a new pull takes her ... It tears her and Obia from the crack."（追跡不能・救援はCh21）。Ako-chan *"No! Wait!"*。④はざま残留＝"Only she and Obia remain."。Obia=it（"It stays close, and does not let go."）。⚠️行き先leakなし✓。🔧レビュー：flat副詞 "push fast and wild"→"push, fast and wild"（ep152 "spins, fast and wild" と同型のコンマ付加形容）。
+- **Ep165「The Rift Closes」**：裂け目が閉じる。光がおさまる。Ako-chanとObiaは跳躍をやり遂げられないまま**「the space between times」**に取り残される。三匹は別の時代へ消えた。静まり返る。
+  - モード：静・喪失。③：閉じる裂け目、消えた三色の光、はざまの薄明かり、二人だけの静寂。④：三匹は、どこの、いつへ行ったのか。
+  - 確定：**"the space between times" 初出**（"Not here. Not there. Just gray and still. No ground. No sky."）。⚠️機構詳説しない（"the jump did not finish"程度）。⚠️**行き先（氷河期）は不明＝出さない**。
+  - ✅執筆済み（word_count 275）。Day19。台詞なし。モード=静・喪失。**"the space between times" 初出**＝"It is the space between times. Not here. Not there. Just gray and still. No ground. No sky."（確定フレーズ逐語）✓。機構＝"The jump did not finish."のみ（詳説なし）✓。⚠️**行き先不明厳守**＝"But where did they go? To when did they fall? Ako-chan does not know. Obia does not know."＝氷河期/豪州/マイオラニアleakなし✓。Obia=it（"Its pale blue eyes glow softly."）。④"the empty quiet holds only two."（→Ep166自責へ）。
+- **Ep166「Find Them」**：Ako-chanがObiaに叫ぶ。パニック。自分が「行く」と決めたせい（Ep161）。あの決断が三匹を時の中に投げ出した。涙。そばにはObiaしかいない。
+  - 🔒台詞（Ako-chan）：*"Find them! Please, Obia!"*
+  - モード：感情・自責。③：叫ぶ声、震える肩、こぼれる涙、はざまの静けさ。④：自責が、Ako-chanを飲み込もうとする。
+  - 確定：⚠️**Ep161の決断との因果を明確に**（"I chose this." 等＝自ら選んだことが原因、と本人が結ぶ）。Obiaのみ在（はざま）。
+  - ✅執筆済み（word_count 271）。Day19。🔒Ako-chan *"Find them! Please, Obia!"*（逐語）✓。モード=感情・自責。**Ep161決断との因果を明確に結ぶ**＝"Suke-san wanted to stop. The General wanted to stop. ... But she said, \"I will go.\" She chose this herself." ＋ *"I chose this," ... "They were right. But I did not listen."*✓。身体所作＝震える肩・止まらぬ涙（"Her shoulders shake harder now. The tears keep falling fast."）。Obia=it（はざまに同行・"Its glow is all she has."）。④自責が飲み込む＝"The dark guilt rises up inside her. ... It wants to swallow her whole."。⚠️行き先leakなし✓。
+- **Ep167「Together」**：Obiaがそばに静かに。Ako-chanを責めない。ただ一緒に行くと言う。Obiaが三匹の流れをたどり始める。
+  - 🔒台詞（Obia）：*"We will go together. We will find them."*（＝「一緒に探しに行こう。」）
+  - モード：感情・絆（章クローザー）。③：そばに立つObia、青白い目、Ako-chanの止まる涙、たどる光の筋。④章クローザー：二人は、三匹の消えた時代を追って、跳ぶ。
+  - 確定（章末リンク）：next_ep は空欄（Ch21 Ep168執筆時に ep168.prev_ep=ep167 と相互リンク）。🔒Obia *"We will go together..."* はEp166のパニックへの応答＝Obiaが仲間である証（will＝合流の誓い型）。⚠️**Ch21（氷河期・マイオラニア・救出・3グループPOVクロスカット）は先取りしない**（"追って跳ぶ"まで）。
+  - ✅執筆済み（word_count 272）。Day19。章クローザー。🔒Obia *"We will go together," ... "We will find them."*（逐語）✓。モード=感情・絆。**Obiaは責めない**＝"Obia does not blame her. ... It does not speak of the lost jump."✓（Ep166自責への応答）。たどる光の筋＝"Then it finds a thin line of light. The three friends left this faint trail."。Ako-chanの涙が止まる＝"Slowly, her tears begin to stop." ＋ "A small, brave hope grows in her."。Obia=it。④二人が追って跳ぶ＝"Then the two of them jump after their friends. ... Wherever they are. Whenever they are."（行き先不明＝氷河期/マイオラニアleakなし・Ch21先取りせず）✓。next_ep 空欄✓。
+
+<!-- Ch20（Ep160〜167）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
