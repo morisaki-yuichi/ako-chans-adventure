@@ -1494,3 +1494,57 @@
   - 章末リンク状態：**ep192.next_ep＝空欄**（Ch24 Ep193で相互リンク）／ep186.prev_ep＝ep185・**ep185.next_ep＝ep186 更新済み**（前章末→今章頭の相互リンク完了）。
 
 <!-- Ch23（Ep186〜192）執筆完了。全7話 ✅・確定台詞（Pen-san/Ako/General 🔒逐語）・word_count・🔧レビュー追記済み。章頭 ep185.next_ep=ep186 更新済み／章末 ep192.next_ep 空欄（Ch24 Ep193で相互リンク）。一行＝6（体感列挙）・操縦Ako-chan・Obia不在モチーフ・Pen-san/Adelie南極残留。 -->
+
+---
+
+## Chapter 24「Home Without Him」— イギリス（Ep193〜200・8話・S2最終章）
+
+**Ch24 共通**
+- ★**S2の最終章＝帰宅・新しい家族の形・そしてObiaの不在を抱えて日常へ**。到着→Daru/Gabu/Suke-san初上陸→**Ruka「先輩」逆転**→定着（秋→冬）→Obiaのいない庭→Ep199「Obia——」（日記）→Ep200「The Red Notebook」（旅の全回顧＝S2前半完結）。
+- ★**Ruka「先輩」逆転（S2の主要回収）**：最小・最新入りのRukaが**もとの家を最もよく知る**＝Daru/Gabu/Suke-sanを案内する側に。⚠️**"senpai" は地の文で使わない（タイトルのみ・確定 2026-06-27ユーザー選択）**＝英語で逆転を描く（"Ruka knows the way / leads them / knows this place best"）。🔒Daru *"Ruka knows everything here!"*／Gabu *"...She does."*。
+- ★**赤い日記帳（the red notebook）**：S1 Ep5で初記入 *"I have to go."*（**4語**＝"four small words"・continuity-ledger確定）。S2末 Ep199で *"Obia——"* を書く（**続かない**）。Ep200で最初から読み返す（全回顧）。⚠️**"I have to go." は逐語・4語**（"three words"は誤り）。⚠️**"Obia——" の続きは書かない**（S3 Ep300で続く＝橋渡し）。日記の代名詞：**Obia=名前**（him/his不可）。
+- ★**Ep200「The Red Notebook」＝S1 Ep100／S3 Ep300 と同題＝最終話モチーフ**。S1 Ep100の構図（夜・机・ランプ・赤い日記帳・"I have to go."を読む）を踏襲しつつ**進化**：今回は旅の全行程が日記に在る・**Obiaは いない**（S1 Ep100ではObiaは庭にいた）・最後のページ "Obia——" は白いまま。回顧順序（episode-list）＝*I have to go.*→クロアチアのDaru→砂漠のGabu→船を直したSuke-san→南極の吹雪とObiaの告白→飛行艇→三つの声→Obiaを見送った日。
+- ★**Obia不在の庭（Ep198）**：かつてObiaがいた場所＝**夜の見張りの位置・Ako-chanの隣・古い小屋(shed)のそば**（S1の定位置）。誰も埋めない・動物も避けて通る。⚠️**"the silver one"不使用・Obia=名前/it**（喪失回ゆえ名前で＝[[obia-absence-name-over-pronoun]]）。
+- ★⚠️**S3秘密は伏せる**：**赤い首輪の正体(Ako-chan作)／タイムループ／"the future"の正体／Ep1の目＝Obia**。Ep199-200の日記・回顧で**これらに触れない**。"Obia——"は喪失と未完の感情まで（説明しない）。
+- ★**トーン＝bittersweet・満ちた静けさ**（S2前半の完結感）。新しい家族の温かさ＋一人の不在。melodrama回避。Ep200 ④＝"物語はここでいったん満ちる・最後の一行だけが続きを待つ"。
+- 語り規約：Obia=不在（名前/it・"the silver one"不使用・him/his不可）／Dango引用なし（所作・みんなの真ん中）／Suke-san＝Ako-chanの右後ろ（定位置）／Daru=引用台詞あり／Gabu=短い台詞（"...She does."）／**Ruka=she（先輩逆転の主役）**／Pen-san・General・Obia＝登場しない（南極残留・未来へ）。一行＝6＋3Pod。
+- Day割付：Ch23末＝Day25。Ch24＝**Day26〜46（loose）**＝到着(26)〜定着(秋→冬・数週間)〜日記の夜(199/200)。⚠️"秋から冬へ"の時間経過を許容（厳密管理しない）。
+
+### Day 26〜28 — 帰着・新しい家・先輩逆転
+- **Ep193「Home Again」**：飛行艇がイギリスに着く。Ako-chanの家、あの庭。Rukaにとってはもとの家。RukaのミニPodが迷わずいつもの棚の方へ動く。
+  - モード：感情・帰着。③：見慣れた庭、秋の光、開く玄関、Dangoの嬉しそうな足取り。④：帰ってきた。長い旅が、終わった。
+  - 確定：**到着**（Ch23で温存した着陸）。Ruka＝もとの家を知る（先輩逆転の布石）。一行6。
+  - ✅執筆済み（word_count 274）。Day26。着陸＝Ako-chanの庭/家（秋の光・黄葉・古い小屋）。**Rukaが迷わず棚へ**＝"It moves straight toward the house. Ruka knows just where to go. Her Pod climbs to the old shelf by the door. That spot was always hers."（先輩逆転の布石）✓。Ruka=she（"It"はPod指示）。Dango所作（庭を駆け回る・引用なし）。古い小屋に言及するがObia不在は明言せず（Ep198へ温存）。④"She is home. The long road is done at last."。⚠️Obia未言及（到着の喜び＝可）。
+- **Ep194「A New Place」**：Daru・Gabu・Suke-sanにとってはイギリスは初めて。新しい庭・匂い・光。Daruが駆け回る。Gabuが慎重に確かめる。Suke-sanが匂いを読む。
+  - モード：動・観察（探索）。③：濡れた芝、知らない木々、北の柔らかい光、探索する仲間。④：ここが、これからのみんなの家になる。
+  - 確定：3匹初上陸＝各キャラの性格で探索（Daru元気/Gabu慎重/Suke-san勘）。
+  - ✅執筆済み（word_count 274）。Day26。3匹初上陸＝性格で探索（Daru "Round and round he goes"＝**本章の畳語tic 1回使用**・Gabu "moves, slow and careful"・Suke-san "reads the ground with his sharp nose"）✓。Dangoが旧友Suke-sanを案内（"He shows Suke-san the best corners."）。三連 "wide and green and wet"（1話1回）。④"It will be their new home together."。🔧レビュー：flat副詞 "moves slow and careful"→"moves, slow and careful"（コンマ付加形容）。"walks low"=許容。
+- **Ep195「Ruka Knows the Way」**：最小・最新入りのRukaがこの場所をよく知る。日溜まり・安全な場所。Rukaが先に動き三匹を案内するように。三匹がついていく。
+  - モード：静・観察（逆転の始まり）。③：先を行くRukaのPod、続く三匹、見慣れた庭の角、Ako-chanの微笑み。④：いつのまにか、立場が入れ替わっている。
+  - 確定：⚠️**"senpai"不使用＝英語で**（"Ruka knows the way / leads"）。逆転の所作。
+  - ✅執筆済み（word_count 275）。Day27。⚠️**"senpai"不使用・英語で逆転を描く厳守**＝"But Ruka knows. Ruka knows the way. ... The smallest one shows them the way. ... Ruka came last of all the friends. But now she knows the most. ... The last one leads the way now."✓。Rukaが日溜まり/安全な角へ三匹を案内（前を行く・三匹が follow）。Ruka=she（全話she・"it"なし）。Ako-chanの微笑み。④"Quietly, the order is changing."（Ep196 "The Senpai" 回収へ）。🔧レビュー：flat副詞 "moves slow"→"moves slowly"。"pools warm"=depictive据え置き。
+- **Ep196「The Senpai」**：Rukaが「先輩」になっている。プーリアで拾われた最小のリクガメが。Daru/Gabuより後に来たのに。逆転が静かに起きている。
+  - 🔒台詞（Daru）：*"Ruka knows everything here!"*／（Gabu）：*"...She does."*
+  - モード：感情・回収（先輩逆転）。③：定位置が決まる、静かな所作、秋の光、落ち着いた気配。④：時間と場所が、順番を入れ替えた。
+  - 確定：**S2先輩逆転の回収**。⚠️**"senpai"はタイトルのみ・地の文は英語**。Ruka=she・プーリア（Ep103回想）参照。
+  - ✅執筆済み（word_count 271）。Day28。🔒Daru *"Ruka knows everything here!"*／Gabu *"...She does."*（逐語・Gabuの短い肯定）。⚠️**"senpai"地の文不使用**＝英語で逆転（"Ruka came last of all, yet she leads first. ... The little one shows the big ones the way."）✓。**プーリア回収**＝"That was in Puglia, by a warm white wall. The little turtle climbed onto her hand back then."（Ep103整合）。Ruka=she・最小。④"Somehow, that feels exactly right."。🔧レビュー：flat副詞 "settles soft and still"→"settles, soft and still"。
+
+### Day 33〜46 — 定着〜Obia不在の庭〜日記（S2完結）
+- **Ep197「Settling In」**：動物たちがイギリスの暮らしに馴染む。穏やかな日々。Daruは日溜まり、Gabuは木陰、Suke-sanはAko-chanの後ろ、Rukaは棚の上。Dangoはみんなの真ん中。新しい家族の形。
+  - モード：静・定着。③：それぞれの居場所、秋から冬への光、静かな庭、満ちる落ち着き。④：穏やかだ。でも、一人だけ、いない。
+  - 確定：各キャラ定位置（台帳整合）。秋→冬の時間経過。④でObia不在へ転調（Ep198布石）。
+  - ✅執筆済み（word_count 274）。Day33。各キャラ定位置を明示＝**Daru日溜まり/Gabu木陰/Suke-san=Ako-chanの右後ろ/Ruka棚/Dango真ん中**（台帳完全整合）✓。秋→冬（"Autumn slips slowly into winter. ... Frost shines on the grass."）。新家族の形（"A new family is taking shape here."）。④Obia不在へ転調＝"But the family is not quite whole. One friend is still not here."（Ep198へ）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。"turns thin"/"grows warm"=連結で据え置き。"Bit by bit"＝"X by X"慣用（畳語ticではない・許容）。
+- **Ep198「The Empty Garden」**：Obiaのいない庭。かつてObiaがいた場所——夜の見張りの位置、Ako-chanの隣、古い小屋のそば。誰も埋めない。動物も避けて通る。Ako-chanはときどき見つめる。
+  - モード：感情・不在。③：空いた一角、何も置かれない地面、冬の薄い光、漂う不在。④：旅は終わった。でも、Obiaは、戻らない。
+  - 確定：Obiaの定位置（S1＝**小屋のそば・夜の見張り・Ako-chanの隣**）。⚠️Obia=名前/it・"the silver one"不使用。冬。
+  - ✅執筆済み（word_count 272）。Day40。⚠️**Obia=名前＋"it" 厳守・"the silver one"/"him/his"なし**＝"Obia used to stand by the old shed. At night, it watched over the quiet garden. It stayed close beside Ako-chan, always near."✓（S1定位置＝小屋のそば・夜の見張り・隣）。Ako-chanがまだ青い光を探す（"For a moment, she waits for the blue glow. ... Then she remembers. Obia is gone now."）。**動物も避けて通る**＝"Dango walks wide around that ground. ... Suke-san passes by it without a sound. Even Daru's quick Pod slows down there."✓。三連 "thin and pale and gray"（1話1回）。④"But Obia did not come back. That one place stays empty in the cold."。flat副詞 "grows flat"(連結)/"walks wide"(許容)/"stays still"(連結+許容)＝据え置き。⚠️首輪/S3 leakなし。
+- **Ep199「Obia——」**：ある夜、Ako-chanが赤い日記帳を開く。3年ぶりに。最初のページ＝旅立ちの日の *"I have to go."*（S1 Ep5・4語）。新しいページを開きペンを取る。書いたのは一つの名前だけ——「Obia——」。その先は続かない。言葉が見つからない。
+  - モード：感情・クライマックス（**1語/名前タイトル例外**）。③：ランプの光、赤い表紙、たった一行、止まったペン、夜の静けさ。④：Ako-chanはその名前を、ただ見つめている。
+  - 確定：⚠️**"I have to go." 逐語4語**。⚠️**"Obia——" の続きは書かない**（S3橋渡し）。"Obia——"＝名前＋em-dash（trail off・続かない）。S1 Ep5/Ep100の日記モチーフ。
+  - ✅執筆済み（word_count 270＝floor）。Day45。1語/名前タイトル例外。夜・机・ランプ・赤い日記帳（S1 Ep100の構図エコー："The lamp hums low in the quiet room."）。⚠️**"I have to go." 逐語＝"Four small words."**✓（4語・"three words"誤りなし）。⚠️**"Obia——" を書いて止まる・続けない**＝"Then she writes. Just one word. A name. 'Obia——' The pen stops there. No more words come." ＋ "After it, there is only a long dash. She wants to write more. But the words will not come."✓（S3橋渡し）。Obia=名前（him/his・silver oneなし）。④"She looks at it for a long, long time."。🔧レビュー：since+単純過去の非整合 "happened since that night"→"happened after that night"（現在完了禁止ゆえ after で整合）。三連 "white and empty and new"（1話1回）。⚠️語数floor（270）。
+- **Ep200「The Red Notebook」**：別の夜、Ako-chanが赤い日記帳を最初から読み返す。そばにDango・Suke-san・Daru・Gabu・Ruka。一匹ずつ自分の出てくるページでそっと顔を上げる。回顧（I have to go.→クロアチアのDaru→砂漠のGabu→船を直したSuke-san→南極の吹雪とObiaの告白→飛行艇→三つの声→Obiaを見送った日）。最後のページ「Obia——」その先はまだ白い。家族はここにみんないる。ただ一人をのぞいて。
+  - モード：感情・回顧（**章クローザー＝S2前半完結・S1 Ep100/S3 Ep300同題**）。③：ランプの光、めくられるページ、寄り添う動物たち、よみがえる声と顔、最後の白い余白。④章クローザー：旅は、この一冊にすべて在る。物語は、ここでいったん満ちる。最後の一行だけが、続きを待っている。
+  - 確定（章末リンク・S2末）：next_ep は空欄（**S2最終話**＝S3 Ep201へは繋がない／S3執筆時に判断）。⚠️**回顧でS3秘密に触れない**（首輪正体/ループ/未来正体/Ep1の目）。⚠️**"Obia——"の続きは白いまま**。S1 Ep100の構図（夜/机/ランプ/読み返す）を踏襲・進化（**Obia不在**・全行程が日記に）。回顧の各場面は描写名・既出表現で（マイオラニア="the giant shell/ancient one"）。
+  - ✅執筆済み（word_count 276・**S2最終話**）。Day46。S1 Ep100と同題＝最終話モチーフ。**進化＝今回は独りでない**（"But tonight she is not alone."＝家族が寄り集まる）。⚠️**回顧順序を逐語実装**＝"I have to go."→Daru(クロアチアの岩)→Gabu(砂漠)→Suke-san(日本で船を直す)→南極の嵐とObiaの告白("Obia spoke at last")→飛行艇→三つの声("The wolves in the snow. The gentle birds. The giant shell, deep in the ice."＝**描写名・Maiolania不使用**)→Obiaを見送った日✓。動物が自分のページで顔を上げる（"Daru lifts his head at his own page."）。⚠️**"Obia——" は白いまま**＝"After it, the page is still white. She did not write more, not yet."✓。⚠️**S3秘密(首輪/ループ/未来正体/Ep1の目)leakなし**✓・**next_ep 空欄(S2末)**✓。④S2前半完結＝"The story is full tonight. ... All but one. ... Only the last line waits for more."（最後の一行だけが続きを待つ）。Obia=名前。🔧レビュー：flat副詞 "glows soft and warm"→"glows, soft and warm"。"one by one"=X by X慣用（許容・章内で step/bit/one by one が3回＝以降は変奏推奨）。
+
+<!-- Ch24 足場（Phase A）。執筆後に各Epへ ✅執筆済み（word_count・確定台詞・🔧レビュー適用）を追記する。S2完結章。 -->

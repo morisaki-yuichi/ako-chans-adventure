@@ -134,6 +134,10 @@
 | **Pen-san/Adelie の別れ（Ch23 Ep187-188）** | **南極に残る**（Obiaの永続喪失と対比＝生存・再会可能性）。Pen-san 🔒*"You will come back? Like last time?"*／Ako *"I will try."*／General 🔒*"The work is done. Go safely."*（"Mission accomplished"の言い換え・確定2026-06-26ユーザー選択） | "Like last time"＝S1出発→S2帰還の参照。Pen-san成体(Emperor)・General厳格(深い敬礼)。以後登場しない |
 | **赤い首輪（Ch23）** | Ako-chanの手元（Ch22 Ep184から継続）。⚠️**前景化しない**＝不在の token として無言の所作1回まで・説明なし | S3温存。出さなくてもよい（執筆判断） |
 | **Obiaの不在モチーフ（Ch23）** | 空席(操縦のそば)・話しかけてやめる・無意識に探す。⚠️**melodrama回避**＝所作/沈黙で。悲しみ→静けさへ移行(Ep191) | Ep190「The Empty Seat」が核。Dango空席を見る(所作)。⚠️Ruka先輩逆転はCh24＝Ch23ではまだ最年少最新入り |
+| **Ruka「先輩」逆転（Ch24 Ep195-196・S2回収）** | 最小・最新入りのRukaが**もとの家を最もよく知る**＝Daru/Gabu/Suke-sanを案内。⚠️**"senpai" は地の文で使わない（タイトルのみ・確定2026-06-27ユーザー選択）**＝英語で描く | 🔒Daru *"Ruka knows everything here!"*／Gabu *"...She does."*。プーリア(Ep103回想)で拾った最小リクガメ。Ruka=she |
+| **赤い日記帳（the red notebook）** | S1 Ep5初記入 *"I have to go."*（**4語**="four small words"）→S2末 Ep199 *"Obia——"*（**続かない**・em-dash trail off）→Ep200 最初から読み返す(全回顧)。日記の**Obia=名前**(him/his不可) | ⚠️**"I have to go." 逐語4語**("three words"誤り)。⚠️**"Obia——"の続きはS3 Ep300**(橋渡し・S2では白いまま)。Ep200=S1 Ep100/S3 Ep300同題=最終話モチーフ |
+| **S2末のS3秘密の伏せ（Ch24）** | Ep199-200の日記/回顧で**触れない**：①赤い首輪の正体(Ako-chan作)②タイムループ③"the future"の正体④Ep1の目=Obia | 回顧は描写名/既出表現で(マイオラニア="the giant shell/ancient one")。"Obia——"は喪失と未完の感情まで(説明しない) |
+| **Ch24 一行・配置** | **6**(Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka)＋3Pod。Pen-san/Adelie/Obia不在。定位置(Ep197)：Daru日溜まり/Gabu木陰/Suke-san=Ako-chanの後ろ/Ruka棚の上/Dango真ん中 | Obia不在の庭(Ep198)=S1定位置(小屋のそば・夜の見張り・Ako-chanの隣)。Obia=名前/it・"the silver one"不使用 |
 | **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
