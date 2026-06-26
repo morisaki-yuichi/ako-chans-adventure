@@ -92,6 +92,7 @@ w=$(body F|wc -w); echo "$w vs $(grep -oE '^word_count: [0-9]+' F)"
 
 ## 引き継ぐ確定ルール（季で上書きされる文法ティア以外）
 - **Obia="it"／地の文で "robot" 不使用**（"the silver one/thing/body"）。Ep1の庭の「目」＝Obia の連結はS3 Ep299まで伏せる。
+  - **"the silver one/thing" の使い方（確定 2026-06-26）**：これは "robot" 回避の言い換えであって、名前 "Obia"（Ep3で確立）や "it" の代用ではない。**既定の呼称は "Obia"＋"it"**。"the silver one" は **Obia の異質さ・謎・不気味さを際立たせたい時のみ・1話0〜1回**に限る。**親密／感情ビート（近づく・寄り添う等）では使わず名前で呼ぶ**（モノ化が情と喧嘩するため）。S2でObiaは家族＝過度な距離語は逆効果。
 - **Dango は引用台詞を持たない**（Ako-chanが理解・代弁／無言の仕草＋地の文）。Ako-chanは全動物＋Dangoを理解できる（台帳A-2）。
 - **will 例外**＝①Obia固定台詞 ②仲間の合流の誓い "I will go with you" 型 ③物語を運ぶ誓い（クジラ "We will not forget"）。S1では他のwill/would/could禁止（**could/wouldはS2解禁**）。
 - **赤い首輪の正体（Ako-chan作）／タイムループ／送信の宛先・目的はS3まで伏せる**。S1告白(Ep83)で明かすのは「監視・送信・宛先不明・自分のせいだと思う」まで。

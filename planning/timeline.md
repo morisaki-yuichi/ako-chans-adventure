@@ -756,3 +756,103 @@
 - **日記の記入記録（S1）**：Ep5 *"I have to go."*（1ページ目・唯一の記入）／Ep100 新ページを開くがペンは持つだけ＝**未記入**（3段日記の構造を保持）。
 
 <!-- S1完結（Ep1〜100）。S2はここから別途。 -->
+
+---
+
+# Season 2 — 「声を届ける旅」 *Delivering the Voices*
+
+## S2 story_day の定義
+- **S2 Day 1 = S2開幕の日**（Ep101・3年後のイギリスの朝）。S1（Day 121で完結）からは約3年後だが、**S2は新たに Day 1 から数え直す**（S1同様"季の開幕＝Day 1"）。
+- Day割付は直前話から非減少で。厳密管理しない（"説明しない"方針）。3年の経過は**Ep101の地の文**で示し、日数では管理しない。
+
+## S2 最重要・継続性アンカー
+- **S2の文法ティア解禁**：will（意図・予測）／could・would 使用可（can/cannot はS1既出）。引き続き禁止＝関係代名詞節・現在完了形・過去進行形・過去完了形・仮定法・分詞構文。1文≤12語（最大15語）・語彙1500語。
+- **Ruka**：S2開始時点で**すでにAko-chanと同居**（家族）。出会いはS2開始直前のイタリア・プーリア旅行（Ep103で回想）。**地の文の代名詞＝"she"**（ユーザー確定 2026-06-26）。**ごく短い台詞を稀に許す**（基本は所作・静止で見せ、必要時のみ1〜2語の最小台詞。Daru饒舌との対比）。
+- **Obia**：引き続き地の文の代名詞＝**"it"**／"robot"不使用＝"the silver one/thing"。Ep1の庭の「目」＝Obiaの連結はS3 Ep299まで伏せる。S2でタイムマシンに触れて記憶復号（Ch17）まで、Obiaは自分の使命を知らない。
+- **異変**：S2は背景ノイズのみ（S1の継続送信は停止済み）。S2の南からの信号は**南極のタイムマシン発の暗号化信号**で、現代内通信＝異変増幅とは無関係（正体・宛先はS3まで伏せる）。
+- **Dango**：成犬。S1のパピーらしさは薄れるが、Ako-chanへの独占欲・Rukaへの軽い嫉妬は健在。**引き続き引用台詞なし**（所作＋地の文でAko-chanが代弁）。
+- **赤い日記帳**：S2の記入は**Ep199 "Obia——"**（続かない）のみ。Ch13では日記に書かない。
+
+## Chapter 13「The Signal from the South」— イギリス（Ep101〜108・8話・S2開幕）
+
+**Ch13 共通**
+- ★**3年後のイギリスで開幕**。一行＝**Ako-chan（13〜14歳）・Dango（成犬）・Obia・Ruka**の4人（Daru・Gabu・Suke-san・Pen-san・Adelieとはまだ再合流していない）。穏やかな日常→信号受信→「もう一度南へ」の決意、で章を閉じる。
+- ★**Rukaの導入章**：すでに家族であるRuka（黄〜オレンジの網目甲羅・甲長5cm・頭側面に黄色い丸斑）の存在を日常の中で定着させ（Ep102）、出会い（プーリア）を回想で見せる（Ep103）。代名詞＝she・最小台詞。
+- ★**信号アーク開始**：Ep104受信→Ep105解析（南へ行け）→Ep106 Obia自身の暗号記憶発見。**信号の正体・宛先・Obiaの使命は伏せる**（Ch17で復号）。Obiaは「理由は分からない」を貫く。
+- ⚠️**異変を「ずっと前から」と言わない**。S2の信号は"今"始まったもの。期間表現は避ける。
+- ⚠️**まだ確立していない先取り禁止**：飛行艇（Ch14）・ミニPod（Ep109）・タイムマシン・使命・跳躍・各仲間の再合流は本章で名指ししない。Ch13終了時点でAko-chanが知るのは「南から信号が来た／南へ行かねばならない／Obiaの中に読めない記憶がある」まで。
+- モチーフ：3年の静けさ／日溜まりのRuka／青白いObiaの目／"We go again"（S1旅立ちとの静かな反響）。
+
+### Day 1 — 3年後のイギリスの朝
+- **Ep101「Three Years On」**：S1から3年後。穏やかな朝の日常。Ako-chanは少し背が伸び、Dangoは成犬、Obiaはまだ庭にいる。**この回はAko-chan・Dango・Obiaの原初トリオに絞る**（Rukaは登場させない＝紹介はEp102に集約）。テーマ＝「3年が過ぎた／変わらないもの／変わったもの」。
+  - モード：静・観察。③：朝の光、紅茶、庭の芝、Dangoのあくび、Obiaの青白い目。④：何も起きない。でもAko-chanは時々、旅のことを思い出す。
+  - 確定：3年の経過は地の文で示す（"Three years"等）。世帯は4人だが**この回でRukaは描写・名指ししない**（読者がRukaに会うのはEp102が初）。S2要素（信号・飛行艇等）はまだ出さない。
+  - 🔒継続性：Ep1の庭の朝と静かに呼応してよいが「目＝Obia」は明言しない。
+  - ✅執筆済み（word_count 275）。台詞なし。3年経過＝単純過去 "Three years passed since the long journey." **構成＝1段落1主体（カメラ一方向）：P1庭の朝→P2 Ako-chan→P3 Dango→P4 Obia＋庭→P5テクスチャー→P6余韻**（視点の往復を排除）。各人物ブロック内で「変化＋不変」を完結。Ako-chan＝13歳・赤メガネ同じ。**変化＝Ako-chan背が伸びた／Dangoの成犬化（"big and calm and strong"・"bark is deep, not high"）／Ako-chanの成熟（"thinks before she speaks now"＝身長重複を避けた変化のビート）**。**不変＝Obia（古い小屋のそば・目 pale and blue・代名詞it・"looks no different than before / waits there, quiet, as it always does"）／庭（"the same fence / the same old shed / the same soft English light"）**。締め＝旅と遠い仲間を時々思う（**仲間を名指ししない**＝"the friends far away in other lands"）→内面の余韻 "…stays warm inside her chest, quiet and deep."
+
+### Day 1〜2 — Rukaの日常と出会いの回想
+- **Ep102「Ruka Is Everywhere」**：**Rukaの初登場回（読者初対面）**。冒頭でRukaを紹介し、外見の弁別特徴を中心に描く。続けて「どこにでも現れる」定位置（縁石の日溜まり・Dangoの水器のそば・玄関の棚の上）を見せる。Ako-chanはRukaがそこにいることをもう当然に感じている。
+  - モード：静・観察。③：甲羅の黒×網目＆ほっぺの黄丸、日溜まりの暖かさ、ゆっくりした足、止まる時間。④：いつからRukaが家族になったのかを思う。
+  - 確定（外見・world.md準拠）：甲長5cm（3匹中最小）・**甲羅は黒の面積が最も広く網目状（"Her shell is mostly black. The black spreads over it like a net. Yellow and orange show through the gaps."）**・**ほっぺ＝頭側面に黄色い丸（"A round yellow spot marks each cheek."）**・手のひらに乗る大きさ（"She can sit in the palm of one hand."＝**掌サイズの確定アンカーはここに一本化**。Ep103では再記述しない）。代名詞she。台詞は出さない（所作のみ）。
+  - ✅執筆済み（word_count 288）。台詞なし（所作のみ）。**構成＝P1 紹介＋外見（黒網目・ほっぺ黄丸・掌サイズ）→P2 "everywhere"＋定位置3点→P3 歩行（止まりながら "one step. Then she stops. She looks. Then she walks again."）→P4 日光浴→P5 Dango（嗅いでまた伏せる＝軽い受容）→P6 余韻**。外見描写はP1に集約（旧版でP3にあった「ほっぺ黄丸」はP1へ移動）。定位置＝①玄関踏み石の日溜まり ②Dangoの水器のそばの涼しい床 ③玄関そばの高い棚（"She likes that quiet spot the best of all"）。
+  - 🦎**日光浴の生態（確定）**：リクガメは**手足・首を伸ばして皮膚に日光（UV）を当てる**＝甲羅を温めるのではない。本文＝"Ruka stretches her legs wide. She reaches her head and neck up high. The warmth sinks into her skin, not just her shell."（×「脚を引っ込める」は誤り）。以後の日光浴描写の基準。
+  - ⚠️**締めの継続性（確定）**：Ep101でRuka不在のS1冒険を回想するため、「Rukaのいない時を思い出せない」型は**矛盾**＝不可。現在基準の felt-sense で："Now it is hard to imagine the house without Ruka."／"She fits here, in her own slow way."（×"cannot remember a time without Ruka" ／×"like she always was"）。締め＝いつ家族になったか思い出せない（"When did Ruka become part of the family?"）。
+- **Ep103「The White Walls of Puglia」**：回想（S2開始直前）。プーリアでの出会い。誰のものでもない小さなリクガメが白い石壁の日向を歩く。Ako-chanが手を差し出すと、Rukaは止まり、のぼってきた。
+  - モード：静・観察（回想＝単純過去で語る）。③：白い石壁、地中海の光、乾いた風、小さな甲羅の重み。④：そうしてRukaは新しい家族になった。
+  - 確定：frontmatterの story_day は現在（フレーム）側の Day 2。本文中身は過去（プーリア）。地名 Puglia は太字にしない。Rukaは無言（所作）。
+  - 🔒継続性：Daru/Gabuの故郷別れと違い、Rukaは"拾われて家族になった"出会いの構図。
+  - ✅執筆済み（word_count 285）。台詞なし。フレーム＝現在（庭でRukaを見る）→回想本体は**単純過去**。場所＝Italy・Puglia（南部・太字にしない）。回想内のRukaは命名前＝"a tiny tortoise / the little tortoise / it"。
+  - ⚠️**Ep102末尾との接続（確定）**：Ep102は「**いつ家族になったか**は分からない（"She cannot name the exact day"）」で閉じる。Ep103はこれを受け、**「家族になった日（不明・段階的）」と「出会った日（鮮明）」を区別**してから回想に入る。P1＝"She still cannot name the day Ruka became family. But she remembers the day they first met."／P6＝"She became one of the family little by little, with no clear day."（×旧 "And so Ruka became part of the family"＝定点化はEp102と矛盾）。"day"×4はこの対比のhinge（意図反復）。出会い＝Ako-chanが**手を差し出して待つ**（"She did not grab the little tortoise. She held out her open hand and waited."）→ Rukaが止まり**手のひらにのぼる**（"it climbed up onto her palm"）。③＝石壁・地中海の光（"The Mediterranean light was soft and gold."）・乾いた塩の風・手のひらの小さな温かい重み（"the small warm weight"）・"She knew she could not leave it behind."（持ち帰りへの情）。命名＝持ち帰って数日後に "Ruka"（"After some days, she gave her a name. Ruka."）→以後 she／家族。
+    - ⚠️**外見描写はEp102に一本化**（Ep103では甲羅の網目・ほっぺ黄丸・甲羅サイズを再カタログしない＝重複回避）。掌サイズの確定アンカーはEp102 "She can sit in the palm of one hand."（旧Ep103 "no bigger than her palm" は撤去）。Ep103 P5は出会いの瞬間のテクスチャー（場の感覚＋手触り＋情）に専念。
+  - 🔧レビュー適用（Phase C）：
+    - 第1次（語数中立）：Ep103 サイズ "the size of her hand"→"no bigger than her palm"（Ruka最小の保持）。
+    - 第2次（要観察点反映）：Ep101 soft変奏（"slow and soft"→"slow and gentle"）＋締めの warm 連続クラスター/天気まとめを1ビートに集約（末尾＝"…stays warm inside her chest, quiet and deep."）。Ep102 quiet変奏（"watches her quietly"→"closely"／"quiet places"経由の重複を "favorite places" に）＋"When did **she**…"→"When did **Ruka**…"（曖昧解消）＋締めの3連まとめを2ビートに集約（"…She belongs here now, in every quiet day."）→ **word_count 282→278**。Ep103 は締めが既に単一余韻のため変更なし（276）。
+    - 第3次（ユーザー指摘・構成）：**Ep101からRukaを撤去**（紹介をEp102に集約）→空いた箇所をObiaの「不変」ビートに置換。**重複していた "Ako-chan's legs are longer now." を削除**（P2 "Ako-chan is taller now." と重複）→成熟ビートに差し替え。
+    - 第4次（ユーザー指摘・視点整理）：Ep101 中盤の視点往復（Ako→Dango→Obia→Dango→Ako→庭）を解消し**1段落1主体**に再編＝P2 Ako-chan（taller/13/hands bigger on cup/thinks before speaks＝変化＋"still wears red glasses"＝不変）／P3 Dango（big&calm&strong/bark deep＝変化＋"still lies at her feet"/yawns/head on foot＝不変）／P4 Obia＋庭（"looks no different / waits there, quiet, as it always does" ＋ "the same fence/shed/light"＝不変の総括）。→ **Ep101 word_count 275**。
+    - 第5次（ユーザー指摘・Ep102冒頭）：Ep101からRuka撤去に伴い**Ep102をRukaの初登場として冒頭から再構築**＝P1を紹介＋外見集約（world.md弁別特徴＝黒網目甲羅・ほっぺ黄丸・掌サイズ）に、P3は歩行専念に整理。"small"近接3回を変奏（"small gaps"→"the gaps"／"small enough…"→"can sit in the palm of one hand"）。→ **Ep102 word_count 280**。
+    - 第6次（ユーザー指摘・Ep102）：①日光浴の生態修正（脚を引っ込める→**手足・首を伸ばして皮膚にUV**："stretches her legs wide / reaches her head and neck up high / warmth sinks into her skin, not just her shell"）。②締めの矛盾修正（"cannot remember a time without Ruka"＝Ep101のS1回想と矛盾→"Now it is hard to imagine the house without Ruka"／"like she always was"→"She fits here, in her own slow way"）。→ **Ep102 word_count 288**。
+    - 第7次（ユーザー指摘・Ep103 P5）：Ep102が外見を担う紹介回になったため、**Ep103 P5の外見カタログ（"Black lines crossed the yellow like a net" / "A round yellow spot marked each side of its head" / "The shell was no bigger than her palm"）を撤去**し、出会いの瞬間のテクスチャー（salt風／石壁の光／掌で休む手触り／"could not leave it behind"）に差し替え。P5 "white walls"→"stone walls" で white を1つ変奏。→ **Ep103 word_count 274**。掌サイズ確定アンカーはEp102に一本化。
+    - 第8次（ユーザー指摘・Ep102→Ep103接続）：Ep103フレームがEp102末尾「いつ家族になったか分からない」と**ちぐはぐ**（思い出せない直後に鮮明に回想）→ **「出会った日（鮮明）」と「家族になった日（不明・段階的）」を区別**してEp102から橋渡し。P1冒頭＝"She still cannot name the day Ruka became family. But she remembers the day they first met."／P6＝"And so Ruka became part of the family"（定点化）→"She became one of the family little by little, with no clear day."（段階化）。→ **Ep103 word_count 285**。
+    - 第9次（ユーザー指摘・Ep102 P1）：世帯メンバーにObia欠落 → "She lives with Ako-chan and Dango now."→"…Ako-chan, Dango, and Obia now."（4人＝Ako/Dango/Obia/Ruka）。→ **Ep102 word_count 289**。
+    - 結果：fm＝275/289/285（全話270–330内）。warm/still/same/small/sun/white/day 等の残存反復は段落分散・対比hinge・モチーフ（"The same fence/shed/light"／title "White Walls"／met日⇄家族日）で§5「近接3回（惰性）」非該当。
+
+### Day 2 夜 — 信号受信
+- **Ep104「A Faint Signal」**：ある夜、Obiaが受信を始める。南から、かすかだが止まない信号。
+  - 🔒台詞（Obia）：*"There is a signal. From the south."* ※S2信号アークの起点。
+  - モード：静・観察（不穏の芽）。③：青白く光るObiaの目、夜の静けさ、信号のかすかなノイズ、窓の外の暗い庭。④：3年の静けさが、その夜終わる。
+  - 確定：信号の正体・宛先は伏せる。Ako-chanが振り返る。
+  - ✅執筆済み（word_count 273）。深夜、眠れないAko-chanが階下へ→Obiaが窓辺に立ち、目が pale and blue でいつもより明るい・低いハム音（"A low hum comes from inside it."）。🔒Obia：*"There is a signal,"* / *"From the south."*（逐語）。Ako-chanは信号を聴こうとするが聴こえない＝**"Only Obia can."**（Ep2 "Only Ako-chan can." の反転エコー）。継続性：3年の夜は静かだった＝単純過去 "For three years, the nights were calm."／"The ground was quiet."（Ep99 と呼応・期間表現で異変を長く言わない）。Dango=2階で就寝／Ruka=棚の上で静止。Obia呼称＝"the silver one"／代名詞 it。"south"は本文2回（🔒＋"The word 'south' sits cold"）に抑制。
+
+### Day 2夜〜3 — 解析と暗号記憶
+- **Ep105「From the South」**：Obiaが信号を解析（時間がかかる・夜から朝へ）。メッセージは明確に——南へ行け。
+  - 🔒台詞（Obia）：*"We must go south. I do not know why."* ※"must"はS2可。Obiaは理由を知らないを貫く。
+  - モード：静・観察。③：明滅するObiaの目、夜から朝への時間、Dangoの寝息、Rukaの静止。④：また旅が始まろうとしている。
+  - ✅執筆済み（word_count 275）。夜通しの解析→夜明けに判明。🔒Obia：*"We must go south,"* / *"I do not know why."*（逐語・"must"はS2可）。Obiaは理由を知らないを貫く（締め "And Obia does not know why."）。Ako-chanは "She felt it three years ago."（前回の旅＝3年前。期間表現は前回の旅の記憶であり異変の長期化ではない）。③：Obiaの目 flicker（"on and off"＝畳語ticをCh13で1回使用・以降は変奏）／窓が gray→pale で夜明け／Dangoの寝息／Rukaの静止。"south"3回（🔒＋"South. That is the way."＋"looks south"）に抑制。
+- **Ep106「Something Locked」**：解析の過程で、Obiaは自分自身の中に暗号化されていて読めない記憶があると気づく。理由はObiaにも分からない。
+  - 🔒台詞（Obia）：*"There is something in me. I cannot read it."* ※S2の核（暗号記憶）。復号はCh17。
+  - モード：静・観察（不穏）。③：Obiaの目の明滅、止まる動き、Ako-chanの不安、夜の冷気。④：Obiaは自分が何を忘れているのかを知らない。
+  - ⚠️先取り禁止：使命の内容（声を救え等）はここで明かさない。
+  - ✅執筆済み（word_count 271）。Day3夜・冷気。解析中にObiaが急に静止（"Its eyes stop flickering."）→🔒Obia：*"There is something in me,"* / *"I cannot read it."*（逐語）。Ako-chan *"What do you mean?"* → **Obiaは答えない**（"But Obia is quiet. It does not know the answer."＝理由を知らない）。記憶は "a memory, locked away inside Obia"／"It cannot read its own mind."（**使命内容は明かさない**）。締め＝"It does not know what it forgot. It does not know why it came here."（Obia自身の出自の謎も保持）。Ako-chanの不安を外在化（"The silver one seems almost afraid. That frightens Ako-chan most of all."）。⚠️"locked/open it" の語感はEp113（"Still locked. I cannot open it."）と重複しすぎないよう、Ep106では地の文 "locked away" のみ・Obia台詞に "open" を使わせていない。Obia呼称＝"the silver one"／it。
+  - 🔧レビュー適用（Phase C・第2バッチ Ep104-106）：
+    - **Obia配置（確定）**：Ep104-106は3話とも**Obiaが屋内**（窓辺・Ako-chanのそば）。S2のObia=家族のため**夜の見張り／信号シーンは屋内可**と確定（ユーザー承認 2026-06-26）。昼の庭タブロー（Ep101=小屋のそば）は維持＝[[continuity-ledger]] B-1 に登録。
+    - **雰囲気語の変奏（§5）**：Ep104 dark×5→3（"in the dark"×3→1："comes down the stairs in the dark"→"…the stairs"／"faster in the dark"→"faster in her chest"）・quiet×4→3（"the quiet room"→"the silent room"）→**word_count 276→273**。Ep105 soft×3→2（"A new day starts, soft and bright"→"…fresh and bright"）→275（中立）。Ep106 dark×4→3（"watches Obia in the dark"→"…in the shadows"）→275（中立）。
+    - **Obia呼称の運用ルール化（確定 2026-06-26）**：既定＝"Obia"＋"it"。"the silver one" は異質さ・不気味さを狙う時のみ・1話0〜1回／親密ビートでは名前で呼ぶ。Ep106の "the silver one"×3→1（怯えの "The silver one seems almost afraid." のみ残置・親密2か所は "Obia" へ）→ **word_count 275→271**。ルールは [[continuity-ledger]]・[[chapter-workflow]] に登録。
+    - 結果：fm＝273/275/271（全話270–330内）・最長文9語・禁止文型/robot/三連/畳語/フラット副詞なし・🔒台詞3本逐語一致。
+
+### Day 3〜4 — 成犬Dango／決意
+- **Ep107「Dango Is Bigger Now」**：テクスチャー回。成犬になったDango（体が大きく落ち着いた）。でもAko-chanへの独占欲は健在。Rukaが近づくとまだ少しやきもち。3年を犬の変化で見せる。
+  - モード：静・観察（休符寄り・③厚め）。③：大きくなった体、低い声、Ako-chanの足元の定位置、Rukaとの距離。④：変わったものと、変わらないもの。
+  - 確定：Dangoは引用台詞なし（所作＋地の文）。Rukaへの軽い嫉妬＝S1のDaru/Gabuへの嫉妬の系譜（激化させない）。
+  - ✅執筆済み（word_count 290）。Day4・休符回（"The signal can wait for one quiet day."＝信号アークを進めない）。Dangoは引用台詞なし＝所作＋地の文。成長＝単純過去で対比："When he was small, it was high and sharp."（吠え声）／"Three years made him strong."／"His bark rolls deep and low, like far thunder."。世界観整合＝伝統的赤白コーギー（"His fur is thick and red and white."・"His long tail swings hard"＝しっぽカットせず）。**変／不変の対比が核**：体は大きく落ち着いた（changed）／足元の定位置・独占欲は不変（"Dango still naps right by her chair."／"his heart is the same."）。Rukaへの軽い嫉妬＝Rukaが手に近づく→Dangoが低い声＋間に寄る（"He does not want to share her."）＝**激化させず**Ako-chanが笑って収める。締め＝"Changed and unchanged, both at once."。Obia不登場（純Dango回）。"big"は3回に抑制（title=Bigger と整合）。
+- **Ep108「We Go Again」**：Ako-chanが、もう一度南へ行く決意をする。Obia・Dango・Rukaがいる。仲間たちもきっと待っている。
+  - 🔒台詞（Ako-chan）：*"We go again."* ※S1旅立ち（Ep5–7）と静かに反響。
+  - モード：感情／静。③：荷物、地図、Rukaを見つめるAko-chan、朝の光。④章クローザー：3年ぶりの旅が始まる。
+  - 確定（章末リンク）：next_ep は空欄（Ch14 Ep109 執筆時に ep109.prev_ep=ep108 と相互リンク）。先取り禁止（飛行艇・ミニPodはCh14）。
+  - ✅執筆済み（word_count 284）。Day4朝・章クローザー。🔒Ako-chan：*"We go again."*（逐語・**softly**／"We"＝家族になった4人）。**S1旅立ちとの三段日記の反響を明示**：3年前を単純過去で回想＝*"Three years ago, she wrote four small words. I have to go."*（Ep5/Ep100アンカー・**4語**＝C台帳）→ **今回は書かない**＝*"This time, she does not write at all. She says it out loud, to all of them."*（Ep100 "she does not write" の継承／**Ch13は日記に書かない**＝S2初記入はEp199）。家族の確認＝Obia（戸口・pale blue・**親密ビートなので名前で呼ぶ**）／Dango（足元）／Ruka（窓辺の日溜まり・she・所作のみ："pulls her head in, then out"）。Dangoの反応＝"something is starting"（Ep104の地の文エコー）。⚠️先取り禁止厳守：旅の手段（飛行艇・ミニPod）は不出。地図は"the long way down. Sea and land and ice, far to the south."＝地理のみ（手段に触れない）。締め＝"And this time, they go together."（S1の単独出発との対比）。
+
+  - 🔧レビュー適用（Phase C・第3バッチ Ep107-108）：
+    - Ep107：三連2→1（"calm and strong and sure"→"calm and sure"）・still 5→4（P6重複の "He still wants…all to himself"→"He wants…"）・strong 3→2。さらに**Ep101とのDango描写重複を解消**（"Dango is not a puppy anymore"→"The little puppy is long gone now"／"His bark is deep…"→"His bark rolls deep and low…"／"He still lies at her feet"→"Dango still naps right by her chair"）。→ **word_count 290**。
+    - Ep108：small 4→3（Ruka "pulls her small head"→"pulls her head"。"four small words" は🔒コールバックのため保持）。→ **word_count 284**。Ep108本文はユーザー指示で**それ以外変更なし**。
+    - 結果：fm＝290/284（範囲内）・最長文9語・三連各1・禁止文型/robot/Obia代名詞なし・🔒「We go again」逐語。
+
+<!-- Ch13（Ep101–108）全話✅執筆済み＆レビュー完了（2026-06-26）。各Epに確定台詞・新情報・word_countを追記済み。 -->
