@@ -1182,4 +1182,66 @@
   - 確定（章末リンク）：next_ep は空欄（Ch19 Ep151執筆時に ep151.prev_ep=ep150 と相互リンク）。⚠️**Ep151（2回目＝オオウミガラス／Pen-san・General Adelie選定／北大西洋孤島）はCh19＝先取りしない**（"あと二つ、声が待っている"まで）。🔒Ako-chan *"No. It was proud."* はEp147の狼の誇りの回収。
   - ✅執筆済み（word_count 272）。Day16。章クローザー。🔒Pen-san *"Was it... sad?"* / Ako-chan *"No," ... "It was proud."*（逐語・Ep147 "The voice was not sad. It was proud." の回収）✓。⚠️**Ch19先取りなし**＝"Two more voices wait somewhere in time. She does not know where. She does not know who."（オオウミガラス・孤島は出さない）✓。next_ep 空欄✓。配置：Dango膝・Suke-san右・Daru/Gabu Pod・Ruka小さく傍ら（定位置整合）。締め＝"Somewhere far off, the voices wait for her."。⚠️残課題（要ユーザー判断）：最終文 "Its low sound fills the quiet dark." の "Its" は段落頭の "the old machine" を指す（Dango "his" との対比で機械と読めるが、直前 "Dango's warm side" との近接で一瞬曖昧）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。
 
-<!-- Ch18 足場（Phase A）。執筆後に各Epへ ✅執筆済み（word_count・確定台詞・🔧レビュー適用）を追記する。 -->
+<!-- Ch18（Ep142〜150）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
+
+---
+
+## Chapter 19「The Island in the Storm」— 2回目跳躍・オオウミガラス（Ep151〜159・9話）
+
+**Ch19 共通**
+- ★**跳躍の型の2回目**（Ch18で確立した：準備→選定→跳躍→Ako-chanが声を聴く→Obiaが転送→帰還）。本章で型を反復しつつ**声の質感を差別化**する。
+- ★**選ばれたメンバー＝Pen-san・General Adelie**（＋必須のAko-chan・Obia）。**洞窟に残る＝Dango・Suke-san・Daru・Gabu・Ruka**（Ep151で機械が選定）。⚠️**選定理由は説明しない**（machine chooses）。
+- ★**行き先＝18〜19世紀初頭・北大西洋の孤島・嵐の季節**（高波・強風・岩だらけ・たくさんの海鳥）。⚠️**島は命名しない**（"a rocky island in the North Atlantic"＝地域名が教材アンカー・Ch18の"old Japan"と同方針）。
+- ★**オオウミガラス**：大きい黒白の海鳥・**飛べない・人を恐れない**。⚠️**"great auk" の語は教材価値で1〜2回まで可**（実在の種名＝地名/"Emperor penguin"と同格）／多くは "the birds / the flightless birds / the seabirds"。companion的な命名はしない。
+- ★**Pen-sanの鏡像**：Pen-san（飛べない海鳥＝ペンギン）が、オオウミガラス（"北のペンギン"とも呼ばれた飛べない海鳥）に**自分と似た姿**を見る＝**主に無言の凝視**＋短い台詞可。**General Adelie＝観察者の台詞**（🔒"They cannot fly. And they do not run."）。
+- ★**人間の乱獲＝示唆のみ・人を出さない（確定 2026-06-26・ユーザー選択）**：⚠️**人物・暴力・船/帆も画面に出さない**。"People come. The birds do not run. Each year, there are fewer." の体感＋**Ako-chanの予感/悲しみ**で伝える（Ep155）。Ch18の"人を出さない"方針と整合。
+- ★**声の質感（確定）＝オオウミガラスは穏やかな引用台詞**（**怒りも恐れもない・静か・諦念に近いが責めない**）。狼の"誇り"とは別の質感をつける（3跳躍：狼＝誇りの言葉／オオウミガラス＝穏やかな言葉／マイオラニアCh21＝言葉でない）。
+  - 🔒オオウミガラス（引用例・執筆時に最終確定）：*"We are not afraid. We never learned to fear. We stay. We do not fly away."*（穏やか・恐れの不在が悲劇）。⚠️**"We will not forget"系の誓いはマイオラニアCh21の取り置き＝使わない**。
+- ★**跳躍衝撃の逓増（継続）**：**2回目＞1回目・復路＞往路**。Ep152＝往路が1回目より大きい（Pen-san思わず声）／Ep158＝復路がさらに重い・体が軋む・Pen-sanぐったり。Ep159＝全員が逓増を意識。⚠️**Ch20の"We should stop"明言はEp160＝先取りしない**（Ep159は不安・顔を見合わせるまで）。
+- ⚠️**伏せる**：①"the future"は抽象②異変の根本原因（Ch22）③裂け目・分離（Ch20-21）④Ch20の"stop"議論の明言（Ep159は予兆まで）。
+- 語り規約：Obia＝it（転送役）／General Adelie＝命令調・短い・厳格（昇進後・"the General/he"）／Pen-san＝甘えん坊だが本章は神妙・鏡像（"he"）／Dango・Suke-sanは**洞窟残留＝跳躍先に出さない**。
+- Day割付：Ch18末＝Day16。Ch19＝**Day17〜18（loose・非減少）**＝Ep151-157がDay17（準備〜島〜転送）／Ep158-159がDay18（帰還〜受け止め）。
+
+### Day 17 — 選定〜跳躍〜北大西洋の孤島
+- **Ep151「The Second Time」**：2度目の跳躍準備。機械が次のメンバーを選ぶ＝光がPen-sanとGeneral Adelieを包む（＋Ako-chan・Obia）。Pen-sanは少し緊張。Generalはいつもどおり落ち着いている。
+  - モード：緊張・選定。③：選ぶ光、二羽のペンギン、機械の音、見守る仲間。④：今度は、どこへ行くのか。
+  - 確定：跳躍組＝Ako-chan・Obia・Pen-san・General Adelie／洞窟残留＝Dango・Suke-san・Daru・Gabu・Ruka。Pen-san＝緊張（所作/短い台詞）／General＝平静（短い命令調）。⚠️**行き先（孤島・オオウミガラス）は先取りしない**。
+  - ✅執筆済み（word_count 279）。Day17。Ep142と意図的に呼応する選定回（"This is the second time now. They all know what comes next."）。機械が光でPen-san→Generalを選ぶ（"A soft glow wraps his tall body."＝成体）。Pen-san緊張＝*"Is it my turn now?"*（wide and unsure）／General命令調＝*"Steady," ... "Stay close to me."*（firm and sure・"Hard times do not shake him."）。洞窟残留5体（Dango足元・Suke-san・Daru/Gabu Pod・Ruka静止）。Ako-chan *"We go together,"*。⚠️**行き先・鳥・島・海は一切出さない**（reveal境界クリア）。締め＝"Where will it take them this time? No one knows yet."。
+- **Ep152「A Harder Jump」**：2度目の跳躍。光と衝撃が一度目より大きい。Pen-sanが思わず声をあげる。次の瞬間、潮の匂いと強い風。
+  - モード：動・出来事。③：激しい光、大きな衝撃、Pen-sanの叫び、変わる空気。④：目を開けると、灰色の海と嵐の空だった。
+  - 確定：⚠️**往路＞1回目往路（逓増）**を体感で示す。場所は"灰色の海・嵐の空"まで（島の詳細はEp153）。
+  - ✅執筆済み（word_count 275）。Day17。⚠️**逓増を多層で明示**＝"brighter than the first time" / "this time it is stronger" / "squeezes harder than before" / "harder than the last"✓。Pen-san悲鳴＝"Pen-san cries out, loud and sharp."→消耗（"dizzy and weak" / "He sways, but he stands."）をGeneralが翼で支える（*"Are you hurt?"*）。⚠️**到着は"灰色の海・嵐の空"まで**＝島/鳥は未開示（"She does not know this place at all."）✓。Obia=it（"its blue eyes calm"）。🔧レビュー：flat副詞 "spins fast and wild"→"spins, fast and wild"（コンマ付加形容）。
+- **Ep153「The Island」**：18〜19世紀初頭の北大西洋の孤島・嵐の季節。波が高く風が強い。岩だらけの島にたくさんの鳥。Ako-chan・Obia・Pen-san・General Adelie。
+  - モード：観察（到着）。③：荒れる海、濡れた黒い岩、吹きつける風、鳥の群れ。④：この島に、消えゆく者たちがいる。
+  - 確定：⚠️**島は命名しない**（北大西洋＝地域アンカー）。嵐の季節（高波・強風）。
+  - ✅執筆済み（word_count 276）。Day17。⚠️**島＝命名なし**＝"This is a lonely island in the North Atlantic."（地域アンカーのみ）✓。⚠️**人を出さない**＝"There is no house on the island. No path runs across the stone. No tree stands against the wind."（Ep144と同方針）✓。鳥は遠景・**未識別**（"large and black and white" / "do not mind the storm"＝飛べない/種名はEp154）✓。**Pen-sanの鏡像の布石**＝"Pen-san stares hard at them."（無言の凝視）。Obia=it（"its blue eyes bright"）。締め＝"Somewhere on this island, the last of them wait. ... she feels them, close and near."。🔧レビュー：§5 rock×9→6（"wet rock"→"wet stone"・"across the rock"→"the stone"・"wet rocks"→"wet shore"＝stone/shoreで分散・生態整合維持）。sea×6/wind×5は嵐の必然テクスチャーで据え置き。
+- **Ep154「The Birds That Cannot Fly」**：オオウミガラスの群れ。大きく黒白の海鳥・でも飛べない・人を恐れない。Pen-sanが自分に似た姿をじっと見る（鏡像）。
+  - 🔒台詞（General Adelie）：*"They cannot fly. And they do not run."*
+  - モード：静・観察。③：立ち並ぶ海鳥、飛べない翼、人を恐れない目、波の音。④：恐れないことが、彼らを危うくしている。
+  - 確定：⚠️**"great auk"語は1〜2回まで可**（多くは "the birds"）。**Pen-san＝無言の凝視**（鏡像・短い台詞可）。cannot＝S1既出。
+  - ✅執筆済み（word_count 273）。Day17。🔒General Adelie *"They cannot fly. And they do not run,"*（逐語・speech tag コンマ）。**"great auk" 1回**＝"These are the great auks of the north."（教材アンカー・他は "the birds/seabirds"）✓。**Pen-sanの鏡像を明示**＝無言の凝視（"stares at them without a sound" / "They cannot fly. He cannot fly. His small wings are just like theirs." / "He cannot look away."）。生態＝海が本拠/陸では slow and clumsy/水中は fast（正確）。④恐れの不在＝危うさ（"Fear keeps wild things safe. ... And so they are not safe."＝Ep155布石）。⚠️人は未出（識別回）。
+- **Ep155「No Fear」**：人を恐れないことが悲劇。**人間の乱獲＝示唆のみ・人を出さない**。群れは減っていく。Ako-chanは胸が痛む。
+  - モード：感情・静。③：無防備な群れ、減った数、灰色の空、近づける距離。④：恐れを知らないまま、彼らは消えていく。
+  - 確定：⚠️**人物・暴力・船/帆を画面に出さない（確定）**＝"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える。
+  - ✅執筆済み（word_count 276）。Day17。⚠️**人間の乱獲＝示唆のみ厳守**＝"People come to this lonely island. The birds do not run away. ... And so, each year, there are fewer."（**人物・暴力・船/帆ゼロ**＝ユーザー選択どおり）✓。Ako-chanの無力感＝"She wants to say, 'Learn to run. Learn to fear.' But they would not understand her."（would＝S2可）。Pen-san神妙（"He does not chirp or play. ... He sees himself in them."）／General沈黙（"stands stiff and silent. Even he says nothing now."）。④"They will fade away, calm and still. No fear, right to the very end."（"extinct"語なし＝"fade away/fewer"）。fear×6・run×4は題名"No Fear"の意図的反復。
+- **Ep156「A Gentle Voice」**：声が届く。予想よりずっと穏やか・怒りも恐れもない・ただ静か。Ako-chanが受け取る。
+  - 🔒台詞（オオウミガラス・引用例）：*"We are not afraid. We never learned to fear. We stay. We do not fly away."*（穏やか・執筆時に最終確定）
+  - モード：感情・核（声）。③：穏やかな声、Ako-chanの閉じた目、嵐の中の静けさ、濡れた羽。④：穏やかさが、かえって悲しかった。
+  - 確定：⚠️**狼の"誇り"と差＝静かな諦念（でも責めない）**。"We will not forget"不使用。Ako-chan＝閉じた目で受信。
+  - ✅執筆済み（word_count 275）。Day17。🔒オオウミガラス *"We are not afraid. We never learned to fear. We stay. We do not fly away."*（逐語・足場の引用例を採用）。⚠️**狼との差を本文で明示**＝"The wolf's voice was proud and strong. This voice is not like that. It does not fight. It does not blame. It is soft and calm, even now. And the calm is the saddest part."（諦念・責めない）✓。"It is tired, and it is at peace. ... ready to rest."。⚠️**"We will not forget"不使用**（Ch21取り置き）✓。"Only Ako-chan can hear it."（S1能力）。転送はEp157＝本話は受信で閉じる（"The gentle voice hurts her heart."）。voice×8・calm×4は題名"A Gentle Voice"＝主題語の意図的反復で据え置き。Obia未出（pronoun問題なし）。
+- **Ep157「Recorded」**：Obiaが記録し未来へ転送。Obiaの目が光る。二つ目の声が時を越える。General Adelieが黙って敬礼。
+  - モード：静・出来事。③：嵐の風、濡れた岩、光るObia、鳥たちの静けさ。④：二つ目の声が、救われた。
+  - 確定：⚠️**"the future" は抽象**。General＝無言の敬礼（厳格な敬意）。Obia=it。
+  - ✅執筆済み（word_count 270＝floor）。Day17。Ep148と意図的に呼応する転送回（"I have their voice now." / Obiaが目を光らせ未来へ送る / "I sent it." "The voice is safe now."）。⚠️**"the future" 抽象**＝"Where it goes, no one knows. But it will be safe there."✓。**General＝無言の敬礼**＝"He lifts one wing up high. ... It is a silent salute. He honors the voice as it goes."／Pen-sanも敬意で静止（鏡像継続）。Obia=it（"inside it"）。🔧レビュー：flat副詞 "shine bright"→"shine brightly"。⚠️語数floor（270）＝以後トリム不可。
+
+### Day 18 — 帰還〜逓増の自覚（章クローザー）
+- **Ep158「The Way Back」**：帰還の跳躍。衝撃が往路よりさらに重い・体が軋むほど。孤島→南極の洞窟。四人がよろめき戻る。Pen-sanがぐったりしている。
+  - モード：動・出来事。③：激しい光、重い衝撃、めまい、駆け寄る仲間。④：跳ぶたびに、体が削られていく。
+  - 確定：⚠️**復路＞往路（さらに重い）＝逓増明示**。戻り先＝**洞窟内**。⚠️裂け目はまだ出さない（Ch20）。Pen-sanの消耗を所作で。
+  - ✅執筆済み（word_count 272）。Day18。🔒Obia *"Hold on," ... "We jump back now."*（Ep149と同型）。⚠️**逓増の頂点を明示**＝"the strongest yet" / "the hardest of all" / "Her bones seem to creak and ache."（軋む）✓。**Pen-sanぐったり**＝"Pen-san sinks down on the ice. His big body droops, tired and weak. ... He cannot stand up straight at all."→Generalが助け Ako-chanが抱える。戻り先＝洞窟内（"back in the deep cave"）✓。⚠️**裂け目leak なし**（消耗＝身体的負荷で表現）✓。"His breath comes, slow and tired."（コンマ付加形容）。④"Each time, it cuts a little deeper."（Ep159布石）。
+- **Ep159「The Jumps Grow」**：跳躍のたびに衝撃が大きくなっている。次はもっと激しいだろう。みんなが気づく。Suke-sanとGeneral Adelieが顔を見合わせる。
+  - モード：感情・章クローザー。③：疲れた体、洞窟の静けさ、機械の低い音、不安げな顔。④章クローザー：あと一つ。でも、その一つが、いちばん危うい。
+  - 確定（章末リンク）：next_ep は空欄（Ch20 Ep160執筆時に ep160.prev_ep=ep159 と相互リンク）。⚠️**Ch20の"We should stop"明言はEp160＝先取りしない**（Ep159は**不安・顔を見合わせる**まで＝無言の同意）。Suke-san（洞窟残留・待機側）＋General（経験側）が逓増を察知。
+  - ✅執筆済み（word_count 270＝floor）。Day18。章クローザー。⚠️**"We should stop" 不使用厳守**＝無言の同意のみ＝"Suke-san looks up at the General. ... He gives a slow, heavy nod. Neither of them says a word. But they both feel the same fear."✓。逓増の総括＝"The first jump was hard. The second was harder still. ... The next jump will be worse."。④"One more jump lies ahead... that one will be the hardest. ... maybe it is the most dangerous of all."（Ch20への緊張）。next_ep 空欄✓。⚠️**裂け目・Ruka消失（Ch20）leak なし**✓。配置整合（Pen-san氷上・Dango・Ruka・Daru/Gabu Pod）。⚠️語数floor（270）。
+
+<!-- Ch19 足場（Phase A）。執筆後に各Epへ ✅執筆済み（word_count・確定台詞・🔧レビュー適用）を追記する。 -->

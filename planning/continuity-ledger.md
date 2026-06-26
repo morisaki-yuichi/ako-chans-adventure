@@ -116,6 +116,9 @@
 | **絶滅動物の声の型（確定2026-06-26）** | **ニホンオオカミ(Ch18)＝短い引用台詞**（誇り高い）／**オオウミガラス(Ch19)＝穏やかな声**（引用可）／**マイオラニア(Ch21)＝言葉でない感覚**（引用なし＝唯一） | world.md §8はマイオラニアのみ"言葉でない"明記。狼=引用はユーザー選択。狼 🔒例 *"We are the last. We do not run. This snow is ours. We are not afraid."*。⚠️絶滅動物は**命名しない**／**"extinct"語不使用**（"the last pack/almost gone"等） |
 | **跳躍衝撃の逓増** | 往路<復路・1回目<2回目<3回目。**Ch18は"少し大きい"のみ** | 段階増大の起点。⚠️**裂け目・分離はCh20**＝Ch18-19で先取りしない |
 | **跳躍中/跳躍先のステージング（Ch18）** | 四人のみ＝Ako-chan・Obia・Dango・Suke-san。Dango=Ako-chan足元/所作のみ／Suke-san=右少し後ろ→警戒時 前へ出る（橋渡し・引用台詞あり）／Obia=it・転送役 | 19世紀末日本の雪山＝**人を出さない**。戻り先＝**洞窟内**（機械のそば） |
+| **跳躍中/跳躍先のステージング（Ch19）** | 四人のみ＝Ako-chan・Obia・**Pen-san・General Adelie**。洞窟残留＝Dango・Suke-san・Daru・Gabu・Ruka。Pen-san=鏡像（無言の凝視・短い台詞可・"he"）／General=観察者の台詞・無言の敬礼（厳格・"the General/he"）／Obia=it・転送役 | 北大西洋の孤島・嵐＝**島は命名しない**（地域アンカー）。戻り先＝**洞窟内** |
+| **オオウミガラスの英語呼称（Ch19）** | 中心＝"the birds that cannot fly / the seabirds / the flightless birds"。**"great auk" は教材価値で1〜2回まで可**（実在種名＝地名/"Emperor penguin"と同格） | companion的な命名はしない。Ch18の狼（"the wolves"＝命名なし）と同方針＋実在種名の教材アンカーを許容 |
+| **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
 
