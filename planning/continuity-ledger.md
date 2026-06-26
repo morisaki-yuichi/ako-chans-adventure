@@ -130,6 +130,10 @@
 | **Obiaの自己認識（Ch22）** | *"It must be me. I came from there."*＝**一般的な出自（未来から来た）のみ**。誰が・いつ・なぜ作ったか（少年・ループ）は依然不明 | Ch17"出自を思い出さない"と矛盾せず＝接続が開いた扉が自分の来た場所(未来)に通じると理解する範囲のみ |
 | **赤い首輪 S2末（Ch22 Ep184・確定2026-06-26ユーザー選択）** | **ObiaがEp184で外してAko-chanに残す**（S1 Ch10 Ep76の反復）。🔒*"Keep this. I do not know why. But it is important."*（S1 Ep76 *"I do not know why. But it is important. Hold it for me."* のエコー＝Hold→Keep）。⚠️**意味は説明しない**（Ako-chan作＝S3で判明） | 首輪は**現代に残りAko-chanの手元→S3へ**（S3でAko-chanがObiaに首輪をつける場面の前提）。Obiaは首輪を外したまま去る。Obiaは首輪の意味を知らない＝"I do not know why"は継続性整合 |
 | **別れの語り（Ch22）** | register＝**抑制・尊厳・bittersweet**（メロドラマ回避・身体所作で外在化）。Obia=it・"the silver one"不使用（親密ビート＝"Obia"）。Dango伏せる(所作)／Suke-san初めて体を寄せる(S1警戒→信頼の到達)／3匹Pod降りて接近 | Ep185「Silence」＝1語タイトル例外（クライマックス）。🔒"I will not forget you."(will例外・物語を運ぶ誓い)。Obia消失=永続(戻らない) |
+| **帰路の一行（Ch23）** | **6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod。**操縦＝Ako-chan**（Obia役を引き継ぐ） | Obia去る(Ch22)・Pen-san/Adelie南極残留(Ep187-188)。Ep189で体感列挙・**機械宣言しない**。飛行艇="the flying boat" |
+| **Pen-san/Adelie の別れ（Ch23 Ep187-188）** | **南極に残る**（Obiaの永続喪失と対比＝生存・再会可能性）。Pen-san 🔒*"You will come back? Like last time?"*／Ako *"I will try."*／General 🔒*"The work is done. Go safely."*（"Mission accomplished"の言い換え・確定2026-06-26ユーザー選択） | "Like last time"＝S1出発→S2帰還の参照。Pen-san成体(Emperor)・General厳格(深い敬礼)。以後登場しない |
+| **赤い首輪（Ch23）** | Ako-chanの手元（Ch22 Ep184から継続）。⚠️**前景化しない**＝不在の token として無言の所作1回まで・説明なし | S3温存。出さなくてもよい（執筆判断） |
+| **Obiaの不在モチーフ（Ch23）** | 空席(操縦のそば)・話しかけてやめる・無意識に探す。⚠️**melodrama回避**＝所作/沈黙で。悲しみ→静けさへ移行(Ep191) | Ep190「The Empty Seat」が核。Dango空席を見る(所作)。⚠️Ruka先輩逆転はCh24＝Ch23ではまだ最年少最新入り |
 | **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。

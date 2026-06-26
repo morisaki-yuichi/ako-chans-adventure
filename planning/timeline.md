@@ -1441,3 +1441,56 @@
   - 章末リンク状態：**ep185.next_ep＝空欄**（Ch23 Ep186で相互リンク）／ep177.prev_ep＝ep176・**ep176.next_ep＝ep177 更新済み**（章跨ぎ相互リンク完了）。
 
 <!-- Ch22（Ep177〜185）執筆完了。全9話 ✅・確定台詞・word_count・🔧レビュー追記済み。章頭 ep176.next_ep=ep177 更新済み／章末 ep185.next_ep 空欄（Ch23 Ep186で相互リンク）。 -->
+
+---
+
+## Chapter 23「The Long Way Back」— 帰路（Ep186〜192・7話）
+
+**Ch23 共通**
+- ★**Obia喪失後の denouement（comedown）章＝悲しみの処理と帰路**。洞窟の静けさ→南極を離れる前にPen-san・General Adelieと別れ（二羽は南極に残る）→残り6人で飛行艇に乗り北へ→Obiaの不在を旅の中で受け止める→イギリスが近づく（章クローザー＝出発時と何かが違う）。
+- ★**Obiaの不在モチーフ（中心主題）**：空いた場所・空席・話しかけてやめる・無意識に探す。⚠️**過度な melodrama にしない**＝身体所作・沈黙・"気づいて、いないと知る" の静かな積み重ね。悲しみ→静けさへの移行（Ep191）。
+- ★**Pen-san・General Adelie の別れ＝南極に残る**（Obiaの永続喪失と**対比**＝二羽は生きていて再会の可能性あり＝より穏やか/希望）。Pen-san＝甘えん坊（最後まで体を寄せる）／General＝厳格・尊厳（深い敬礼）。Ep187-188で別れ後は**登場しない**（南極残留）。
+- ★**首輪（Ch22から継続）**：Ako-chanの手元に赤い首輪。⚠️**前景化しない**＝Obiaの不在の token として**1回程度の無言の所作**に留める（説明なし・S3温存）。出さなくてもよい（執筆判断）。
+- ★**飛行艇（"the flying boat"・無名）＝帰路の移動手段**。Obia不在＝**操縦はAko-chanが引き継ぐ**（Ep189）。Obiaの定位置（操縦のそば）が**空席**（Ep190）。
+- ★**帰路の一行＝6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod。⚠️Obia去る・Pen-san/Adelie南極残留。**人数の機械宣言はしない**（Ep189で体感列挙）。
+- ⚠️**異変は収束済み**（ObiaがCh22 Ep185で扉を閉じた）＝帰路の世界は静か。⚠️**異変解決を改めて説明しない**（Ep185で示済み）。
+- ⚠️**S2末（Ch24）は先取りしない**：イギリス到着・「先輩逆転」・「Obia——」日記はCh24。Ch23は"もうすぐ家・でも何かが違う"予感まで（Ep192章クローザー）。
+- 語り規約：Obia=不在（言及は最小・**"the silver one"不使用**）／Dango引用なし（所作・空席を見る）／Suke-san＝Ako-chanの右後ろ（定位置）／**Ruka=she・最年少最新入りとして描く**（Ep191でAko-chanの隣／⚠️**先輩逆転はCh24**）／Pen-san・General＝Ep187-188の別れまで。
+- Day割付：Ch22末＝Day20。Ch23＝**Day21〜25**（186=21・187-189=22・190=23・191=24・192=25＝南極→英の長い飛行）。
+
+### Day 21〜22 — 喪失後〜南極を発つ
+- **Ep186「After He Is Gone」**：Obiaが去った直後の日々。洞窟は静か。みんなまだ言葉が少ない。Ako-chanは無意識にObiaを探して、いないことに気づく。不在が始まる。
+  - モード：感情・静（喪失後）。③：空いた場所、減った気配、仲間の沈黙、氷の冷たさ。④：旅は終わった。でも、誰かが欠けている。
+  - 確定：**不在モチーフの開始**。⚠️melodrama回避（静かに）。首輪を無言で握る所作を入れてもよい（1回・説明なし）。
+  - ✅執筆済み（word_count 279）。Day21。**不在モチーフ開始**＝話しかけようとして止まる("She turns to her side, ready to speak. ... The words are already in her mouth. But no one is there now. ... Ako-chan stops. ... Obia is gone.")✓。機械も静か("Its low hum is gone now. No blue glow runs on the icy walls."＝異変収束を所作で・改めて説明せず)。⚠️**首輪＝無言の所作1回・説明なし厳守**＝"The red collar is there, against her heart. She holds it for a moment, without a word. Then she lets it rest again."✓。Dango所作(空席を見る)・Ruka=she(shellに引く)。④"That spot stays empty beside her."。melodrama回避✓。
+- **Ep187「Pen-san's Farewell」**：南極を離れるとき、成体のPen-sanと別れる。Pen-sanは南極に残る。最後までAko-chanに体を寄せている。
+  - 🔒台詞（Pen-san）：*"You will come back? Like last time?"*／（Ako-chan）：*"I will try."*
+  - モード：感情・別れ（穏やか）。③：大きなPen-sanの体、寄り添う温もり、白い大陸、別れの風。④：ヒナだったPen-sanは、もう立派なエンペラーだ。
+  - 確定："Like last time"＝S1出発→S2帰還の参照（Ako-chanは前回戻った）。will＝可。Pen-san成体（big・"Emperor"）。
+  - ✅執筆済み（word_count 274）。Day22。🔒Pen-san *"You will come back?" ... "Like last time?"*／Ako-chan *"I will try."*（逐語）。⚠️**Obiaの永続喪失との対比を明示**＝"But this goodbye is softer than the last one. Obia went far away and will not return. Pen-san is not gone. ... One day, Ako-chan can come back to him."✓。Pen-san成体("a tall Emperor. His head rises high above Dango.")／回収＝"He grew up, just like he said."(S1 Ep87/Ep130 "I will be a good Emperor")。Pen-san南極残留。④涙ありの笑み("smiles, even with tears")＝穏やか・希望。
+- **Ep188「General Adelie's Farewell」**：General Adelieと別れる。厳格に、まっすぐに。最後に深い敬礼。Pen-sanとともに南極に残る。
+  - 🔒台詞（General Adelie）：*"The work is done. Go safely."*（確定 2026-06-26・"Mission accomplished" の言い換え＝A2／本文の使命＝"the work/the task" と整合）
+  - モード：感情・別れ（尊厳）。③：直立の姿、下がる顎、目の周りの白いリング、氷の上の風。④：厳しさの奥の、確かな友情。
+  - 確定：🔒は **"The work is done. Go safely."**（ユーザー選択）。General＝厳格・敬礼。Pen-san/Adelie＝以後登場しない（南極残留）。
+  - ✅執筆済み（word_count 270＝floor）。Day22。🔒General Adelie *"The work is done," ... "Go safely."*（逐語＝**"Mission accomplished" 言い換え・"accomplished"不使用**✓）。深い敬礼("lowers his chin in a long, deep salute")→Ako-chan bows back。厳しさの奥の友情＝"Under all his strict words, there was always something warm. A true and steady friendship. He will not say it out loud. ... The deep salute already says everything."✓。Generalの役割recap(厳格な命令・嵐を見張る・皆を守った)。Suke-san所作(老兵に頭を下げる)。④"Then she turns at last toward the flying boat."(Ep189へ)。Pen-san/Adelie南極残留。⚠️語数floor(270)。
+
+### Day 22〜25 — 北への長い飛行
+- **Ep189「Heading North」**：残りのメンバー全員で飛行艇に乗り北へ。Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka。Obiaのいない初めての飛行。操縦はAko-chanが引き継ぐ。
+  - モード：動・出発（静か）。③：離れる白い大陸、北を向く機首、エンジンの音、それぞれの静かな顔。④：イギリスへ。長い帰り道が、始まる。
+  - 確定：**一行6（体感列挙・機械宣言なし）**。**Ako-chan操縦**（Obia役を引き継ぐ）。飛行艇＝"the flying boat"。
+  - ✅執筆済み（word_count 272）。Day22。**Ako-chan操縦の引き継ぎ**＝"Ako-chan looks at the pilot's seat. Obia always flew the boat before. Now that seat is hers. She sits down and holds the controls."✓。離陸→北旋回→白い大陸が離れる("the white land falls away. The ice grows smaller and smaller. ... Then even that line is gone.")。**一行6＝体感列挙（数を出さない）**＝Dango足元／Suke-san右後ろ／Daru・Gabu各Pod／Ruka小Pod＝6人を位置で列挙（"six"宣言なし・台帳C準拠）✓。Obia不在の予兆を1文("The boat is quiet without Obia's voice."＝Ep190へ)。④章モチーフ＝"The long way back begins now."（章題エコー）。Obia=名前2回・"it"代名詞/"silver one"なし。畳語"smaller and smaller"＝漸増強意（許容・tic別枠）。⚠️現在完了回避（"has begun"→"begins now"）。三連なし。最長文9語。
+- **Ep190「The Empty Seat」**：帰路にObiaの不在をみんなが感じる。Obiaがいつもいた場所。誰もそこに座らない。Dangoがその場所をときどき見る。Ako-chanは何度も話しかけそうになってやめる。
+  - モード：感情・不在。③：空いた席、見つめるDango、Ako-chanの止まる言葉、窓の外の海。④：いないことに、少しずつ慣れていく。それが、いちばん寂しい。
+  - 確定：**不在モチーフの核**。Dango所作（空席を見る・引用なし）。Obiaの定位置＝操縦のそば。
+  - ✅執筆済み（word_count 270）。Day23（"the second day in the air"＝Ep189出発の翌日）。**不在モチーフの核**＝操縦のそばの空席（"Beside her is the other seat. Obia always sat there. Now it is empty."）・誰も座らない（"No one takes the empty seat."）。**Ako-chan話しかけてやめる**＝"She turns her head to speak. 'Obia, look—' she starts. Then she stops. ... No one can hear her now."✓＋"She used to tell Obia everything. Now she keeps it all inside."（抑制・melodrama回避）。**Dango所作（引用なし）**＝空席を見て待つ→頭を下げる→低い溜息（"He waits, as if someone will come. But no one comes. ... He lets out a low, soft sigh."）。④"To stop looking for Obia hurts the most."＝慣れることがいちばん寂しい。Suke-san所作・Ruka=she。三連/畳語なし。最長文9語。🔧レビュー：**Obia地の文の "him/his"（Obia指示・3件）→名前 "Obia" に修正**（tell Obia／Obia's quiet voice／looking for Obia）＝**S2地の文はObia="it"/名前（he/him不可）**の規約に整合（Ch13–22・[[obia-pronoun-it]]）。⚠️タイトル "After He Is Gone"(Ep186)/Ch24"Home Without Him" は**感情的タイトル register の例外**（episode-list確定済み）＝地の文とは別扱い。"it"/"silver one"なし。
+- **Ep191「The Quiet Sky」**：北へ飛ぶ静かな空。誰も多くを語らない。それぞれが旅を、Obiaを心の中で振り返る。Ruka（最年少・最新入り）がAko-chanの隣で静かにしている。
+  - モード：静・回想。③：青い空、流れる雲、穏やかなエンジン音、寄り添う仲間。④：悲しみは、少しずつ、静けさに変わっていく。
+  - 確定：**悲しみ→静けさへの移行**。Ruka=she（**まだ最年少・最新入り**として描く）。⚠️**先輩逆転はCh24**＝先取りしない。
+  - ✅執筆済み（word_count 275）。Day24（"The third day"＝Ep189出発Day22から3日目）。**回想recap（三声・描写名）**＝アナフォラ "They remember the cold snow and the wolves. ... the storm and the gentle birds. ... the giant shell in the ice."（命名なし・"extinct"不使用）✓→"And they remember Obia most of all."。Obia motif＝"She thinks of Obia's pale blue eyes."（青白い目＝S1からのsignature）。**悲しみ→静けさへの移行**＝"The sadness does not go away. But it changes, slowly, in the quiet. It grows softer, like the wide, pale sky."✓。**Ruka=she・最年少最新入り**＝"She is the smallest of them all. She is the newest of the family too."（⚠️**先輩逆転は出さない**・Ch24温存）✓・Ako-chanの隣で網目甲羅に触れる。④"So does Obia. ... the boat flies on, toward home."。最長文8語・三連/畳語なし。
+- **Ep192「Almost Home」**：イギリスが近づく。緑の島が雲の下に見えてくる。3年前に出発したあの場所。Ako-chanの胸にいろいろな思いが混じる。
+  - モード：感情・予感（章クローザー）。③：見えてくる海岸線、緑の大地、降下する飛行艇、高鳴る胸。④章クローザー：もうすぐ、家だ。でも、出発したときとは、何かが違う。
+  - 確定（章末リンク）：next_ep は空欄（Ch24 Ep193執筆時に ep193.prev_ep=ep192 と相互リンク）。⚠️**Ch24（到着・先輩逆転・「Obia——」日記）は先取りしない**（"もうすぐ家・何かが違う"予感まで）。"何かが違う"＝Obiaの不在（明言は最小）。
+  - ✅執筆済み（word_count 276・章クローザー）。Day25（"Many days pass over the wide sea."＝南極→英の長い飛行の終点）。**イギリス接近**＝低い雲の下に緑の海岸線→"It is England. It is home."・降下（"flies lower and lower"＝漸増別枠）・"They left this place three years ago."（3年前の出発の参照）✓。home-smellのテクスチャー（"The air smells of rain and grass. ... the smell of home."）。仲間の反応所作（Dango尻尾／Suke-san窓／Daru・Gabu／Ruka=she・引用なし）。**④章クローザー＝"もうすぐ家・でも何かが違う"**＝"They come back with one friend gone. The home below is the same. But they are not the same. ... Something is different now. And Ako-chan feels it, deep inside."✓。⚠️**Obiaの不在の明言は最小**（"one friend gone"＝名指さず）／**Ch24先取りなし**（到着・先輩逆転・日記 未出）。"The long way back is almost done."＝章題エコー。最長文9語・三連/畳語なし。
+  - 章末リンク状態：**ep192.next_ep＝空欄**（Ch24 Ep193で相互リンク）／ep186.prev_ep＝ep185・**ep185.next_ep＝ep186 更新済み**（前章末→今章頭の相互リンク完了）。
+
+<!-- Ch23（Ep186〜192）執筆完了。全7話 ✅・確定台詞（Pen-san/Ako/General 🔒逐語）・word_count・🔧レビュー追記済み。章頭 ep185.next_ep=ep186 更新済み／章末 ep192.next_ep 空欄（Ch24 Ep193で相互リンク）。一行＝6（体感列挙）・操縦Ako-chan・Obia不在モチーフ・Pen-san/Adelie南極残留。 -->
