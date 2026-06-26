@@ -710,4 +710,49 @@
   - 確定（声の収束・継続）：*"The voices are quiet today."*（Ep86の収束を継続＝Ep90「Going Quiet」へ接続）。締めの核＝**Obiaが"横"に立つ**（"Obia stands beside her, not behind."＝Ep85と連続）＋方角は**北**（"She turns to face the north now."＝Ep90 太平洋北上へ）。
   - 🔒章クローザー余韻：*"But the long road home starts here. And the ship sails on."*（Ep24/Ep33 章末 "And the road goes on." モチーフの回収）。next_ep＝/season1/chapter12/ep090/（章跨ぎ）。✅執筆済み（word_count 271）。
 
-<!-- Ch11 完了（Ep83〜89）。Ch12 以降は執筆後に追記（Day 77〜） -->
+<!-- Ch11 完了（Ep83〜89）。 -->
+
+## Chapter 12「The Way Home」— 南極→日本→ヨルダン→クロアチア→イギリス（Ep90〜100・11話・S1フィナーレ）
+
+**Ch12 共通（帰路と別れ）**
+- ★**帰路＝往路の逆順**（南極→太平洋北上→日本→西へ→ワディラム→地中海→ダルマティア→イギリス）。地理は"説明しない"・地図で追える範囲で。
+- ★**声が静まっていく**（Obia送信停止の効果）。Ako-chanは「Obiaがやめたから」と知るが、**送信先・理由は分からない**（S2へ）。Ep99でハリネズミが対回収。
+- ★**別れ（各自の故郷へ・キャラ相応に）**：Suke-san→日本の山（Ep91）／Gabu→ワディラム（Ep93）／Daru→ダルマティア（Ep95）。**Obiaはイギリス残留**。Ep96で**Ako-chan・Dango・Obiaの3人に戻る**（Ch1-2の原初トリオへのブックエンド）。
+- ★**人数**：6→Suke-san離脱(Ep91)=5→Gabu(Ep93)=4→Daru(Ep95)=3。Ep96「Back to Three」。
+- ⚠️**Ep91 Dango台詞問題（推奨解決）**：episode-listはDango「You are good.」と引用するが、**台帳A-2でDangoは引用台詞を持たない**（Ep2：Dangoは動物の声が聴けない）。→**Dangoの"you are good"は無言の仕草で表し地の文が意味を伝える／Suke-sanの "...You too." のみ引用**。
+- ⚠️**Ep100（決定）**：① **静かな余韻で閉じる**（タイムマシン・Ruka・Obia未来行きは出さない／開いた白紙＋Obia残留の含みだけ）。② 日記は **ペンを持つだけ＝書かない**（3段日記の構造を保つ／次の記入はS2 Ep199 "Obia——"）。
+- ★**赤い日記帳**：最初のページ "I have to go."（Ep5）を読み返す→新ページを開く。正体・首輪はS3まで伏せる。
+
+### Day 80前後 — 太平洋北上
+- **Ep90「Going Quiet」**🟢執筆済：太平洋を北上。動物の声が静かに。Ako-chanはObiaが送信をやめたからだと知る。でも送信先・理由は分からない（S2へ）。Ep84の停止宣言を回想引用：*"I will stop."*（Ep86と同じ引用形）。地の文 *"She does not know where the data goes. She does not know why."* でS2フックを抑制提示。人数＝6（全員乗船）。
+
+### Day 90前後 — 日本（Suke-san離脱）
+- **Ep91「Suke-san's Mountain」**🟢執筆済：日本。Suke-sanが山の匂いを目を閉じて深く吸う。Dangoが無言で頭を押し当てる＝"you are good"の意を地の文が伝える（*"You are good, the quiet touch says."*／引用台詞ではない）。🔒Suke-san *"...You too,"* he says softly.（やっと出た言葉）。Ako-chanの別れ台詞 *"Goodbye, Suke-san."* 山へ消える。＝**人数5**（Ako-chan・Dango・Obia・Daru・Gabu）。
+
+### Day 95前後 — 西へ
+- **Ep92「Still Together」**🟢執筆済：西へ向かう船。Daru/Gabuの最後の時間。Daru饒舌・Gabu静聴。Daru *"Do you remember the white rocks? And the hot red sand? And the big old turtle?"* → Gabu *"I remember. I remember it all."* まだ一緒。人数5。
+
+### Day 105前後 — ワディラム（Gabu離脱）
+- **Ep93「Gabu's Rock」**🟢執筆済：ワディラム。Gabuが慎重に岩を登り（Ep28-31の到着の逆構図）、全員（Daru・Dango・Obia・Ako-chan）を見て最後にAko-chanを一度見る。**Gabuは無言**（少ない言葉のキャラを別れでも貫く）。Daru *"Gabu! Gabu!"* と呼ぶが止まらず岩の向こうへ消える。Ako-chan *"Goodbye, Gabu."* ＝**人数4**（Ako-chan・Dango・Obia・Daru）。
+
+### Day 108前後 — 地中海
+- **Ep94「Toward Croatia」**🟢執筆済：地中海を西へ。🔒 Daru *"I know this sea!"*（続けて *"This is my sea!" / "Croatia! We go to Croatia!"*）一人になったDaruの興奮＋東の砂漠にいるGabuへの思い（*"Gabu is home. I go home too."*）。人数4。
+
+### Day 110前後 — ダルマティア（Daru離脱）〜3人へ
+- **Ep95「Daru's Rock」**🟢執筆済：ダルマティア海岸（夕方）。Daru *"Home! I am home!"* 走って岩の陰へ消え、また現れて🔒 *"Goodbye!"* また消える（Ep18登場の逆構図・最後までDaruのまま）。Ako-chan *"Goodbye, Daru!"* ＝**人数3**（Ako-chan・Dango・Obia＝原初トリオへ復帰）。
+- **Ep96「Back to Three」**🟢執筆済：船は北へ。Ako-chan・Dango・Obiaだけに戻る（夜・Ep95と同日Day110）。誰も何も言わない。空いた甲板、Daru/Gabuの居場所が空く、Dangoの長いため息（Ako-chanが察する＝引用なし）。*"They are three again, like at the start."*＝原初トリオへのブックエンド。人数3。
+
+### Day 115前後 — 北へ
+- **Ep97「The Quiet Sea」**🟢執筆済：北へ向かう穏やかな海。旅を言葉にせず振り返る（白い岩=Daru／赤い砂=Gabu／緑の山=Suke-san／氷=Pen-san・Colonel／嵐=クジラ）。Obiaの目が前より柔らかい（*"Softer than before, somehow."*／送信をやめた後の変化）。人数3。
+
+### Day 120 — イギリス到着
+- **Ep98「White Cliffs」**🟢執筆済：ドーバーの白い崖（霧→崖が現れる）。🔒 Obia *"England," it says. "We are here."* Dangoが船の窓に鼻を押し当て白い息の雲を作る（引用なし・所作）。人数3。
+
+### Day 121 — 庭（帰還〜S1クローザー）
+- **Ep99「The Ground Is Quiet」**🟢執筆済：朝の庭（Ep2の対構図）。ハリネズミ再登場。🔒 *"The ground is quiet," it says. "I can sleep again."*（Ep2 *"The ground feels wrong."* と対回収）。Ako-chanがObiaを見る＝Obiaは**old shed のそば**（Ep3初登場の位置へ回帰）。二人の間に言葉はない（*"They do not say a word at all."*）。人数3＋Obia残留を明示（*"Obia is home with them now too."*）。
+- **Ep100「The Red Notebook」**🟢執筆済＝**S1完結**：夜・机・ランプ（Ep5の対構図）。赤い日記帳（旅で擦れた表紙）の最初のページ *"I have to go."*（Four small words）を読み返す→新しい白紙ページを開き、ペンを構える→**書かない**（*"But this time she does not write. Not yet."*／Ep5 "Then she writes" の鏡像）。*"She closes the notebook softly."*（Ep5と同句で閉じる）。Obiaはイギリス残留。⚠️S2要素なし（タイムマシン・Ruka・未来行き不出）／日記の次の記入はS2 Ep199。★3作共通モチーフ「The Red Notebook」の起点。
+
+<!-- S1 全100話 執筆完了（Ep1〜100）。次の日記記入＝S2 Ep199 "Obia——"。 -->
+- **日記の記入記録（S1）**：Ep5 *"I have to go."*（1ページ目・唯一の記入）／Ep100 新ページを開くがペンは持つだけ＝**未記入**（3段日記の構造を保持）。
+
+<!-- S1完結（Ep1〜100）。S2はここから別途。 -->
