@@ -1373,3 +1373,71 @@
   - **🔗 Ch20→Ch21 相互リンク済み**：ep167.next_ep=/season2/chapter21/ep168/ ／ ep168.prev_ep=/season2/chapter20/ep167/。
 
 <!-- Ch21（Ep168〜176）執筆完了。全9話 ✅・確定台詞・word_count・🔧レビュー追記済み。章末 ep176.next_ep 空欄（Ch22 Ep177で相互リンク）。 -->
+
+---
+
+## Chapter 22「Obia's Goodbye」— 使命完了・Obiaの別れ（Ep177〜185・9話）
+
+**Ch22 共通**
+- ★**S2の感情的クライマックス＝Obiaの別れ**。使命完了の認識→異変が収束しないと感知→根本原因（接続が開いている）の reveal→誰かが未来へ渡って閉じねば（戻れない）→Obiaが行く（未来から来たから）→全員で見送る→Obia消える（Ep185「Silence」）。
+- ★**reveal の境界（最重要）**：
+  - **REVEAL（Ep178-181）**：①異変収束せず（Ep178）②**根本原因＝タイムマシンが現代↔未来を開いたまま・未来の崩壊が漏れ続けている**（Ep179）③誰かが未来へ渡り**向こうから接続を閉じねば・戻れない**（Ep180）④**行けるのはObiaだけ＝Obiaは未来から来た**（Ep181）。
+  - **⚠️伏せる（S3へ）**：①**"the future" の正体（誰の時代か＝少年の成人後）＝抽象のまま**②**Obiaを作った者（少年）＝出さない**③**タイムループ**④**赤い首輪の正体（Ako-chan作）＝渡すが意味は説明しない**⑤Ep1の目＝Obia。
+  - ⚠️**Obiaの自己認識の整合**：Ch17＝使命のみ思い出す（出自は思い出さない）。Ch22＝接続が開いているのを感知し、その扉が**自分の来た場所（未来）**に通じると理解＝**一般的な出自（未来から来た）は分かるが、誰が・いつ・なぜ作ったか（少年・ループ）は依然不明**。矛盾ではない。
+- ★**赤い首輪（確定 2026-06-26・ユーザー選択）＝Ep184でObiaが外してAko-chanに残す**（S1 Ch10 Ep76の反復）。🔒Obia *"Keep this. I do not know why. But it is important."*（**S1 Ep76 *"I do not know why. But it is important. Hold it for me."* のエコー**＝Hold→Keep）。⚠️**意味は説明しない**（Ako-chan作・S3で判明）。首輪は**現代に残りAko-chanの手元へ→S3へ繋がる**。Obiaは首輪を外したまま去る。
+- ★**接続/扉の A2 メタファー**：機械が開いた「扉（door）」＝現代↔未来の接続。"The door is open. The future is leaking through." / "close the door from the other side." を一貫使用。⚠️科学的詳説はしない。**"is leaking"＝現在進行形（可）**。
+- ★**別れの register（house tone）＝抑制・尊厳・bittersweet**（メロドラマにしない）。身体所作（震える手・伏せる体・寄り添い・落ちる涙・伸ばす手）で外在化。希望の音＝"I will not forget you."（will例外・物語を運ぶ誓い）。Ep185「Silence」で静寂に着地。
+- ★**1語タイトル例外**＝Ep185「Silence」（クライマックス・S1 "Obia"/"Stop"・S2 Ep163 "Ruka" と同じ取り置き）。
+- ⚠️**戻れない＝permanent**（Ep185 ④"もう戻らない"）。死そのものは描かない（"消える/未来へ行く"）。
+- 語り規約：Obia=it（別れの中心・**"the silver one"は使わない**＝親密ビートゆえ "Obia"＋it）／Dango引用なし（足元に伏せる＝所作）／**Suke-san初めてObiaに体を寄せる**（S1からの警戒→信頼の到達点・所作中心）／Ruka=she／3Pod色＝赤青黄（Ep183でPodを降りて近づく）／Pen-san・General含む全員が見送る。
+- Day割付：Ch21末＝Day19。Ch22＝**Day19〜20**（Ep177-180＝Day19・認識/reveal／Ep181-185＝Day20・決断/別れ）。
+
+### Day 19 — 使命完了の認識〜根本原因の reveal
+- **Ep177「Three Voices」**：三つの声が集まった（ニホンオオカミ・オオウミガラス・the ancient one）。Obiaがすべて未来へ送り終える。使命達成。
+  - 🔒台詞（Ako-chan）：*"We did it. We saved them."*
+  - モード：感情・達成（だが不穏の予兆）。③：洞窟の静けさ、光を落ち着けるObia、寄り添う仲間、安堵の息。④：でもObiaの目が、まだ何かを見ている。
+  - 確定：三声recap（描写名 "the ancient one"＝マイオラニア）。⚠️ここから不穏へ（④でObiaの不穏を予告）。
+  - ✅執筆済み（word_count 271）。Day19。🔒Ako-chan *"We did it," ... "We saved them."*（逐語）。三声recap＝描写名で統一（"The wolf, from the snowy mountain. The seabird, from the storm island. And the ancient one, from the ice age."）✓。"the future"抽象＝"sends the last voice into the future"。④不穏の予告＝"But Obia does not rest. ... Its blue eyes ... look past everyone, far away. Something is not right."（Ep178へ）。Dango所作（"pushes his head into her side"）。3Pod色言及（red/blue＋Ruka）。🔧レビュー：flat副詞3件 "hums low and soft"→"hums, low and soft"／"runs bright"→"runs brightly"／"glow soft"→"glow softly"。⚠️語数floor（271）。
+- **Ep178「Still Wrong」**：だが異変は収束していない。Obiaが感知。動物たちのざわめきがまだ消えていない。みんながObiaを見る。使命を果たしたのになぜ。
+  - 🔒台詞（Obia）：*"Something is still wrong."*
+  - モード：不穏・転換。③：Obiaの止まった動き、かすかな不穏、仲間の戸惑い、機械の低い音。④：本当の問題は、まだ残っていた。
+  - 確定：⚠️**原因はEp179まで出さない**（感知のみ）。
+  - ✅執筆済み（word_count 270＝floor）。Day19。🔒Obia *"Something is still wrong."*（逐語）。⚠️**原因は未開示・感知のみ**＝"The animals are still not calm." / "A low hum runs under the ice. ... It does not go away with the voices."（"なぜ"はEp179）✓。仲間の戸惑い所作（Dango ears flat／Suke-san sniffs／Ruka=she "pulls into her shell"／General waits／Dango "low, soft whine"＝引用なし）。④"the trouble is still here. It was here all along."。flat副詞 "runs deep"/"sinks low"＝許容フラットで据え置き。⚠️語数floor（270）。
+- **Ep179「The Open Door」**：Obiaがついに気づく。タイムマシンが現代と未来をつないだまま開いている。未来の崩壊が現代へ漏れ続けている。声を救うだけでは足りなかった。
+  - 🔒台詞（Obia）：*"The door is open. The future is leaking through."*
+  - モード：reveal・静かな戦慄。③：開いたままの機械、漏れ出る気配、冷気、息をのむ仲間。④：扉を、閉じなければならない。
+  - 確定：**根本原因の reveal**。"is leaking"＝現在進行形（可）。⚠️**"the future" 抽象**（誰の時代か言わない）。扉＝door メタファー。
+  - ✅執筆済み（word_count 270＝floor）。Day19。🔒Obia *"The door is open," ... "The future is leaking through."*（逐語）。**根本原因reveal**＝機械が扉を作り閉じなかった（"The machine is still open. It made a door between now and the future. And the door did not close."）✓。⚠️**reveal境界厳守**＝S3秘密(少年/maker/loop/whose time/首輪正体)leak なし✓・**"the future"抽象**（"the other side"＝未来・誰の時代か言わない）✓。"made a door"＝機械の動作（≠Obiaの製作者）。漏れの体感＝"A thin, cold air seeps from the machine. ... It comes from the other side."。仲間の所作（Suke-san fur up／Pen-san still／Ruka=she afraid）。④"They have to close it."（Ep180へ）。⚠️語数floor（270）。
+- **Ep180「Someone Must Go」**：根本解決には誰かが未来へ渡って向こうから接続を閉じねば。戻っては来られない。洞窟が静まり返る。
+  - 🔒台詞（Obia）：*"Someone must go. And close the door from the other side."*
+  - モード：重い静寂。③：重い沈黙、機械の光、見つめ合う仲間、Ako-chanの強ばる顔。④：「誰かが行かなければならない。」
+  - 確定：**戻れない＝明示**。⚠️まだ"誰が"は言わない（Ep181）。
+  - ✅執筆済み（word_count 272）。Day19。🔒Obia *"Someone must go," ... "And close the door from the other side."*（逐語）。⚠️**戻れない明示**＝"that someone cannot come back. There is no other way ... One of them will not return."✓。⚠️**"誰が"は未開示**＝"And no one knows yet who will go."（Ep181へ）✓。Ako-chan *"Can we close it? Can we shut the door?"*（扉メタファー継続）。仲間の沈黙所作（全員静止・見つめ合う）。④"Ako-chan cannot make her voice work."。door×5/Someone×5は reveal の主題語反復。
+
+### Day 20 — 決断〜別れ〜消失
+- **Ep181「It Must Be Me」**：行けるのはObiaだけだとみんなが分かる。未来はObiaが来た場所。Obiaが静かに受け入れる。Ako-chanが首を振る。でも言葉が出ない。
+  - 🔒台詞（Obia）：*"It must be me. I came from there."*
+  - モード：感情・受容。③：Obiaの静けさ、Ako-chanの震える唇、仲間の沈黙、青白い目。④：Obiaは、もう決めていた。
+  - 確定：⚠️**"I came from there"＝一般的な出自（未来）のみ**＝誰が作ったか/whose time/loopは出さない。Obiaだけが行ける（未来から来たから）。
+  - ✅執筆済み（word_count 272）。Day20（夜が明ける＝"The long hours pass ... Morning is hard to feel down here."＝Day19→20の自然な転換）。🔒Obia *"It must be me," ... "I came from there."*（逐語）。⚠️**reveal境界厳守**＝"The future is the place Obia came from. Obia can cross back. The others cannot."（一般的出自＝未来のみ・maker/loop/whose timeなし）✓。Ako-chanの絶句＝"Her lips tremble. ... 'No,' she wants to say. But no words come out."。④Obiaはもう決めていた＝"Obia made its choice already. ... The choice is made."。Obia=it・無恐怖（"There is no fear in its blue eyes."）。
+- **Ep182「No One Speaks」**：仲間たちの反応。言葉にならない重さが洞窟を満たす。Dangoが Obiaの足元に伏せる。Suke-sanが初めてObiaに体を寄せる。誰も何も言えない。
+  - モード：感情・沈黙。③：誰も動かない、機械の低い音、寄り添う体、Ako-chanの落ちる涙。④：別れが、すぐそこに来ている。
+  - 確定：Dango所作（伏せる）／**Suke-san所作（初めてObiaに体を寄せる＝S1からの警戒→信頼の到達点）**。引用最小（無言の重さ）。
+  - ✅執筆済み（word_count 274）。Day20。Dango所作＝足元に伏せる（"He lies down there ... He does not bark. He does not whine. He just stays near."＝引用なし）。⭐**Suke-sanの弧の完成**＝"Once he did not trust Obia at all. In Japan, he watched it with sharp, wary eyes. ... Now he presses against it, warm and sure. All his old wariness is gone now."（S1 Ch6合流時の警戒→S2末の信頼＝S1継続性整合）✓。Ako-chanの無言の涙（"They fall, slow and warm ... Her shoulders shake without a sound."＝抑制house tone）。④"Soon Obia will step into the light. But for now, they hold it close."（Ep183-184へ）。引用ゼロ（沈黙の章）。三連なし。Obia=it。
+- **Ep183「The Goodbye」**：全員でObiaを見送る。一匹ずつObiaに別れを告げる。Pen-sanが頬を寄せる。Daru・Gabu・RukaがPodを降りて近づく。Ako-chanは最後まで言葉を選べない。
+  - 🔒台詞（Ako-chan）：*"Obia... thank you. For everything."*
+  - モード：感情・別れ。③：囲む仲間、青白い目、震える手、満ちる静けさ。④：ObiaがAko-chanを、じっと見る。
+  - 確定：**3匹がPodを降りて近づく**（直接の接触）。各キャラの所作で別れ。⚠️首輪はまだ（Ep184）。
+  - ✅執筆済み（word_count 271）。Day20。🔒Ako-chan *"Obia... thank you," ... "For everything."*（逐語）。別れの所作の連なり＝Pen-san頬寄せ（"presses his cheek close. His big body trembles"）／General深い敬礼／**3匹がPod降りて接触**（Daru赤・Gabu青・Ruka黄＝"Their small shells touch Obia's cold feet."）／Dango頭を寄せる。④ObiaがAko-chanをじっと見る（"It looks at her for a long, long moment."）。⚠️**首輪は未登場**（Ep184）。Obia=it。三連なし。
+- **Ep184「The Machine Sounds」**：タイムマシンが鳴り始める。光が高まる。**Obiaが機械の前で立ち止まり、赤い首輪を外してAko-chanに残す**（S1 Ep76の反復）。そして機械の中へ一歩踏み込む。振り返って最後にもう一度みんなを見る。
+  - 🔒台詞（Obia・首輪）：*"Keep this. I do not know why. But it is important."*（S1 Ep76エコー）／（Obia・最後）：*"I will not forget you."*
+  - モード：感情・別れの頂点。③：高まる駆動音、満ちる光、首輪を受け取るAko-chanの手、踏み込むObia。④：光が、すべてを包む。
+  - 確定：**首輪のhand-off＝Ep184の②**（⚠️意味は説明しない）／*"I will not forget you."*＝④（will例外）。首輪は現代に残る（→S3）。Obiaは首輪を外したまま去る。
+  - ✅執筆済み（word_count 271）。Day20。🔒Obia（首輪）*"Keep this," ... "I do not know why. But it is important."*（**S1 Ep76エコー**＝Hold→Keep・逐語）／🔒Obia（最後）*"I will not forget you."*（逐語・will例外）。**首輪hand-off②**＝機械の前で立ち止まり赤い首輪を外して手渡し（"It takes off its red collar. It holds the collar out to her."＝S1 Ep76の反復・"It is warm from Obia's body."もエコー）→⚠️**意味は説明しない**（Ako-chan作/正体leakなし）✓。Obiaは機械へ踏み込み、振り返って*"I will not forget you."*→④光がすべてを包む（"It covers Obia. It covers everything."）。Ako-chanは首輪を胸に抱き他方の手をObiaへ伸ばす（Ep185の"空をつかむ手"へ接続）。Obia=it。🔧レビュー：⚠️**現在完了の誤り修正** "The time has come now."→"The time is here now."（現在完了はS1-S2禁止）／flat副詞 "burns bright"→"burns brightly"・"shine soft and warm"→"shine, soft and warm"／畳語密度 "grows and grows"→"swells and spreads"（"grows louder and louder"との近接・base-verb tic回避）。"louder and louder"/"smaller and smaller"は漸増強意で許容。語数271維持。
+- **Ep185「Silence」**：光が消える。Obiaが消える。あとには静寂だけ。タイムマシンが静かになる。Ako-chanの伸ばした手は空をつかんでいる。誰も動けない。
+  - モード：静寂・喪失（章クローザー・**1語タイトル例外**）。③：消えた光、空になった場所、止まった機械、洞窟の完全な静寂。④章クローザー：Obiaは未来へ行った。もう戻らない。
+  - 確定（章末リンク）：next_ep は空欄（Ch23 Ep186執筆時に ep186.prev_ep=ep185 と相互リンク）。⚠️**Obia消失は永続**（戻らない）。Ako-chanの手元に赤い首輪（無言・このEpはObiaの不在に集中）。⚠️**Ch23（帰路・Pen-san/Adelie別れ）は先取りしない**。
+  - ✅執筆済み（word_count 271・章クローザー）。Day20。**1語タイトル例外**＝"Silence"（S1 "Obia"/"Stop"・S2 Ep163 "Ruka" と同じ取り置き）。光が消えObiaが去る→Ako-chanの伸ばした手は空をつかむ（"Her fingers close on nothing. Obia is gone."）。三連形容詞1回＝"bright and white and cold"（本話の1回枠）。**接続閉鎖の静かな確認**＝Obiaが向こうから扉を閉じた（"It went to close the door from the far side." / "The cold does not leak from it anymore."＝異変の根本解決を抑制的に提示）。Ako-chanは首輪を**無言で胸に**握る（Ep184から継続・S3へ）。④章クローザー＝"It will not come back. Not ever again." / "The cave holds only silence now."（永続・タイトル回収）。⚠️**Ch23先取りなし**（Pen-san/Adelie別れ・帰路は出さない）。死は描かず（"went to the future"）。Obia=it。
+  - 章末リンク状態：**ep185.next_ep＝空欄**（Ch23 Ep186で相互リンク）／ep177.prev_ep＝ep176・**ep176.next_ep＝ep177 更新済み**（章跨ぎ相互リンク完了）。
+
+<!-- Ch22（Ep177〜185）執筆完了。全9話 ✅・確定台詞・word_count・🔧レビュー追記済み。章頭 ep176.next_ep=ep177 更新済み／章末 ep185.next_ep 空欄（Ch23 Ep186で相互リンク）。 -->

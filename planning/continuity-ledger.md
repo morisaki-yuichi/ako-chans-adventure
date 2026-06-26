@@ -126,6 +126,10 @@
 | **マイオラニアの英語呼称（Ch21・確定2026-06-26ユーザー選択）** | **描写のみ・"Maiolania"不使用**＝"the giant tortoise / the great shell / the ancient one / the huge turtle"。**声＝言葉でない感覚（引用なし）**・benign/ancient/observing（怒っていない） | Maiolaniaは難語・多聴不向き。狼（"the wolves"）と同じ descriptive。声の型＝3つで唯一の"言葉でない"（world.md §8） |
 | **"We will not forget"（Ep175・S2初出）** | Ako-chanがマイオラニアに言う＝**S2の designated payoff**（Ch18/19で温存）。will例外（物語を運ぶ誓い） | クジラの誓い／S2末「Obia——」に連なるシリーズモチーフ。事故跳躍だが三つ目の声＝使命完成（偶然） |
 | **跳躍衝撃の頂点（Ep176）** | 帰還＝**4回中最大の衝撃**（往路<復路・1<2<3回目の頂点） | Ch18"少し大きい"→Ch19"さらに重い"→Ch21"最大"の段階増大の終点 |
+| **異変の根本原因 reveal（Ch22・確定）** | **Ep179＝機械が現代↔未来を開いたまま・未来の崩壊が漏れ続ける**（"The door is open. The future is leaking through."）→Ep180 誰かが未来へ渡り向こうから閉じねば・戻れない→Ep181 Obiaが行く（未来から来た） | Ch17は使命まで（Ep110/111参照）。⚠️**伏せる(S3)**：the future正体(誰の時代)／Obia製作者(少年)／タイムループ／首輪正体／Ep1の目。"is leaking"=現在進行形(可) |
+| **Obiaの自己認識（Ch22）** | *"It must be me. I came from there."*＝**一般的な出自（未来から来た）のみ**。誰が・いつ・なぜ作ったか（少年・ループ）は依然不明 | Ch17"出自を思い出さない"と矛盾せず＝接続が開いた扉が自分の来た場所(未来)に通じると理解する範囲のみ |
+| **赤い首輪 S2末（Ch22 Ep184・確定2026-06-26ユーザー選択）** | **ObiaがEp184で外してAko-chanに残す**（S1 Ch10 Ep76の反復）。🔒*"Keep this. I do not know why. But it is important."*（S1 Ep76 *"I do not know why. But it is important. Hold it for me."* のエコー＝Hold→Keep）。⚠️**意味は説明しない**（Ako-chan作＝S3で判明） | 首輪は**現代に残りAko-chanの手元→S3へ**（S3でAko-chanがObiaに首輪をつける場面の前提）。Obiaは首輪を外したまま去る。Obiaは首輪の意味を知らない＝"I do not know why"は継続性整合 |
+| **別れの語り（Ch22）** | register＝**抑制・尊厳・bittersweet**（メロドラマ回避・身体所作で外在化）。Obia=it・"the silver one"不使用（親密ビート＝"Obia"）。Dango伏せる(所作)／Suke-san初めて体を寄せる(S1警戒→信頼の到達)／3匹Pod降りて接近 | Ep185「Silence」＝1語タイトル例外（クライマックス）。🔒"I will not forget you."(will例外・物語を運ぶ誓い)。Obia消失=永続(戻らない) |
 | **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
