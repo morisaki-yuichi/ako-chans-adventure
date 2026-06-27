@@ -23,7 +23,7 @@
 | Daru / Gabu / Suke-san / Pen-san / Adelie | 各登場回（Ep18/31/39/65/67…）で名乗り or Ako-chanが受け取る | 登場前は言及しない | |
 | **Pen-san（名前）** | **Ep65** で**Ako-chanが付与**：*"I have a name for you. Pen-san."* | Ep64：群れの "small black shapes"（遠景・無名）／Ep65命名前：「the baby penguin / it」 | 自己命名型（Daru/Gabu/Suke-san）と異なりAko-chan付与。命名後は地の文 "Pen-san / he"。**人数宣言はしない**（南極残留の仲間） |
 | **Colonel Adelie（名前）** | **Ep67** で本人が名乗る：*"I am Colonel Adelie."* | Ep67名乗り前：「a new shape / the new bird / it」 | 命名後は地の文 "the Colonel / he"。S2で General に昇進（S1はColonel）。登場＝Obia監視弧の開始 |
-| 赤い首輪の正体（Ako-chan作） | **S3まで伏せる** | S1では「Obiaが元から付けている赤い首輪」 | S1で正体を匂わせない |
+| 赤い首輪の正体（起源を伏せる） | **全シーズン明かさない**（⚠️確定2026-06-27ユーザー指示で「Ako-chan作」説を**撤回**） | S1では「Obiaが元から付けている赤い首輪」 | ⚠️**作者/起源を回収しない**＝bootstrapループ（Ep184でObiaがAko-chanに残す→Ch32でAko-chanが新ロボットに付ける→過去でS1 Obiaの首輪に＝同一物が循環・起点なし・world.md §3） |
 | **Ruka（名前）** | **読者初対面＝S2 Ep102**（設定上はS2開始時点で同居済みの家族。Ep101には登場させない＝紹介をEp102に集約） | — | 出会いはS2開始直前のプーリア（Ep103で回想）。**地の文の代名詞＝"she"**（命名前の回想内のみ "it"／確定 2026-06-26）。**ごく短い台詞を稀に許す**（基本は所作・静止） |
 | Obiaの暗号記憶／使命 | 発見＝**S2 Ep106**／復号開始＝**Ep136(Ch17)** | S1では存在も伏せる | Ep106で「読めない記憶がある」まで。使命内容（声を救え）はCh17まで明かさない |
 | 飛行艇・ミニPod・タイムマシン・跳躍 | 各確立回まで先取り禁止 | — | ミニPod=Ep109／飛行艇=Ep116完成／タイムマシン=Ep135／使命=Ep138。**Ch13では一切名指ししない** |
@@ -128,7 +128,17 @@
 | **跳躍衝撃の頂点（Ep176）** | 帰還＝**4回中最大の衝撃**（往路<復路・1<2<3回目の頂点） | Ch18"少し大きい"→Ch19"さらに重い"→Ch21"最大"の段階増大の終点 |
 | **異変の根本原因 reveal（Ch22・確定）** | **Ep179＝機械が現代↔未来を開いたまま・未来の崩壊が漏れ続ける**（"The door is open. The future is leaking through."）→Ep180 誰かが未来へ渡り向こうから閉じねば・戻れない→Ep181 Obiaが行く（未来から来た） | Ch17は使命まで（Ep110/111参照）。⚠️**伏せる(S3)**：the future正体(誰の時代)／Obia製作者(少年)／タイムループ／首輪正体／Ep1の目。"is leaking"=現在進行形(可) |
 | **Obiaの自己認識（Ch22）** | *"It must be me. I came from there."*＝**一般的な出自（未来から来た）のみ**。誰が・いつ・なぜ作ったか（少年・ループ）は依然不明 | Ch17"出自を思い出さない"と矛盾せず＝接続が開いた扉が自分の来た場所(未来)に通じると理解する範囲のみ |
-| **赤い首輪 S2末（Ch22 Ep184・確定2026-06-26ユーザー選択）** | **ObiaがEp184で外してAko-chanに残す**（S1 Ch10 Ep76の反復）。🔒*"Keep this. I do not know why. But it is important."*（S1 Ep76 *"I do not know why. But it is important. Hold it for me."* のエコー＝Hold→Keep）。⚠️**意味は説明しない**（Ako-chan作＝S3で判明） | 首輪は**現代に残りAko-chanの手元→S3へ**（S3でAko-chanがObiaに首輪をつける場面の前提）。Obiaは首輪を外したまま去る。Obiaは首輪の意味を知らない＝"I do not know why"は継続性整合 |
+| **赤い首輪 S2末（Ch22 Ep184・確定2026-06-26ユーザー選択）** | **ObiaがEp184で外してAko-chanに残す**（S1 Ch10 Ep76の反復）。🔒*"Keep this. I do not know why. But it is important."*（S1 Ep76 *"I do not know why. But it is important. Hold it for me."* のエコー＝Hold→Keep）。⚠️**意味/起源は説明しない** | 首輪は**現代に残りAko-chanの手元→S3へ**。Obiaは首輪を外したまま去る。Obiaは首輪の意味を知らない＝"I do not know why"は継続性整合。⚠️**「Ako-chan作」説は撤回**（[[赤い首輪Ch32]]参照） |
+
+### S3 Ch32（The Parting・別れ・赤い首輪回収・10話・追加）
+
+| 対象 | 確定値 | メモ |
+|------|--------|------|
+| **赤い首輪 keystone(Ch32 Ep277-280・確定2026-06-27ユーザー指示=起源を伏せる)** | Ako-chanが**Ep184でObiaが残した同一の赤い首輪**を取り出し、新ロボットに無言・自発でつける(Ep277取り出し/Ep278装着)。⚠️**「いつ・誰が作ったか」は伏せる=「Ako-chanが作った」と描かない**(bootstrapループ=起源なし) | ⚠️**旧s3.md「赤い首輪はAko-chanが作った(S3で判明)」を上書き**(同一物が循環)。⚠️Ako-chanは**理由が分からないまま**つける(無意識の衝動=Ch29-31牽引の最終形・Obia自身の"I do not know why"と同register)・**意識的にループを閉じない**。シンプルな赤い首輪(機械でない)。"Obia"不使用 |
+| **Ep280回想(首輪の情の歴史)** | Ako POVで首輪history(S1で凍った"the one who is gone"につけ直した再会/Ep184で渡された"I do not know why")を**淡い疼き**で重ねる。同じ赤・同じ手・同じ無言 | ④"なぜこれをするのか説明できない"(理由も起源も言葉にならない)。⚠️**起源closeしない・"作った"と言わない・"Obia"不使用・因果接続しない・ループ非説明**=読者だけが繋ぐ |
+| **🔒 Suke-san(Ch32 Ep275)** | 🔒*"Go. We will remember."*(かつて人/Obiaを警戒したSuke-sanの到達点=容認) | **carrying-forward誓いモチーフ**(S1クジラ/S2マイオラニア "We will not forget" 系)。gray不使用(動物POV) |
+| **Dangoの最後の譲歩(Ep276)・Ruka(Ep274)** | Dango=一歩下がる=最大の敬意(嫉妬アークはCh30 Ep259で解消済=ここは到達点・割って入らない)。Ruka=Podを降りて少年の足元・別れを惜しむ(プーリアEp103) | ⚠️Dango引用なし。Ruka=she・所作中心 |
+| **Ch32 行き先・配置・季節** | 行き先=**白い大陸(poetic)**・⚠️"Antarctica"/"洞窟"明示しすぎない(Ch33開示)。少年=terse/無言(別れは所作)・名前未交換のまま。少年POV=Ako-chan="the red light"/gray=少年POV専用 | 早春の朝。一行=6＋3Pod(見送る)。Ep282=少年とロボットが南極へ(Ako-chan同行せず)。⚠️"He…"文頭散らす・フラット副詞-ly・最長文≤11偏り回避 |
 | **別れの語り（Ch22）** | register＝**抑制・尊厳・bittersweet**（メロドラマ回避・身体所作で外在化）。Obia=it・"the silver one"不使用（親密ビート＝"Obia"）。Dango伏せる(所作)／Suke-san初めて体を寄せる(S1警戒→信頼の到達)／3匹Pod降りて接近 | Ep185「Silence」＝1語タイトル例外（クライマックス）。🔒"I will not forget you."(will例外・物語を運ぶ誓い)。Obia消失=永続(戻らない) |
 | **帰路の一行（Ch23）** | **6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod。**操縦＝Ako-chan**（Obia役を引き継ぐ） | Obia去る(Ch22)・Pen-san/Adelie南極残留(Ep187-188)。Ep189で体感列挙・**機械宣言しない**。飛行艇="the flying boat" |
 | **Pen-san/Adelie の別れ（Ch23 Ep187-188）** | **南極に残る**（Obiaの永続喪失と対比＝生存・再会可能性）。Pen-san 🔒*"You will come back? Like last time?"*／Ako *"I will try."*／General 🔒*"The work is done. Go safely."*（"Mission accomplished"の言い換え・確定2026-06-26ユーザー選択） | "Like last time"＝S1出発→S2帰還の参照。Pen-san成体(Emperor)・General厳格(深い敬礼)。以後登場しない |
