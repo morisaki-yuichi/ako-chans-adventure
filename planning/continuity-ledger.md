@@ -150,6 +150,17 @@
 | **ロボット呼称/二羽の認識(Ch33)** | 少年POV=中立語(it/the silver one・物理: silver/blue-white eyes/**赤い首輪**)・robot/Obia/名前不使用。二羽は**赤い首輪＋青白い目**で認識(名は出さない) | ⚠️少年は二羽を知らない(Ep285="two penguins/birds")。動物POV(286/287/291/292)でのみPen-san/Adelie名可。"Obia"不使用 |
 | **Ako-chan不在(S3初)・gray・Day** | 少年POVに"the red light"は居ない(遠い)・少年は赤を恋しく思う(Ep283)。gray=少年POV専用だが**洞窟に人なし=出番ほぼ無し**。Day110〜(南極・loose) | Dango等イギリス組不在。一行=少年＋ロボット＋(洞窟)Pen-san/General。⚠️"Antarctica"明示最小("the ice/the cold white land/the cave/the south") |
 | **時の経過の始まり(Ep293)・章クローザー** | 季節が何度も巡る・少年の作業が日々続く・**もう公園の少年ではない**=Ch34時間跳び/科学者化への助走 | ⚠️**大きな時間跳び・科学者化はCh34**(Ch33は"巡り始める"まで)・**機械は完成しない**(建造途上)。⚠️"He…"文頭/フラット副詞/最長文偏り回避 |
+
+### S3 Ch34（To the Beginning・エピローグ・★シリーズ完結・7話・追加）
+
+| 対象 | 確定値 | メモ |
+|------|--------|------|
+| **⚠️非線形(Ch34・把握必須)** | **Ep294-298=未来の洞窟**(少年→科学者・S3現在より後)／**Ep299=S1の庭**(最古・少女Ako-chan10歳)／**Ep300=現在**(大人Ako-chan)。実時系列=299＜300＜294-298 | ⚠️**story_dayは名目のみ・非減少はツール便宜**(294=500…300=506)。各話briefでera明示 |
+| **ループ閉環(Ep297)・起点回収せず** | ObiaをS1イギリス(ある庭)へ送り出す="これがすべての始まり"。⚠️**「誰が最初に作ったか/なぜ始まったか」は明かさない・地の文で説明しない**(bootstrap・world.md §3) | 送り先="a garden, long ago, in England"(名は出さず)・"Obia"不使用。man=洞窟に残る・**その後は描かない**(Ep298) |
+| **★Ep299=S1 Ep1ミラー(同題"Eyes in the Garden")** | 送り出されたロボットが旅の始まりの庭に届く=**S1 Ep1の「目」**。S1 Ep1情景をエコー(夜明け前/露/霧/隅/**"Two eyes. Pale and blue."**/赤メガネの少女/瞬きで消える/"Soft and gray and still."/"Something small turns in her chest."/"The sun is still not up.") | ⚠️**"目＝Obia"連結を初めて読者に見せる解放点**(ledger L41)だが**名は伏せたまま**("目/青白い光/銀色＋赤い首輪")。⚠️**視点=少女Ako-chan(S1・10歳)**・大人と混同しない |
+| **★Ep300=S1 Ep100/S2 Ep200ミラー(同題"The Red Notebook"・最終話)** | 現在・大人Ako-chan。夜/机/ランプ/赤い日記帳。"Obia——"の続きを今夜書く。三段=*"I have to go."*(4語/S1 Ep5)→*"Obia——"*(S2 Ep199)→**続き(⚠️中身描かない)** | ⚠️**"Obia"は日記の中だけの例外**(S3唯一の名前許容)。S1 Ep100/S2 Ep200/Ep199の構図エコー。**最終話=next_ep空欄** |
+| **★結びの感情ノート(Ch34・確定2026-06-27ユーザー選択)** | **満ちた回帰・無意識のまま**=Ako-chanはループを意識的に理解しない・でも"戻ってきた/満ちた"説明できない平安が続きを書かせる("the night feels like something has come home")。**知識でなく平安から書く** | ⚠️**ループを語らない・"なぜ書けるか"を解説しない**。読者がループを閉じAko-chanは平安を得る。bittersweet→静かな充足・夜明けが近い |
+| **少年→科学者(Ep294)・語り** | 時が経ち科学者に(名前/出自は依然描かない)。ロボット=中立語/物理(赤い首輪)・**"Obia"はEp300日記のみ**。Pen-san/Adelie=man POVでは"the two penguins"(man知らず) | ⚠️**送り出した後どうなるかは描かない**(s3.md)。少女Ako-chan(Ep299)/大人Ako-chan(Ep300)。⚠️craft教訓(He文頭/フラット副詞/最長文偏り)継続 |
 | **別れの語り（Ch22）** | register＝**抑制・尊厳・bittersweet**（メロドラマ回避・身体所作で外在化）。Obia=it・"the silver one"不使用（親密ビート＝"Obia"）。Dango伏せる(所作)／Suke-san初めて体を寄せる(S1警戒→信頼の到達)／3匹Pod降りて接近 | Ep185「Silence」＝1語タイトル例外（クライマックス）。🔒"I will not forget you."(will例外・物語を運ぶ誓い)。Obia消失=永続(戻らない) |
 | **帰路の一行（Ch23）** | **6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod。**操縦＝Ako-chan**（Obia役を引き継ぐ） | Obia去る(Ch22)・Pen-san/Adelie南極残留(Ep187-188)。Ep189で体感列挙・**機械宣言しない**。飛行艇="the flying boat" |
 | **Pen-san/Adelie の別れ（Ch23 Ep187-188）** | **南極に残る**（Obiaの永続喪失と対比＝生存・再会可能性）。Pen-san 🔒*"You will come back? Like last time?"*／Ako *"I will try."*／General 🔒*"The work is done. Go safely."*（"Mission accomplished"の言い換え・確定2026-06-26ユーザー選択） | "Like last time"＝S1出発→S2帰還の参照。Pen-san成体(Emperor)・General厳格(深い敬礼)。以後登場しない |
