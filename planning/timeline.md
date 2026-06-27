@@ -1623,3 +1623,83 @@
   - ✅執筆済み（word_count 271）。Day9。**Ch25章クローザー**。sameness を畳みかけて日常をlull（"same"motif＝意図的・🔧で1つ間引き）→④**少年の人影**＝"Far across the park, someone stands alone. A still figure, watching from the trees. Ako-chan does not know him yet. But there he is, quiet in the distance."✓。**外部視点の人影のみ**（接触/少年POV/赤い光/灰色なし＝Ch26温存）・"him/he"＝少年は男性で性別は秘密でない✓。"Day after day"＝X-after-X慣用（and-tic枠を侵さない）。⚠️S3秘密leakなし✓・章末next_ep空欄（Ch26 Ep211で相互リンク）。🔧レビュー：quiet×3→2（"quiet voices"→"soft voices"・"quiet in the distance"温存）／"same"1つ間引き（"at the same hour"→"at their usual hour"）。
 
 <!-- Ch25（Ep201〜210）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧レビュー追記済み（Phase C×3バッチ）。Phase D完了：ep201.prev_ep=ep200／**ep200.next_ep=ep201 更新済み（S2→S3 連結）**／章末 ep210.next_ep 空欄→Ch26 Ep211で相互リンク。s3_titles[0]="The Quiet Years"確認済み。 -->
+
+---
+
+## Chapter 26「Gray and Red」— 公園・少年登場（Ep211〜220・10話）
+
+**Ch26 共通**
+- ★**少年POVの導入章**。公園のベンチに来る少年（Ako-chanより6歳年下＝十代半ば・⚠️年齢は数値で言わない＝Ako-chan同様）。相貌失認で**人の顔がどれも灰色のにぶい光**に見える。ある日**赤い光（Ako-chan）が公園を横切り**、少年は目で追うようになる→毎日来る→待つ自分に気づく→もっと知りたいと思う、の**興味の逓増10話**。章クローザーでリクガメの1匹が少年へ動き出す（次章Ch27＝接触への助走）。
+- ★**少年知覚の描き方＝signature device（確定 2026-06-27ユーザー選択）**：**Ep211で一度だけ地の文でルールを接地**（"He cannot see faces. To him, each one is a dull gray light. He never tells anyone."）→**以後Ep213〜は光の比喩を信頼して使う**（"A red light crossed the park. Only one. It led a small dog. All the others were gray."）。⚠️**接地するのは"顔・人のidentity"だけ**＝世界・犬・Pod・動き・物は**普通に見える**（Ep214で犬やPodははっきり見える）。診断名（prosopagnosia/face blindness等）は一切書かない＝知覚そのものを描く（writing-guide §7）。
+- ★**「gray」綴り＝統一（確定 2026-06-27）**：少年知覚の中心語は **"gray"**（米式・リポジトリ優勢／"grey"不使用）。⚠️**「gray」は少年POV専用**＝動物POV（Ep216）・Ako-chan POV（Ep217）の地の文/台詞では使わない（動物は匂い・気配・"no bad feeling"で少年を判断）。
+- ★**Ako-chan＝赤い光（理由は不明・伏せる）**：少年は**赤いメガネも赤い日記帳も知らない**。なぜ一つだけ赤いのか**少年自身にも説明できない**（Ep219）。⚠️赤の理由をメガネ/日記に**結びつけない**（謎のまま）。
+- ★**少年POVの命名ルール**：少年は誰の名も知らない＝**少年POVの地の文ではキャラ名・"Pod"を使わない**（"a small dog"／"a reddish dog"／"the little tortoises"／"glowing carts/vehicles"）。**名前・"Pod"が出せるのは動物POV/Ako-chan POV回のみ**（Ep216-217）。
+- ★**少年は台詞を持たない（Ch26）**：誰にも言わない（Ep211）・ひとり。**少年の発話はゼロ**（POV内面のみ）。台詞があるのは動物（Ep216 Suke-san🔒）。Ako-chanは**少年に声をかけない**（初接触＝Ch27 Ep224）。⚠️**Ch26で少年とAko-chanは交流しない**（Ako-chanは公園にいるが少年を見ない＝Ep216④）。
+- ★**種への判断は出さない**：少年の「人類への判断」はCh28で揺らぎ始める＝**Ch26では伏せる**（孤独・観察・"なぜ赤だけ"の問いまで）。s3.md「描かずに残す：少年の判断の具体」。
+- ⚠️**季節整合**：Ch25末＝冬（霜・最後の落ち葉・裸木）。**Ch26は冬の継続〜深まり**。⚠️episode-list Ep217の「秋へ傾く光」は**Ch25確定前の旧表記＝冬に置換**（裸木の公園・カラス/リス/鴨は冬も在・低い冬の光）。
+- 語り規約：少年＝"the boy"／"he/him"（無名）／**gray=少年POV専用**。動物（Ep216）＝Suke-san🔒・Daru所作・匂い/気配で判断（"no bad feeling"）。Ako-chan（Ep217）＝公園の生き物の声を聴く（みな穏やか・異変なし）。一行＝**6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod（赤Daru/青Gabu/黄Ruka）＝公園に来る側。**少年は一行に加わらない**（別個の観察者・逓増なし）。
+- Day割付：Ch25末＝Day9。Ch26＝**Day10〜24（loose・冬）**＝少年が日参する数週間（211=10／212=11／213=13＝赤が横切る日／214=14／215=16／216=17／217=18／218=20／219=22／220=24）。⚠️"毎日来る"の時間幅は説明しすぎない。
+
+### Day 10〜13 — 少年・灰色の世界・赤の出現
+- **Ep211「Gray Light」**（少年POV）：公園のベンチの少年。行き交う人の顔がどれも同じ灰色のにぶい光に溶ける。誰が誰か分からない——生まれてからずっと。受け入れ、誰にも言わない。**★知覚ルールの接地回**。
+  - モード：静・観察（少年POV導入）。③：午後の冷たいベンチ、落ち葉/裸木、犬を連れて通る人、灰色に揺れる人々の輪郭。④：目を閉じても灰色は消えない。
+  - 確定：⚠️**ここで一度だけ知覚ルールを地の文で接地**（"He cannot see faces. To him, each one is a dull gray light."）＝以後の光比喩の土台。診断名禁止。少年=台詞なし。冬の公園。
+- **Ep212「The Park, Alone」**（少年POV）：少年は公園によく来る。いつもひとり。同じ時間・同じ道・同じ場所。人の輪に入らない（顔が見えない＝誰がいるか分からない）。
+  - モード：静・観察。③：木立の影、ベンチの位置、遠くの人々のざわめき、冬の風の冷たさ。④：ひとりは寂しさでなく、ただの状態。
+  - 確定：孤独＝事実として（感傷化しない）。少年POV・名前/Pod出さない。
+- **Ep213「A Red Light Crossed」**（少年POV）：ある日、赤い光が公園を横切る。他のどの人間とも違う＝灰色でなくはっきりした赤。目で追う。なぜそれだけ赤いのか分からない。光は犬を連れ、木立の向こうへ消える。
+  - モード：動・出来事（転換点）。③：午後の光、芝を横切る赤、止まった呼吸、消えた後の残像。④：少年はその場所をしばらく見つめる。
+  - 確定：⚠️**光比喩を信頼**（"A red light crossed the park."＝Ako-chan）。犬＝Dango（**名指さない**＝"a small dog"）。⚠️赤の理由はメガネ/日記に結びつけない（不明）。
+- **Ep214「Drawn Back」**（少年POV）：翌日も来る。また赤い光。今度はもう少し近く＝赤い光は犬を連れ、光る小さな乗り物に小さなリクガメたちを乗せている（3匹・Podだが少年は名を知らない）。遠くから見る。
+  - モード：静・観察。③：3つの小さな発光（赤・青・黄）、犬の歩き、赤い光の動き、ベンチの冷たさ。④：明日もここに来ようと思う。
+  - 確定：⚠️**犬/Podは普通に見える**（顔だけ灰色の例外を体現）。少年POV＝"glowing carts"等（"Pod"不使用）。3発光色＝赤青黄（ledger C）。
+
+### Day 16〜18 — 待つ自分・動物が見返す・二つの世界
+- **Ep215「Every Day」**（少年POV）：毎日来るようになる。赤い光もたいてい来る。それを待っている自分に気づく——でも理由は分からない。
+  - モード：静・観察。③：日ごとの空、葉の色、同じベンチ、増える落ち葉、赤い光が現れる時刻。④：灰色の世界に、ひとつだけ待つものができた。
+  - 確定：興味の逓増（待つ）。⚠️"why"は答えない（Ep219へ）。
+- **Ep216「Watched in Return」**（動物POV・Ako-chanが小さな声を聴く）：動物たちがベンチの少年に気づく。Suke-sanが鼻を上げる。Daruがちらりと見る。少年は人でなく動物の方をまっすぐ見ている。匂い・気配で違いを感じ取る。Ako-chanがそのやり取りを聴く。
+  - 🔒台詞（Suke-san）：*"That one is alone. He watches us. No bad feeling."*（S1のObia評 *"You have no bad feeling in you."* と**同じ判断基準＝匂い/気配**）
+  - モード：感情・観察（動物POV）。③：芝の匂い、Suke-sanの耳、Podの中の3匹の動き。④：Ako-chanはまだ少年の方を見ない。
+  - 確定：⚠️**「gray」不使用**（動物の知覚でない）。⚠️**Ako-chanは少年を見ない/交流しない**（Ch27温存）。動物POV＝名前可（Suke-san/Daru/Pod）。🔒逐語。
+- **Ep217「Crows and Squirrels」**（Ako-chan POV／テクスチャー）：公園の他の生き物と季節。カラス・リス・鴨。Ako-chanは声を聴く——みな穏やか・異変なし。少年はそれを知らず同じ公園を見ている。聴こえる/聴こえない**二つの世界が並ぶ**。
+  - モード：静・観察（変化球・単調回避）。③：⚠️**冬の公園**（裸木・冬の低い光・冷気・冬の鳥）／カラス/リス/鴨の声の重なり。④：同じ公園に二つの世界が静かに並ぶ。
+  - 確定：⚠️**季節＝冬**（"秋へ傾く"は使わない）。Ako-chan POV＝動物の声（穏やか）。⚠️異変なし（"ずっと前から"禁止は無関係＝S3は異変収束済み）。⚠️gray不使用（少年POVでない）。
+- **Ep218「From a Distance」**（少年POV）：遠くから赤い光とその動物たちを見る。まだ近づかない。近づき方を知らない（人と関わってこなかった）。赤い光が犬にどう触れるか、リクガメがどう動くかを観察する。
+  - モード：静・観察。③：距離、ベンチの位置、二人の間の芝の広さ、冬の風。④：見ているだけで満ちている。でも何かが少しずつ動いている。
+  - 確定：少年POV・名前/Pod出さない。"近づき方を知らない"＝孤立の具体（説明しすぎない）。
+
+### Day 22〜24 — なぜ赤だけ・日課の完成（章クローザー）
+- **Ep219「The Only Red」**（少年POV）：問い。なぜ一つの光だけが赤いのか。他はみな灰色なのに。答えを持たない。理由は少年自身にも説明できない。それでも赤は確かにそこにある。
+  - モード：静・観察（問いの回）。③：夕方の光、長くなる影、赤い光が帰る方向、少年の手のひら。④：初めて、灰色でない何かを**もっと知りたい**と思う。
+  - 確定：⚠️**赤の理由は不明のまま**（メガネ/日記に結びつけない）。⚠️種への判断は出さない（Ch28）。問い＝外向き（次章で内向きへ）。
+- **Ep220「The Same Bench」**（少年POV→④動物の所作・章クローザー）：少年の日課が完全に定まる。同じベンチ・同じ時間。赤い光が来る。少年が見る。それが一日の中心。まだ言葉は交わさない。
+  - モード：静・観察（章クローザー）。③：すり減り始めたベンチの一角、足元の落ち葉、毎日同じ角度の光。④章クローザー：**リクガメの一匹がゆっくりと少年の方へ動き始める**（次章＝接触への助走）。
+  - 確定：⚠️**接触はまだ（Ch27）**＝④はリクガメが動き"始める"まで。少年POVだが④の所作は外から見える動き。章末リンク：next_ep＝/season3/chapter27/ep221/（Ch27 Ep221執筆時に相互リンク）。**章頭 ep211.prev_ep=/season3/chapter25/ep210/／章クローズ時に ep210.next_ep=ep211 を更新**。
+
+### ✅ Ch26 執筆完了（Phase C 一括レビュー＝1チャプター通し・2026-06-27）
+- **全10話 ✅執筆済み**（word_count：211=287／212=287／213=274／214=270／215=274／216=270／217=271／218=273／219=270／220=276・全話270-330内）。Day10-24（冬・loose）。
+- **device 規律＝優秀**：少年POV回（211-215,218-220）に**キャラ名/"Pod" ゼロ**（"a small dog/the little tortoises/glowing carts"）。**gray=少年POV専用**（動物POV216・Ako POV217に0件）・`grey`綴り0。知覚ルール接地（Ep211 "He cannot see faces. To him, each one is a dull gray light."）→以後光比喩。Ep214 "But the person among them is only red." / Ep218 "A reddish dog sits guard" ＝"顔=灰色/姿は見える"を体現。
+- 🔒**Suke-san逐語一致**（Ep216）＝*"That one is alone," ... "He watches us. No bad feeling."*（S1 Obia評 "no bad feeling" と同基準）。Ako-chanは聴くが**動かない/少年を見ない**（216④＝接触Ch27温存）✓。
+- アーク：興味の逓増（見る→翌日→毎日/待つ→動物が見返す→二つの世界→観察するが近づけない→なぜ赤だけ/もっと知りたい→日課固定→④リクガメ動き出す）。POV休符216-217を中盤配置。Ep220④＝リクガメが少年へ動き"始める"（接触はCh27）✓。S3秘密leakなし・種への判断は出さず（Ch28温存）。
+- 🔧**Phase C 横断ポリッシュ（Tier1-3＋内容1件・ユーザー承認 2026-06-27）**：
+  - Tier1＝**"cold"飽和**（7話×各4回→各2回）。winter変奏：chill/frost/hard/thin/quiet/hushed/bitter/frosted/dim/frozen/sharp。ep211・ep214の**完全同一文 "The bench is hard and cold beneath him." 重複も解消**。
+  - Tier2＝三連重複（ep219 "clear and red and warm"→"clear and red"・ep213 "clear and bright and warm" との重複解消）／列挙アポジ重複（ep218→"The red light and its animals fill..."）／"side by side"重複（ep214→"close together"・ep217側は温存）。
+  - Tier3＝"He…"文頭過多（ep212 13→11・ep218 16→14・"He sees"アナフォラは温存）。
+  - 内容＝**"phone"除去**（ep216 "his phone or friends"→"the people at all"＝シリーズの時代非依存registerを保つ・ユーザー選択）。
+  - 修正後の再スキャン：floor割れ（ep218→texture1文追加で273）・新規 still×3（ep214→"hushed"）を補正。word_count実測再計算済み（211/214/218/219のfm更新）。
+- リンク：ep211.prev=ch25ep210／章内連鎖／ep220.next空欄（Ch27 Ep221で相互リンク）。
+
+<!-- Ch26（Ep211〜220）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧Phase C一括レビュー（Tier1-3＋phone）適用済み。Phase D：ep210.next_ep=ep211（更新済）／章末 ep220.next_ep 空欄→Ch27 Ep221で相互リンク。s3_titles[1]="Gray and Red"確認済み。 -->
+
+**Ch26（Ep211〜220）執筆完了 ✅**（全10話・word_count実測一致＆範囲内 270〜289・最長文≤16語・冬で一貫）
+- word_count：211=289／212=287／213=274／214=273／215=274／216=270／217=271／218=270／219=272／220=276。story_day：10/11/13/14/16/17/18/20/22/24（非減少）。
+- ★**少年知覚ルールの接地（Ep211のみ）**＝逐語 *"He cannot see faces. To him, each one is a dull gray light."* … *"He never tells anyone. There is nothing to tell."*（診断名なし）。Ep213以降は光比喩を信頼＝*"A red light moves across the grass. It is not gray like all the others."*（Ep213）。
+- ★**「gray」綴り統一・少年POV専用**：211/212/213/214/215/218/219/220のみで使用。**Ep216（動物POV）・Ep217（Ako-chan POV）は gray ゼロ**（検証済み）。gray は人・顔の知覚に限定（dusk/skyには不使用＝craft規律）。
+- ★**少年POVの命名遵守**：211-215/218-220の地の文に**キャラ名・"Pod"・"Obia"ゼロ**（検証済み）＝Ako-chan="a red light/the red"／Dango="a small dog"／Suke-san="a reddish dog"（Ep218）／3匹="the little tortoises"／Pod="glowing little carts"。名前・Pod可は**Ep216-217のみ**。
+- ★**少年＝発話ゼロ**（Ch26）。台詞は動物のみ＝🔒**Suke-san（Ep216）逐語＝"That one is alone," says Suke-san softly. "He watches us. No bad feeling."**（S1 Obia評 *"You have no bad feeling in you."* と同じ匂い/気配の判断基準）。⚠️**Ako-chanは少年に声をかけない・見ない**（Ep216④ *"She does not yet know that he is there. Not really."*）＝Ch26で少年とAko-chan不接触（初接触＝Ch27 Ep224）。
+- ★**興味の逓増アーク**：見る（213）→翌日（214）→毎日・待つ（215）→遠くから観察（218）→なぜ赤だけ＝問い（219）→もっと知りたい（219④ *"he reaches — toward something that is not gray."*）→日課完成（220）。**種への判断は出さず**（Ch28温存）・**赤の理由は不明**（メガネ/日記に結びつけない）。
+- ★**季節＝冬で一貫**（霜・裸木・低い冬の光・冬の鳥）。Ep217は episode-list「秋へ傾く」を**冬に置換済**（カラス/リス/鴨/コマドリ/ミソサザイ・みな穏やか・異変なし）。
+- ★**章クローザー（Ep220④）**＝リクガメ1匹（黄＝Ruka想定・名指さず "one of the little tortoises"）が少年へ**動き始める**（接触はまだ＝Ch27助走）。
+- 文法：S3解禁の現在完了（has lived/have passed 等）多用・限定関係詞（"something that is not gray" 等）。⚠️過去完了/仮定法/分詞構文ゼロ（検証）。三連形容詞=各話1回以内（213/217/218/219）。畳語tic "on and on"=**章内1回のみ**（Ep211）。
+- リンク：ep211.prev_ep=ep210／章内連鎖／**ep220.next_ep 空欄**（Ch27 Ep221で相互リンク）。**Phase D：ep210.next_ep=ep211 更新済み ✅**。s3_titles[1]="Gray and Red"（確認済み）。

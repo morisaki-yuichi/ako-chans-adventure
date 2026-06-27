@@ -151,6 +151,19 @@
 | **S3リクガメ3匹のサイズ（Ch25〜）** | Daru/Gabu/Ruka＝7年で**ほぼ同サイズ(甲長15cm弱)・ぱっと見見分け不可**。識別＝①模様(Daru黄×黒強/Gabu黄+中央黒斑/Ruka網目状黒・頭側面黄斑)②動き(Daru全力→高速/Gabu一定リズム→安定/Ruka止まりながら) | ⚠️**S2「Ruka最小5cm」「先輩逆転(Ch24)」は決着済み**＝S3は3匹同サイズ。移動は常にPod(赤/青/黄) |
 | **Suke-sanの変化（S3）** | 警戒(S1)→**見守り(S3)**。鋭さは消え穏やかな見張りへ。それでも何かを待つ(Ep206) | 定位置＝Ako-chanの右・少し後ろ(不変)。🔒Ep206 *"Quiet. The world is quiet now."* |
 | **Ch25 一行・配置/伏せ** | **6**(Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka)＋3Pod(赤=Daru・青=Gabu・黄=Ruka)。人数固定(逓増逓減なし)。Pen-san/Adelie/Obia不在 | ⚠️**赤い首輪は出さない**(Ako-chan手元にあるがCh32 Ep277-280の回収温存)。⚠️**少年はEp210で人影のみ**(相貌失認・赤い光はCh26〜)。⚠️「灰色」は少年知覚専用＝動物/地の文で不使用 |
+
+### S3 Ch26（Gray and Red・少年POV導入・追加）
+
+| 対象 | 確定値 | メモ |
+|------|--------|------|
+| **少年知覚の描き方（確定2026-06-27ユーザー選択）** | **Ep211で一度だけ地の文でルール接地**("He cannot see faces. To him, each one is a dull gray light.")→**以後Ep213〜は光の比喩を信頼**("A red light crossed the park. ... All the others were gray.") | ⚠️接地するのは**顔・人のidentityだけ**＝世界/犬/Pod/動き/物は**普通に見える**(Ep214)。診断名(prosopagnosia/face blindness)禁止＝知覚そのものを描く(writing-guide §7)。S3少年POV全体の基調 |
+| **「gray」綴り統一（確定2026-06-27）** | 少年知覚の中心語＝**"gray"**(米式・repo優勢gray89/grey40)。**"grey"不使用** | ⚠️**「gray」は少年POV専用**＝動物POV(Ep216)・Ako-chan POV(Ep217)では使わない。house style＝toward/color も米式 |
+| **Ako-chan＝赤い光（不明・伏せ）** | 少年は**赤いメガネ/赤い日記帳を知らない**。なぜ一つだけ赤いか**少年自身も説明できない**(Ep219)。赤の理由を**メガネ/日記に結びつけない**(謎) | s3.md「赤いメガネも日記も知らない・それでも赤と認識」。⚠️種への判断はCh28＝Ch26では伏せる |
+| **少年POVの命名/呼称** | 少年は誰の名も知らない＝**少年POV地の文ではキャラ名・"Pod"不使用**("a small dog"/"the little tortoises"/"glowing carts") | **名前・"Pod"が出せるのは動物POV/Ako-chan POV回(Ep216-217)のみ**。少年="the boy"/"he/him"(無名・年齢は数値で言わない) |
+| **少年の台詞・交流（Ch26）** | 少年＝**発話ゼロ**(誰にも言わない・POV内面のみ)。台詞は動物のみ(Ep216 Suke-san🔒)。**Ako-chanは少年に声をかけない/見ない**(Ep216④) | ⚠️**Ch26で少年とAko-chanは交流しない**＝初接触はCh27 Ep224。動物が少年に気づく(Ep216)→Ako-chanは声を聴くが動かない |
+| **Suke-sanの少年評（Ch26 Ep216・🔒）** | 🔒*"That one is alone. He watches us. No bad feeling."* | **S1のObia評 *"You have no bad feeling in you."* と同じ判断基準＝匂い/気配**。⚠️動物は「gray」を使わない(嗅覚/気配で判断)。Daru=所作(ちらり) |
+| **Ch26 季節整合** | **冬の継続〜深まり**(Ch25末=冬・霜・裸木)。⚠️episode-list Ep217「秋へ傾く光」は**旧表記→冬に置換**(裸木・冬の低い光・カラス/リス/鴨は冬も在) | S3は異変収束済み＝公園の声は穏やか(Ako-chan Ep217)。"ずっと前から異変"禁止はS3では無関係 |
+| **Ch26 Day割付/逓増** | Ch25末=Day9→Ch26=**Day10〜24(loose・冬)**。一行=6＋3Pod(公園に来る側)。**少年は一行に加わらない**(別個の観察者・逓増なし) | 少年の興味は逓増(赤を見る→翌日→毎日→待つ→もっと知りたい)だが人数は不変。章クローザー(Ep220④)=リクガメ1匹が少年へ動き"始める"(接触はCh27) |
 | **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
