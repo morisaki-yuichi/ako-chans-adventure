@@ -1633,7 +1633,7 @@
 **Ch26 共通**
 - ★**少年POVの導入章**。公園のベンチに来る少年（Ako-chanより6歳年下＝十代半ば・⚠️年齢は数値で言わない＝Ako-chan同様）。相貌失認で**人の顔がどれも灰色のにぶい光**に見える。ある日**赤い光（Ako-chan）が公園を横切り**、少年は目で追うようになる→毎日来る→待つ自分に気づく→もっと知りたいと思う、の**興味の逓増10話**。章クローザーでリクガメの1匹が少年へ動き出す（次章Ch27＝接触への助走）。
 - ★**少年知覚の描き方＝signature device（確定 2026-06-27ユーザー選択）**：**Ep211で一度だけ地の文でルールを接地**（"He cannot see faces. To him, each one is a dull grey light. He never tells anyone."）→**以後Ep213〜は光の比喩を信頼して使う**（"A red light crossed the park. Only one. It led a small dog. All the others were grey."）。⚠️**接地するのは"顔・人のidentity"だけ**＝世界・犬・Pod・動き・物は**普通に見える**（Ep214で犬やPodははっきり見える）。診断名（prosopagnosia/face blindness等）は一切書かない＝知覚そのものを描く（writing-guide §7）。
-- ★**英国英語綴り＝統一（確定 2026-06-27・同日の「米式gray」案を反転）**：全話イギリス英語綴り（grey/colour/towards/metre 等。writing-guide §1 表記ルール）。⚠️知覚の中心語 **grey は少年POV専用**＝動物POV（Ep216）・Ako-chan POV（Ep217）の地の文/台詞では使わない（動物は匂い・気配・"no bad feeling"で少年を判断）。
+- ★**英国英語綴り＝統一（確定 2026-06-27・ユーザー判断＝英式）**：全話イギリス英語綴り（grey/colour/towards/metre 等。writing-guide §1 表記ルール）。※前セッションが単語登場数カウントで独断採用した米式gray案は撤回＝ユーザー判断ではない。⚠️知覚の中心語 **grey は少年POV専用**＝動物POV（Ep216）・Ako-chan POV（Ep217）の地の文/台詞では使わない（動物は匂い・気配・"no bad feeling"で少年を判断）。
 - ★**Ako-chan＝赤い光（理由は不明・伏せる）**：少年は**赤いメガネも赤い日記帳も知らない**。なぜ一つだけ赤いのか**少年自身にも説明できない**（Ep219）。⚠️赤の理由をメガネ/日記に**結びつけない**（謎のまま）。
 - ★**少年POVの命名ルール**：少年は誰の名も知らない＝**少年POVの地の文ではキャラ名・"Pod"を使わない**（"a small dog"／"a reddish dog"／"the little tortoises"／"glowing carts/vehicles"）。**名前・"Pod"が出せるのは動物POV/Ako-chan POV回のみ**（Ep216-217）。
 - ★**少年は台詞を持たない（Ch26）**：誰にも言わない（Ep211）・ひとり。**少年の発話はゼロ**（POV内面のみ）。台詞があるのは動物（Ep216 Suke-san🔒）。Ako-chanは**少年に声をかけない**（初接触＝Ch27 Ep224）。⚠️**Ch26で少年とAko-chanは交流しない**（Ako-chanは公園にいるが少年を見ない＝Ep216④）。

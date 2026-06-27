@@ -189,7 +189,7 @@
 | 対象 | 確定値 | メモ |
 |------|--------|------|
 | **少年知覚の描き方（確定2026-06-27ユーザー選択）** | **Ep211で一度だけ地の文でルール接地**("He cannot see faces. To him, each one is a dull grey light.")→**以後Ep213〜は光の比喩を信頼**("A red light crossed the park. ... All the others were grey.") | ⚠️接地するのは**顔・人のidentityだけ**＝世界/犬/Pod/動き/物は**普通に見える**(Ep214)。診断名(prosopagnosia/face blindness)禁止＝知覚そのものを描く(writing-guide §7)。S3少年POV全体の基調 |
-| **英国英語綴り統一（確定2026-06-27・同日の「米式gray」案を反転）** | 全話イギリス英語綴り＝**grey/colour/towards/metre/favourite/travelled/centre 等**。旧「米式gray・towards・colour」house styleは撤回（writing-guide §1 表記ルール参照） | ⚠️知覚の中心語 **grey は少年POV専用**＝動物POV(Ep216)・Ako-chan POV(Ep217)では使わない（綴りは英米共通で grey に統一） |
+| **英国英語綴り統一（確定2026-06-27・ユーザー判断＝英式）** | 全話イギリス英語綴り＝**grey/colour/towards/metre/favourite/travelled/centre 等**（writing-guide §1 表記ルール参照）。※前セッションが単語登場数カウントで独断採用した米式案（gray/toward/color）は撤回＝ユーザー判断ではない | ⚠️知覚の中心語 **grey は少年POV専用**＝動物POV(Ep216)・Ako-chan POV(Ep217)では使わない（綴りは英米共通で grey に統一） |
 | **Ako-chan＝赤い光（不明・伏せ）** | 少年は**赤いメガネ/赤い日記帳を知らない**。なぜ一つだけ赤いか**少年自身も説明できない**(Ep219)。赤の理由を**メガネ/日記に結びつけない**(謎) | s3.md「赤いメガネも日記も知らない・それでも赤と認識」。⚠️種への判断はCh28＝Ch26では伏せる |
 | **少年POVの命名/呼称** | 少年は誰の名も知らない＝**少年POV地の文ではキャラ名・"Pod"不使用**("a small dog"/"the little tortoises"/"glowing carts") | **名前・"Pod"が出せるのは動物POV/Ako-chan POV回(Ep216-217)のみ**。少年="the boy"/"he/him"(無名・年齢は数値で言わない) |
 | **少年の台詞・交流（Ch26）** | 少年＝**発話ゼロ**(誰にも言わない・POV内面のみ)。台詞は動物のみ(Ep216 Suke-san🔒)。**Ako-chanは少年に声をかけない/見ない**(Ep216④) | ⚠️**Ch26で少年とAko-chanは交流しない**＝初接触はCh27 Ep224。動物が少年に気づく(Ep216)→Ako-chanは声を聴くが動かない |
