@@ -119,7 +119,7 @@
 | **跳躍中/跳躍先のステージング（Ch19）** | 四人のみ＝Ako-chan・Obia・**Pen-san・General Adelie**。洞窟残留＝Dango・Suke-san・Daru・Gabu・Ruka。Pen-san=鏡像（無言の凝視・短い台詞可・"he"）／General=観察者の台詞・無言の敬礼（厳格・"the General/he"）／Obia=it・転送役 | 北大西洋の孤島・嵐＝**島は命名しない**（地域アンカー）。戻り先＝**洞窟内** |
 | **オオウミガラスの英語呼称（Ch19）** | 中心＝"the birds that cannot fly / the seabirds / the flightless birds"。**"great auk" は教材価値で1〜2回まで可**（実在種名＝地名/"Emperor penguin"と同格） | companion的な命名はしない。Ch18の狼（"the wolves"＝命名なし）と同方針＋実在種名の教材アンカーを許容 |
 | **跳躍中のステージング（Ch20）** | **跳躍組5＝Ako・Obia・Daru(赤)・Gabu(青)・Ruka(黄)**／**現代組4＝Dango・Suke-san・Pen-san・General Adelie（洞窟残留）**。Ruka=she・台詞最小（消失は所作）／Daru=引用あり（"Ruka! I'm coming!"）／Gabu=無言で追う（所作）／Obia=it（はざまで同行・たどる役） | ⚠️**裂け目・三匹消失・はざまは現代組には見えない**（s2.md）＝Ch20は跳躍組視点・現代組の目撃描写を入れない。事故後Ako/Obiaは"別の流れ"ではざまへ |
-| **「時空のはざま」の英語（Ch20-21・確定2026-06-26ユーザー選択）** | **"the space between times"**（"Not here. Not there. Just gray and still. No ground. No sky."）。Ep165初出・Ch21時空組POVでも同語 | 機構の詳説はしない（"the jump did not finish"程度）。"should"はS2既出（ep114/155）で可 |
+| **「時空のはざま」の英語（Ch20-21・確定2026-06-26ユーザー選択）** | **"the space between times"**（"Not here. Not there. Just grey and still. No ground. No sky."）。Ep165初出・Ch21時空組POVでも同語 | 機構の詳説はしない（"the jump did not finish"程度）。"should"はS2既出（ep114/155）で可 |
 | **Ako-chanの自責アーク（Ch20）** | **Ep161決断（"I will go."＝反対を越え自ら選ぶ）→Ep166自責（"自分が決めたせい"＝涙・パニック）の因果を明確に結ぶ** | Obiaは責めず "We will go together."（Ep167）。s2.md「3回目直前の議論→決断→三匹喪失後の自責」 |
 | **3回目跳躍の行き先（Ch20-21）** | **事故跳躍＝登録外・不明**。Ch20は「三匹がどこのいつへ行ったか誰も分からない」まで。氷河期オーストラリア・マイオラニアは**Ch21で開示** | 1・2回目（登録済み・機械が選定）と異なり、裂け目による事故＝行き先未登録 |
 | **3グループPOVクロスカット（Ch21・この章唯一）** | リクガメ組(Ruka/Daru/Gabu・氷河期豪州)／時空組(Ako/Obia・追跡)／現代組(Suke/Dango/Pen/General・洞窟)。開幕＝リクガメ組(Ep168)。各Ep冒頭でPOV接地。**全話Day19**（現代組を別Dayにしない） | ⚠️**現代組は裂け目・三匹消失を知らない**（Ch20で不可視）＝Ep171は「長すぎる・心配」のみ・具体的異変知識を持たせない |
@@ -136,9 +136,9 @@
 |------|--------|------|
 | **赤い首輪 keystone(Ch32 Ep277-280・確定2026-06-27ユーザー指示=起源を伏せる)** | Ako-chanが**Ep184でObiaが残した同一の赤い首輪**を取り出し、新ロボットに無言・自発でつける(Ep277取り出し/Ep278装着)。⚠️**「いつ・誰が作ったか」は伏せる=「Ako-chanが作った」と描かない**(bootstrapループ=起源なし) | ⚠️**旧s3.md「赤い首輪はAko-chanが作った(S3で判明)」を上書き**(同一物が循環)。⚠️Ako-chanは**理由が分からないまま**つける(無意識の衝動=Ch29-31牽引の最終形・Obia自身の"I do not know why"と同register)・**意識的にループを閉じない**。シンプルな赤い首輪(機械でない)。"Obia"不使用 |
 | **Ep280回想(首輪の情の歴史)** | Ako POVで首輪history(S1で凍った"the one who is gone"につけ直した再会/Ep184で渡された"I do not know why")を**淡い疼き**で重ねる。同じ赤・同じ手・同じ無言 | ④"なぜこれをするのか説明できない"(理由も起源も言葉にならない)。⚠️**起源closeしない・"作った"と言わない・"Obia"不使用・因果接続しない・ループ非説明**=読者だけが繋ぐ |
-| **🔒 Suke-san(Ch32 Ep275)** | 🔒*"Go. We will remember."*(かつて人/Obiaを警戒したSuke-sanの到達点=容認) | **carrying-forward誓いモチーフ**(S1クジラ/S2マイオラニア "We will not forget" 系)。gray不使用(動物POV) |
+| **🔒 Suke-san(Ch32 Ep275)** | 🔒*"Go. We will remember."*(かつて人/Obiaを警戒したSuke-sanの到達点=容認) | **carrying-forward誓いモチーフ**(S1クジラ/S2マイオラニア "We will not forget" 系)。grey不使用(動物POV) |
 | **Dangoの最後の譲歩(Ep276)・Ruka(Ep274)** | Dango=一歩下がる=最大の敬意(嫉妬アークはCh30 Ep259で解消済=ここは到達点・割って入らない)。Ruka=Podを降りて少年の足元・別れを惜しむ(プーリアEp103) | ⚠️Dango引用なし。Ruka=she・所作中心 |
-| **Ch32 行き先・配置・季節** | 行き先=**白い大陸(poetic)**・⚠️"Antarctica"/"洞窟"明示しすぎない(Ch33開示)。少年=terse/無言(別れは所作)・名前未交換のまま。少年POV=Ako-chan="the red light"/gray=少年POV専用 | 早春の朝。一行=6＋3Pod(見送る)。Ep282=少年とロボットが南極へ(Ako-chan同行せず)。⚠️"He…"文頭散らす・フラット副詞-ly・最長文≤11偏り回避 |
+| **Ch32 行き先・配置・季節** | 行き先=**白い大陸(poetic)**・⚠️"Antarctica"/"洞窟"明示しすぎない(Ch33開示)。少年=terse/無言(別れは所作)・名前未交換のまま。少年POV=Ako-chan="the red light"/grey=少年POV専用 | 早春の朝。一行=6＋3Pod(見送る)。Ep282=少年とロボットが南極へ(Ako-chan同行せず)。⚠️"He…"文頭散らす・フラット副詞-ly・最長文≤11偏り回避 |
 
 ### S3 Ch33（The Ones Who Remember・南極洞窟・着手・11話・追加）
 
@@ -148,7 +148,7 @@
 | **声なき認識のトーン(Ch33・確定2026-06-27ユーザー選択=抑制・静かなbittersweet)** | 二羽の再会の認識・哀しみは**所作と沈黙で静かに**(涙/嘆き出さない)・"声なき理解が洞窟に満ちる"静謐(S2別れと同register) | ⚠️**少年は動物の声を聴けない/Ako-chan不在=認識は誰にも受け取られない**=核デバイス(Ako-chanが聴く)の**意図的不在**。⚠️**ロボットも二羽を知らない**(若いObia・S1前)=🔒"you do not know us yet"。**読者だけが重みを知る** |
 | **🔒 Pen-san/General(Ch33)** | Ep291 Pen-san *"You came back. But you do not know us yet."*(soft/low/少年に届かない)。Ep292 General Adelie=**沈黙**(台詞なし・所作で) | Pen-san=エンペラー成体(S1ヒナ"I will be a good Emperor."/S2 Ep130/甘えん坊)。General=Colonel→General(S2 Ep131・厳格・目周り白リング)。S2末Ep187-188南極残留=ここに居る |
 | **ロボット呼称/二羽の認識(Ch33)** | 少年POV=中立語(it/the silver one・物理: silver/blue-white eyes/**赤い首輪**)・robot/Obia/名前不使用。二羽は**赤い首輪＋青白い目**で認識(名は出さない) | ⚠️少年は二羽を知らない(Ep285="two penguins/birds")。動物POV(286/287/291/292)でのみPen-san/Adelie名可。"Obia"不使用 |
-| **Ako-chan不在(S3初)・gray・Day** | 少年POVに"the red light"は居ない(遠い)・少年は赤を恋しく思う(Ep283)。gray=少年POV専用だが**洞窟に人なし=出番ほぼ無し**。Day110〜(南極・loose) | Dango等イギリス組不在。一行=少年＋ロボット＋(洞窟)Pen-san/General。⚠️"Antarctica"明示最小("the ice/the cold white land/the cave/the south") |
+| **Ako-chan不在(S3初)・grey・Day** | 少年POVに"the red light"は居ない(遠い)・少年は赤を恋しく思う(Ep283)。grey=少年POV専用だが**洞窟に人なし=出番ほぼ無し**。Day110〜(南極・loose) | Dango等イギリス組不在。一行=少年＋ロボット＋(洞窟)Pen-san/General。⚠️"Antarctica"明示最小("the ice/the cold white land/the cave/the south") |
 | **時の経過の始まり(Ep293)・章クローザー** | 季節が何度も巡る・少年の作業が日々続く・**もう公園の少年ではない**=Ch34時間跳び/科学者化への助走 | ⚠️**大きな時間跳び・科学者化はCh34**(Ch33は"巡り始める"まで)・**機械は完成しない**(建造途上)。⚠️"He…"文頭/フラット副詞/最長文偏り回避 |
 
 ### S3 Ch34（To the Beginning・エピローグ・★シリーズ完結・7話・追加）
@@ -157,7 +157,7 @@
 |------|--------|------|
 | **⚠️非線形(Ch34・把握必須)** | **Ep294-298=未来の洞窟**(少年→科学者・S3現在より後)／**Ep299=S1の庭**(最古・少女Ako-chan10歳)／**Ep300=現在**(大人Ako-chan)。実時系列=299＜300＜294-298 | ⚠️**story_dayは名目のみ・非減少はツール便宜**(294=500…300=506)。各話briefでera明示 |
 | **ループ閉環(Ep297)・起点回収せず** | ObiaをS1イギリス(ある庭)へ送り出す="これがすべての始まり"。⚠️**「誰が最初に作ったか/なぜ始まったか」は明かさない・地の文で説明しない**(bootstrap・world.md §3) | 送り先="a garden, long ago, in England"(名は出さず)・"Obia"不使用。man=洞窟に残る・**その後は描かない**(Ep298) |
-| **★Ep299=S1 Ep1ミラー(同題"Eyes in the Garden")** | 送り出されたロボットが旅の始まりの庭に届く=**S1 Ep1の「目」**。S1 Ep1情景をエコー(夜明け前/露/霧/隅/**"Two eyes. Pale and blue."**/赤メガネの少女/瞬きで消える/"Soft and gray and still."/"Something small turns in her chest."/"The sun is still not up.") | ⚠️**"目＝Obia"連結を初めて読者に見せる解放点**(ledger L41)だが**名は伏せたまま**("目/青白い光/銀色＋赤い首輪")。⚠️**視点=少女Ako-chan(S1・10歳)**・大人と混同しない |
+| **★Ep299=S1 Ep1ミラー(同題"Eyes in the Garden")** | 送り出されたロボットが旅の始まりの庭に届く=**S1 Ep1の「目」**。S1 Ep1情景をエコー(夜明け前/露/霧/隅/**"Two eyes. Pale and blue."**/赤メガネの少女/瞬きで消える/"Soft and grey and still."/"Something small turns in her chest."/"The sun is still not up.") | ⚠️**"目＝Obia"連結を初めて読者に見せる解放点**(ledger L41)だが**名は伏せたまま**("目/青白い光/銀色＋赤い首輪")。⚠️**視点=少女Ako-chan(S1・10歳)**・大人と混同しない |
 | **★Ep300=S1 Ep100/S2 Ep200ミラー(同題"The Red Notebook"・最終話)** | 現在・大人Ako-chan。夜/机/ランプ/赤い日記帳。"Obia——"の続きを今夜書く。三段=*"I have to go."*(4語/S1 Ep5)→*"Obia——"*(S2 Ep199)→**続き(⚠️中身描かない)** | ⚠️**"Obia"は日記の中だけの例外**(S3唯一の名前許容)。S1 Ep100/S2 Ep200/Ep199の構図エコー。**最終話=next_ep空欄** |
 | **★結びの感情ノート(Ch34・確定2026-06-27ユーザー選択)** | **満ちた回帰・無意識のまま**=Ako-chanはループを意識的に理解しない・でも"戻ってきた/満ちた"説明できない平安が続きを書かせる("the night feels like something has come home")。**知識でなく平安から書く** | ⚠️**ループを語らない・"なぜ書けるか"を解説しない**。読者がループを閉じAko-chanは平安を得る。bittersweet→静かな充足・夜明けが近い |
 | **少年→科学者(Ep294)・語り** | 時が経ち科学者に(名前/出自は依然描かない)。ロボット=中立語/物理(赤い首輪)・**"Obia"はEp300日記のみ**。Pen-san/Adelie=man POVでは"the two penguins"(man知らず) | ⚠️**送り出した後どうなるかは描かない**(s3.md)。少女Ako-chan(Ep299)/大人Ako-chan(Ep300)。⚠️craft教訓(He文頭/フラット副詞/最長文偏り)継続 |
@@ -188,12 +188,12 @@
 
 | 対象 | 確定値 | メモ |
 |------|--------|------|
-| **少年知覚の描き方（確定2026-06-27ユーザー選択）** | **Ep211で一度だけ地の文でルール接地**("He cannot see faces. To him, each one is a dull gray light.")→**以後Ep213〜は光の比喩を信頼**("A red light crossed the park. ... All the others were gray.") | ⚠️接地するのは**顔・人のidentityだけ**＝世界/犬/Pod/動き/物は**普通に見える**(Ep214)。診断名(prosopagnosia/face blindness)禁止＝知覚そのものを描く(writing-guide §7)。S3少年POV全体の基調 |
-| **「gray」綴り統一（確定2026-06-27）** | 少年知覚の中心語＝**"gray"**(米式・repo優勢gray89/grey40)。**"grey"不使用** | ⚠️**「gray」は少年POV専用**＝動物POV(Ep216)・Ako-chan POV(Ep217)では使わない。house style＝toward/color も米式 |
+| **少年知覚の描き方（確定2026-06-27ユーザー選択）** | **Ep211で一度だけ地の文でルール接地**("He cannot see faces. To him, each one is a dull grey light.")→**以後Ep213〜は光の比喩を信頼**("A red light crossed the park. ... All the others were grey.") | ⚠️接地するのは**顔・人のidentityだけ**＝世界/犬/Pod/動き/物は**普通に見える**(Ep214)。診断名(prosopagnosia/face blindness)禁止＝知覚そのものを描く(writing-guide §7)。S3少年POV全体の基調 |
+| **英国英語綴り統一（確定2026-06-27・同日の「米式gray」案を反転）** | 全話イギリス英語綴り＝**grey/colour/towards/metre/favourite/travelled/centre 等**。旧「米式gray・towards・colour」house styleは撤回（writing-guide §1 表記ルール参照） | ⚠️知覚の中心語 **grey は少年POV専用**＝動物POV(Ep216)・Ako-chan POV(Ep217)では使わない（綴りは英米共通で grey に統一） |
 | **Ako-chan＝赤い光（不明・伏せ）** | 少年は**赤いメガネ/赤い日記帳を知らない**。なぜ一つだけ赤いか**少年自身も説明できない**(Ep219)。赤の理由を**メガネ/日記に結びつけない**(謎) | s3.md「赤いメガネも日記も知らない・それでも赤と認識」。⚠️種への判断はCh28＝Ch26では伏せる |
 | **少年POVの命名/呼称** | 少年は誰の名も知らない＝**少年POV地の文ではキャラ名・"Pod"不使用**("a small dog"/"the little tortoises"/"glowing carts") | **名前・"Pod"が出せるのは動物POV/Ako-chan POV回(Ep216-217)のみ**。少年="the boy"/"he/him"(無名・年齢は数値で言わない) |
 | **少年の台詞・交流（Ch26）** | 少年＝**発話ゼロ**(誰にも言わない・POV内面のみ)。台詞は動物のみ(Ep216 Suke-san🔒)。**Ako-chanは少年に声をかけない/見ない**(Ep216④) | ⚠️**Ch26で少年とAko-chanは交流しない**＝初接触はCh27 Ep224。動物が少年に気づく(Ep216)→Ako-chanは声を聴くが動かない |
-| **Suke-sanの少年評（Ch26 Ep216・🔒）** | 🔒*"That one is alone. He watches us. No bad feeling."* | **S1のObia評 *"You have no bad feeling in you."* と同じ判断基準＝匂い/気配**。⚠️動物は「gray」を使わない(嗅覚/気配で判断)。Daru=所作(ちらり) |
+| **Suke-sanの少年評（Ch26 Ep216・🔒）** | 🔒*"That one is alone. He watches us. No bad feeling."* | **S1のObia評 *"You have no bad feeling in you."* と同じ判断基準＝匂い/気配**。⚠️動物は「grey」を使わない(嗅覚/気配で判断)。Daru=所作(ちらり) |
 | **Ch26 季節整合** | **冬の継続〜深まり**(Ch25末=冬・霜・裸木)。⚠️episode-list Ep217「秋へ傾く光」は**旧表記→冬に置換**(裸木・冬の低い光・カラス/リス/鴨は冬も在) | S3は異変収束済み＝公園の声は穏やか(Ako-chan Ep217)。"ずっと前から異変"禁止はS3では無関係 |
 | **Ch26 Day割付/逓増** | Ch25末=Day9→Ch26=**Day10〜24(loose・冬)**。一行=6＋3Pod(公園に来る側)。**少年は一行に加わらない**(別個の観察者・逓増なし) | 少年の興味は逓増(赤を見る→翌日→毎日→待つ→もっと知りたい)だが人数は不変。章クローザー(Ep220④)=リクガメ1匹が少年へ動き"始める"(接触はCh27) |
 
@@ -205,7 +205,7 @@
 | **接触のstaging(Ch27)** | 動物が先に近づく(Ep221 Ruka足元→Ep222 Suke-san値踏み)→**Ako-chanの第一声はEp224まで来ない**(221-223は見守るのみ) | ⚠️段階を飛ばさない。Ako-chanは名乗らない(少年は名を知らないまま) |
 | **🔒 Suke-san(Ch27 Ep222)** | 🔒*"No bad feeling. But I will watch."* | **S1 Obia評 *"You have no bad feeling in you."* と同基準**(匂い/気配)・Ch26 Ep216 "No bad feeling" の継続。警戒→吟味→容認の途上 |
 | **🔒 Ako-chan(Ch27)** | Ep224🔒*"This little one likes you."*(「この子あなたが好きみたい」英訳・warm少数語・**確定default/微調整可**・引用回収なし)／Ep225🔒*"Dango."*(たしなめ) | ⚠️Ep224でAko-chanは名乗らない。接近しても**少年は顔=不可視・赤は見える**(Ch26 device継続・赤の理由は不明) |
-| **少年知覚・命名(Ch27継続)** | 顔=灰色/Ako-chan=赤(接近しても不変)。**gray=少年POV専用**(動物POV221/222・Ako POV/回想225/227/228で不使用)。少年POV回は**キャラ名/"Pod"不使用** | 名前/"Pod"可＝動物POV(221/222)・Ako-chan POV/回想(225/226/227/228)。赤の理由はメガネ/日記に結びつけない |
+| **少年知覚・命名(Ch27継続)** | 顔=灰色/Ako-chan=赤(接近しても不変)。**grey=少年POV専用**(動物POV221/222・Ako POV/回想225/227/228で不使用)。少年POV回は**キャラ名/"Pod"不使用** | 名前/"Pod"可＝動物POV(221/222)・Ako-chan POV/回想(225/226/227/228)。赤の理由はメガネ/日記に結びつけない |
 | **回想内のロボット呼称(Ch27 Ep227/228・確定2026-06-27ユーザー選択)** | **"the one who is gone" / "the friend who left" 型のタイトル由来の描写句**(名前なし・**"it"で薄めない**・情を保つ) | ⚠️回想ゆえ"空席で語る"は不適(過去に在って去る存在)＝[[s3-absent-robot-empty-space]]の拡張。⚠️**"Obia"不使用**(回想は名前不可・日記の例外はCh27に無し)。Ep228=pale blue光が消える別れ(S2末・氷・未来へ)。Ep227はロボット周縁(場所/動物中心) |
 | **Dango嫉妬アーク #S3(Ch27〜)** | **#①開始＝Ep225**(少年とAko-chanの間に体を割り込ませ低く一声うなる)→**#②＝Ep253**(小屋・より強い)→**解消＝Ep259「Dango's Truce」** | ⚠️**Dango引用台詞なし**(うなり/所作＋Ako-chan *"Dango."*)。S1の嫉妬アーク(Daru→Gabu→Suke-san→Pen-san)のS3版＝対"少年"。Rukaは動じない |
 | **Ch27 回想の素材(既出整合)** | Ep227＝S1 Ep97の回顧テンプレ(**white rocks/Daru・hot red sand/Gabu・green mountain/Suke-san**)＋Daru🔒*"Let me see!"*(S1 Ep18/20)。Ep228＝S2末別れ(pale blue・氷・"into the future") | A2-B1で短く再話(上位レベル再読)。⚠️S1 Ep1の「目」は使わない。⚠️首輪/ループ/未来の正体 leakなし |
@@ -215,12 +215,12 @@
 
 | 対象 | 確定値 | メモ |
 |------|--------|------|
-| **少年の人間観のトーン(Ch28・確定2026-06-27ユーザー選択)** | **"静かな冷ややかさが揺らぐ"**＝人を"灰色の塊/dull mass/all the same/meaning nothing"として冷ややかに切り捨ててきた→赤と動物で揺らぐ。内向きの問いも重め("What is he, among all the gray? Why is he here at all?") | ⚠️**判断の"具体"は描かない**(s3.md)／⚠️**断罪の負の動機はCh31 Ep271まで伏せる**(Ep240の"もう一つの動機"は形にしない) |
+| **少年の人間観のトーン(Ch28・確定2026-06-27ユーザー選択)** | **"静かな冷ややかさが揺らぐ"**＝人を"灰色の塊/dull mass/all the same/meaning nothing"として冷ややかに切り捨ててきた→赤と動物で揺らぐ。内向きの問いも重め("What is he, among all the grey? Why is he here at all?") | ⚠️**判断の"具体"は描かない**(s3.md)／⚠️**断罪の負の動機はCh31 Ep271まで伏せる**(Ep240の"もう一つの動機"は形にしない) |
 | **文法ガード(Ch28・トーン特有)** | "これまで(過去)の人間観"を語るが**過去完了(had+pp)禁止**＝単純過去/現在完了/"For years…"構文 | ×"he had judged them"／○"For years, they meant nothing to him." / "He has looked past them all his life." |
 | **T12対策(Ch28・最重要)** | 抽象(相貌失認・種への判断・内への問い)を**直接ナレーションしない**＝観察された具体(歩幅/角度/位置=距離そのもの)・知覚に置換(writing-guide §7) | Ep234が核。少年が"見たもの"だけで示す。Ep236の"反例"も所作で |
 | **外→内の転換(Ch28 Ep237)** | 「この絆はどこから来たか」(外)→**「自分はなぜここにいるのか」**(内)。持つ者/持たぬ者の対比で転換 | s3.md。少年は絆の外側・誰とも始まったことがない。内省は本作で初 |
 | **回想ロボット呼称(Ch28 Ep232)** | **"the one who is gone"/"the friend who left"型**(Ch27確定の継続・名前なし・"it"で薄めない・**周縁**1回程度) | Ep232=Suke-sanの定位置(右後ろ)の由来=S1日本の警戒→S1 Ch10信頼宣言→守りの位置。過去完了禁止 |
-| **少年知覚・命名(Ch28継続)** | 顔=灰色/Ako-chan=赤(理由不明)。**gray=少年POV専用**(回想232・動物POV236で不使用)。少年POV回は名前/"Pod"不使用 | 名前/Pod可=回想(232)・動物POV(236)。少年=発話ゼロ(Ep235"I cannot see the beginning"=内面・声に出さない)。普通の会話の初=Ch30 Ep256 |
+| **少年知覚・命名(Ch28継続)** | 顔=灰色/Ako-chan=赤(理由不明)。**grey=少年POV専用**(回想232・動物POV236で不使用)。少年POV回は名前/"Pod"不使用 | 名前/Pod可=回想(232)・動物POV(236)。少年=発話ゼロ(Ep235"I cannot see the beginning"=内面・声に出さない)。普通の会話の初=Ch30 Ep256 |
 | **Ch28 季節・配置・Day** | 晩冬継続(Ep235"変わる季節"=かすかな兆しのみ・**春と明言しない**=制作章へ温存)。一行=6＋3Pod。少年=観察者(接触済だが未合流)。Day34〜48(loose) | 異変なし。⚠️"He…"文頭の連続を散らす(少年POV8話=平板化注意・Ch26/27の教訓)。Ep240④=制作の種(Ch29へ)・**ロボットの名前/姿は出さない** |
 
 ### S3 Ch29（Building Alone・制作単独・11話・追加）
@@ -240,13 +240,13 @@
 
 | 対象 | 確定値 | メモ |
 |------|--------|------|
-| **少年の第一声(Ch30 Ep256・確定2026-06-27ユーザー選択)** | **作業に溶けた実用語・重みは地の文**＝第一声は最小実用語("Like this?"等・低い声)で劇的演出しない。重み＝地の文("He has never asked anyone anything before… The words feel strange. They are not gray.") | Ep211以来**45話ぶりの発話**。⚠️Ep252-255は少年ほぼ無言(第一声=Ep256)。**Ep256以降 喋れる=terse/hesitant/感情語少**。⚠️名乗らない(名前未交換) |
+| **少年の第一声(Ch30 Ep256・確定2026-06-27ユーザー選択)** | **作業に溶けた実用語・重みは地の文**＝第一声は最小実用語("Like this?"等・低い声)で劇的演出しない。重み＝地の文("He has never asked anyone anything before… The words feel strange. They are not grey.") | Ep211以来**45話ぶりの発話**。⚠️Ep252-255は少年ほぼ無言(第一声=Ep256)。**Ep256以降 喋れる=terse/hesitant/感情語少**。⚠️名乗らない(名前未交換) |
 | **Ako-chanの牽引(Ch30・Ch29→Ch31の中間)** | **深まるが意識的には気づかない**＝Ep252"なぜ手伝うか深く考えない/放っておけない"、Ep255"手が制作を覚えている"(身体記憶でより深く)。**「あの子を作り直している」と意識的に繋がない/言わない** | ⚠️因果接続しない(world.md §3)。affectは完成へ漸増(Ch31 Ep267"赤い光が揺れる"へ接続) |
 | **Dango嫉妬アーク 解消(Ch30)** | #①Ep225(公園・低いうなり)→**#②Ep253(小屋・肩を寄せる近さで強く)**→**解消Ep259「Dango's Truce」**(少年を許す=少し離れて寝そべる=大きな譲歩・Ako-chanが頭を撫でる) | ⚠️Dango引用なし(うなり/所作＋Ako *"Dango."*)。Rukaは動じない |
-| **🔒 Daru/Gabu(Ch30 Ep254)** | Daru *"It is taking shape."*／Gabu *"...Yes."*(制作物の"形になる"を感じる・Ako-chanが聴く) | ⚠️gray不使用(動物POV)・名前/Pod可。「懐かしさ」は所作で |
+| **🔒 Daru/Gabu(Ch30 Ep254)** | Daru *"It is taking shape."*／Gabu *"...Yes."*(制作物の"形になる"を感じる・Ako-chanが聴く) | ⚠️grey不使用(動物POV)・名前/Pod可。「懐かしさ」は所作で |
 | **Ep255 回想(手の記憶)の相手** | **"the one who is gone"/"the friend who left"型**(名前なし・"it"で薄めない)＝S2で飛行艇(Ep116)/Podを共に作った身体記憶 | ⚠️"Obia"不使用・**新制作物と因果接続しない**(同じ手・違う相手で留める=読者が繋ぐ) |
 | **作りかけ呼称・名前未交換(Ch30継続)** | 作りかけ＝少年POVで中立語(robot/Obia/名前/Pod不使用)・Ako-chan POVで物理特徴可。**互いに名乗らない**(Ep225継続)＝少年POVのAko-chan="the red light" | 完成間近(260-262)＝銀色ボディ・閉じた青白い目(未点灯)=物理描写。⚠️**起動はCh31 Ep263**(Ep262章クローザー="明日が怖い"+"待ち遠しい") |
-| **Ch30 季節・Day・配置** | 晩冬→**早春**(協働が数週間)。屋内中心ゆえ季節描写最小(loose)。Day66〜88 | 一行=6＋3Pod(見守る)。Ruka=she。⚠️"He…"文頭散らす・最長文≤11語に偏らせない(Ch29教訓=時折長め文)。gray=少年POV専用(出番少) |
+| **Ch30 季節・Day・配置** | 晩冬→**早春**(協働が数週間)。屋内中心ゆえ季節描写最小(loose)。Day66〜88 | 一行=6＋3Pod(見守る)。Ruka=she。⚠️"He…"文頭散らす・最長文≤11語に偏らせない(Ch29教訓=時折長め文)。grey=少年POV専用(出番少) |
 
 ### S3 Ch31（Blue-White Light・完成/起動・10話・追加）
 
@@ -254,11 +254,11 @@
 |------|--------|------|
 | **負の動機の reveal(Ch31 Ep271・確定2026-06-27ユーザー選択=哀歌的・抑制)** | 正=「絆がどう生まれるか見届けたい」／負=**「失われた声(奪われたもの/人々が追いやったもの)を、その証として集めたい。忘れられないように」**(哀しみ寄り) | ⚠️**「人類を断罪」と直接言わない=判断は含意**。⚠️**"extinct"不使用**("the ones that are gone / drove away / the lost voices")。⚠️**ループ過剰説明しない**(S2ミッション設計の接続は読者推論・world.md §3)。逆説=哀歌的収集→"声を救う"善のミッション |
 | **起動した作りかけの呼称(Ch31)** | 起動しても**少年POV=中立語(it/the thing he made/the small silver one)・robot/Obia/名前 不使用**。Ako POV=物理特徴(silver・青白い目=pale blue/blue-white)可 | ⚠️"Obia"不使用(名は日記のみ・Ch31に日記なし)。青白い目=S1 Obiaと構図を重ねる |
-| **動物の認識(Ch31 Ep265-266・劇的アイロニー)** | 動物は**それを知っている**が**名を口にしない**=Ep266は**無言の認識**(Suke-san見上げ/Ruka動かず・吠えない静けさ)。Ako-chanが沈黙の重さを聴く | ④Ep266=**南極で何が起きるかまだ誰も知らない(Ch33伏線・説明しない)**。⚠️gray不使用(動物POV)。Pen-san/Adelieの認識はCh33 |
+| **動物の認識(Ch31 Ep265-266・劇的アイロニー)** | 動物は**それを知っている**が**名を口にしない**=Ep266は**無言の認識**(Suke-san見上げ/Ruka動かず・吠えない静けさ)。Ako-chanが沈黙の重さを聴く | ④Ep266=**南極で何が起きるかまだ誰も知らない(Ch33伏線・説明しない)**。⚠️grey不使用(動物POV)。Pen-san/Adelieの認識はCh33 |
 | **Ako-chanのaffect頂点(Ch31 Ep267・Ch29→31到達点)** | 赤い光が**一瞬揺れる**・**何かをこらえる**。⚠️**但し意識的認識/類似の言語化はしない**(Ch30"無意識・因果接続せず"の継続=最も表面化するが「あの子だ」と言わない) | 少年POVが揺れを**見る**(Ep267-268)。Ako-chanの"何か"は説明しない |
 | **Ep269 回想(愛着・S1救出を重ねる)** | Ako POVでS1救出(凍った"the one who is gone"を抱く→涙→青白い光が戻り目が開く→**赤い首輪をつけ直す**=再会の象徴)を淡く重ね、少年の新しい愛着と**読者だけが繋ぐ** | ⚠️**首輪="Ako-chanが作った"は明かさない(Ch32 Ep277-280温存)/新制作物に首輪はまだ付けない(Ch32 Ep278)**。⚠️"Obia"不使用・因果接続しない |
 | **Ep272 行き先・別れ準備(Ch31章クローザー)** | 少年は「ある場所(遠い/南の冷たい場所)」へ行かねばと知る(時を越える手段=タイムマシン製作のため)・ロボットを連れて行くと決める・**Ako-chanには言わない** | ⚠️**南極/洞窟を明示しすぎない・なぜそこかを説明しない(ループguard・Ch33開示)**。別れの準備=Ch32へ |
-| **Ch31 季節・Day・語り** | 早春(Ch30継続)。Day89〜96(263-267=Day89起動の日連続/268-272=後日)。⚠️起動シーン=因果語抑制("Then"並置・S1 Ep74手法) | 少年=terse発話(Ep256以降)・Ep271-272は内省中心。⚠️"He…"文頭散らす・最長文≤11偏り回避。gray=少年POV専用 |
+| **Ch31 季節・Day・語り** | 早春(Ch30継続)。Day89〜96(263-267=Day89起動の日連続/268-272=後日)。⚠️起動シーン=因果語抑制("Then"並置・S1 Ep74手法) | 少年=terse発話(Ep256以降)・Ep271-272は内省中心。⚠️"He…"文頭散らす・最長文≤11偏り回避。grey=少年POV専用 |
 | **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
