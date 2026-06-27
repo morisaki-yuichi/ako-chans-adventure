@@ -527,6 +527,7 @@
 - ★**Ep71＝3回目送信の前触れ**：Obiaの様子がどこかおかしい。静かな不穏で締める（送信#3＝Ep72 Ch10）。この章では送信シーンなし。
 - ⚠️**grammar注意（Ep65）**：episode-listの🔒「I knew you **would** come!」は **"would"＝S1（A1）で未解禁**（will/would/couldはS2解禁）。→ **wouldを使わない言い回しに置換**（例 *"Ako-chan! You came! I knew it! You came!"*）。
 - 地理：南極（白い大地・氷・極寒）。装備（犬ブーツ＆ベスト／Pod南極モード）はCh8から継続。
+- ⚠️**Pod露出ルール（Ch9-11横断・確定2026-06-27）＝南極の氷上ではリクガメ（Daru/Gabu）はPodから身体（頭等）を一切出さない**（断熱Pod内に留まる）。「覗く/頭を出す/peek out」等は不可＝**Pod内から見る/Podを動かして向く**等に統一。※暖かい船内でPodを出る描写は許容（Ep77等）。該当改稿＝Ep65・Ep88。
 
 ### Day 67 — 上陸〜白い世界
 - **Ep63「Ice Under Feet」**：上陸。船を沿岸の氷に接岸。氷の上に最初の一歩（以後は氷上）。モード：動・出来事。
@@ -534,19 +535,19 @@
   - 🔒確定（Suke-san）：氷の上で**目を閉じ、長く深い息を吸い、四方（North and south, east and west）の匂いを読む**（"He reads the whole white land."）→*"New. It is all new."*
   - 確定（拠点）：**拠点は船のみ**（基地表現なし）。氷上に降りるのは "come down" で統一。Dangoは氷を嗅いで冷たさに鼻を引く。
   - ✅執筆済み（word_count 270）。
-- **Ep64「The White World」**：船を拠点に氷上を歩く最初の探索・日常。モード：静・観察。
-  - 確定（拠点・動線）：船から離れず近くを歩く（"The ship is their home out here. She does not go far."）＝**船から視界の届く範囲**（world.md §7準拠）。
+- **Ep64「The White World」**：船を拠点に氷上を歩く最初の探索・日常。モード：静・観察。⚠️**改稿2026-06-27＝Ep63と同日（Day67）の連続**：旧冒頭"The next morning ... steps off the ship again"の**別日跨ぎ＋二重下船を解消**（上陸=Ep63→そのまま最初の歩き出し）。
+  - 確定（拠点動機・改稿2026-06-27＝実務/寒さ中心）：氷の世界は寒く広すぎ避難所がない＝船だけが暖かく安全→船から離れない（🔒*"The white land is too cold and too wide. There is no home out here. Only the ship keeps them warm and safe. So they stay close to it. They do not go far. They cannot."*）＝**なぜ先へ進まないかの動機を明示**（world.md §7準拠）。
   - 確定（ペンギンの群れ＝遠景のみ）：遠くに**小さな黒い影が多数**立つ（"small black shapes"）。Ako-chan *"Are those birds? Way out there?"* **遠すぎて声は聴こえない**（"They are too far to hear."）＝個体接触・名は出さない（Ep65のPen-san登場への布石）。
   - 確定（Suke-san）：右の定位置で新しい匂いを警戒＝*"Strange. I do not know this place."* Dangoは反対側を低く歩く。Daru/GabuはPod内。
   - ③：きしむ氷（"The ice creaks ... a long, low sound."）・白い静寂（"The silence is deep and full."）・白い息。
-  - ✅執筆済み（word_count 280）。
+  - ✅執筆済み（word_count 290・改稿後実測）。
 
 ### Day 68 — Pen-san登場〜命名〜抱っこ（嫉妬ピーク）
 - **Ep65「He Came Running」**：Pen-san登場・命名。群れから一つの影が走り出て、転びながら近づく（甘えん坊のヒナ）。モード：動・出来事。
   - 🔒引用アンカー（Pen-san・**would回避の確定版**）：*"Ako-chan! You came! I knew it! You came!"*（episode-listの "I knew you would come!" は**would＝S1未解禁のため不使用**・この置換版を正とする）。
   - 確定（登場の所作）：氷上を走り*"Its little feet slip and slide."*→転ぶ→また走る（"It runs and falls, runs and falls."）。外見＝全身グレーの綿毛・頭頂が黒・頬が白・大きな黒目・丸い体型。
   - ★**Pen-san命名・作中確立点（A台帳）**：**Ako-chanが名を付ける**＝*"I have a name for you. Pen-san."* → 以降の地の文・呼称は **"Pen-san" / "he"**（命名前は "the baby penguin / it"）。Daru/Gabu/Suke-sanの自己命名型とは異なり**Ako-chanが付与**。
-  - 配置：Dangoは**Ako-chanの前に立つ**（嫉妬の芽・ピークはEp66）。Suke-sanは警戒しつつ見守る。Gabuは青Podから覗く。Daru *"A bird! A new bird!"*（※Ep66 🔒 *"He walks. Like us!"* はここでは出さない）。
+  - 配置：Dangoは**Ako-chanの前に立つ**（嫉妬の芽・ピークはEp66）。Suke-sanは警戒しつつ見守る。⚠️**改稿2026-06-27＝Pod露出一掃**：旧"Gabu looks out from his blue Pod / Daru pops his head up from his Pod"（南極で頭を出す）を**身体を出さない描写**へ＝*"Gabu watches slowly from inside his blue Pod. Daru spins his red Pod around to see."* Daru *"A bird! A new bird!"*（※Ep66 🔒 *"He walks. Like us!"* はここでは出さない）。
   - 注意（人数）：**Pen-sanの人数宣言はしない**（南極に留まる仲間＝"全員が船に"型の数表現を避ける）。
   - ✅執筆済み（word_count 275）。
 - **Ep66「Pick Me Up」**：Ako-chanがPen-sanを抱っこ→★**Dangoの嫉妬が最高潮**（アーク頂点）。モード：動・出来事＋感情。
@@ -556,15 +557,15 @@
   - 確定（Ako-chanの収め方）：氷にひざまずき両方を抱える＝*"One arm for Pen-san. One hand for Dango." / "I am here for you too."*（※Ep45 "There is room for both of you." の**重複回避のため別表現**にした）。
   - 確定（抱き心地）：Pen-sanは "soft and round and warm"・綿毛は "like a little cloud"。Ako-chan *"She never held a thing so soft."*
   - ✅執筆済み（word_count 288）。
-
-### Day 69 — Adelie登場〜氷上の生活
-- **Ep67「Tell Me About Obia」**：Colonel Adelie登場・命名。一定リズムでまっすぐ歩いて来て、視線がObiaで止まる＝**Obia監視弧の開始**。モード：動・出来事。
-  - 🔒引用アンカー（Adelie）：*"I am Colonel Adelie." / "I watch over Pen-san." / "Tell me about Obia."*（声＝*"hard and sharp"*）。★**Adelie命名・作中確立点（A台帳）**＝本人が名乗る。命名後は地の文 "the Colonel / he"。
+- **Ep67「Tell Me About Obia」**（⚠️**改稿2026-06-27＝Day69→Day68へ移動**：旧冒頭"The next day"の不自然な日跨ぎを解消し、Pen-san登場と**同日の流れ**に。本文冒頭は"Later that day"）：Colonel Adelie登場・命名。一定リズムでまっすぐ歩いて来て、視線がObiaで止まる＝**Obia監視弧の開始**。モード：動・出来事。
+  - 🔒引用アンカー（Adelie）：*"I am Colonel Adelie." / "I watch over the little one." / "Tell me about Obia."*（声＝*"hard and sharp"*）。⚠️**改稿2026-06-27：旧"I watch over Pen-san."＝"Pen-san"はAko-chanがEp65で付けた名でAdelieは知り得ない→"the little one"に置換**（命名の先取り回避・A台帳整合）。★**Adelie命名・作中確立点（A台帳）**＝本人が名乗る。命名後は地の文 "the Colonel / he"。
   - 確定（外見）：背中は真っ黒・腹は白・**目の周りに白いリング**（"a white ring around each eye"）・くちばしは短く丸い・Pen-sanより大きい・**まっすぐ硬く立つ**（"tall and stiff"）・小さいが**怖れない**（軍人肌：*"He is small, but he is not afraid."*）。
   - 確定（監視弧の開始）：登場直後から**視線がObiaに固定**（"His eyes stay on Obia."）。Suke-sanと睨み合う＝*"Two careful animals look at each other. Neither one looks away."*（Suke-sanの警戒と重なる布石）。
   - 🔒継続性ガード：Ako-chanの弁護 *"Obia is my friend. Obia came all this way with us. Obia helps us."* に対しAdelieは**答えずObiaを見続ける**（"the Colonel keeps watching it."）。締めは *"Something new is on the ice now."*（完了形回避）。★**Adelieの「演技でなく本物」認識はEp88へ集約＝ここでは出さない**。Ako-chanの "It does not move away" は彼女のPOVであってAdelieの認識ではない。
   - 確定（Obia代名詞 "it"）。
-  - ✅執筆済み（word_count 270）。
+  - ✅執筆済み（word_count 274・改稿後実測）。
+
+### Day 69 — 氷上の生活
 - **Ep68「On the Ice」**：氷上生活のテクスチャー。Pod南極モード活躍。Pen-sanが仲間に馴染む。モード：静・観察（日常）。
   - 確定（Pen-san×Daru/Gabu交流）：Pen-sanがPodを初めて見る＝Daru *"They are Pods. We walk, and they go!"* 赤Podを追って転ぶ→青Podの**Gabuの横に並ぶ**＝Pen-san *"You are slow. I like slow."*（Gabuは無言だがPen-sanのそばに居続ける）。Pen-sanが仲間に馴染む。
   - 確定（拠点・装備）：Ako-chanは船の箱に座る（拠点＝船のみ）。Dango＝warm vest＋boots／Suke-san＝右で見張り／**装備の温かさ**（"everyone stays warm. Obia made good things for the cold."＝未来技術の由来に触れない）。
@@ -626,12 +627,12 @@
 
 ### Day 73 — 嵐接近〜突入〜消失
 - **Ep75「The Worst Kind」**：数値が急上昇。コンパスが狂い始める。Adelieが南極の専門家として🔒 *"It is a snow storm. The worst kind."* Pen-sanが**初めて真剣な顔**（本能で危険を察知・遊びが止まる）。
-  - 確定（Obiaの観測）：*"The numbers are very high," ... "Higher than before."* ＋コンパスが回り続け方向不明＝*"The needle spins round and round. It cannot find the way."* / *"The compass is wrong now."*（**snow storm用語は本Epで初出・統一**）。
+  - 確定（Obiaの観測・改稿2026-06-27）：⚠️**旧"small screen"/"The numbers on it"を撤廃**＝Obiaは**内部センサー**で計測し体感を述べる（*"It reads the cold air with its sensors." / "The cold falls fast. The wind rises. A big storm comes. Bigger than before."*）。⚠️**コンパスはObiaでなくAko-chanが持つ**＝*"Ako-chan takes out her compass. She holds it up. The needle spins round and round. It cannot find the way."* / Obia *"The compass is wrong now."*（**snow storm用語は本Epで初出・統一**）。
   - 確定（Pen-san）：いつも遊ぶPen-sanが初めて真剣＝*"His small face is still and serious. For the first time, he looks afraid."*（⚠️別れの哀感は出さない＝危険察知のみ）。
   - 確定（締め）：*"The storm is close now. Very close. ... Something is coming. And there is little time left."*
 - **Ep76「Hold This」**：嵐直前、ObiaがこっそりDangoを呼び赤い首輪を外して渡す。🔒 Obia *"Hold this."* / *"I do not know why. But it is important. Hold it for me."* Dangoが戸惑う。⚠️首輪の由来は説明しない。
   - 確定（場面）：Obiaが *"Dango," ... "Come here."* と**こっそり**呼ぶ（*"No one else is near them."*＝目撃者なし＝Ep78でDangoが伝えるまで皆は知らない）。Obiaが**自分の赤い首輪を外して**渡す。
-  - 確定（Dango）：受け取るが理解できない＝*"He is only a dog. He cannot use words."*（Ako-chanだけが声を聴ける設定と地続き）。首輪は *"warm from Obia's body."* / Dangoは口にくわえ離さない。⚠️首輪の由来（Ako-chan作）は一切示さない。
+  - 確定（Dango・改稿2026-06-27）：受け取るが訊けない＝⚠️**旧"He is only a dog. He cannot use words."（非発話の理由付け）を削除**し、その場の所作のみに＝*"He wants to ask so many things. But the words do not come. He cannot say them."*（台帳A-2＝Dango非発話は地の文/仕草で示し理由を語らない、と整合）。首輪は *"warm from Obia's body."* / Dangoは口にくわえ離さない。⚠️首輪の由来は一切示さない（起源を伏せる）。
   - 確定（締め）：Obiaが前足をDangoの頭に一瞬置く→*"Good," it says, soft and low.* / Dango *"Something is wrong. He feels it deep inside."*
 - **Ep77「White Out」**：snow storm到来。視界が白一色。**全員（Pen-san・Adelieも）船内へ退避**（ペンギンの群れは描かない）。気づくとObiaがいない（理由は誰も知らない）。③扉を閉じた瞬間、外の轟音が壁越しに。Daru・GabuがAko-chanの足元で震える。Pen-sanは怖がってAko-chanに寄る。
   - 確定（退避メンバー）：Ako-chanが *"Inside! Everyone inside!"* → Dango・Suke-san・Daru・Gabu・Pen-san・the Colonel が船内へ（**Colonelが最後**＝*"The Colonel comes in last of all."*／⚠️**ペンギンの群れhuddleは描かない**）。扉を閉じる＝*"It closes with a loud, hard bang. The roar of the storm goes behind the wall."*
@@ -653,7 +654,7 @@
 - **Ep81「Frozen」**：雪に埋もれかけ、凍って動かないObiaを発見。誰も声を出せない。Adelieが沈黙して見届ける（Ep88への種）。③白い平原・埋もれた銀の体・消えた目の光。※1語タイトル。
   - 確定（発見）：犬たちが雪の小山で止まる→雪に埋もれたObia発見。*"It is hard and cold as the ice. Its blue eyes are dark now. The light in them is gone."* Ako-chan *"Obia,"* → 無応答。⚠️**この時点では蘇生の兆しなし**（蘇生はEp82）。
   - 確定（沈黙）：*"No one can say a word."* Dangoが鼻で押す（離れない）・Suke-sanが雪に伏す・Colonelは黙して見下ろす（Ep88への種・言語化しない）。締め＝*"The cold land holds them all."*
-- **Ep82「The Light Returns」**：Ako-chanがObiaを抱きしめ、涙がObiaにこぼれる→**ゆっくり目が光り始める**（**原因は述べない＝感情の並置**）。Ako-chanが首輪をObiaにつけ直す（再会の象徴）。章クローザー。次章Ch11（告白・別れの朝）へ。
+- **Ep82「Warm Tears」**（⚠️**改稿2026-06-27＝改題**：旧"The Light Returns"は蘇生という結果のネタバレ→涙の③イメージ題に変更・結果中立。本文は無改変）：Ako-chanがObiaを抱きしめ、涙がObiaにこぼれる→**ゆっくり目が光り始める**（**原因は述べない＝感情の並置**）。Ako-chanが首輪をObiaにつけ直す（再会の象徴）。章クローザー。次章Ch11（告白・別れの朝）へ。
   - ⚠️確定（無因の並置）：抱擁→涙（*"Her tears fall down on its face. One tear. Then more."*）→ *"Then something changes in her arms. Slowly, a small light comes. ... The pale blue light is soft and warm. Obia's eyes open slowly."* **因果語（because/so 等）は使わず時間語 "Then" のみで並置**。理由はS3まで伏せる。
   - 確定（首輪＝再会の象徴）：蘇生**後**にAko-chanが赤い首輪をつけ直す＝*"She puts it back around Obia's neck. It is where it should be now."*（⚠️復活の原因ではない・由来も説明しない）。
   - 🔒章クローザー：*"The long night is over now."*（Ep71クローザー *"the long night is only starting."* と対の回収）。Adelieはこの場でも見届けるのみ（言語化＝Ep88へ温存）。next_ep＝/season1/chapter11/ep083/（章跨ぎ）。
@@ -673,15 +674,16 @@
 
 ### Day 74 夜 — 告白〜送信停止〜オーロラ
 - **Ep83「Confession」**：救出当日の夕方、暗くなってから、船内で一つの小さなランプの下、Obiaがゆっくり言葉を選んで打ち明ける。モード：静・感情。
-  - 🔒引用アンカー（Obia告白・A1確定）：*"I watch you. All of you."* / *"On the train. On the ship. Here."* / *"I send data. I do not know where it goes."* / *"I think my sending caused this."* / *"The storm. The lost voices. All the wrong things."* ※**未来・目的・宛先・タイムループ・首輪の正体は一切明かさない**（S2/S3へ）。Obiaの代名詞は "it"。
+  - 🔒引用アンカー（Obia告白・A1確定／改稿2026-06-27）：*"I watch you. All of you."* / *"On the train. On the ship. Here."* / *"I send data. I do not know where it goes."* / *"I think my sending caused this."* / *"The storm. The scared voices. All the wrong things."*（⚠️**改稿：旧"The lost voices"を"The scared voices"に置換**＝指す対象を明確化＋S3 Ep271の負の動機"the lost voices"との早期エコー混線を回避）。⚠️**改稿：嵐へ独り出た理由を告白に補足**＝*"When the storm came, I felt it. My sending and the storm came together. I had to know. So I went out. To the south. Alone. To face it."*（境界内＝送信と異変の連動の自覚→源/最悪へ"向き合いに"行った、まで。⚠️**使命・未来から・ループ・宛先・首輪の正体は一切明かさない**）。Obiaの代名詞は "it"。
   - 確定：Ako-chanが3夜（列車Ep13／船Ep47／氷Ep72の挙動：青い光・低いハム）を内心で結びつけ、ここで初めて腑に落ちる（"Now she understands."）。⚠️現在完了進行は不使用（"I watch you." の現在形）。
   - 確定（反応）：Ako-chanは怒らない＝*"She is not angry. Her heart is full and sad."*／🔒 Ako-chan *"You came back. That is what matters now."* 締めはAko-chanがObiaの冷たい銀の手に触れる（無因の受容）。Dango・Suke-san（右）・Colonel・Pen-san・Daru/Gabu（Pod内）同席。
-  - ✅執筆済み（word_count 277）。
+  - ✅執筆済み（word_count 309・改稿後実測）。
 - **Ep84「Stop」**：同夜。Obiaが送信をやめると宣言。モード：感情・転換。プログラムに反し、初めて自分の意志で動く＝**監視者から仲間へ**。※1語タイトル例外。
   - 🔒引用アンカー（Obia）：*"I will stop. Here. Now."*（**Obiaのwill例外**＝Ep3と同枠）。
-  - 確定（自発性の枠付け）：*"No one tells it to stop. No one gives it an order. Obia chooses. Itself. For the first time."*（⚠️プログラム/未来の説明はしない）。決断の重み＝*"The little robot shakes, just once. Then it is still and sure."*
+  - 確定（送信停止の重み・改稿2026-06-27＝強化）：⚠️**内なる衝動への初の抵抗を補足**＝*"Something in me says: send. Send. Do not stop. I always do this." / "But I look at you."*（送信を続けよという内的命令／衝動に逆らい、仲間との絆を選ぶ＝重みを強化。⚠️**誰が・なぜそれを命じたか＝使命/製作者/未来は明かさない**＝衝動の出所は不明のまま）。
+  - 確定（自発性の枠付け）：*"No one tells it to stop. No one gives it an order. Obia chooses. Itself. For the first time."*（⚠️プログラム/未来の説明はしない）。決断の重み＝*"The little silver one shakes, just once. Then it is still and sure."*（⚠️地の文 "robot" 不使用＝"the little silver one"）。
   - 確定（送信停止の即時効果の予兆）：低いハム音が消える（"The low hum is gone now."）＝Ep86「声が和らぐ」への布石。🔒 Ako-chan *"Okay. We stop. Together."*＋Obiaの頭に手を置く→Obiaは引かない。**Dangoが初めて嫉妬せずObiaに寄りかかる**（"For the first time, he does not mind."＝嫉妬アークの収束）。
-  - ✅執筆済み（word_count 271）。
+  - ✅執筆済み（word_count 298・改稿後実測）。
 - **Ep85「Aurora」**：その夜、Obiaが戸口で皆を呼び（🔒 Obia *"Come. Look up."*）、みんなで外に出てオーロラを見る。言葉の少ない満ちた静けさ。③緑の光が氷に映る・息の白さ・寄り添う体。※固有現象タイトル。モード：静・余韻。
   - 確定：緑の光が水のように流れ、途中ピンクに変わりまた緑へ（"slow and soft"）。Ako-chanは初めて見る（"She never saw this before."＝⚠️現在完了不使用・単純過去）。
   - 確定（配置・余韻）：全員が外で寄り添う（Dango左／Pen-san反対側／Suke-san右／Daru・Gabu Pod／Colonel）。締めの核＝**Obiaが"後ろ"でなく"横"に立つ**（"Obia stands beside her now. Not behind her. Beside her."＝監視者→仲間の視覚的回収）。"And for now, that is enough."

@@ -158,7 +158,7 @@
 | Ep 79 | **I Trust Obia** | Suke-sanが宣言する。「Obiaを信じる（I trust Obia）。」そのまま探しに出ようとする。Ako-chanも「I will go too.」しかし**猛吹雪はまだ続き、コンパスも狂って方向が分からない**——今は探せない、とみんなに止められる。 |
 | Ep 80 | **After the White** | 猛吹雪が過ぎたあと、みんなでObiaを探しに出る。Suke-sanとDangoが協力。**Dangoは気配と首輪の匂い**を手がかりにObiaのあとを追う。 |
 | Ep 81 | **Frozen** | 雪に埋もれかけた、凍って動かないObiaを見つける。誰も声を出せない。※救出クライマックスの1語タイトル。③：白い平原、埋もれたシルバーの体、消えた目の光。 |
-| Ep 82 | **The Light Returns** | Ako-chanがObiaを抱きしめ、涙がObiaにこぼれる。ゆっくりObiaの目が光り始める。Ako-chanが首輪をObiaにつけ直す（復活の原因ではなく**再会の象徴**）。章クローザー。 |
+| Ep 82 | **Warm Tears** | Ako-chanがObiaを抱きしめ、涙がObiaにこぼれる。ゆっくりObiaの目が光り始める。Ako-chanが首輪をObiaにつけ直す（復活の原因ではなく**再会の象徴**）。章クローザー。※改題2026-06-27（旧"The Light Returns"＝結果ネタバレ回避）。 |
 
 ---
 
