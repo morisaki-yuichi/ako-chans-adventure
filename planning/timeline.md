@@ -371,7 +371,7 @@
   - ★**左右の取り合い**：Suke-sanは**右・少し後ろ**（Ep44で確立した定位置）を占める→Dangoが割り込むがSuke-sanは動かず→**Dangoは左**に回る。Ako-chanが笑って**両方の頭に手を置く**：*"There is room for both of you."*（Dangoの嫉妬アークの新しい味付け）。Daru *"Two dogs now!"*／Gabuは静かに横を転がる。
   - 確定（余韻）：*"Whatever waits out there, they go to meet it. Together."*（will不使用で前向きに締める）。※次章の内容（太平洋・送信#2）は先取りしない。
   - 章クローザー。次章Ch7（太平洋〜ガラパゴス・★送信#2）へ。
-  - ✅執筆済み（word_count 291）。
+  - ✅執筆済み（word_count 292）。
 
 ## Chapter 7「Voices in the Deep」— 太平洋〜ガラパゴス（Ep46〜54・9話）
 
