@@ -138,6 +138,19 @@
 | **赤い日記帳（the red notebook）** | S1 Ep5初記入 *"I have to go."*（**4語**="four small words"）→S2末 Ep199 *"Obia——"*（**続かない**・em-dash trail off）→Ep200 最初から読み返す(全回顧)。日記の**Obia=名前**(him/his不可) | ⚠️**"I have to go." 逐語4語**("three words"誤り)。⚠️**"Obia——"の続きはS3 Ep300**(橋渡し・S2では白いまま)。Ep200=S1 Ep100/S3 Ep300同題=最終話モチーフ |
 | **S2末のS3秘密の伏せ（Ch24）** | Ep199-200の日記/回顧で**触れない**：①赤い首輪の正体(Ako-chan作)②タイムループ③"the future"の正体④Ep1の目=Obia | 回顧は描写名/既出表現で(マイオラニア="the giant shell/ancient one")。"Obia——"は喪失と未完の感情まで(説明しない) |
 | **Ch24 一行・配置** | **6**(Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka)＋3Pod。Pen-san/Adelie/Obia不在。定位置(Ep197)：Daru日溜まり/Gabu木陰/Suke-san=Ako-chanの後ろ/Ruka棚の上/Dango真ん中 | Obia不在の庭(Ep198)=S1定位置(小屋のそば・夜の見張り・Ako-chanの隣)。Obia=名前/it・"the silver one"不使用 |
+
+### S3（Ch25〜・追加）
+
+| 対象 | 確定値 | メモ |
+|------|--------|------|
+| **「Obia」の名前（S3全章）** | **本文で一切使わない**（少年は名を知らない）。唯一の例外＝**Ako-chanの日記**（Ep204 "Obia——"／Ep300 続き） | ロボットは無名で扱う。動物が旧友と認識する場面(Ch31/33)でも名前は出さず所作で。計画文書の「Obia」は便宜表記 |
+| **不在の相棒の呼称（Ch25・確定2026-06-27ユーザー選択）** | **極小参照／空席で語る**＝名前・epithet("the silver one/their old friend")・"it" を**前景化しない**。空いた場所・消えた青い光(blue glow)・誰も座らない位置・動物が避ける所で「不在そのもの」を描く | Ep207「The Empty Place」が核。⚠️[[obia-absence-name-over-pronoun]]はS2向け(名前で綴る)＝S3は名前不可ゆえ**物/空間で示す方針へ転換**。例外＝日記(Ep204)のみ "Obia——" |
+| **S3文法ティア解禁（Ch25〜）** | 過去進行形(was/were doing)・現在完了形(have/has done)・**限定的**関係代名詞節(who/which/that＝心理/説明に限り) | 引き続き禁止：過去完了形(had done)・仮定法・分詞構文。1文≤15語(最大18語)・語彙≤2500。Ep201で現在完了の showcase＝"Seven years have passed." |
+| **7年の時間跳び（Ch25・確定2026-06-27ユーザー選択）** | **明示**＝*"Seven years have passed."* 型で年数を書く | S2末Day46→S3開幕。Ako-chanの年齢は**数値で言わない**(§5・"grown"等)。Dango＝老い(白い口元)＋まだ隣に |
+| **S3 Day割付ベース** | **S3も季開幕＝Day1から数え直す**(S1/S2同様"季の開幕＝Day1"・timeline L765準拠)。Ch25＝Day1〜10(loose・非減少) | 7年の経過は**Ep201の地の文**("Seven years have passed.")で示し日数管理しない。season跨ぎでstory_dayはリセット(S1=Day1〜121／S2=Day1〜46／S3=Day1〜) |
+| **S3リクガメ3匹のサイズ（Ch25〜）** | Daru/Gabu/Ruka＝7年で**ほぼ同サイズ(甲長15cm弱)・ぱっと見見分け不可**。識別＝①模様(Daru黄×黒強/Gabu黄+中央黒斑/Ruka網目状黒・頭側面黄斑)②動き(Daru全力→高速/Gabu一定リズム→安定/Ruka止まりながら) | ⚠️**S2「Ruka最小5cm」「先輩逆転(Ch24)」は決着済み**＝S3は3匹同サイズ。移動は常にPod(赤/青/黄) |
+| **Suke-sanの変化（S3）** | 警戒(S1)→**見守り(S3)**。鋭さは消え穏やかな見張りへ。それでも何かを待つ(Ep206) | 定位置＝Ako-chanの右・少し後ろ(不変)。🔒Ep206 *"Quiet. The world is quiet now."* |
+| **Ch25 一行・配置/伏せ** | **6**(Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka)＋3Pod(赤=Daru・青=Gabu・黄=Ruka)。人数固定(逓増逓減なし)。Pen-san/Adelie/Obia不在 | ⚠️**赤い首輪は出さない**(Ako-chan手元にあるがCh32 Ep277-280の回収温存)。⚠️**少年はEp210で人影のみ**(相貌失認・赤い光はCh26〜)。⚠️「灰色」は少年知覚専用＝動物/地の文で不使用 |
 | **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。
