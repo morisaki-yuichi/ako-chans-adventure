@@ -180,7 +180,7 @@
 - **Ep23「Far to the South」**：Obiaが長時間スキャン。🔒台詞（Obia）：*"The signal is from somewhere deep. Far to the south."*＝旅の方向の確認。
   - 確定（伏線#2）：Ako-chanが "signal" の語から **Ep13の送信#1を内心で結びつける**（夜の列車・青い光・低いハム・南を向くObia）。だが**問いたいのに言葉にしない**（"She wants to ask Obia why. But she does not say a thing."）＝3回の積み重ねの第二歩（送信シーンではなく"signal"語による不安の深化）。
   - 配置：Daruは割り込むがObiaに止められる（"Wait, Daru. Be still."）。モード：静・観察／内面。
-  - ✅執筆済み（word_count 272）。
+  - ✅執筆済み（word_count 273）。
 - **Ep24「The Shore Grows Small」**：フェリー出発。Daruが故郷の海岸が遠ざかるのをじっと見つめる＝初めての「故郷が遠ざかる」感覚（走らない・話さない・静か＝"This is new for Daru."）。
   - 🔒台詞（Daru）：*"That is my home. It is far now."*／章末 *"And the road goes on."*
   - 確定：DaruのPodは甲板に（"His Pod rests near him in the sun."）。海岸が thin pale line→消える→Daruは前を向く（友がそばに・"He is not alone."）。
@@ -191,9 +191,9 @@
 
 **Ch4 共通**
 - ★**Gabu合流＝四人→五人**（2匹目のリクガメ）。Daru（赤・高速・元気）と対照的に **Gabuは慎重・静か・じっくり観察**（甲長7cm・鮮やかな黄×黒：控えめな黒縁＋各甲板中央に黒斑）。Pod内は**一定のリズム→安定走行・発光色は青**。
-- ★**Gabuの信頼は数日かけて**築く（Daruの即合流と対照）。Ep27（気配）→Ep28（15m・待つ）→Ep29（一歩）→Ep30（数日・少しずつ）→Ep31（向こうから来て座る＝**無言の合流**）。
+- ★**Gabuの信頼は数日かけて**築く（Daruの即合流と対照）。Ep27（気配）→Ep28（5m・待つ）→Ep29（一歩）→Ep30（数日・少しずつ）→Ep31（向こうから来て座る＝**無言の合流**）。
 - ★**Gabuの声**：少ない言葉・観察的（例 *"Wait. Look at the shadow."*）。**合流は台詞でなく行動**（Daru/Obiaの "I will go with you" 型は使わない＝キャラ対比）。
-- ★**酷暑装備（Ep26）**：Ako-chanに**熱反射クロス**（超軽量・熱を跳ね返す）／Dangoに**肉球保護ブーツ＋鼻先マスク**（Dangoは全力拒否→観念＝軽い笑い）。
+- ★**酷暑装備（Ep26）**：Ako-chanに**熱反射クロス**（超軽量・熱を跳ね返す）／Dangoに**肉球保護ブーツ**（Dangoは全力拒否→観念＝軽い笑い）。
 - ★**Pod冷却・排熱機能（Ep26）を初描写**：砂漠の酷暑でもDaruのPod内は快適に保たれる。
 - Dangoの嫉妬：継続（Gabuにも）。ただしDaruより目立たず、**Daruを静止させる"世話役"**の面が強まる（待つ場面で暴走を抑える）。
 - 異変（Ep25）：夜行性のサソリ・トカゲが昼間に岩陰から這い出し、同じ方向（南）を向く（ワディラム＝段階1）。南の通底を継続。
@@ -207,11 +207,11 @@
   - 配置：Daruは**Pod内**（"So hot! So red!"＝元気だが暑さに一瞬黙る）。Dangoはそばで激しくパンティング。Obiaは名乗り済み・地の文で可、**Obiaの代名詞は "it"**。
   - ✅執筆済み（word_count 275）。
 - **Ep26「Dango Says No」**：装備配布。モード：動・出来事（軽い息継ぎ）。
-  - 確定（装備）：Ako-chan＝**熱反射クロス**（"a light cloth ... thin and silver and cool" / "It sends the heat away."）。Dango＝**肉球保護ブーツ4つ＋鼻先マスク**（"four small boots" ＋ "a little mask"）。Dangoは**全力拒否→観念**（"No, no, no!" → 大きなため息 → 履く → ぎこちなく歩く＝軽い笑い）。
+  - 確定（装備）：Ako-chan＝**熱反射クロス**（"a light cloth ... thin and silver and cool" / "It sends the heat away."）。Dango＝**肉球保護ブーツ4つ**（"four small boots, one for each foot"。⚠️鼻先マスクは廃止＝未使用小道具のため削除・2026-06-27）。Dangoは**全力拒否→観念**（"No, no, no!" → 大きなため息 → 履く → ぎこちなく歩く＝軽い笑い）。
   - 🔒台詞（Obia）：*"The ground is too hot."* / *"You need help out here."* / *"It sends the heat away."*（**Obiaの代名詞は "it"**：It gives / It holds）。
   - 確定（**Pod冷却機能・初描写**）：DaruのPod内は酷暑でも快適（"The Pod sends the hot air away. Inside it stays soft and cool." / Daru *"It is nice in here!"*）。
   - 確定（嫉妬）：Dangoの嫉妬は控えめに継続（Daruへ "a flat look"）。
-  - ✅執筆済み（word_count 277）。
+  - ✅執筆済み（word_count 275）。
 - **Ep27「The Watcher」**：夕方（日が低い・影が長い）。岩と同じ色の小さな丸い形が一瞬動いて消える＝**Gabuの最初の気配**（未命名）。モード：静・観察。
   - 確定（気配）：Gabuは本文で **"something" / "the small thing" / "someone"** とのみ呼ぶ（名・姿は出さない）。"It is small and round and still. It is the same color as the stone."→一度動いて消える。
   - 確定（Dango）：Dangoが匂いの跡を追うが岩で途切れ**届かない**（"the trail stops at the rocks. He cannot find the small thing."）→ 低い声。
@@ -219,13 +219,13 @@
   - 確定（締め）：「確かにいた」という確信で終える（"Something is there in the rocks. ... Someone is out there."）＝Ep28（翌朝・15m）への伏線。
   - ✅執筆済み（word_count 273）。
 
-### Day 13 — 15メートル〜最初の一歩
-- **Ep28「Fifteen Meters」**：翌朝（早朝・涼しい）、Gabuが低い岩の上に現れる。距離**約15メートル**。逃げない・近づかない。全員で**1時間**待つ。モード：静・観察。
+### Day 13 — 5メートル〜最初の一歩
+- **Ep28「Five Meters」**：翌朝（早朝・涼しい）、Gabuが低い岩の上に現れる。距離**約5メートル**（黄色い甲羅・黒斑が見える近さ）。逃げない・近づかない。全員で**1時間**待つ。モード：静・観察。⚠️旧「fifteen meters」から改題・距離縮小（2026-06-27・小型保護色リクガメに15mは遠すぎとの指摘）。
   - 確定（Gabu未命名）：本文では **"a small tortoise" / "the small tortoise" / "it"**（名・声は出さない）。**Daruは名前で区別**（"the tortoise"＝Gabuのみ）。
   - 確定（外見・初描写）：*"Its shell is yellow with black marks."*（鮮やかな黄＋黒斑。Daruの "yellow-brown with black lines" と対比）。
   - 確定（Gabuの性格・布石）：観察的＝*"It only watches and waits." / "This one is not like Daru at all. It does not rush."*（即行動のDaruと対照）。
   - 確定（③・世話役）：Daruは**Pod外**で待機。動こうとする（"Let me look! Let me look!"）→**DangoがDaruの甲羅に体を当てて静止**させる（"Dango leans on Daru's shell. He holds him still with his body."）。Obiaも静止して見る（"it"）。
-  - 数（C台帳）：距離＝**fifteen meters**（タイトル）／待ち時間＝**an hour**。
+  - 数（C台帳）：距離＝**five meters**（タイトル）／待ち時間＝**an hour**。
   - ✅執筆済み（word_count 279）。
 - **Ep29「One Step Closer」**：同日・日中（酷暑）。Ako-chanが熱い砂に座り、**手のひらを砂に平らに置く**（差し出さず開いて待つ）。Gabuが**一歩**動く。誰も動かない。慎重な信頼構築の始まり。
   - 確定（所作）：*"She does not reach for the tortoise. She just waits, with her hand open."* → Gabuが *"one small step toward Ako-chan."*（一歩のみ・それ以上来ない）。
@@ -235,9 +235,9 @@
 ### Day 14 — 少しずつ
 - **Ep30「Step by Step」**：翌日。Gabuが**止まる→見る→また一歩**で少しずつ近づく。**昨日より近い**が、まだ来ない。モード：静・観察。
   - 確定（接近のリズム）：*"Step by step, it comes closer. It stops. It looks. It walks again."* → *"It comes nearer than yesterday now. But ... It does not come all the way."*
-  - 確定（③・Daru）：Daruが**息を止めて体を丸くする**（"He holds his breath this time. He pulls into a tight little ball."）。砂を踏むGabuの足音だけ。
-  - 確定（余韻・継続性呼応）：信頼構築の段階を回想＝*"First only a shape. Then fifteen meters away. Then one step on the sand."*（Ep27気配→Ep28・15m→Ep29一歩）。"数日かけて"は信頼構築のみを指し、異変の長期化は示唆しない。
-  - ✅執筆済み（word_count 284）。
+  - 確定（③・Daru）：Daruが**息を止めて首を前に伸ばす**（"He holds his breath this time. He stretches his neck out far."）。⚠️殻に引っ込む描写は使わない＝引っ込み＝危険時のみ／期待・興奮は首/四肢を伸ばす（リクガメ姿勢ルール）。砂を踏むGabuの足音だけ。
+  - 確定（余韻・継続性呼応）：信頼構築の段階を回想＝*"First only a shape. Then five meters away. Then one step on the sand."*（Ep27気配→Ep28・5m→Ep29一歩）。"数日かけて"は信頼構築のみを指し、異変の長期化は示唆しない。
+  - ✅執筆済み（word_count 283）。
 
 ### Day 15 — 合流〜Pod
 - **Ep31「Steady」**：Gabuがまっすぐ歩いてきてAko-chanの前に座る。それだけ。でも全部だった。**＝Gabu合流（無言の行動）**。※転換点の1語タイトル例外。
@@ -298,7 +298,7 @@
   - 🔒台詞：Daru *"That green is different!" / "It is not like home. Not like the desert."* →（Gabu）*"Yes. It is darker. And more wet."*
   - 確定（結束）：一行は疲れているが一体（"The long road made them one group."）。DaruとGabuがフェリーのデッキで並んで休む（赤・青＝Ep33「Two Shells」の並走を想起）。Dangoは膝に頭を載せる。**Obiaの目＝"pale and blue"（it）**。
   - 余韻：*"Almost to Japan."*（港到着への予感）。
-  - ✅執筆済み（word_count 271）。
+  - ✅執筆済み（word_count 272）。
 
 ### Day 25 — 日本の港へ
 - **Ep38「The Port」**：日本の港町に到着。深い緑の山・湿った空気・海と船の気配。**次章Suke-san登場への余韻**で締める。章クローザー。次章Ch6（日本・Suke-san・廃船改造）へ。
@@ -371,7 +371,7 @@
   - ★**左右の取り合い**：Suke-sanは**右・少し後ろ**（Ep44で確立した定位置）を占める→Dangoが割り込むがSuke-sanは動かず→**Dangoは左**に回る。Ako-chanが笑って**両方の頭に手を置く**：*"There is room for both of you."*（Dangoの嫉妬アークの新しい味付け）。Daru *"Two dogs now!"*／Gabuは静かに横を転がる。
   - 確定（余韻）：*"Whatever waits out there, they go to meet it. Together."*（will不使用で前向きに締める）。※次章の内容（太平洋・送信#2）は先取りしない。
   - 章クローザー。次章Ch7（太平洋〜ガラパゴス・★送信#2）へ。
-  - ✅執筆済み（word_count 283）。
+  - ✅執筆済み（word_count 291）。
 
 ## Chapter 7「Voices in the Deep」— 太平洋〜ガラパゴス（Ep46〜54・9話）
 
@@ -475,7 +475,7 @@
   - 確定（予兆）：空が灰→黒・低く垂れる雲・風が強まる・冷たい雨（"The pressure drops. The wind comes fast."）。🔒 Obia *"The air is wrong." / "A storm. A big one. It comes from the south." / "We cannot turn back. The storm is too close."*（Obiaの代名詞 "it"）。
   - 確定（クジラの声・複数が重なる）：遠くから複数のクジラの声が重なる（"Many whales call at once. The voices come together over the waves."）。**これは深海の背景異変への反応＝恩返し（Ep58）の先取りはしない**。Ako-chanは "They are calling." と受け取るのみ（意味は不明）。
   - 配置：Dangoが脚に身を寄せる／Suke-sanが暗い空へ低く唸る。
-  - ✅執筆済み（word_count 279）。
+  - ✅執筆済み（word_count 280）。
 - **Ep57「Two Hours」**：嵐直前の不気味な静寂。🔒 Obia *"Two hours. Maybe less."* DangoがAko-chanから離れない。モード：静（嵐前の張り詰め）。
   - 確定（不気味な静寂）：風が止み海が凪ぐ・クジラの声も止む・音が消える（"There is no sound now. No wind. No waves." / "The world holds its breath." / "The sea is a flat grey glass."）。Ako-chanは "This calm is wrong. She knows this kind of wrong." と感じる。
   - 🔒台詞：Obia *"It is close now." / "Two hours. Maybe less."*（**完全一致・嵐到達予告**。Obia "it"）。
@@ -540,7 +540,7 @@
   - 確定（ペンギンの群れ＝遠景のみ）：遠くに**小さな黒い影が多数**立つ（"small black shapes"）。Ako-chan *"Are those birds? Way out there?"* **遠すぎて声は聴こえない**（"They are too far to hear."）＝個体接触・名は出さない（Ep65のPen-san登場への布石）。
   - 確定（Suke-san）：右の定位置で新しい匂いを警戒＝*"Strange. I do not know this place."* Dangoは反対側を低く歩く。Daru/GabuはPod内。
   - ③：きしむ氷（"The ice creaks ... a long, low sound."）・白い静寂（"The silence is deep and full."）・白い息。
-  - ✅執筆済み（word_count 290・改稿後実測）。
+  - ✅執筆済み（word_count 293・改稿後実測）。
 
 ### Day 68 — Pen-san登場〜命名〜抱っこ（嫉妬ピーク）
 - **Ep65「He Came Running」**：Pen-san登場・命名。群れから一つの影が走り出て、転びながら近づく（甘えん坊のヒナ）。モード：動・出来事。
@@ -549,7 +549,7 @@
   - ★**Pen-san命名・作中確立点（A台帳）**：**Ako-chanが名を付ける**＝*"I have a name for you. Pen-san."* → 以降の地の文・呼称は **"Pen-san" / "he"**（命名前は "the baby penguin / it"）。Daru/Gabu/Suke-sanの自己命名型とは異なり**Ako-chanが付与**。
   - 配置：Dangoは**Ako-chanの前に立つ**（嫉妬の芽・ピークはEp66）。Suke-sanは警戒しつつ見守る。⚠️**改稿2026-06-27＝Pod露出一掃**：旧"Gabu looks out from his blue Pod / Daru pops his head up from his Pod"（南極で頭を出す）を**身体を出さない描写**へ＝*"Gabu watches slowly from inside his blue Pod. Daru spins his red Pod around to see."* Daru *"A bird! A new bird!"*（※Ep66 🔒 *"He walks. Like us!"* はここでは出さない）。
   - 注意（人数）：**Pen-sanの人数宣言はしない**（南極に留まる仲間＝"全員が船に"型の数表現を避ける）。
-  - ✅執筆済み（word_count 275）。
+  - ✅執筆済み（word_count 274）。
 - **Ep66「Pick Me Up」**：Ako-chanがPen-sanを抱っこ→★**Dangoの嫉妬が最高潮**（アーク頂点）。モード：動・出来事＋感情。
   - 🔒引用アンカー（Pen-san）：*"Pick me up." / "Please."*（甘えん坊・小さな翼を上げてせがむ）。
   - 🔒引用アンカー（Daru）：*"He walks!" / "He walks. Like us!"*（リクガメ視点で二足歩行に驚く）。
@@ -581,10 +581,10 @@
   - ✅執筆済み（word_count 283）。
 - **Ep70「The Colonel Watches」**：ObiaとAdelieの緊張が深まる。眠らず動き続けるObiaをAdelieがじっと監視。モード：静・観察（不穏）。
   - 🔒引用アンカー（Adelie）：*"It never stops." / "I am watching it."*（完全一致）。
-  - 確定（夜・Obiaの挙動）：夜、船内で皆は眠る（**Pen-sanは夜は群れへ戻る**＝"went back to the birds for the night"）。**Obiaは外で眠らず氷上を歩き、南を見て、また歩く**（"It cannot rest. It cannot be still."）。⚠️**送信描写なし**（青白い発光・ハム音・送信は出さない＝Ep72へ温存）。
+  - 確定（夜・Obiaの挙動）：夜、船内で皆は眠る（**Pen-sanも仲間と共に眠る**＝"Pen-san sleeps near them, warm and round"。⚠️群れへの夜間往復は前景化しない＝Pen-sanは合流後は一行と同行・群れは遠景背景のみ・2026-06-27）。**Obiaは外で眠らず氷上を歩き、南を見て、また歩く**（"It cannot rest. It cannot be still."）。⚠️**送信描写なし**（青白い発光・ハム音・送信は出さない＝Ep72へ温存）。
   - 確定（W警戒の重なり）：低い氷の高みに**Adelieが座って監視**／**Suke-sanも眠れず外へ出て隣に立つ**＝*"Two watchers in the dark, side by side."* Suke-sanの不信継続＝*"He does not trust the silver thing. He never did."*（Ep44/Ep47を継続）。
   - 確定（Ako-chan）：窓から3者（Obia・Adelie・Suke-san）を見て不穏を感じる＝*"She felt this before, on the long road. But it is stronger now."*（現在完了回避）。
-  - ✅執筆済み（word_count 274）。
+  - ✅執筆済み（word_count 272）。
 
 ### Day 71 — 不穏（送信#3の前触れ）
 - **Ep71「Something Is Wrong」**：章クローザー。Obiaの様子がどこかおかしい（3回目送信の前触れ）。静かな不穏さで締める。モード：静・観察（不穏）。

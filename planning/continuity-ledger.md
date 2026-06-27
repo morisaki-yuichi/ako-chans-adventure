@@ -94,8 +94,8 @@
 | 日記の最初の一行 *I have to go.* | **4語** | ⚠️ "three words" は誤り（今回テスト）。数えるなら "four words"、または数えない言い回し（"a line" / "the words"）に |
 | Obiaの目 | **2つ**（pale blue） | "two eyes" 可 |
 | 一行（party）の人数 | Ch1〜2＝**3**（Ako-chan・Dango・Obia）／Daru合流後（Ep21〜）＝**4**／Gabu合流後（Ep31〜）＝**5**／Suke-san合流後（Ep45〜）＝**6** | Ep7「three of them」可。Ep21 "Now they are four."／Ep31 "Now they are five. Ako-chan, Dango, Obia, Daru, and Gabu."／Ep45 "Six on Board"（六人＝＋Suke-san）。※Pod/Suke-sanは"匹"だが英語本文の通称人数として登録 |
-| Gabu出現〜合流の距離・時間（Ep28） | 距離＝**fifteen meters**（タイトル）／待ち時間＝**an hour** | Gabuは岩上15m・全員で1時間待つ |
-| Dangoの砂漠ブーツ（Ep26） | **4つ**（"four small boots"）＋鼻先マスク1 | 4本脚に対応 |
+| Gabu出現〜合流の距離・時間（Ep28） | 距離＝**five meters**（タイトル「Five Meters」）／待ち時間＝**an hour** | Gabuは岩上5m・全員で1時間待つ。⚠️Ep30の回顧 *"Then five meters away."* も同値（旧"fifteen"から改題・距離縮小・2026-06-27） |
+| Dangoの砂漠ブーツ（Ep26） | **4つ**（"four small boots, one for each foot"） | 4本脚に対応。⚠️鼻先マスクは廃止＝未使用小道具のため削除（2026-06-27） |
 | 期間表現 | 厳密管理しない（"説明しない"方針）が、**異変の継続期間を長く言わない**（Obia到着＝Ep1以降） | timeline.md の Day 割付と矛盾させない |
 | S2 Ch13–14 一行の人数 | **4**（Ako-chan・Dango・Obia・Ruka） | Daru/Gabu/Suke-san/Pen-san/Adelieはまだ再合流していない。再合流＝Ch15以降。**Ep116完成・Ep117初飛行の場に再合流前の仲間を出さない**。人数を声に出して宣言する必要はない |
 | S2 Ch15 一行の人数（逓増） | Daru合流(Ep118)＝**5**／Gabu(Ep120-121)＝**6**／Suke-san(Ep123)＝**7**。Ep124で全員（**7**＋3Pod） | **人数の明示はEp124の全員列挙に一本化（確定2026-06-26）**＝個々の再合流(118/120/123)では数を出さず暗黙（"The first friend is back" 等）。Ep124で7人列挙。Pen-san/Adelieはまだ（南極Ch16・南極残留） |
