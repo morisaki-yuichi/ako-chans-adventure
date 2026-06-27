@@ -164,6 +164,20 @@
 | **Suke-sanの少年評（Ch26 Ep216・🔒）** | 🔒*"That one is alone. He watches us. No bad feeling."* | **S1のObia評 *"You have no bad feeling in you."* と同じ判断基準＝匂い/気配**。⚠️動物は「gray」を使わない(嗅覚/気配で判断)。Daru=所作(ちらり) |
 | **Ch26 季節整合** | **冬の継続〜深まり**(Ch25末=冬・霜・裸木)。⚠️episode-list Ep217「秋へ傾く光」は**旧表記→冬に置換**(裸木・冬の低い光・カラス/リス/鴨は冬も在) | S3は異変収束済み＝公園の声は穏やか(Ako-chan Ep217)。"ずっと前から異変"禁止はS3では無関係 |
 | **Ch26 Day割付/逓増** | Ch25末=Day9→Ch26=**Day10〜24(loose・冬)**。一行=6＋3Pod(公園に来る側)。**少年は一行に加わらない**(別個の観察者・逓増なし) | 少年の興味は逓増(赤を見る→翌日→毎日→待つ→もっと知りたい)だが人数は不変。章クローザー(Ep220④)=リクガメ1匹が少年へ動き"始める"(接触はCh27) |
+
+### S3 Ch27（The First Words・接触・追加）
+
+| 対象 | 確定値 | メモ |
+|------|--------|------|
+| **章題 "The First Words" の意味** | **Ako-chanの第一声(Ep224)** であって**少年の発話ではない**。少年はCh27でも**実質 発話ゼロ**(頷く/問い返さない) | 少年の"普通の会話"の初＝**Ch30 Ep256**(温存)。Ep224=小さく頷くのみ・Ep226=問い返さない |
+| **接触のstaging(Ch27)** | 動物が先に近づく(Ep221 Ruka足元→Ep222 Suke-san値踏み)→**Ako-chanの第一声はEp224まで来ない**(221-223は見守るのみ) | ⚠️段階を飛ばさない。Ako-chanは名乗らない(少年は名を知らないまま) |
+| **🔒 Suke-san(Ch27 Ep222)** | 🔒*"No bad feeling. But I will watch."* | **S1 Obia評 *"You have no bad feeling in you."* と同基準**(匂い/気配)・Ch26 Ep216 "No bad feeling" の継続。警戒→吟味→容認の途上 |
+| **🔒 Ako-chan(Ch27)** | Ep224🔒*"This little one likes you."*(「この子あなたが好きみたい」英訳・warm少数語・**確定default/微調整可**・引用回収なし)／Ep225🔒*"Dango."*(たしなめ) | ⚠️Ep224でAko-chanは名乗らない。接近しても**少年は顔=不可視・赤は見える**(Ch26 device継続・赤の理由は不明) |
+| **少年知覚・命名(Ch27継続)** | 顔=灰色/Ako-chan=赤(接近しても不変)。**gray=少年POV専用**(動物POV221/222・Ako POV/回想225/227/228で不使用)。少年POV回は**キャラ名/"Pod"不使用** | 名前/"Pod"可＝動物POV(221/222)・Ako-chan POV/回想(225/226/227/228)。赤の理由はメガネ/日記に結びつけない |
+| **回想内のロボット呼称(Ch27 Ep227/228・確定2026-06-27ユーザー選択)** | **"the one who is gone" / "the friend who left" 型のタイトル由来の描写句**(名前なし・**"it"で薄めない**・情を保つ) | ⚠️回想ゆえ"空席で語る"は不適(過去に在って去る存在)＝[[s3-absent-robot-empty-space]]の拡張。⚠️**"Obia"不使用**(回想は名前不可・日記の例外はCh27に無し)。Ep228=pale blue光が消える別れ(S2末・氷・未来へ)。Ep227はロボット周縁(場所/動物中心) |
+| **Dango嫉妬アーク #S3(Ch27〜)** | **#①開始＝Ep225**(少年とAko-chanの間に体を割り込ませ低く一声うなる)→**#②＝Ep253**(小屋・より強い)→**解消＝Ep259「Dango's Truce」** | ⚠️**Dango引用台詞なし**(うなり/所作＋Ako-chan *"Dango."*)。S1の嫉妬アーク(Daru→Gabu→Suke-san→Pen-san)のS3版＝対"少年"。Rukaは動じない |
+| **Ch27 回想の素材(既出整合)** | Ep227＝S1 Ep97の回顧テンプレ(**white rocks/Daru・hot red sand/Gabu・green mountain/Suke-san**)＋Daru🔒*"Let me see!"*(S1 Ep18/20)。Ep228＝S2末別れ(pale blue・氷・"into the future") | A2-B1で短く再話(上位レベル再読)。⚠️S1 Ep1の「目」は使わない。⚠️首輪/ループ/未来の正体 leakなし |
+| **Ch27 一行・Day** | **6**＋3Pod(公園に来る側)。少年は**接触開始するが一行に未加入**("合流"はまだ)。Day25〜33(loose・晩冬) | Ruka=she・所作。Suke-san=Ako-chanの右後ろ。季節=冬継続・異変なし(Ako-chanは穏やかな声を聴く) |
 | **人間の乱獲の描写（Ch19・確定2026-06-26ユーザー選択）** | **示唆のみ・人を出さない**＝人物・暴力・船/帆を画面に出さない。"People come. The birds do not run. Each year, there are fewer." の体感＋Ako-chanの悲しみで伝える | Ep155。Ch18の"人を出さない"と整合。オオウミガラス絶滅＝人間の乱獲が史実だが、A2幼年読者向けに哀歌トーンで抑制 |
 
 リクガメのサイズ等、シーズン固有の数値は各 episode-list / world.md / s3 対応表を参照。

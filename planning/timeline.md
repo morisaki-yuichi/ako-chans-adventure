@@ -1692,14 +1692,74 @@
 
 <!-- Ch26（Ep211〜220）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧Phase C一括レビュー（Tier1-3＋phone）適用済み。Phase D：ep210.next_ep=ep211（更新済）／章末 ep220.next_ep 空欄→Ch27 Ep221で相互リンク。s3_titles[1]="Gray and Red"確認済み。 -->
 
-**Ch26（Ep211〜220）執筆完了 ✅**（全10話・word_count実測一致＆範囲内 270〜289・最長文≤16語・冬で一貫）
-- word_count：211=289／212=287／213=274／214=273／215=274／216=270／217=271／218=270／219=272／220=276。story_day：10/11/13/14/16/17/18/20/22/24（非減少）。
-- ★**少年知覚ルールの接地（Ep211のみ）**＝逐語 *"He cannot see faces. To him, each one is a dull gray light."* … *"He never tells anyone. There is nothing to tell."*（診断名なし）。Ep213以降は光比喩を信頼＝*"A red light moves across the grass. It is not gray like all the others."*（Ep213）。
-- ★**「gray」綴り統一・少年POV専用**：211/212/213/214/215/218/219/220のみで使用。**Ep216（動物POV）・Ep217（Ako-chan POV）は gray ゼロ**（検証済み）。gray は人・顔の知覚に限定（dusk/skyには不使用＝craft規律）。
-- ★**少年POVの命名遵守**：211-215/218-220の地の文に**キャラ名・"Pod"・"Obia"ゼロ**（検証済み）＝Ako-chan="a red light/the red"／Dango="a small dog"／Suke-san="a reddish dog"（Ep218）／3匹="the little tortoises"／Pod="glowing little carts"。名前・Pod可は**Ep216-217のみ**。
-- ★**少年＝発話ゼロ**（Ch26）。台詞は動物のみ＝🔒**Suke-san（Ep216）逐語＝"That one is alone," says Suke-san softly. "He watches us. No bad feeling."**（S1 Obia評 *"You have no bad feeling in you."* と同じ匂い/気配の判断基準）。⚠️**Ako-chanは少年に声をかけない・見ない**（Ep216④ *"She does not yet know that he is there. Not really."*）＝Ch26で少年とAko-chan不接触（初接触＝Ch27 Ep224）。
-- ★**興味の逓増アーク**：見る（213）→翌日（214）→毎日・待つ（215）→遠くから観察（218）→なぜ赤だけ＝問い（219）→もっと知りたい（219④ *"he reaches — toward something that is not gray."*）→日課完成（220）。**種への判断は出さず**（Ch28温存）・**赤の理由は不明**（メガネ/日記に結びつけない）。
-- ★**季節＝冬で一貫**（霜・裸木・低い冬の光・冬の鳥）。Ep217は episode-list「秋へ傾く」を**冬に置換済**（カラス/リス/鴨/コマドリ/ミソサザイ・みな穏やか・異変なし）。
-- ★**章クローザー（Ep220④）**＝リクガメ1匹（黄＝Ruka想定・名指さず "one of the little tortoises"）が少年へ**動き始める**（接触はまだ＝Ch27助走）。
-- 文法：S3解禁の現在完了（has lived/have passed 等）多用・限定関係詞（"something that is not gray" 等）。⚠️過去完了/仮定法/分詞構文ゼロ（検証）。三連形容詞=各話1回以内（213/217/218/219）。畳語tic "on and on"=**章内1回のみ**（Ep211）。
-- リンク：ep211.prev_ep=ep210／章内連鎖／**ep220.next_ep 空欄**（Ch27 Ep221で相互リンク）。**Phase D：ep210.next_ep=ep211 更新済み ✅**。s3_titles[1]="Gray and Red"（確認済み）。
+---
+
+## Chapter 27「The First Words」— 公園・接触（Ep221〜230・10話）
+
+**Ch27 共通**
+- ★**接触の章**。Ch26の観察（少年が遠くから赤を見る）から一歩進む＝**動物の方から少年に近づく**（Ruka足元→Suke-san値踏み）→少年が「動物の視線は人間と違う」と気づく→**Ako-chanが初めて声をかける（Ep224＝章題 "The First Words"＝Ako-chanの第一声）**→旅の断片を少し語る→回想（S1/S2再話）→少年が「なぜ自分は待つのか」と問い、絆の"距離"を読み始める（章クローザー＝Ch28観察へ）。
+- ★**章題 "The First Words" ＝Ako-chanの第一声（Ep224）**であり、**少年の発話ではない**。⚠️**少年はCh27でも実質 発話ゼロ**（Ep224＝小さく頷くのみ／Ep226＝問い返さない）。**少年の"普通の会話"の初＝Ch30 Ep256**（温存）。少年＝無言の所作＋POV内面。
+- ★**接触の段階（staging）**：動物が先に近づく＝Ako-chanは**Ep221-223では見守るのみ（声をかけない）**→**Ep224で初めて声をかける**。⚠️段階を飛ばさない（Ako-chanの第一声はEp224まで来ない）。
+- ★**少年知覚は継続（Ch26 device）**：顔=灰色／Ako-chan=赤い光（**接近しても顔は見えない・赤は見える**＝Ep224 "声の主の顔はやはり見えない・でも赤い"）。⚠️**接触してもAko-chanの赤の理由は不明のまま**（メガネ/日記に結びつけない）。**gray=少年POV専用**（動物POV221/222・Ako-chan POV/回想225/227/228では不使用）。
+- ★**少年POVの命名（継続）**：少年は名を知らない＝**少年POV回ではキャラ名・"Pod"不使用**（"a little tortoise"／"a small dog"／"a reddish dog"／"glowing carts"／"the red light"）。⚠️Ep224でAko-chanは**名前を名乗らない**（少数語）＝少年は依然 名を知らない。**名前/"Pod"可＝動物POV(221/222)・Ako-chan POV/回想(225/226/227/228)**。
+- ★**回想内のロボット呼称（確定 2026-06-27ユーザー選択）**：Ep227/228の回想で去ったロボットを指すときは **"the one who is gone" / "the friend who left" 型のタイトル由来の描写句**（名前なし・"it"で薄めない・情を保つ）。⚠️**回想ゆえ"空席で語る"は不適**（過去に在って去る存在）＝[[s3-absent-robot-empty-space]]の自然な拡張。Ep228④はpale blue光が消える別れ（S2末・氷・未来へ）。⚠️**"Obia"の名は出さない**（日記の例外はCh27に無し＝回想は名前不可）。
+- ★**Dangoの嫉妬アーク #S3-① 開始（Ep225）**：少年（Ako-chanの新たな"競合"）に対しDangoが**二人の間に体を割り込ませ低く一声うなる**＝S3最初の嫉妬。Ako-chanが*"Dango."*と軽くたしなめる。Rukaは動じない。⚠️**Dango引用台詞なし**（うなり/所作＋Ako-chanの一語）。➡**#②＝Ep253（小屋・より強い）／解消＝Ep259「Dango's Truce」**。
+- ★**🔒台詞**：Ep222 Suke-san *"No bad feeling. But I will watch."*（**S1 Obia評 "You have no bad feeling in you." と同じ匂い/気配の判断基準**・S3 Ch26 Ep216 "No bad feeling" の継続）／Ep224 Ako-chan *"This little one likes you."*（「この子、あなたが好きみたい」の英訳・**warm・少数語**・※後続で引用回収されない＝確定default・微調整可）／Ep225 Ako-chan *"Dango."*（たしなめ）。
+- ⚠️**季節＝冬（晩冬）**（Ch25-26から継続）。Ako-chanは動物の声を聴く（穏やか・異変なし）。Ruka=she。
+- 語り規約：少年＝"the boy"/"he/him"（無名・発話ゼロ）／**gray=少年POV専用**／Dango引用なし（うなり/所作）／Suke-san=Ako-chanの右後ろ＋🔒（Ep222）／Daru=回想で引用可（"Let me see!"）／Gabu=短い／Ruka=she・所作。一行＝**6**＋3Pod（公園に来る側）。**少年は一行に未加入**（接触は始まるが"合流"はまだ）。
+- Day割付：Ch26末＝Day24。Ch27＝**Day25〜33（loose・晩冬）**＝221=25／222=26／223=27／224=28（Ako第一声）／225=29／226=30／227=30（回想・同日）／228=31（回想）／229=32／230=33。
+
+### Day 25〜27 — 動物が近づく（接触の始まり・Ako-chanは見守るのみ）
+- **Ep221「At His Feet」**（少年POV主・Rukaの所作）：リクガメの一匹（Ruka）のPodがゆっくり少年の足元まで来て止まる。中から少年を見上げる。少年は動かない——人間以外がこんなに近づいたのは初めて。そっと身をかがめる。
+  - モード：静・観察（接触）。③：黄色い淡い光、芝の上の影、ゆっくりした瞬き、止まった手。④：少年はそっと身をかがめる。
+  - 確定：⚠️**POVは一貫させる**＝少年POVなら "a little tortoise"（名前/Pod不使用）／動物POVに振るならRuka名可だが gray不使用。⚠️Ako-chanは**まだ声をかけない**（Ep224温存）。Ruka=she。
+- **Ep222「The Red-Brown Dog」**（動物POV）：赤茶色の犬（Suke-san）が少年の正面に立ち、しばらくじっと値踏みする。それから静かに離れる。かつての警戒の名残＋新しい興味。
+  - 🔒台詞（Suke-san）：*"No bad feeling. But I will watch."*（S1 Obia評 "You have no bad feeling in you." と同基準）
+  - モード：感情・観察（動物POV）。③：Suke-sanの立ち方、三角の耳、膝の高さの視線、去る足音。④：少年は、その犬の視線が人間のそれと違うと気づく。
+  - 確定：動物POV＝名前可・**gray不使用**（匂い/気配で判断）。🔒逐語。Suke-san=警戒→吟味→容認の途上。
+- **Ep223「Not Like People」**（少年POV）：少年は動物の視線を人間の視線と区別する。人間の灰色の視線は意味を持たない。リクガメ/犬の視線はまっすぐで何かを伝えてくる。初めて「見られている」と感じる。
+  - モード：静・観察（少年POV）。③：足元の小さなリクガメ、離れて見ている犬、遠くの赤い光、冬の風。④：灰色でないものが少年の世界に入ってくる。
+  - 確定：少年POV＝gray可・名前/Pod不使用。**初めて"見られている"感覚**（情緒の芽）。
+
+### Day 28〜31 — Ako-chanの声・旅の断片・回想
+- **Ep224「Her Voice」**（少年POV・Ako-chanの第一声）：赤い光（Ako-chan）が初めて少年に声をかける。*"This little one likes you."* 少数語。少年はどう答えていいか分からない——声の主の顔はやはり見えない、でも赤い。小さく頷く。それが精一杯。
+  - モード：感情（接触の核）。③：近づく赤、声の温度、Rukaの位置、少年の喉の動き。④：少年は小さく頷く。それが精一杯だった。
+  - 確定：🔒Ako-chan *"This little one likes you."*（warm少数語）。⚠️**Ako-chanは名乗らない**（少年は名を知らないまま）。⚠️**接近しても顔=不可視・赤は見える**。少年＝**頷くのみ（発話ゼロ）**。
+- **Ep225「Few Questions」**（Ako-chan POV寄り・中立）：互いに多くを聞かない/語らない。同じベンチの近くにいる。沈黙は気まずくない。**だがDangoが二人の間に体を割り込ませ低く一声うなる（嫉妬#S3-①）**。Ako-chan *"Dango."* と軽くたしなめる。Rukaは動じない。
+  - モード：感情・観察。③：割り込むDango、午後の光、Podの淡い光、少年の引いた手。④：何も決まらない。でも明日もここにいるだろうと二人とも感じる。
+  - 確定：**Dango嫉妬#S3-①**（Ep259で解消・⚠️引用なし＝うなり/所作）。🔒Ako-chan *"Dango."*。⚠️少年は問い返さない/語らない。
+- **Ep226「A Fragment of a Journey」**（少年POV・Ako-chanの声）：Ako-chanがぽつりと旅を話す＝旅をした/とても遠くまで行った/ずっと一緒にいた誰かがもういない。それ以上は語られない。少年は問い返さない。"もういない誰か"だけが少年に残る。
+  - モード：感情・静。③：声の途切れ、遠くを見る赤い光、冬の風、Rukaの静止。④："もういない誰か"——その言葉だけが少年の中に残る。
+  - 確定：⚠️**ロボットの名前は出さない**（"someone who was always with her" 等）。旅の開示は**この3点まで**（Ep227/228回想へ橋渡し）。
+- **Ep227「Far Away」**（回想／Ako-chan POV）："とても遠くまで行った"→S1の旅の断片がよみがえる＝**white rocks（クロアチア・Daru）／hot red sand（砂漠・Gabu）／green mountain（日本・Suke-san）**（S1 Ep97の回顧テンプレを上位再話）。当時の声＝**Daru "Let me see!"**（S1 Ep18/20）。
+  - モード：静・回想。③：記憶の中の光と今の公園の光の重なり。④：旅は終わった。でもAko-chanの中でまだ続いている。
+  - 確定：A2-B1で短く再話（上位レベル再読）。⚠️**ロボットは周縁**（場所/動物中心）＝もし触れるなら **"the one who is gone"型**（名前なし）。S1 Ep1の「目」は使わない。
+- **Ep228「The One Who Is Gone」**（回想／Ako-chan POV・★ロボット中心）："もういない誰か"→そのロボットが未来へ去った場面（S2末）を回想。**"the one who is gone"/"the friend who left"型の描写句**で指す（名前なし・"it"で薄めない）。pale blue光が消える別れ・氷・未来へ。S2末の静けさをA2-B1再話。
+  - モード：感情・回想。③：南極の氷、別れの静けさ、見送る仲間、消えるpale blue光。④：Ako-chanはまだその続きを書けていない（日記 "Obia——" への接続＝**ただし本文に"Obia"の名は出さない**）。
+  - 確定：⚠️**回想呼称＝"the one who is gone"型（確定）・"Obia"不使用・"it"で薄めない**。⚠️首輪/ループ/未来の正体/Ep1の目 leakなし（別れの感情まで）。S2末（Ep184-185）＝pale blue・氷・"into the future"。
+
+### Day 32〜33 — なぜ待つ・距離を読む（章クローザー）
+- **Ep229「Why He Waits」**（少年POV）：少年はAko-chan（赤い光）のことを考える。なぜ彼女は毎日来るのか。なぜ自分はそれを待つのか。初めて**他者に惹かれている自分**に気づく。理由は分からない。
+  - モード：静・観察（内省）。③：夜のひとり、窓の外の暗さ、思い出される赤。④：少年は、明日が来るのを初めて待ち遠しく思う。
+  - 確定：少年POV＝gray可・名前不使用。**他者への愛着の芽**（Ch28内向きの問いへの布石）。
+- **Ep230「The Space Between」**（少年POV・章クローザー）：少年がAko-chanと動物たちの"距離"を読み始める。Dangoがどれだけ近くを歩くか。犬がどこに立つか。Rukaがどこにいるか。それぞれの距離が何かを語る気がする。
+  - モード：静・観察（章クローザー）。③：芝の上の配置、それぞれの間隔、午後の光、観察する少年の目。④章クローザー：少年は気づく——この距離には、自分の知らない長い時間がある（Ch28＝観察と問いへ）。
+  - 確定：⚠️**距離=観察された具体で示す**（抽象ナレーション回避・writing-guide §7）。少年POV＝名前/Pod不使用（"the small dog"/"the little tortoise"）。章末リンク：next_ep＝/season3/chapter28/ep231/（Ch28 Ep231執筆時に相互リンク）。**章頭 ep221.prev_ep=/season3/chapter26/ep220/／Phase Dで ep220.next_ep=ep221 更新**。
+
+<!-- Ch27 足場（Phase A）。執筆後に ✅執筆済み（word_count・🔒台詞・🔧レビュー）を追記。章頭 ep221.prev_ep=ep220／章末 ep230.next_ep 空欄→Ch28 Ep231で相互リンク。Phase D で ep220.next_ep=ep221 更新。 -->
+
+**Ch27（Ep221〜230）執筆完了 ✅**（全10話・word_count実測一致＆範囲内 272〜286・最長文≤16語・晩冬で一貫）
+- word_count（Phase C修正後・全話≥270）：221=278／222=276／223=275／224=282／225=285／226=287／227=281／228=271／229=270／230=274。story_day：25/26/27/28/29/30/30/31/32/33（非減少・Day割付通り）。
+- ★**接触アークの段階を遵守**：221（Ruka足元・少年POV）→222（Suke-san値踏み・動物POV）→223（少年が"見られている"と気づく・少年POV）→**224（Ako-chanの第一声・少年は頷くのみ）**→225（沈黙＋Dango嫉妬#①）→226（旅の断片）→227（回想Far Away）→228（回想The One Who Is Gone）→229（なぜ待つ・内省）→230（距離を読む・章クローザー）。**段階の飛び越しなし**（検証済み）。
+- ★**🔒台詞（逐語）**：Ep222 Suke-san *"No bad feeling," he says softly. "But I will watch."*（S1 Obia評と同基準・Ch26 Ep216継続）／Ep224 Ako-chan *"This little one likes you," she says, softly.*（warm少数語・**名乗らない**）／Ep225 Ako-chan *"Dango," says Ako-chan, soft but firm.*（たしなめ）／Ep227 Daru *"Let me see! Let me see!" he cried.*（S1 Ep18/20回想）。⚠️**Dango引用なし**（うなり/所作＝"growls, low. It is one short, deep sound"）。
+- ★**少年＝実質発話ゼロ**（Ep224＝小さく頷く "one small, slow nod"／Ep226＝問い返さない "does not ask her anything back"）。普通の会話の初はCh30 Ep256へ温存。
+- ★**「gray」少年POV専用**：221（gray shapes）・223（gray faces／gray world）・229（always gray）のみ。**動物POV(222)・Ako-chan POV/回想(225/227/228)・少年POV他話(224/226/230)は gray ゼロ**（検証済み）。
+- ★**少年POVの命名遵守**：221/223/224/226/229/230 の地の文に**キャラ名・"Pod"・"Obia"ゼロ**（検証済み）＝Ako-chan="the red light/the red/the glow"／Dango="a small dog"／Suke-san="the reddish dog"／Ruka="the little tortoise"／Pod="glowing cart"。名前・"Pod"可は**動物POV(222)・Ako-chan POV/回想(225/227/228)のみ**。
+- ★**Dango嫉妬アーク #S3-① 開始（Ep225）**：二人の間に体を割り込ませ低く一声うなる→Ako-chan *"Dango."*。Rukaは動じない（"does not stir at all"）。➡#②=Ep253／解消=Ep259。
+- ★**回想ロボット呼称＝"the friend who left" / "one who is gone"型で一貫**（Ep227周縁＝"one who is gone"／Ep228中心＝"the friend who left"×3＋"the one who is gone"×2・Phase Cで×5→×3に変奏）。**"Obia"不使用・"it"で薄めない**（代名詞回避＝"The pale blue eyes shone"）。Ep228=南極の氷・pale blue光が消える別れ・"going to the future"（S2 Ep185準拠）。④=日記の未完の一行（"One line waits there, unfinished"・**"Obia"の語は出さない**）。⚠️首輪/ループ/未来の正体/Ep1の目 leakなし（検証済み）。
+- ★**回想素材の既出整合**：Ep227＝white rocks(Daru)／hot red sand(Gabu)／green mountain(Suke-san)＝S1 Ep97テンプレの上位再話。Ep228＝S2末別れ（cave of ancient ice・door of white light・pale blue glow fades）。
+- 文法：S3解禁の現在完了（has told/have passed/has never 等）・過去進行形（was going/was moving 等）・限定関係詞使用。⚠️**過去完了（had+pp）は起草時に3件混入→全て単純過去に修正済み**（ep222/223/228）。仮定法/分詞構文ゼロ（検証）。"had to go on"=義務の単純過去で可。
+- 表記：三連形容詞=各話1回以内（222/224/228/223各1）。畳語＝"smaller and smaller"（漸増・章内1回）のみ。flat副詞は慣用形のみ（"moves low"＝low可／"grows quiet"＝連結動詞＋形容詞で対象外）。季節＝晩冬で一貫（霜・裸木・冬の風）。
+- リンク：ep221.prev_ep=/season3/chapter26/ep220/／章内連鎖／**ep230.next_ep 空欄**（Ch28 Ep231で相互リンク）。**Phase D で ep220.next_ep=ep221 を更新**。s3_titles[2]="The First Words"（episodes.md L58 確認済み）。
+- 🔧**Phase C 一括レビュー（ユーザー承認 2026-06-27）**：Tier1＝Ep228の不在語飽和を変奏（"the friend who left"×5→×3＋"the one who is gone"×2／"empty"×5→×2／"cold"×4→×3・"nothing"×3は意図反復で温存）。Tier2＝Ep226リクガメ姿勢を修正（"head has drawn halfway in"→"stays out, calm and low"＝[[tortoise-resting-posture]]＝平穏時は頭/四肢を出す・引っ込めは危険時のみ）。Tier3＝Ep229の"He…"文頭過多（11→8・Ch26の教訓）。軽微＝Ep226 light×5→×4。修正後 再スキャン（floor≥270・grey/Obia/had+pp=0）通過・word_count再計算（226→287/228→271/229→270）。
+- ⚠️**運用メモ**：執筆側が timeline.md に Ch26/Ch27 完了ブロックを追記していた（Ch26分は前出の正規ブロックと重複→**削除済み**）。**timeline.md はマネージャー側のみ編集**＝次回執筆プロンプトに明記する。
