@@ -13,7 +13,7 @@ permalink: /episodes/
   <div class="season-block">
     <h2>Season 1 &mdash; A1</h2>
 
-    {% assign s1_titles = "The Voice in the Garden|Following the South|The Turtle on the Rocks|The Red Desert|The Long Way East|Building the Ship|Voices in the Deep|Through the Storm|The White Land|Into the Snow|The Confession|The Way Home" | split: "|" %}
+    {% assign s1_titles = "The Voice in the Garden|Following the South|The Turtle on the Rocks|The Red Desert|The Long Way East|Building the Ship|Voices in the Deep|Through the Storm|The White Land|The Long Night|The Confession|The Way Home" | split: "|" %}
     {% for n in (1..12) %}
     <div class="chapter-block">
       <h3>Chapter {{ n }} &middot; {{ s1_titles[forloop.index0] }}</h3>
@@ -34,7 +34,7 @@ permalink: /episodes/
   <div class="season-block">
     <h2>Season 2 &mdash; A1&ndash;A2</h2>
 
-    {% assign s2_titles = "The Signal from the South|Building the Flying Boat|Gathering the Friends|South to the Ice|What Obia Remembers|The First Jump|The Island in the Storm|The Rift|Into the Ice Age|Obia's Goodbye|The Long Way Back|Home Without Him" | split: "|" %}
+    {% assign s2_titles = "The Signal from the South|Building the Flying Boat|Gathering the Friends|The Cave in the Cliff|What Obia Remembers|The First Jump|The Island in the Storm|The Rift|Into the Ice Age|No Way Back|The Long Way Back|Home Without Him" | split: "|" %}
     {% for n in (13..24) %}
     <div class="chapter-block">
       <h3>Chapter {{ n }} &middot; {{ s2_titles[forloop.index0] }}</h3>

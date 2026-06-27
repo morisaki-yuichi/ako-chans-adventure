@@ -57,7 +57,7 @@
 
 ---
 
-## Chapter 16 · South to the Ice — 空路〜南極到着（8話・Ep126〜133）
+## Chapter 16 · The Cave in the Cliff — 空路〜南極到着（8話・Ep126〜133）
 
 | # | タイトル | 役割 |
 |---|---------|------|
@@ -156,7 +156,7 @@
 
 ---
 
-## Chapter 22 · Obia's Goodbye — 使命完了・Obiaの別れ（9話・Ep177〜185）
+## Chapter 22 · No Way Back — 使命完了・Obiaの別れ（9話・Ep177〜185）
 
 | # | タイトル | 役割 |
 |---|---------|------|
@@ -208,13 +208,13 @@
 | 13 | The Signal from the South | イギリス | 8 | 101〜108 | 108 |
 | 14 | Building the Flying Boat | イギリス（制作） | 9 | 109〜117 | 117 |
 | 15 | Gathering the Friends | 空路（再集結） | 8 | 118〜125 | 125 |
-| 16 | South to the Ice | 空路〜南極到着 | 8 | 126〜133 | 133 |
+| 16 | The Cave in the Cliff | 空路〜南極到着 | 8 | 126〜133 | 133 |
 | 17 | What Obia Remembers | 南極（洞窟・使命） | 8 | 134〜141 | 141 |
 | 18 | The First Jump | 1回目跳躍（ニホンオオカミ） | 9 | 142〜150 | 150 |
 | 19 | The Island in the Storm | 2回目跳躍（オオウミガラス） | 9 | 151〜159 | 159 |
 | 20 | The Rift | 3回目跳躍・危機 | 8 | 160〜167 | 167 |
 | 21 | Into the Ice Age | 3回目跳躍・救出（マイオラニア） | 9 | 168〜176 | 176 |
-| 22 | Obia's Goodbye | 使命完了・Obiaの別れ | 9 | 177〜185 | 185 |
+| 22 | No Way Back | 使命完了・Obiaの別れ | 9 | 177〜185 | 185 |
 | 23 | The Long Way Back | 帰路 | 7 | 186〜192 | 192 |
 | 24 | Home Without Him | イギリス | 8 | 193〜200 | **200** |
 
