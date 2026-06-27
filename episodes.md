@@ -55,7 +55,7 @@ permalink: /episodes/
   <div class="season-block">
     <h2>Season 3 &mdash; A2&ndash;B1</h2>
 
-    {% assign s3_titles = "The Quiet Years|Gray and Red|The First Words|Reading the Distances|Building Alone|Building Together|Blue-White Light|The Parting|The Ones Who Remember|To the Beginning" | split: "|" %}
+    {% assign s3_titles = "The Quiet Years|Grey and Red|The First Words|Reading the Distances|Building Alone|Building Together|Blue-White Light|The Parting|The Ones Who Remember|To the Beginning" | split: "|" %}
     {% for n in (25..34) %}
     <div class="chapter-block">
       <h3>Chapter {{ n }} &middot; {{ s3_titles[forloop.index0] }}</h3>

@@ -35,7 +35,7 @@
 | Ep 12 | **White Birds in the Mist** | 北イタリアの朝霧にコサギ。「水の流れが変わった」。Obia:「The signal changes here.」異変が水辺にも及ぶ。 |
 | Ep 13 | **The Night Watch** | **1回目Obia送信**。夜、Ako-chanがObiaのひとりの謎の行動を目撃する。軽く質問するが、Obiaは答えない。最初の小さな違和感。③：暗いコンパートメント、青白く光るObiaの目。Dangoは眠っている。 |
 | Ep 14 | **Out in the Daylight** | 翌日。ヤモリやコウモリが昼間に壁から這い出し、同じ方向をじっと向いている（1回目送信直後の異変・小スケール）。Ako-chanが結びつけかけて、まだ言葉にしない。 |
-| Ep 15 | **Toward the Coast** | 丘を下ると海が見える。Dangoが海の匂いを初めて嗅ぐ。ダルマティア海岸へ近づく。章クローザー。 |
+| Ep 15 | **Towards the Coast** | 丘を下ると海が見える。Dangoが海の匂いを初めて嗅ぐ。ダルマティア海岸へ近づく。章クローザー。 |
 
 ---
 
@@ -62,7 +62,7 @@
 | Ep 25 | **Red Sand** | ワディラム入口。前から来る熱。Obia:「The temperature is very high.」異変：夜行性のサソリ・トカゲが昼間に岩陰から這い出し、同じ方向を向く。 |
 | Ep 26 | **Dango Says No** | 砂漠装備。Ako-chanに熱反射クロス、Dangoに肉球ブーツ（脚ごと4つ）。Dangoが全力で拒否し、観念する。PodはDaru/Gabuのため内部を快適に保つ（冷却機能）。軽快な息継ぎ。 |
 | Ep 27 | **The Watcher** | 岩と同じ色の小さな形が一瞬動いて消える。Dangoが匂いを追うが届かない。確かにいた、という確信（Gabuの最初の気配）。 |
-| Ep 28 | **Five Meters** | 翌朝、Gabuが岩の上に現れる。距離5メートル。逃げない、近づかない。全員で1時間待つ。③：太陽が岩を熱し空気が揺れる。Daruが動くたびDangoが甲羅に体を当てて静止させる。 |
+| Ep 28 | **Five Metres** | 翌朝、Gabuが岩の上に現れる。距離5メートル。逃げない、近づかない。全員で1時間待つ。③：太陽が岩を熱し空気が揺れる。Daruが動くたびDangoが甲羅に体を当てて静止させる。 |
 | Ep 29 | **One Step Closer** | Ako-chanが砂に座り、手のひらを熱い砂に置く。Gabuが一歩動く。誰も動かない。慎重な信頼構築の始まり。 |
 | Ep 30 | **Step by Step** | Gabuが数日かけて一歩ずつ近づく。止まる——見る——また一歩。昨日より近い場所で止まる。でもまだ来ない。③：砂を踏むGabuの足音だけ。Daruが息を止めて体を丸くしている。 |
 | Ep 31 | **Steady** | Gabuがまっすぐ歩いてきてAko-chanの前に座る。それだけ。でも全部だった。**Gabu合流**。※転換点として1語タイトル例外。 |
@@ -184,7 +184,7 @@
 | Ep 91 | **Suke-san's Mountain** | 日本。Suke-sanが山の匂いを目を閉じて深く吸う。Dango:「You are good.」Suke-san:「...You too.」（やっと出た言葉）山へ消える。 |
 | Ep 92 | **Still Together** | 西へ向かう船。DaruとGabuの最後の時間。Daruがずっとしゃべり、Gabuが静かに聴く。まだ一緒にいる。 |
 | Ep 93 | **Gabu's Rock** | ワディラム。Gabuが岩の上に立ち全員を見る。最後にAko-chanを一度見て——岩の向こうへ消える。 |
-| Ep 94 | **Toward Croatia** | 地中海へ。Daru:「I know this sea!」一人になったDaruの興奮と、どこかにいるGabuへの思い。 |
+| Ep 94 | **Towards Croatia** | 地中海へ。Daru:「I know this sea!」一人になったDaruの興奮と、どこかにいるGabuへの思い。 |
 | Ep 95 | **Daru's Rock** | ダルマティア海岸。Daruが走って消え、また現れて「Goodbye!」また消える。最後までDaruのまま。 |
 | Ep 96 | **Back to Three** | Ako-chan・Dango・Obiaだけに戻る。誰も何も言わない。船の音、波、Dangoのため息。③：空いた甲板、静かな三人の距離。 |
 | Ep 97 | **The Quiet Sea** | 北へ向かう穏やかな海。旅で起きたことを言葉にせず振り返る静かな回。Obiaの目が、前より柔らかい。 |

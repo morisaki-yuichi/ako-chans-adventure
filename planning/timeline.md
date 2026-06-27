@@ -120,7 +120,7 @@
   - 🔒継続（送信#1との結びつき）：Ako-chanが**前夜のObia**（窓辺・低いハム音・pale blueの光・南を向いた姿）と**この異変**を結びつけ**かけるが、まだ言葉にしない**（"She opens her mouth. But she does not speak. She is not sure. Not yet."）。3回の積み重ねで確信していく設計。
   - 注意：背景異変（カラス・魚＝Ch5）とは別系統。これは送信直後の異変。
   - ✅執筆済み（word_count 288）。
-- **Ep15「Toward the Coast」**：丘を下ると海（アドリア海＝the Adriatic Sea）が見える。Dangoが海（暖かい南の海）の匂いを初めて嗅ぐ。ダルマティア海岸（the Dalmatian coast）へ近づく。章クローザー。
+- **Ep15「Towards the Coast」**：丘を下ると海（アドリア海＝the Adriatic Sea）が見える。Dangoが海（暖かい南の海）の匂いを初めて嗅ぐ。ダルマティア海岸（the Dalmatian coast）へ近づく。章クローザー。
   - 確定：乾いた茶色の丘・オリーブの木を抜けて丘の頂へ→眼下にアドリア海。海の向こうにダルマティア海岸。"The south pulls harder here than before."
   - 確定：Dangoの海の匂い＝"new and strong and full of salt"／"He never smelled this warm sea before."（英国の海ではなく**暖かい南の海**として初体験）。
   - 🔒継続：「海の向こうに何かが待つ」という予感で締める（"Ako-chan does not know what waits there. But something does."）＝**次章Ch3でDaru合流・Pod初登場への伏線**。Daruの名・存在は出さない。
@@ -220,12 +220,12 @@
   - ✅執筆済み（word_count 273）。
 
 ### Day 13 — 5メートル〜最初の一歩
-- **Ep28「Five Meters」**：翌朝（早朝・涼しい）、Gabuが低い岩の上に現れる。距離**約5メートル**（黄色い甲羅・黒斑が見える近さ）。逃げない・近づかない。全員で**1時間**待つ。モード：静・観察。⚠️旧「fifteen meters」から改題・距離縮小（2026-06-27・小型保護色リクガメに15mは遠すぎとの指摘）。
+- **Ep28「Five Metres」**：翌朝（早朝・涼しい）、Gabuが低い岩の上に現れる。距離**約5メートル**（黄色い甲羅・黒斑が見える近さ）。逃げない・近づかない。全員で**1時間**待つ。モード：静・観察。⚠️旧「fifteen meters」から改題・距離縮小（2026-06-27・小型保護色リクガメに15mは遠すぎとの指摘）。
   - 確定（Gabu未命名）：本文では **"a small tortoise" / "the small tortoise" / "it"**（名・声は出さない）。**Daruは名前で区別**（"the tortoise"＝Gabuのみ）。
   - 確定（外見・初描写）：*"Its shell is yellow with black marks."*（鮮やかな黄＋黒斑。Daruの "yellow-brown with black lines" と対比）。
   - 確定（Gabuの性格・布石）：観察的＝*"It only watches and waits." / "This one is not like Daru at all. It does not rush."*（即行動のDaruと対照）。
   - 確定（③・世話役）：Daruは**Pod外**で待機。動こうとする（"Let me look! Let me look!"）→**DangoがDaruの甲羅に体を当てて静止**させる（"Dango leans on Daru's shell. He holds him still with his body."）。Obiaも静止して見る（"it"）。
-  - 数（C台帳）：距離＝**five meters**（タイトル）／待ち時間＝**an hour**。
+  - 数（C台帳）：距離＝**five metres**（タイトル）／待ち時間＝**an hour**。
   - ✅執筆済み（word_count 279）。
 - **Ep29「One Step Closer」**：同日・日中（酷暑）。Ako-chanが熱い砂に座り、**手のひらを砂に平らに置く**（差し出さず開いて待つ）。Gabuが**一歩**動く。誰も動かない。慎重な信頼構築の始まり。
   - 確定（所作）：*"She does not reach for the tortoise. She just waits, with her hand open."* → Gabuが *"one small step toward Ako-chan."*（一歩のみ・それ以上来ない）。
@@ -236,7 +236,7 @@
 - **Ep30「Step by Step」**：翌日。Gabuが**止まる→見る→また一歩**で少しずつ近づく。**昨日より近い**が、まだ来ない。モード：静・観察。
   - 確定（接近のリズム）：*"Step by step, it comes closer. It stops. It looks. It walks again."* → *"It comes nearer than yesterday now. But ... It does not come all the way."*
   - 確定（③・Daru）：Daruが**息を止めて首を前に伸ばす**（"He holds his breath this time. He stretches his neck out far."）。⚠️殻に引っ込む描写は使わない＝引っ込み＝危険時のみ／期待・興奮は首/四肢を伸ばす（リクガメ姿勢ルール）。砂を踏むGabuの足音だけ。
-  - 確定（余韻・継続性呼応）：信頼構築の段階を回想＝*"First only a shape. Then five meters away. Then one step on the sand."*（Ep27気配→Ep28・5m→Ep29一歩）。"数日かけて"は信頼構築のみを指し、異変の長期化は示唆しない。
+  - 確定（余韻・継続性呼応）：信頼構築の段階を回想＝*"First only a shape. Then five metres away. Then one step on the sand."*（Ep27気配→Ep28・5m→Ep29一歩）。"数日かけて"は信頼構築のみを指し、異変の長期化は示唆しない。
   - ✅執筆済み（word_count 283）。
 
 ### Day 15 — 合流〜Pod
@@ -738,7 +738,7 @@
 - **Ep93「Gabu's Rock」**🟢執筆済：ワディラム。Gabuが慎重に岩を登り（Ep28-31の到着の逆構図）、全員（Daru・Dango・Obia・Ako-chan）を見て最後にAko-chanを一度見る。**Gabuは無言**（少ない言葉のキャラを別れでも貫く）。Daru *"Gabu! Gabu!"* と呼ぶが止まらず岩の向こうへ消える。Ako-chan *"Goodbye, Gabu."* ＝**人数4**（Ako-chan・Dango・Obia・Daru）。
 
 ### Day 108前後 — 地中海
-- **Ep94「Toward Croatia」**🟢執筆済：地中海を西へ。🔒 Daru *"I know this sea!"*（続けて *"This is my sea!" / "Croatia! We go to Croatia!"*）一人になったDaruの興奮＋東の砂漠にいるGabuへの思い（*"Gabu is home. I go home too."*）。人数4。
+- **Ep94「Towards Croatia」**🟢執筆済：地中海を西へ。🔒 Daru *"I know this sea!"*（続けて *"This is my sea!" / "Croatia! We go to Croatia!"*）一人になったDaruの興奮＋東の砂漠にいるGabuへの思い（*"Gabu is home. I go home too."*）。人数4。
 
 ### Day 110前後 — ダルマティア（Daru離脱）〜3人へ
 - **Ep95「Daru's Rock」**🟢執筆済：ダルマティア海岸（夕方）。Daru *"Home! I am home!"* 走って岩の陰へ消え、また現れて🔒 *"Goodbye!"* また消える（Ep18登場の逆構図・最後までDaruのまま）。Ako-chan *"Goodbye, Daru!"* ＝**人数3**（Ako-chan・Dango・Obia＝原初トリオへ復帰）。
@@ -1619,7 +1619,7 @@
   - モード：動・観察（場の導入）。③：公園の広さ、芝の匂い、子どもの声、木漏れ日、3つのPodの発光（赤・青・黄）。④：ベンチに座ると皆が各々の場所に落ち着く。ここがこれからの場所になる。
   - 確定：3Pod並走＝赤(Daru)・青(Gabu)・黄(Ruka)（ledger C）。Suke-san定位置。⚠️少年はまだ出さない（Ep210章末で人影）。
   - ✅執筆済み（word_count 276）。Day7。**舞台＝公園を導入**。隊列＝Dango前/Suke-san後/3Pod中央（"Daru's glows red, quick and eager. Gabu's glows blue, steady and even. Ruka's glows yellow, slow and calm."＝色×性格 完全整合）✓。"A few people turn to look"で人の気配導入。三連 "wide and green and open"（1話1回・S2 Ep194 "wide and green and wet"の近縁だが別話で可）。⚠️少年は未登場（Ep210へ）✓。🔧レビュー：softly×3→2（"crunch softly"→"crackle"）／easy×3→2（"slow, easy breath"→"slow, deep breath"）／calm×3→2（"calm and open"→"still and open"）。
-- **Ep210「Just a Walk」**：公園の日課が定着する数日を軽いテクスチャーで。同じベンチ・木立・時間。特別なことは起きない。**章クローザー＝公園の向こうに少年の人影**（次章Gray and Redへの助走）。
+- **Ep210「Just a Walk」**：公園の日課が定着する数日を軽いテクスチャーで。同じベンチ・木立・時間。特別なことは起きない。**章クローザー＝公園の向こうに少年の人影**（次章Grey and Redへの助走）。
   - モード：静・観察（章クローザー）。③：日ごとに変わる空の色、葉の落ち方、ベンチの木の感触。④章クローザー：いつもの午後。だが公園の向こうに、ひとりの人影が立っている——少年だ。
   - 確定：⚠️**少年＝人影のみ（接触/視点なし）**。相貌失認・赤い光はCh26で開始。章末リンク：next_ep＝/season3/chapter26/ep211/（Ch26 Ep211執筆時に相互リンク）。
   - ✅執筆済み（word_count 271）。Day9。**Ch25章クローザー**。sameness を畳みかけて日常をlull（"same"motif＝意図的・🔧で1つ間引き）→④**少年の人影**＝"Far across the park, someone stands alone. A still figure, watching from the trees. Ako-chan does not know him yet. But there he is, quiet in the distance."✓。**外部視点の人影のみ**（接触/少年POV/赤い光/灰色なし＝Ch26温存）・"him/he"＝少年は男性で性別は秘密でない✓。"Day after day"＝X-after-X慣用（and-tic枠を侵さない）。⚠️S3秘密leakなし✓・章末next_ep空欄（Ch26 Ep211で相互リンク）。🔧レビュー：quiet×3→2（"quiet voices"→"soft voices"・"quiet in the distance"温存）／"same"1つ間引き（"at the same hour"→"at their usual hour"）。
@@ -1628,7 +1628,7 @@
 
 ---
 
-## Chapter 26「Gray and Red」— 公園・少年登場（Ep211〜220・10話）
+## Chapter 26「Grey and Red」— 公園・少年登場（Ep211〜220・10話）
 
 **Ch26 共通**
 - ★**少年POVの導入章**。公園のベンチに来る少年（Ako-chanより6歳年下＝十代半ば・⚠️年齢は数値で言わない＝Ako-chan同様）。相貌失認で**人の顔がどれも灰色のにぶい光**に見える。ある日**赤い光（Ako-chan）が公園を横切り**、少年は目で追うようになる→毎日来る→待つ自分に気づく→もっと知りたいと思う、の**興味の逓増10話**。章クローザーでリクガメの1匹が少年へ動き出す（次章Ch27＝接触への助走）。
@@ -1643,7 +1643,7 @@
 - Day割付：Ch25末＝Day9。Ch26＝**Day10〜24（loose・冬）**＝少年が日参する数週間（211=10／212=11／213=13＝赤が横切る日／214=14／215=16／216=17／217=18／218=20／219=22／220=24）。⚠️"毎日来る"の時間幅は説明しすぎない。
 
 ### Day 10〜13 — 少年・灰色の世界・赤の出現
-- **Ep211「Gray Light」**（少年POV）：公園のベンチの少年。行き交う人の顔がどれも同じ灰色のにぶい光に溶ける。誰が誰か分からない——生まれてからずっと。受け入れ、誰にも言わない。**★知覚ルールの接地回**。
+- **Ep211「Grey Light」**（少年POV）：公園のベンチの少年。行き交う人の顔がどれも同じ灰色のにぶい光に溶ける。誰が誰か分からない——生まれてからずっと。受け入れ、誰にも言わない。**★知覚ルールの接地回**。
   - モード：静・観察（少年POV導入）。③：午後の冷たいベンチ、落ち葉/裸木、犬を連れて通る人、灰色に揺れる人々の輪郭。④：目を閉じても灰色は消えない。
   - 確定：⚠️**ここで一度だけ知覚ルールを地の文で接地**（"He cannot see faces. To him, each one is a dull gray light."）＝以後の光比喩の土台。診断名禁止。少年=台詞なし。冬の公園。
 - **Ep212「The Park, Alone」**（少年POV）：少年は公園によく来る。いつもひとり。同じ時間・同じ道・同じ場所。人の輪に入らない（顔が見えない＝誰がいるか分からない）。
@@ -1692,7 +1692,7 @@
   - 修正後の再スキャン：floor割れ（ep218→texture1文追加で273）・新規 still×3（ep214→"hushed"）を補正。word_count実測再計算済み（211/214/218/219のfm更新）。
 - リンク：ep211.prev=ch25ep210／章内連鎖／ep220.next空欄（Ch27 Ep221で相互リンク）。
 
-<!-- Ch26（Ep211〜220）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧Phase C一括レビュー（Tier1-3＋phone）適用済み。Phase D：ep210.next_ep=ep211（更新済）／章末 ep220.next_ep 空欄→Ch27 Ep221で相互リンク。s3_titles[1]="Gray and Red"確認済み。 -->
+<!-- Ch26（Ep211〜220）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧Phase C一括レビュー（Tier1-3＋phone）適用済み。Phase D：ep210.next_ep=ep211（更新済）／章末 ep220.next_ep 空欄→Ch27 Ep221で相互リンク。s3_titles[1]="Grey and Red"確認済み。 -->
 
 ---
 
@@ -1807,7 +1807,7 @@
 - **Ep237「Inward」**（少年POV）：少年は自分がこの絆の**外側**にいると気づく。Ako-chanと動物には見えない始まりがあった。少年にはそれがない——顔の見えない世界で誰とも始まったことがない。ずっとひとり。持つ者と持たぬ者の対比が問いの向きを変える。「この絆はどこから来たのか」→**「自分は、なぜここにいるのか」**。外向きの問いが内向きの問いになる。
   - モード：感情・内省（**転換の核**）。③：夕方の公園、長い影、帰っていく赤い光、少年の動かない足。④：自分のことを考えるのが初めてだと気づく。
   - 確定：⚠️**外→内の転換**＝持つ/持たぬの対比で。内向きの問い＝"What is he, among all the gray? Why is he here at all?"（重め）。⚠️判断の具体/負の動機は出さない。
-- **Ep238「The Gray Wavers」**（少年POV）：人類という種への見方が少しずつ揺らぎ始める。⚠️**「人類を見限っていた」と直接書かない**。代わりに**少年が新しく気づくもの**で示す——灰色の人々の間にも見落としていた何かがあるかも、という小さな揺れ。きっかけ＝赤い光と動物。
+- **Ep238「The Grey Wavers」**（少年POV）：人類という種への見方が少しずつ揺らぎ始める。⚠️**「人類を見限っていた」と直接書かない**。代わりに**少年が新しく気づくもの**で示す——灰色の人々の間にも見落としていた何かがあるかも、という小さな揺れ。きっかけ＝赤い光と動物。
   - モード：静・観察。③：行き交う灰色の人々、その中の一つの赤、足元のRuka。④：自分の中の確かだったものが、ほんの少し動くのを感じる。
   - 確定：⚠️T12＝抽象を知覚で。**冷ややかさ（dull mass/meaning nothing）→揺らぎ**。⚠️過去完了禁止（"For years…"単純過去）。
 

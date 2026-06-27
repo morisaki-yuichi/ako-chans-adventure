@@ -8,6 +8,24 @@
 | Season 2 | A1〜A2 | 12語以内（最大15語） | 頻出1500語以内 | S1＋will（意図・予測）、could/would（can/cannot は S1既出） |
 | Season 3 | A2〜B1 | 15語以内（最大18語） | 頻出2500語以内 | S2＋過去進行形、現在完了形 |
 
+### 表記ルール：イギリス英語綴りに統一（全シーズン共通）
+
+Ako-chanはイギリス在住のため、**全話イギリス英語綴りで統一する**（本文・タイトル・引用内を含む）。主な対応：
+
+| 米 | 英 |
+|----|----|
+| gray | **grey** |
+| color / colored / colorful | **colour / coloured / colourful** |
+| meter(s) | **metre(s)** |
+| favorite | **favourite** |
+| -ize / -izing / -ized（realize 等） | **-ise / -ising / -ised**（realise 等） |
+| traveled / traveling | **travelled / travelling**（l二重化） |
+| toward | **towards** |
+| practice（動詞） | **practise** |
+| center | **centre** ／ cozy → **cosy** ／ honor → **honour** ／ defense → **defence** |
+
+※スペル置換は原則 word_count 不変。新規執筆・改稿時は上記を既定とし、米語綴りを混入させないこと。
+
 ---
 
 ## 2. Season 1 語彙ルール（A1）
