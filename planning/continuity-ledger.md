@@ -139,6 +139,17 @@
 | **🔒 Suke-san(Ch32 Ep275)** | 🔒*"Go. We will remember."*(かつて人/Obiaを警戒したSuke-sanの到達点=容認) | **carrying-forward誓いモチーフ**(S1クジラ/S2マイオラニア "We will not forget" 系)。gray不使用(動物POV) |
 | **Dangoの最後の譲歩(Ep276)・Ruka(Ep274)** | Dango=一歩下がる=最大の敬意(嫉妬アークはCh30 Ep259で解消済=ここは到達点・割って入らない)。Ruka=Podを降りて少年の足元・別れを惜しむ(プーリアEp103) | ⚠️Dango引用なし。Ruka=she・所作中心 |
 | **Ch32 行き先・配置・季節** | 行き先=**白い大陸(poetic)**・⚠️"Antarctica"/"洞窟"明示しすぎない(Ch33開示)。少年=terse/無言(別れは所作)・名前未交換のまま。少年POV=Ako-chan="the red light"/gray=少年POV専用 | 早春の朝。一行=6＋3Pod(見送る)。Ep282=少年とロボットが南極へ(Ako-chan同行せず)。⚠️"He…"文頭散らす・フラット副詞-ly・最長文≤11偏り回避 |
+
+### S3 Ch33（The Ones Who Remember・南極洞窟・着手・11話・追加）
+
+| 対象 | 確定値 | メモ |
+|------|--------|------|
+| **⚠️タイムマシン未存在(Ch33・最重要)** | 少年はこの洞窟で**これから建造**(完成はCh34)。⚠️**本文で機械が「既にある」かのように描かない**(site整地・着手まで) | ⚠️**S2の「古い氷に半分埋まった機械」がなぜS2時点で既に在ったかは回収しない**(world.md §3 bootstrap guard・因果説明しない) |
+| **声なき認識のトーン(Ch33・確定2026-06-27ユーザー選択=抑制・静かなbittersweet)** | 二羽の再会の認識・哀しみは**所作と沈黙で静かに**(涙/嘆き出さない)・"声なき理解が洞窟に満ちる"静謐(S2別れと同register) | ⚠️**少年は動物の声を聴けない/Ako-chan不在=認識は誰にも受け取られない**=核デバイス(Ako-chanが聴く)の**意図的不在**。⚠️**ロボットも二羽を知らない**(若いObia・S1前)=🔒"you do not know us yet"。**読者だけが重みを知る** |
+| **🔒 Pen-san/General(Ch33)** | Ep291 Pen-san *"You came back. But you do not know us yet."*(soft/low/少年に届かない)。Ep292 General Adelie=**沈黙**(台詞なし・所作で) | Pen-san=エンペラー成体(S1ヒナ"I will be a good Emperor."/S2 Ep130/甘えん坊)。General=Colonel→General(S2 Ep131・厳格・目周り白リング)。S2末Ep187-188南極残留=ここに居る |
+| **ロボット呼称/二羽の認識(Ch33)** | 少年POV=中立語(it/the silver one・物理: silver/blue-white eyes/**赤い首輪**)・robot/Obia/名前不使用。二羽は**赤い首輪＋青白い目**で認識(名は出さない) | ⚠️少年は二羽を知らない(Ep285="two penguins/birds")。動物POV(286/287/291/292)でのみPen-san/Adelie名可。"Obia"不使用 |
+| **Ako-chan不在(S3初)・gray・Day** | 少年POVに"the red light"は居ない(遠い)・少年は赤を恋しく思う(Ep283)。gray=少年POV専用だが**洞窟に人なし=出番ほぼ無し**。Day110〜(南極・loose) | Dango等イギリス組不在。一行=少年＋ロボット＋(洞窟)Pen-san/General。⚠️"Antarctica"明示最小("the ice/the cold white land/the cave/the south") |
+| **時の経過の始まり(Ep293)・章クローザー** | 季節が何度も巡る・少年の作業が日々続く・**もう公園の少年ではない**=Ch34時間跳び/科学者化への助走 | ⚠️**大きな時間跳び・科学者化はCh34**(Ch33は"巡り始める"まで)・**機械は完成しない**(建造途上)。⚠️"He…"文頭/フラット副詞/最長文偏り回避 |
 | **別れの語り（Ch22）** | register＝**抑制・尊厳・bittersweet**（メロドラマ回避・身体所作で外在化）。Obia=it・"the silver one"不使用（親密ビート＝"Obia"）。Dango伏せる(所作)／Suke-san初めて体を寄せる(S1警戒→信頼の到達)／3匹Pod降りて接近 | Ep185「Silence」＝1語タイトル例外（クライマックス）。🔒"I will not forget you."(will例外・物語を運ぶ誓い)。Obia消失=永続(戻らない) |
 | **帰路の一行（Ch23）** | **6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod。**操縦＝Ako-chan**（Obia役を引き継ぐ） | Obia去る(Ch22)・Pen-san/Adelie南極残留(Ep187-188)。Ep189で体感列挙・**機械宣言しない**。飛行艇="the flying boat" |
 | **Pen-san/Adelie の別れ（Ch23 Ep187-188）** | **南極に残る**（Obiaの永続喪失と対比＝生存・再会可能性）。Pen-san 🔒*"You will come back? Like last time?"*／Ako *"I will try."*／General 🔒*"The work is done. Go safely."*（"Mission accomplished"の言い換え・確定2026-06-26ユーザー選択） | "Like last time"＝S1出発→S2帰還の参照。Pen-san成体(Emperor)・General厳格(深い敬礼)。以後登場しない |
