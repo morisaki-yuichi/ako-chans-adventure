@@ -22,7 +22,7 @@ layout: default
       <a href="{{ page.prev_ep | relative_url }}">&larr; Previous</a>
       {% endif %}
     </div>
-    <a href="{{ '/episodes/' | relative_url }}" class="nav-all">All Episodes</a>
+    <a href="{{ '/season' | append: page.season | append: '/' | relative_url }}" class="nav-all">All Episodes</a>
     <div class="nav-next">
       {% if page.next_ep %}
       <a href="{{ page.next_ep | relative_url }}">Next &rarr;</a>
