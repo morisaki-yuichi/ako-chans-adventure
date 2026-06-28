@@ -3,7 +3,7 @@ layout: default
 title: "Season 2"
 permalink: /season2/
 ---
-<div class="episodes-page">
+<div class="episodes-page s2">
   <h1>Season 2 <span class="page-level">A2</span></h1>
   {% include season-tabs.html active=2 %}
   <p class="season-intro">
