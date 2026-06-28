@@ -2,6 +2,7 @@
 layout: default
 title: "Season 1"
 permalink: /season1/
+body_season: 1
 ---
 <div class="episodes-page s1">
   <h1>Season 1 <span class="page-level">A1</span></h1>

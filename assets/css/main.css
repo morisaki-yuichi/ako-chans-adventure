@@ -1,50 +1,49 @@
-/* ===== Design tokens ===== */
+/* ===== Design tokens — Concept C "Atmospheric / Seasonal Journey" ===== */
 :root {
-  /* Concept A — "Field Notebook / Quiet Adventure" */
-  --paper:        #f7f2e7;  /* page background (warm paper) */
-  --paper-card:   #fdfaf1;  /* raised surfaces (cards) */
-  --ink:          #2a2724;  /* body text */
-  --ink-strong:   #221f1c;  /* headings */
-  --ink-soft:     #5b554c;  /* secondary text */
-  --ink-faint:    #938b7d;  /* meta / captions */
-  --red:          #b23a2e;  /* signature accent (glasses / collar) */
-  --red-deep:     #8f2c22;  /* accent hover */
-  --red-wash:     #f1e2dc;  /* faint red tint (stamps) */
-  --sage:         #6f7a5a;  /* secondary accent */
-  --sage-wash:    #e8e9dd;  /* faint sage tint */
-  --line:         #e3dcc9;  /* borders / rules (warm tan) */
-  --line-soft:    #efe9da;  /* hairline rules */
+  --paper:      #f5f0e6;  /* warm base */
+  --paper-card: #fbf7ee;
+  --ink:        #262320;
+  --ink-strong: #15120f;
+  --ink-soft:   #4d473f;
+  --ink-faint:  #8d867a;
+  --red:        #cc2f26;  /* unifying signature */
+  --red-deep:   #a8261e;
+  --line:       #e3dac8;
+  --line-soft:  #efe8d9;
 
-  /* Per-season accents — kept clearly distinct in hue (green / blue / grey) */
-  --s1:        #517d2a;  --s1-deep: #3e611f;  /* leaf green (garden)     */
-  --s2:        #2e6a9e;  --s2-deep: #234f77;  /* marine blue (ocean/sky) */
-  --s3:        #6d6a64;  --s3-deep: #524e48;  /* neutral grey            */
+  /* Season atmospheres — deep enough to carry white text */
+  --s1:      #6f5436;  --s1-deep: #56402a;  --s1-tint: #ece1cd;  /* earth  */
+  --s2:      #2c5a6b;  --s2-deep: #21454f;  --s2-tint: #d9e4e7;  /* ocean  */
+  --s3:      #41505d;  --s3-deep: #313d47;  --s3-tint: #e0e4e7;  /* cold   */
 
-  /* Active accent — defaults to the signature red, overridden per season */
+  /* Active atmosphere — defaults to none; set per season on <body> / cards */
   --accent:      var(--red);
   --accent-deep: var(--red-deep);
+  --tint:        var(--paper);
+  --header-bg:   var(--paper);
+  --header-fg:   var(--ink-strong);
 
-  --font-head: "Fraunces", Georgia, "Times New Roman", serif;
-  --font-body: "Lora", Georgia, "Times New Roman", serif;
+  --font-head: "Bodoni Moda", Georgia, "Times New Roman", serif;
+  --font-body: "Spectral", Georgia, "Times New Roman", serif;
 }
 
-/* Season scopes: flip the active accent */
-.s1 { --accent: var(--s1); --accent-deep: var(--s1-deep); }
-.s2 { --accent: var(--s2); --accent-deep: var(--s2-deep); }
-.s3 { --accent: var(--s3); --accent-deep: var(--s3-deep); }
+/* Season scopes (used on <body> for full immersion, and on home cards) */
+.s1 { --accent: var(--s1); --accent-deep: var(--s1-deep); --tint: var(--s1-tint);
+      --header-bg: var(--s1); --header-fg: #fff; }
+.s2 { --accent: var(--s2); --accent-deep: var(--s2-deep); --tint: var(--s2-tint);
+      --header-bg: var(--s2); --header-fg: #fff; }
+.s3 { --accent: var(--s3); --accent-deep: var(--s3-deep); --tint: var(--s3-tint);
+      --header-bg: var(--s3); --header-fg: #fff; }
 
 /* ===== Reset ===== */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 /* ===== Base ===== */
-html {
-  font-size: 18px;
-  -webkit-text-size-adjust: 100%;
-}
+html { font-size: 18px; -webkit-text-size-adjust: 100%; }
 
 body {
   font-family: var(--font-body);
-  background-color: var(--paper);
+  background-color: var(--tint);
   color: var(--ink);
   line-height: 1.9;
   min-height: 100vh;
@@ -52,43 +51,30 @@ body {
   flex-direction: column;
 }
 
-h1, h2, h3 {
-  font-family: var(--font-head);
-  font-optical-sizing: auto;
-}
+h1, h2, h3 { font-family: var(--font-head); }
 
-a {
-  color: var(--red);
-  text-decoration: none;
-}
+a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* ===== Header ===== */
+/* ===== Header (becomes a season-coloured masthead on season/episode pages) ===== */
 .site-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1.2rem 2rem;
-  border-top: 4px solid var(--red);   /* series signature band (all pages) */
-  border-bottom: 1px solid var(--line);
-  background-color: var(--paper);
+  padding: 1.6rem 2rem;
+  background-color: var(--header-bg);
+  color: var(--header-fg);
+  transition: background-color 0.2s ease;
 }
 
 .site-title {
   font-family: var(--font-head);
-  font-size: 1.1rem;
-  font-weight: 500;
+  font-size: 1.25rem;
+  font-weight: 600;
   letter-spacing: 0.01em;
-  color: var(--ink-strong);
+  color: var(--header-fg);
 }
-.site-title::before {
-  content: "\2726";   /* ✦ */
-  color: var(--red);
-  font-size: 0.8em;
-  margin-right: 0.45rem;
-  vertical-align: 0.05em;
-}
-.site-title:hover { text-decoration: none; color: var(--red); }
+.site-title:hover { text-decoration: none; opacity: 0.85; }
 
 /* ===== Main ===== */
 main {
@@ -96,39 +82,30 @@ main {
   width: 100%;
   max-width: 700px;
   margin: 0 auto;
-  padding: 3rem 2rem 4rem;
+  padding: 3.5rem 2rem 4.5rem;
 }
 
 /* ===== Home page ===== */
-.home-hero {
-  margin-bottom: 3rem;
-}
+.home-hero { margin-bottom: 3.5rem; }
 
 .home-hero h1 {
-  font-size: 2.6rem;
-  font-weight: 600;
-  line-height: 1.15;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.08;
   letter-spacing: -0.01em;
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
   color: var(--ink-strong);
-}
-.home-hero h1::after {
-  content: "";
-  display: block;
-  width: 4.5rem;
-  height: 3px;
-  background: var(--red);
-  margin-top: 1.1rem;
 }
 
 .home-hero .subtitle {
-  font-size: 1rem;
-  color: var(--ink-soft);
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--red);
   margin-bottom: 1.5rem;
 }
 
 .home-hero .description {
-  font-size: 0.95rem;
+  font-size: 1.02rem;
   color: var(--ink-soft);
   line-height: 1.85;
   margin-bottom: 2rem;
@@ -137,59 +114,40 @@ main {
 .btn-start {
   display: inline-block;
   background-color: var(--accent);
-  color: var(--paper);
-  padding: 0.65rem 1.6rem;
-  border-radius: 3px;
+  color: #fff;
+  padding: 0.7rem 1.7rem;
+  border-radius: 2px;
   font-size: 0.9rem;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
 }
-.btn-start:hover {
-  background-color: var(--accent-deep);
-  text-decoration: none;
-}
+.btn-start:hover { background-color: var(--accent-deep); text-decoration: none; }
 
-.season-start {
-  margin-bottom: 2rem;
-}
+.season-start { margin-bottom: 2.5rem; }
 
 /* ===== Episodes list ===== */
 .episodes-page h1 {
-  font-size: 1.9rem;
-  font-weight: 600;
+  font-size: 2.4rem;
+  font-weight: 700;
   margin-bottom: 1.5rem;
   color: var(--ink-strong);
 }
-.episodes-page h1::after {
-  content: "";
-  display: block;
-  width: 3rem;
-  height: 2px;
-  background: var(--accent);
-  margin-top: 0.9rem;
-}
 
-.season-block {
-  margin-bottom: 2.5rem;
-}
+.season-block { margin-bottom: 2.5rem; }
 
 .season-block h2 {
   font-family: var(--font-body);
-  font-size: 1rem;
-  font-weight: normal;
-  letter-spacing: 0.06em;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--ink-faint);
+  color: var(--accent);
   border-bottom: 1px solid var(--line);
   padding-bottom: 0.5rem;
   margin-bottom: 1.25rem;
 }
 
-/* Collapsible chapter (details/summary) */
-.chapter-block {
-  margin-bottom: 0.4rem;
-  border-bottom: 1px solid var(--line-soft);
-}
-
+/* Collapsible chapter */
+.chapter-block { margin-bottom: 0.3rem; border-bottom: 1px solid var(--line); }
 .chapter-block > summary {
   display: flex;
   align-items: baseline;
@@ -197,12 +155,12 @@ main {
   gap: 0.75rem;
   list-style: none;
   cursor: pointer;
-  padding: 0.7rem 0.4rem 0.7rem 1.4rem;
+  padding: 0.8rem 0.4rem 0.8rem 1.5rem;
   position: relative;
 }
 .chapter-block > summary::-webkit-details-marker { display: none; }
 .chapter-block > summary::before {
-  content: "\25B8"; /* ▸ */
+  content: "\25B8";
   position: absolute;
   left: 0.2rem;
   color: var(--accent);
@@ -210,50 +168,32 @@ main {
   transition: transform 0.15s ease;
 }
 .chapter-block[open] > summary::before { transform: rotate(90deg); }
-.chapter-block > summary:hover { background-color: var(--line-soft); }
+.chapter-block > summary:hover .ch-title { color: var(--accent); }
 
 .chapter-block .ch-title {
-  font-size: 0.92rem;
-  color: var(--ink);
-  letter-spacing: 0.02em;
+  font-family: var(--font-head);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--ink-strong);
 }
-.chapter-block .ch-leader {
-  flex: 1 1 auto;
-  align-self: center;
-  min-width: 1rem;
-  margin: 0 0.6rem;
-  border-bottom: 1px dotted var(--line);
-}
+.chapter-block .ch-leader { display: none; }
 .chapter-block .ch-count {
-  font-size: 0.75rem;
+  font-size: 0.74rem;
+  letter-spacing: 0.05em;
   color: var(--ink-faint);
   white-space: nowrap;
 }
-.chapter-block[open] .ch-title { color: var(--accent); }
-.chapter-block .episode-list {
-  padding: 0.2rem 0 0.8rem 1.4rem;
-}
+.chapter-block .episode-list { padding: 0.2rem 0 1rem 1.5rem; }
 
-.episode-list {
-  list-style: none;
-}
-
+.episode-list { list-style: none; }
 .episode-list li {
-  padding: 0.3rem 0;
+  padding: 0.35rem 0;
   border-bottom: 1px solid var(--line-soft);
-  font-size: 0.95rem;
+  font-size: 0.96rem;
 }
-
-.episode-list li a {
-  color: var(--ink);
-}
+.episode-list li a { color: var(--ink); }
 .episode-list li a:hover { color: var(--accent); }
-
-.episode-list .ep-tags {
-  font-size: 0.78rem;
-  color: var(--ink-faint);
-  margin-left: 0.5rem;
-}
+.episode-list .ep-tags { font-size: 0.76rem; color: var(--ink-faint); margin-left: 0.5rem; }
 
 /* ===== Episode page ===== */
 .episode-meta {
@@ -262,54 +202,27 @@ main {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin-bottom: 1.5rem;
-  font-size: 0.82rem;
-  color: var(--ink-faint);
-  letter-spacing: 0.03em;
-}
-
-.meta-tags {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.tag {
-  padding: 0.18rem 0.6rem;
-  border-radius: 2px;
-  border: 1px solid;
-  background-color: transparent;
-  font-size: 0.7rem;
-  letter-spacing: 0.09em;
+  margin-bottom: 1.75rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-}
-
-.tag-level {
-  color: var(--accent-deep);
-  border-color: var(--accent);
-}
-
-.tag-words {
   color: var(--ink-faint);
-  border-color: var(--line);
 }
+.meta-tags { display: flex; gap: 0.6rem; }
+.tag { font-size: 0.74rem; letter-spacing: 0.08em; }
+.tag-level { color: var(--accent); font-weight: 600; }
+.tag-words { color: var(--ink-faint); }
 
 .episode-title {
-  font-size: 2rem;
-  font-weight: 600;
-  line-height: 1.2;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.12;
   color: var(--ink-strong);
   margin-bottom: 2.5rem;
 }
 
-.episode-body {
-  font-size: 1.05rem;
-  line-height: 2;
-  color: var(--ink);
-}
-
-.episode-body p {
-  margin-bottom: 1.5rem;
-}
+.episode-body { font-size: 1.06rem; line-height: 1.95; color: var(--ink); }
+.episode-body p { margin-bottom: 1.5rem; }
 
 /* ===== Episode navigation ===== */
 .episode-nav {
@@ -319,65 +232,57 @@ main {
   margin-top: 4rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--line);
-  font-size: 0.88rem;
+  font-size: 0.85rem;
 }
-
 .episode-nav a { color: var(--accent); }
 .nav-prev, .nav-next { min-width: 5rem; }
 .nav-next { text-align: right; }
-.nav-all { color: var(--ink-faint); }
+.nav-all { color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.78rem; }
 
 /* ===== Footer ===== */
 .site-footer {
-  padding: 1.5rem 2rem;
+  padding: 1.75rem 2rem;
   border-top: 1px solid var(--line);
   text-align: center;
-  font-size: 0.78rem;
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
   color: var(--ink-faint);
-}
-.site-footer p::before {
-  content: "\2726";   /* ✦ */
-  display: block;
-  margin-bottom: 0.5rem;
-  color: var(--red);
-  font-size: 0.9rem;
 }
 
 /* ===== Mobile ===== */
 @media (max-width: 600px) {
   html { font-size: 16px; }
-  main { padding: 2rem 1.25rem 3rem; }
-  .site-header { padding: 1rem 1.25rem; }
-  .home-hero h1 { font-size: 2.1rem; }
-  .episode-title { font-size: 1.55rem; }
+  main { padding: 2.5rem 1.25rem 3.5rem; }
+  .site-header { padding: 1.2rem 1.25rem; }
+  .home-hero h1 { font-size: 2.4rem; }
+  .episodes-page h1 { font-size: 1.9rem; }
+  .episode-title { font-size: 1.9rem; }
   .episode-meta { flex-direction: column; align-items: flex-start; }
 }
 
-/* ===== Season cards (home) ===== */
+/* ===== Season panels (home) — full colour blocks ===== */
 .season-cards {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1rem;
-  margin: 2rem 0 1rem;
+  gap: 1.1rem;
+  margin: 2.5rem 0 1rem;
 }
 
 .season-card {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
-  padding: 1.3rem 1.3rem 1.1rem 1.45rem;
-  border: 1px solid var(--line);
-  border-left: 6px solid var(--accent);
-  border-radius: 4px;
-  background-color: var(--paper-card);
-  color: var(--ink);
-  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+  gap: 0.55rem;
+  padding: 1.9rem 1.7rem;
+  border-radius: 5px;
+  background-color: var(--accent);
+  color: #fff;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
 }
 .season-card:hover {
   text-decoration: none;
-  border-color: var(--accent);
-  box-shadow: 0 4px 14px rgba(60, 45, 25, 0.1);
-  transform: translateY(-2px);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(20, 15, 10, 0.22);
+  filter: saturate(1.08);
 }
 
 .season-card .card-top {
@@ -385,81 +290,70 @@ main {
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
-}
-.season-card .card-level {
-  font-size: 0.68rem;
+  font-size: 0.74rem;
   letter-spacing: 0.09em;
   text-transform: uppercase;
-  color: var(--paper);
-  background-color: var(--accent);
-  border: 1px solid var(--accent);
-  padding: 0.12rem 0.5rem;
-  border-radius: 2px;
+  color: rgba(255, 255, 255, 0.82);
 }
-.season-card .card-range {
-  font-size: 0.78rem;
-  letter-spacing: 0.02em;
-  color: var(--ink-faint);
+.season-card .card-level {
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  padding: 0.1rem 0.5rem;
+  border-radius: 2px;
 }
 .season-card .card-title {
   font-family: var(--font-head);
-  font-size: 1.35rem;
-  font-weight: 600;
-  color: var(--ink-strong);
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #fff;
 }
-.season-card:hover .card-title { color: var(--accent); }
 .season-card .card-blurb {
-  font-size: 0.85rem;
-  color: var(--ink-soft);
-  line-height: 1.6;
+  font-size: 0.92rem;
+  color: rgba(255, 255, 255, 0.92);
+  line-height: 1.65;
 }
 .season-card .card-cta {
   align-self: flex-end;
-  margin-top: 0.1rem;
   font-size: 0.8rem;
-  letter-spacing: 0.04em;
-  color: var(--accent);
+  letter-spacing: 0.05em;
+  color: #fff;
 }
 
 .season-intro {
-  font-size: 0.95rem;
+  font-size: 1.02rem;
   color: var(--ink-soft);
   line-height: 1.8;
-  margin-bottom: 2rem;
+  margin-bottom: 2.25rem;
 }
 
 /* ===== Season switcher tabs ===== */
 .season-tabs {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
-  margin-bottom: 1.75rem;
+  gap: 0.3rem;
+  margin-bottom: 2rem;
   border-bottom: 1px solid var(--line);
 }
 .season-tabs a {
-  padding: 0.5rem 0.9rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.03em;
+  padding: 0.55rem 0.95rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
   color: var(--ink-soft);
   border-bottom: 2px solid transparent;
   margin-bottom: -1px;
 }
 .season-tabs a:hover { text-decoration: none; color: var(--accent); }
-.season-tabs a.is-active {
-  color: var(--accent);
-  border-bottom-color: var(--accent);
-}
+.season-tabs a.is-active { color: var(--accent); border-bottom-color: var(--accent); }
 
 .page-level {
   font-family: var(--font-body);
-  font-size: 0.7rem;
-  font-weight: normal;
+  font-size: 0.72rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--accent-deep);
-  border: 1px solid var(--accent);
-  padding: 0.12rem 0.5rem;
+  color: #fff;
+  background-color: var(--accent);
+  padding: 0.14rem 0.55rem;
   border-radius: 2px;
-  vertical-align: 0.12em;
-  margin-left: 0.6rem;
+  vertical-align: 0.18em;
+  margin-left: 0.7rem;
 }
