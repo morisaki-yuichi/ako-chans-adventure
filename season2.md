@@ -4,7 +4,7 @@ title: "Season 2"
 permalink: /season2/
 ---
 <div class="episodes-page">
-  <h1>Season 2 <span class="page-level">A1&ndash;A2</span></h1>
+  <h1>Season 2 <span class="page-level">A2</span></h1>
   {% include season-tabs.html active=2 %}
   <p class="season-intro">
     A few years pass. Ako-chan is older now, and Dango is a grown dog. A new
