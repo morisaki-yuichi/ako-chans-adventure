@@ -15,7 +15,6 @@
 | `planning/timeline.md` | Day-by-day story events and exact dialogue |
 | `planning/continuity-ledger.md` | **内容矛盾を防ぐ3台帳**（A.知識状態・命名／B.配置・動線／C.数・量）— 執筆前に必ず確認 |
 | `planning/chapter-workflow.md` | **章マネージャー用プロンプト**（足場準備→執筆プロンプト生成→執筆後レビュー→コミットの一気通貫手順・スキャン集・引き継ぎルール）|
-| `_archive/` | 旧S1・S2エピソードおよび旧設定ファイルのアーカイブ（参照用） |
 
 ## Writing a New Episode — Required Steps
 
