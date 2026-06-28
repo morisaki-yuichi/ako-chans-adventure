@@ -13,6 +13,8 @@
   {% assign titles = "The Quiet Years|Grey and Red|The First Words|Reading the Distances|Building Alone|Building Together|Blue-White Light|The Parting|The Ones Who Remember|To the Beginning" | split: "|" %}
   {% assign first = 25 %}{% assign last = 34 %}
 {% endif %}
+{% assign first_ep = site.pages | where: "season", include.season | sort: "episode" | first %}
+<a href="{{ first_ep.url | relative_url }}" class="btn-start season-start">Start reading &rarr;</a>
 {% for n in (first..last) %}
 {% assign idx = n | minus: first %}
 {% assign eps = site.pages | where: "season", include.season | where: "chapter", n | sort: "episode" %}

@@ -95,6 +95,10 @@ main {
   text-decoration: none;
 }
 
+.season-start {
+  margin-bottom: 2rem;
+}
+
 /* ===== Episodes list ===== */
 .episodes-page h1 {
   font-size: 1.6rem;
