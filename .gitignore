@@ -4,3 +4,12 @@ _site/
 .jekyll-metadata
 vendor/
 .bundle/
+
+# local TTS audio samples (not for commit)
+_audio-samples/
+
+# generated TTS audio (host on CDN, not in git)
+_audio/
+
+# local-only Jekyll override (machine-specific LAN IP for audio preview)
+_config_dev.yml

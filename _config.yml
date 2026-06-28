@@ -3,6 +3,11 @@ description: "A graded reader series for English beginners (CEFR A1–B1)"
 baseurl: "/ako-chans-adventure"
 url: "https://morisaki-yuichi.github.io"
 
+# Base URL for episode narration audio. Empty = no player rendered.
+# Production: set to the CDN (e.g. Cloudflare R2) base URL.
+# Local preview overrides this via _config_dev.yml.
+audio_base_url: ""
+
 markdown: kramdown
 kramdown:
   input: GFM
@@ -13,3 +18,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - serve_audio.py
