@@ -118,16 +118,47 @@ main {
   margin-bottom: 1.25rem;
 }
 
+/* Collapsible chapter (details/summary) */
 .chapter-block {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 1px solid #f0ece5;
 }
 
-.chapter-block h3 {
-  font-size: 0.85rem;
-  font-weight: normal;
-  letter-spacing: 0.04em;
-  color: #7a736a;
-  margin-bottom: 0.6rem;
+.chapter-block > summary {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  list-style: none;
+  cursor: pointer;
+  padding: 0.7rem 0.4rem 0.7rem 1.4rem;
+  position: relative;
+}
+.chapter-block > summary::-webkit-details-marker { display: none; }
+.chapter-block > summary::before {
+  content: "\25B8"; /* ▸ */
+  position: absolute;
+  left: 0.2rem;
+  color: #b3a99c;
+  font-size: 0.8rem;
+  transition: transform 0.15s ease;
+}
+.chapter-block[open] > summary::before { transform: rotate(90deg); }
+.chapter-block > summary:hover { background-color: #f7f3ec; }
+
+.chapter-block .ch-title {
+  font-size: 0.92rem;
+  color: #2c2a27;
+  letter-spacing: 0.02em;
+}
+.chapter-block .ch-count {
+  font-size: 0.75rem;
+  color: #9a9087;
+  white-space: nowrap;
+}
+.chapter-block[open] .ch-title { color: #7a4b2a; }
+.chapter-block .episode-list {
+  padding: 0.2rem 0 0.8rem 1.4rem;
 }
 
 .episode-list {
@@ -235,4 +266,101 @@ main {
   .site-header { padding: 1rem 1.25rem; }
   .episode-title { font-size: 1.4rem; }
   .episode-meta { flex-direction: column; align-items: flex-start; }
+}
+
+/* ===== Season cards (home & episodes chooser) ===== */
+.season-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 2rem 0 1rem;
+}
+
+.season-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1.4rem 1.2rem;
+  border: 1px solid #e4dfd6;
+  border-radius: 5px;
+  background-color: #fffefb;
+  color: #2c2a27;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+}
+.season-card:hover {
+  text-decoration: none;
+  border-color: #c9bca8;
+  box-shadow: 0 3px 12px rgba(60, 45, 25, 0.08);
+  transform: translateY(-2px);
+}
+
+.season-card .card-level {
+  align-self: flex-start;
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  color: #7a4b2a;
+  background-color: #f0e8d8;
+  padding: 0.1rem 0.55rem;
+  border-radius: 2px;
+}
+.season-card .card-title {
+  font-size: 1.15rem;
+  color: #1e1c1a;
+  margin-top: 0.2rem;
+}
+.season-card .card-range {
+  font-size: 0.8rem;
+  color: #9a9087;
+}
+.season-card .card-blurb {
+  font-size: 0.85rem;
+  color: #4a4540;
+  line-height: 1.6;
+  margin-top: 0.2rem;
+}
+
+.episodes-intro {
+  font-size: 0.95rem;
+  color: #4a4540;
+  margin-bottom: 0.5rem;
+}
+
+.season-intro {
+  font-size: 0.95rem;
+  color: #4a4540;
+  line-height: 1.8;
+  margin-bottom: 2rem;
+}
+
+/* ===== Season switcher tabs ===== */
+.season-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1.75rem;
+  border-bottom: 1px solid #e4dfd6;
+}
+.season-tabs a {
+  padding: 0.5rem 0.9rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.03em;
+  color: #7a736a;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+}
+.season-tabs a:hover { text-decoration: none; color: #7a4b2a; }
+.season-tabs a.is-active {
+  color: #7a4b2a;
+  border-bottom-color: #7a4b2a;
+}
+
+.page-level {
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  color: #7a4b2a;
+  background-color: #f0e8d8;
+  padding: 0.12rem 0.55rem;
+  border-radius: 2px;
+  vertical-align: middle;
+  margin-left: 0.5rem;
 }

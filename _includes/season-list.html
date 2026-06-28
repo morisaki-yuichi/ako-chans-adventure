@@ -1,0 +1,33 @@
+{% comment %}
+  Renders one season's chapters as collapsible <details> blocks.
+  Usage: {% include season-list.html season=1 %}
+  Chapter numbers are global (Ch1-34): S1 = Ch1-12, S2 = Ch13-24, S3 = Ch25-34.
+{% endcomment %}
+{% if include.season == 1 %}
+  {% assign titles = "The Voice in the Garden|Following the South|The Turtle on the Rocks|The Red Desert|The Long Way East|Building the Ship|Voices in the Deep|Through the Storm|The White Land|The Long Night|The Confession|The Way Home" | split: "|" %}
+  {% assign first = 1 %}{% assign last = 12 %}
+{% elsif include.season == 2 %}
+  {% assign titles = "The Signal from the South|Building the Flying Boat|Gathering the Friends|The Cave in the Cliff|What Obia Remembers|The First Jump|The Island in the Storm|The Rift|Into the Ice Age|No Way Back|The Long Way Back|Home Without Him" | split: "|" %}
+  {% assign first = 13 %}{% assign last = 24 %}
+{% else %}
+  {% assign titles = "The Quiet Years|Grey and Red|The First Words|Reading the Distances|Building Alone|Building Together|Blue-White Light|The Parting|The Ones Who Remember|To the Beginning" | split: "|" %}
+  {% assign first = 25 %}{% assign last = 34 %}
+{% endif %}
+{% for n in (first..last) %}
+{% assign idx = n | minus: first %}
+{% assign eps = site.pages | where: "season", include.season | where: "chapter", n | sort: "episode" %}
+<details class="chapter-block">
+  <summary>
+    <span class="ch-title">Chapter {{ n }} &middot; {{ titles[idx] }}</span>
+    <span class="ch-count">{{ eps | size }} episodes</span>
+  </summary>
+  <ul class="episode-list">
+    {% for ep in eps %}
+    <li>
+      <a href="{{ ep.url | relative_url }}">Ep {{ ep.episode }} &mdash; {{ ep.title }}</a>
+      <span class="ep-tags">{{ ep.level }} &middot; {{ ep.word_count }} words</span>
+    </li>
+    {% endfor %}
+  </ul>
+</details>
+{% endfor %}
