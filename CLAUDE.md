@@ -54,8 +54,14 @@
 
 ### After completing a full Chapter
 - Propose 3 chapter title candidates based on the chapter's content, and confirm with the user before proceeding.
-- **No manual block is needed in `episodes.md`.** That page is data-driven: each season loops over its chapters and pulls episode pages automatically via `site.pages | where: "season", N | where: "chapter", N | sort: "episode"`. As long as each new episode's frontmatter carries the correct `season` / `chapter` / `episode` / `title` / `word_count`, the chapter renders on its own. Adding a hand-written chapter block would cause a **duplicate** chapter.
-- The only `episodes.md` edit ever required is the **chapter title**: confirm the chapter's title is present at the right position in that season's `sN_titles` pipe-separated list (e.g. `s1_titles`). The confirmed S1–S3 titles are already filled in, so normally there is nothing to change.
+- **No manual block is needed for episode listing.** The per-season pages (`season1.md` / `season2.md` / `season3.md` → `/season1/` etc.) render chapters data-driven via `_includes/season-list.html`, which loops each chapter and pulls episode pages automatically with `site.pages | where: "season", N | where: "chapter", N | sort: "episode"`. As long as each new episode's frontmatter carries the correct `season` / `chapter` / `episode` / `title` / `word_count`, the chapter renders on its own (as a collapsible `<details>` block). Do **not** hand-write episode lists.
+- The only edit ever required is the **chapter title**: confirm the chapter's title is present at the right position in that season's pipe-separated `titles` list **inside `_includes/season-list.html`** (the `if include.season == N` branch). The confirmed S1–S3 titles are already filled in, so normally there is nothing to change.
+- **`episodes.md` is now just a season chooser** (it renders `_includes/season-cards.html`) — it carries no episode/chapter list, so never add chapter blocks there. The site entry flow is: home (`index.md`) and `/episodes/` show season cards → each card links to a per-season page.
+
+### Site chrome (navigation / intro copy)
+- Top synopsis (`index.md`), season cards (`_includes/season-cards.html`), and per-season intros (`season{1,2,3}.md`) follow the writing-guide grade levels: **entrance (top + cards) = A1**; **each season-page intro = that season's level** (S1 A1 / S2 A2 / S3 B1).
+- Keep chrome **spoiler-safe**: do not reveal Obia's name, the journey's direction/destination, the flying boat, the boy's identity, or the red collar. See memory `site-chrome-writing-policy`.
+- Custom stylesheet is `assets/css/main.css` (renamed from `style.css` to avoid the implicit `jekyll-theme-primer` `style.css` output collision — do not rename it back). Local preview: see memory `jekyll-local-preview-setup`.
 
 ## Critical Continuity Rules
 
