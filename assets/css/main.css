@@ -110,16 +110,19 @@ main {
 
 .btn-start {
   display: inline-block;
-  background-color: var(--accent);
-  color: #fff;
-  padding: 0.7rem 1.7rem;
-  border-radius: 2px;
-  font-size: 0.9rem;
-  letter-spacing: 0.05em;
+  color: var(--accent);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
-.btn-start:hover { background-color: var(--accent-deep); text-decoration: none; }
+.btn-start:hover { color: var(--accent-deep); text-decoration: underline; }
 
-.season-start { margin-bottom: 2.5rem; }
+/* quiet, right-aligned start link on season pages */
+.season-start {
+  display: block;
+  width: fit-content;
+  margin: 0 0 1.75rem auto;
+}
 
 /* ===== Season page = an opened book ===== */
 .episodes-page {
