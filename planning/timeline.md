@@ -559,12 +559,12 @@
   - ✅執筆済み（word_count 291・2026-06-29改稿後実測）。
 - **Ep67「Tell Me About Obia」**（⚠️**改稿2026-06-27＝Day69→Day68へ移動**：旧冒頭"The next day"の不自然な日跨ぎを解消し、Pen-san登場と**同日の流れ**に。本文冒頭は"Later that day"）：Colonel Adelie登場・命名。一定リズムでまっすぐ歩いて来て、視線がObiaで止まる＝**Obia監視弧の開始**。モード：動・出来事。
   - 🔒引用アンカー（Adelie）：*"I am Colonel Adelie." / "I watch over the little one." / "Tell me about Obia."*（声＝*"hard and sharp"*）。⚠️**改稿2026-06-27：旧"I watch over Pen-san."＝"Pen-san"はAko-chanがEp65で付けた名でAdelieは知り得ない→"the little one"に置換**（命名の先取り回避・A台帳整合）。⚠️改稿2026-06-29＝**"the little one"の指示対象を明瞭化**：直前に *"He looks down at Pen-san."* を置き、Pen-sanを指すと読者に伝わるようにした。★**Adelie命名・作中確立点（A台帳）**＝本人が名乗る。命名後は地の文 "the Colonel / he"。
-  - ⚠️改稿2026-06-29＝**Adelieが名"Obia"を知る根拠＝Pen-sanが先に渡す（確定ユーザー選択）**：到着時、Pen-sanが護衛Adelieに一行を紹介して名を渡す＝*"You found me!" ... "This is Ako-chan! She came! And that is Obia!"* → **その直後に**Adelieが *"Tell me about Obia."*（Obiaの名は一行しか知らない＝Pen-san経由で受け取った形に動機づけ）。同時に **Pen-san⇔Adelieの護衛-被護衛の絆と登場ラグの動機**（Adelieは走り去ったヒナを探して追ってきた＝"You found me!"）を1ビートで成立させる。
+  - ⚠️改稿2026-06-29（**再修正**）＝**Adelieが名"Obia"を知る根拠＝Adelieの視線がObiaに固定された流れでAko-chan自身が名を告げる**：*"Then his eyes stop on Obia, and they stay there." → "That is Obia," says Ako-chan. → "Tell me about Obia," he says.* ⚠️**旧案「Pen-sanが先に渡す（"And that is Obia!"）」は撤回**：Ep65-66でObiaは登場・言及がなく、Pen-sanがObiaの名を知る描写が皆無＝設定都合の唐突な挿入だったため。Ako-chanがObia名を知るのは自明＝動機が自然。**Pen-san⇔Adelieの護衛-被護衛の絆と登場ラグの動機は維持**（*"You found me!" / "This is Ako-chan! She came!"*＝Adelieは走り去ったヒナを探して追ってきた）。⚠️Pen-sanにObiaを名指しさせない。
   - 確定（外見・⚠️改稿2026-06-29＝tall/small矛盾を解消）：背中は真っ黒・腹は白・**目の周りに白いリング**（"a white ring around each eye"）・くちばしは短く丸い・**Pen-sanより大きいがペンギンとしては小さい**（*"It is bigger than Pen-san, but it is still small."*）・**まっすぐ硬く立つ**（"straight and stiff"）。旧 "a tall penguin" / "stands tall and stiff" は *"He is small, but he is not afraid."* と矛盾するため**"tall"を排し"straight"へ統一**（威圧感は身長でなく直立の軍人的所作で表す）・小さいが**怖れない**（軍人肌：*"He is small, but he is not afraid."*・world.md「約70cm・小さいが気が強い」と整合）。
   - 確定（監視弧の開始）：登場直後から**視線がObiaへ向かう**（*"Then his eyes stop on Obia."*）。Suke-sanと睨み合う＝*"Two careful animals look at each other. Neither one looks away."*（Suke-sanの警戒と重なる布石）。
   - 🔒継続性ガード：Ako-chanの弁護 *"Obia is my friend. Obia came all this way with us. Obia helps us."* に対しAdelieは**答えずObiaを見続ける**（"the Colonel keeps watching it."）。締めは *"Something new is on the ice now."*（完了形回避）。★**Adelieの「演技でなく本物」認識はEp88へ集約＝ここでは出さない**。Ako-chanの "It does not move away" は彼女のPOVであってAdelieの認識ではない。
   - 確定（Obia代名詞 "it"）。
-  - ✅執筆済み（word_count 278・2026-06-29改稿後実測）。
+  - ✅執筆済み（word_count 286・2026-06-29改稿後実測）。
 
 ### Day 69 — 氷上の生活
 - **Ep68「On the Ice」**：氷上生活のテクスチャー。Pod南極モード活躍。Pen-sanが仲間に馴染む。モード：静・観察（日常）。
