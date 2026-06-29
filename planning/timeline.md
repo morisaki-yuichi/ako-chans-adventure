@@ -132,7 +132,7 @@
 **Ch3 共通**
 - ★**Daru合流＝三人→四人**（最初の仲間）。以後 Ako-chan・Dango・Obia＋Daru。
 - ★**Podが初登場（Ep22）＝読者に仕組みを初めて見せる**：リクガメが中で歩くとPodが連動して動く（自走式）。**Daruは全力歩行→高速移動・発光色は赤**。冷却/湿度/UV機能は設定上あるが、ここでは基本の仕組み（歩く→動く・中が温かい）を中心に。「カプセル」とは呼ばない＝**Pod**。
-- ★**Dangoの嫉妬アーク #1（最初の嫉妬）**：Ako-chanがDaruに構うとDangoが嫉妬を見せ始める（以後 Gabu→Suke-san→Pen-san で段階的に激化）。
+- ★**Dangoの嫉妬アーク #1（最初の嫉妬）**：Ako-chanがDaruに構うとDangoが嫉妬を見せ始める。⚠️**アークは単調な激化ではない（執筆実態・確定2026-06-29）**：Daru＝芽（Ep19）→**Gabu＝"対比/受容"のビート**（Ep31でDangoはむしろ尻尾を振って受け入れる＝積み上げの一段ではない）→Suke-san＝再燃・一段強い（Ep45・犬同士の定位置争い）→Pen-san＝頂点（Ep66）。**Gabuを「嫉妬の一段」として書かない**（Ep66の数え上げも *"Gabu was no trouble."* と受容を明示）。
 - Daru：ダルマティアヘルマンリクガメのベビー♂・甲長7cm・甲羅は黄茶×黒の強いコントラスト。**好奇心旺盛・すぐ行動する**。話し方は元気（例 "What is that? Let me see! Let me see!"）。
 - 地理：クロアチア・ダルマティア海岸（白い石灰岩の岩場・アドリア海）。実在・地図で追える。
 - 「signal」の語：Ep13以降、Ako-chanにとって**含みのある語**。Ep23でObiaが openly 口にするとき、Ako-chanは内心ざわつく（言葉にはしない）。
@@ -195,7 +195,7 @@
 - ★**Gabuの声**：少ない言葉・観察的（例 *"Wait. Look at the shadow."*）。**合流は台詞でなく行動**（Daru/Obiaの "I will go with you" 型は使わない＝キャラ対比）。
 - ★**酷暑装備（Ep26）**：Ako-chanに**熱反射クロス**（超軽量・熱を跳ね返す）／Dangoに**肉球保護ブーツ**（Dangoは全力拒否→観念＝軽い笑い）。
 - ★**Pod冷却・排熱機能（Ep26）を初描写**：砂漠の酷暑でもDaruのPod内は快適に保たれる。
-- Dangoの嫉妬：継続（Gabuにも）。ただしDaruより目立たず、**Daruを静止させる"世話役"**の面が強まる（待つ場面で暴走を抑える）。
+- Dangoの嫉妬：⚠️**Gabuには向けない（整合2026-06-29）**＝Gabu合流(Ep31)はDangoが受け入れる"対比/受容"ビート（尻尾を振る）。Daruへの嫉妬は控えめに継続しつつ、**Daruを静止させる"世話役"**の面が強まる（待つ場面で暴走を抑える）。
 - 異変（Ep25）：夜行性のサソリ・トカゲが昼間に岩陰から這い出し、同じ方向（南）を向く（ワディラム＝段階1）。南の通底を継続。
 - 地理：ヨルダン・ワディラム砂漠（赤い砂・赤い岩壁・酷暑）。実在・地図で追える。**Ch3〜Ch4間は陸路＋フェリーで数日移動（本文では描かない）**。
 
@@ -520,7 +520,7 @@
 **Ch9 共通**
 - ★**南極上陸**。船を沿岸の氷に接岸し、**以後ストーリーは氷の上**で進む。⚠️**拠点は船のみ＝「基地」という建物は出さない**（world.md継続性ルール）。活動は船から視界の届く範囲。
 - ★**Pen-san登場・合流（Ep65-66）＝南極の仲間（7人目）**。エンペラーペンギンのヒナ♂・全身グレーの綿毛・黒い頭頂・白い頬〜顎・大きな黒目・丸い体型・**甘えん坊**。⚠️**Pen-sanは旅には同行せず南極に留まる**（合流＝仲間だが、Ch11出発時は残る。"全員が船に乗る"的な人数表現は避ける）。
-- ★**Dangoの嫉妬がピーク（Ep66）**：Ako-chanがモフモフのPen-sanを抱っこ→**嫉妬アークの頂点**（Daru→Gabu→Suke-san→Pen-sanの段階的積み上げの最高潮）。
+- ★**Dangoの嫉妬がピーク（Ep66）**：Ako-chanがモフモフのPen-sanを抱っこ→**嫉妬アークの頂点**（Daru＝芽→**Gabu＝受容（"no trouble"）**→Suke-san＝再燃→Pen-san＝頂点。⚠️Gabuは積み上げの一段ではなく対比ビート＝[[timeline]] #1注記参照）。
 - ★**Colonel Adelie登場（Ep67）**：アデリーペンギン♂・約70cm・黒背白腹・**目の周りの白いリング**・短く丸いくちばし・小さいが気が強い**軍人肌**。Pen-sanの護衛兼教育係。**Obia監視弧の開始**。
 - ★**ObiaへのW警戒（Ep70）**：Adelieの監視＋Suke-sanの勘が重なり、Obiaへの不穏が増幅（Ch10-11の核心へ）。Adelieの「演技でなく本物だった」という認識はEp88「You worked. You did not hide.」に集約＝**先取りしない**。
 - ⚠️**Ep69：洞窟・氷の崖の入口は出さない**（S2 Ch17まで未発見）。
@@ -553,10 +553,10 @@
 - **Ep66「Pick Me Up」**：Ako-chanがPen-sanを抱っこ→★**Dangoの嫉妬が最高潮**（アーク頂点）。モード：動・出来事＋感情。
   - 🔒引用アンカー（Pen-san）：*"Pick me up." / "Please."*（甘えん坊・小さな翼を上げてせがむ）。
   - 🔒引用アンカー（Daru）：*"He walks!" / "He walks. Like us!"*（リクガメ視点で二足歩行に驚く）。
-  - ★**Dango嫉妬ピーク（A台帳の段階回想を本文化）**：耳が伏せ・尾が下がり・脚の間に割り込み・**顔を背ける**＝*"This is the worst one yet. First came Daru. Then Gabu. Then Suke-san. And now a soft, round penguin in her arms."*（Daru→Gabu→Suke-san→Pen-sanの嫉妬アークを明示的に頂点化）。
+  - ★**Dango嫉妬ピーク（段階回想を本文化）**：耳が伏せ・尾が下がり・脚の間に割り込み・**顔を背ける**＝*"This is the worst one yet. First came Daru. Gabu was no trouble. Then came Suke-san. And now a soft, round penguin in her arms."*（⚠️改稿2026-06-29＝**Gabuは"受容"ビート**なので *"Gabu was no trouble."* と明示し、Ep31の軟化描写と整合させた。旧 "Then Gabu." はGabuも嫉妬対象と含意し矛盾していた）。Pen-san＝アークの頂点。
   - 確定（Ako-chanの収め方）：氷にひざまずき両方を抱える＝*"One arm for Pen-san. One hand for Dango." / "I am here for you too."*（※Ep45 "There is room for both of you." の**重複回避のため別表現**にした）。
   - 確定（抱き心地）：Pen-sanは "soft and round and warm"・綿毛は "like a little cloud"。Ako-chan *"She never held a thing so soft."*
-  - ✅執筆済み（word_count 288）。
+  - ✅執筆済み（word_count 291・2026-06-29改稿後実測）。
 - **Ep67「Tell Me About Obia」**（⚠️**改稿2026-06-27＝Day69→Day68へ移動**：旧冒頭"The next day"の不自然な日跨ぎを解消し、Pen-san登場と**同日の流れ**に。本文冒頭は"Later that day"）：Colonel Adelie登場・命名。一定リズムでまっすぐ歩いて来て、視線がObiaで止まる＝**Obia監視弧の開始**。モード：動・出来事。
   - 🔒引用アンカー（Adelie）：*"I am Colonel Adelie." / "I watch over the little one." / "Tell me about Obia."*（声＝*"hard and sharp"*）。⚠️**改稿2026-06-27：旧"I watch over Pen-san."＝"Pen-san"はAko-chanがEp65で付けた名でAdelieは知り得ない→"the little one"に置換**（命名の先取り回避・A台帳整合）。⚠️改稿2026-06-29＝**"the little one"の指示対象を明瞭化**：直前に *"He looks down at Pen-san."* を置き、Pen-sanを指すと読者に伝わるようにした。★**Adelie命名・作中確立点（A台帳）**＝本人が名乗る。命名後は地の文 "the Colonel / he"。
   - ⚠️改稿2026-06-29＝**Adelieが名"Obia"を知る根拠＝Pen-sanが先に渡す（確定ユーザー選択）**：到着時、Pen-sanが護衛Adelieに一行を紹介して名を渡す＝*"You found me!" ... "This is Ako-chan! She came! And that is Obia!"* → **その直後に**Adelieが *"Tell me about Obia."*（Obiaの名は一行しか知らない＝Pen-san経由で受け取った形に動機づけ）。同時に **Pen-san⇔Adelieの護衛-被護衛の絆と登場ラグの動機**（Adelieは走り去ったヒナを探して追ってきた＝"You found me!"）を1ビートで成立させる。
