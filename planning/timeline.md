@@ -527,7 +527,7 @@
 - ★**Ep71＝3回目送信の前触れ**：Obiaの様子がどこかおかしい。静かな不穏で締める（送信#3＝Ep72 Ch10）。この章では送信シーンなし。
 - ⚠️**grammar注意（Ep65）**：episode-listの🔒「I knew you **would** come!」は **"would"＝S1（A1）で未解禁**（will/would/couldはS2解禁）。→ **wouldを使わない言い回しに置換**（例 *"Ako-chan! You came! I knew it! You came!"*）。
 - 地理：南極（白い大地・氷・極寒）。装備（犬ブーツ＆ベスト／Pod南極モード）はCh8から継続。
-- ⚠️**Pod露出ルール（Ch9-11横断・確定2026-06-27）＝南極の氷上ではリクガメ（Daru/Gabu）はPodから身体（頭等）を一切出さない**（断熱Pod内に留まる）。「覗く/頭を出す/peek out」等は不可＝**Pod内から見る/Podを動かして向く**等に統一。※暖かい船内でPodを出る描写は許容（Ep77等）。該当改稿＝Ep65・Ep88。
+- ⚠️**Pod露出ルール（Ch9-11横断・確定2026-06-27／⚠️船内例外を撤回2026-06-29）＝南極ではリクガメ（Daru/Gabu）はPodから身体（頭等）を一切出さない＝氷上も船内も常にPod内に留まる**（断熱Pod＝温度・湿度・UVを管理する携帯ハビタット＝砂漠で冷却Podに留まるのと同じ理屈で南極は保温Podに留まる）。「覗く/頭を出す/peek out」等は不可＝**Pod内から見る/Podを動かして向く**等に統一。⚠️**旧「暖かい船内でPodを出る描写は許容」は撤回**：南極の船内は人＋厚毛の犬2匹（吹雪時はペンギンも退避）の共有空間で、リクガメ域の25〜30度は両立不能（≈20度＝リクガメには低い）→**船内でも甲羅/脚をPod外に出さない**。**吹雪・危険時はPodのロックモード**（world.md §7）で固定・保温。該当改稿＝Ep65・Ep88・**Ep77（2026-06-29＝船内でもPod内に統一）**。
 
 ### Day 67 — 上陸〜白い世界
 - **Ep63「Ice Under Feet」**：上陸。船を沿岸の氷に接岸。氷の上に最初の一歩（以後は氷上）。モード：動・出来事。
@@ -635,8 +635,8 @@
   - 確定（場面）：Obiaが *"Dango," ... "Come here."* と**こっそり**呼ぶ（*"No one else is near them."*＝目撃者なし＝Ep78でDangoが伝えるまで皆は知らない）。Obiaが**自分の赤い首輪を外して**渡す。
   - 確定（Dango・改稿2026-06-27）：受け取るが訊けない＝⚠️**旧"He is only a dog. He cannot use words."（非発話の理由付け）を削除**し、その場の所作のみに＝*"He wants to ask so many things. But the words do not come. He cannot say them."*（台帳A-2＝Dango非発話は地の文/仕草で示し理由を語らない、と整合）。首輪は *"warm from Obia's body."* / Dangoは口にくわえ離さない。⚠️首輪の由来は一切示さない（起源を伏せる）。
   - 確定（締め）：Obiaが前足をDangoの頭に一瞬置く→*"Good," it says, soft and low.* / Dango *"Something is wrong. He feels it deep inside."*
-- **Ep77「White Out」**：snow storm到来。視界が白一色。**全員（Pen-san・Adelieも）船内へ退避**（ペンギンの群れは描かない）。気づくとObiaがいない（理由は誰も知らない）。③扉を閉じた瞬間、外の轟音が壁越しに。Daru・GabuがAko-chanの足元で震える。Pen-sanは怖がってAko-chanに寄る。
-  - 確定（退避メンバー）：Ako-chanが *"Inside! Everyone inside!"* → Dango・Suke-san・Daru・Gabu・Pen-san・the Colonel が船内へ（**Colonelが最後**＝*"The Colonel comes in last of all."*／⚠️**ペンギンの群れhuddleは描かない**）。扉を閉じる＝*"It closes with a loud, hard bang. The roar of the storm goes behind the wall."*
+- **Ep77「White Out」**：snow storm到来。視界が白一色。**全員（Pen-san・Adelieも）船内へ退避**（ペンギンの群れは描かない）。気づくとObiaがいない（理由は誰も知らない）。③扉を閉じた瞬間、外の轟音が壁越しに。⚠️**改稿2026-06-29＝リクガメは船内でもPod内に統一**：旧「Daru・GabuがAko-chanの足元で震える／Ako-chanが甲羅を撫でる」は**船内例外撤回**（:530参照）に伴い不可→**Daru・GabuはロックしたPod内で安全に**、Ako-chanが**光るPodごと足元に引き寄せ手を当てる**＝*"Daru and Gabu stay safe in their Pods. The Pods lock tight in the storm. Ako-chan pulls both Pods close to her feet. She puts a hand on each one. They are warm, and the red and blue lights glow."*（甲羅直接接触・"glowing shell"は不可＝光るのはPod）。Pen-sanは怖がってAko-chanに寄る。
+  - 確定（退避メンバー）：Ako-chanが *"Inside! Everyone inside!"* → Dango・Suke-san・Daru・Gabu・Pen-san・the Colonel が船内へ（リクガメは**Pod内のまま** *"Suke-san rolls Daru and Gabu along in their Pods."*／**Colonelが最後**＝*"The Colonel comes in last of all."*／⚠️**ペンギンの群れhuddleは描かない**）。扉を閉じる＝*"It closes with a loud, hard bang. The roar of the storm goes behind the wall."*
   - 確定（不在発覚）：Ako-chanが室内の皆を見回す（Dango/Suke-san/Daru/Gabu/Pen-san/Colonelを確認）→ *"But one is not here."* → *"Obia?" ... "Obia!"* 無応答 → 🔒 *"Obia is gone. And no one knows why."*（理由は誰も知らない＝告白Ep83まで未開示）。Dangoは首輪をくわえたまま（Ep78の伝達へ）。
 
 ### Day 73 夜 — 話し合い〜宣言

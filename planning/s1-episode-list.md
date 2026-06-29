@@ -153,7 +153,7 @@
 | Ep 74 | **The Third Time** | Ako-chanがみんなに、これが**3回目**だと伝える。旅の序盤（ヨーロッパ）と中盤（太平洋）でも同じことがあったことを明かす。 |
 | Ep 75 | **The Worst Kind** | 数値が急上昇。コンパスが狂い始める。Adelie:「It is a blizzard. The worst kind.」Pen-sanが初めて真剣な顔をする。 |
 | Ep 76 | **Hold This** | 猛吹雪の直前、ObiaがこっそりDangoを呼ぶ。赤い首輪を外して渡す。「I do not know why. But it is important. Hold it for me.」（＝「なぜか分からない。でもきっと大切なものだ。持っていてくれ。」）Dangoが戸惑う。 |
-| Ep 77 | **White Out** | 猛吹雪到来。視界が白一色。全員が船内に退避。気がつくとObiaがいない。なぜ出ていったのか、誰も知らない。③：扉を閉じた瞬間に外の轟音が壁越しになる。Daru・GabuがAko-chanの足元で震える。 |
+| Ep 77 | **White Out** | 猛吹雪到来。視界が白一色。全員が船内に退避。気がつくとObiaがいない。なぜ出ていったのか、誰も知らない。③：扉を閉じた瞬間に外の轟音が壁越しになる。Daru・GabuはロックしたPod内で安全に（Ako-chanが光るPodを足元に引き寄せ手を当てる）。 |
 | Ep 78 | **We Talk About Obia** | みんながObiaのことを話す。助けてくれたこと、不審な行動、どちらも。DangoがObiaから首輪を預かったことをみんなに伝える。預けていった事実が重く響く。 |
 | Ep 79 | **I Trust Obia** | Suke-sanが宣言する。「Obiaを信じる（I trust Obia）。」そのまま探しに出ようとする。Ako-chanも「I will go too.」しかし**猛吹雪はまだ続き、コンパスも狂って方向が分からない**——今は探せない、とみんなに止められる。 |
 | Ep 80 | **After the White** | 猛吹雪が過ぎたあと、みんなでObiaを探しに出る。Suke-sanとDangoが協力。**Dangoは気配と首輪の匂い**を手がかりにObiaのあとを追う。 |
