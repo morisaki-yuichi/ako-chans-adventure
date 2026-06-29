@@ -641,6 +641,7 @@
 
 ### Day 73 夜 — 話し合い〜宣言
 - **Ep78「We Talk About Obia」**：船内で**全員（Pen-san・Adelie含む）**がObiaを話す（助けてくれたこと・不審な行動、両方）。**DangoがObiaから首輪を預かったことを伝える**＝預けて出た事実が重く響く。**Adelieもこの場で見届ける**（Ep88布石）。
+  - ⚠️**冒頭の枠づけビート追加（改稿2026-06-29）＝「話し合い」を"為す術なき待機"として動機づける**：旧冒頭はいきなり品定めに入り「友が凍えているのに落ち着いて喋る」無urgency感があった→**Ako-chanが戸口に駆け寄る衝動→ホワイトアウトで一歩先も見えず出られない→だから待つしかない→だから話す**を置く（*"Ako-chan goes to the door and looks out. She wants to run and find it. But outside is only white. She cannot see one step ahead. ... They cannot help it now. They can only wait. So they begin to talk about it."*）。⚠️**Ep79との重複回避**：Ep78は**衝動と不能の体感のみ**（戸口へ行くが出ない＝受動的諦め）／Ep79は**Suke-sanの信頼宣言が実際に全員を戸口へ動かす→Colonelが戦術的に制止**（能動→現実の壁＝一段強い）。
   - 確定（両論併記）：恩＝Ako-chan *"Obia helped us many times. It made our warm clothes. It found the way."* ／不審＝Suke-san *"But it kept secrets too. Those strange nights. The hum. The south."* ＋Colonel *"I do not trust it. I saw it that night."*（＝Ch10も監視者のまま）。地の文 *"Both things are true. Obia helped them. And Obia hid things."*
   - 確定（首輪の開示）：**Dangoが赤い首輪を部屋の中央に置く**→Ako-chanがDangoの声を聴いて皆へ伝える＝*"Obia gave this to Dango. Just before the storm came."* / *"It gave the collar away. Then it went out alone."*（⚠️由来は説明しない）。重みの表現＝*"The little red collar feels very heavy."*／Colonelも沈黙して見届ける（Ep88布石）。
 - **Ep79「I Trust Obia」**：🔒 Suke-san *"I trust Obia."* と宣言（**懐疑的なAdelieの前で**＝対比）→探しに出ようとする。Ako-chanも *"I am going too."*（will回避）。だが**snow stormはまだ続き、コンパスも狂って方向不明**→今は探せない、と止められる。
