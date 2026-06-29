@@ -537,19 +537,19 @@
   - ✅執筆済み（word_count 270）。
 - **Ep64「The White World」**：船を拠点に氷上を歩く最初の探索・日常。モード：静・観察。⚠️**改稿2026-06-27＝Ep63と同日（Day67）の連続**：旧冒頭"The next morning ... steps off the ship again"の**別日跨ぎ＋二重下船を解消**（上陸=Ep63→そのまま最初の歩き出し）。
   - 確定（拠点動機・改稿2026-06-27＝実務/寒さ中心）：氷の世界は寒く広すぎ避難所がない＝船だけが暖かく安全→船から離れない（🔒*"The white land is too cold and too wide. There is no home out here. Only the ship keeps them warm and safe. So they stay close to it. They do not go far. They cannot."*）＝**なぜ先へ進まないかの動機を明示**（world.md §7準拠）。
-  - 確定（ペンギンの群れ＝遠景のみ）：遠くに**小さな黒い影が多数**立つ（"small black shapes"）。Ako-chan *"Are those birds? Way out there?"* **遠すぎて声は聴こえない**（"They are too far to hear."）＝個体接触・名は出さない（Ep65のPen-san登場への布石）。
-  - 確定（Suke-san）：右の定位置で新しい匂いを警戒＝*"Strange. I do not know this place."* Dangoは反対側を低く歩く。Daru/GabuはPod内。
+  - 確定（ペンギンの群れ＝遠景のみ・⚠️改稿2026-06-29＝**曖昧な「黒い影」で統一**）：遠くに**小さな黒い影が多数**立つ（"small black shapes" / "Those dark things" / "The far black shapes"）。Ako-chan *"What are those? Those dark things, way out there?"*（旧 "Are those birds?" は鳥＝ペンギンを薄く先取りするため不使用）。**遠すぎて声は聴こえない**（"They are too far to hear."）＝個体接触・名は出さない（Ep65のPen-san登場への布石）。⚠️**群れは純背景＝鳥／ペンギンと特定しない**（読者がEp65で初めてペンギンと知る）。
+  - 確定（Suke-san・⚠️改稿2026-06-29）：右の定位置で新しい匂いを警戒＝*"Strange. I do not know this place."* 嗅覚描写の旧 "the far birds" を *"and something far off"* に置換（群れの曖昧化と整合）。Dangoは反対側を低く歩く。Daru/GabuはPod内。
   - ③：きしむ氷（"The ice creaks ... a long, low sound."）・白い静寂（"The silence is deep and full."）・白い息。
-  - ✅執筆済み（word_count 293・改稿後実測）。
+  - ✅執筆済み（word_count 294・改稿後実測）。
 
 ### Day 68 — Pen-san登場〜命名〜抱っこ（嫉妬ピーク）
-- **Ep65「He Came Running」**：Pen-san登場・命名。群れから一つの影が走り出て、転びながら近づく（甘えん坊のヒナ）。モード：動・出来事。
-  - 🔒引用アンカー（Pen-san・**would回避の確定版**）：*"Ako-chan! You came! I knew it! You came!"*（episode-listの "I knew you would come!" は**would＝S1未解禁のため不使用**・この置換版を正とする）。
+- **Ep65「He Came Running」**：Pen-san登場・命名。⚠️改稿2026-06-29＝**群れから切り離す**：旧 "Then one of the shapes moves"（群れの一員が動き出す）を、群れとは別に**近くで小さな影が単独で動き出す**へ＝*"The far black shapes are out there, like before. Then, closer by, something small moves on the ice. It comes towards them."*（**群れ＝純背景・Pen-sanは群れの一員として描かない**＝s1.md/台帳のルール厳守。末尾 "He came all this way to find her" とも整合）。転びながら近づく（甘えん坊のヒナ）。モード：動・出来事。
+  - 🔒引用アンカー（Pen-san・**would回避の確定版**）：*"Ako-chan! You came! I knew it! You came!"*（episode-listの "I knew you would come!" は**would＝S1未解禁のため不使用**・この置換版を正とする）。⚠️**Pen-sanがAko-chanの名を知り「来ると信じていた」根拠は描かない＝寓話的余白として残す（確定2026-06-29ユーザー選択／世界観ルール「動物と話せる理由は描かない」と同調）**。他3匹（Daru/Gabu/Suke-san）は名を先回りしない＝Pen-sanだけの異例だが、説明はしない。
   - 確定（登場の所作）：氷上を走り*"Its little feet slip and slide."*→転ぶ→また走る（"It runs and falls, runs and falls."）。外見＝全身グレーの綿毛・頭頂が黒・頬が白・大きな黒目・丸い体型。
   - ★**Pen-san命名・作中確立点（A台帳）**：**Ako-chanが名を付ける**＝*"I have a name for you. Pen-san."* → 以降の地の文・呼称は **"Pen-san" / "he"**（命名前は "the baby penguin / it"）。Daru/Gabu/Suke-sanの自己命名型とは異なり**Ako-chanが付与**。
   - 配置：Dangoは**Ako-chanの前に立つ**（嫉妬の芽・ピークはEp66）。Suke-sanは警戒しつつ見守る。⚠️**改稿2026-06-27＝Pod露出一掃**：旧"Gabu looks out from his blue Pod / Daru pops his head up from his Pod"（南極で頭を出す）を**身体を出さない描写**へ＝*"Gabu watches slowly from inside his blue Pod. Daru spins his red Pod around to see."* Daru *"A bird! A new bird!"*（※Ep66 🔒 *"He walks. Like us!"* はここでは出さない）。
   - 注意（人数）：**Pen-sanの人数宣言はしない**（南極に留まる仲間＝"全員が船に"型の数表現を避ける）。
-  - ✅執筆済み（word_count 274）。
+  - ✅執筆済み（word_count 277・2026-06-29改稿後実測）。
 - **Ep66「Pick Me Up」**：Ako-chanがPen-sanを抱っこ→★**Dangoの嫉妬が最高潮**（アーク頂点）。モード：動・出来事＋感情。
   - 🔒引用アンカー（Pen-san）：*"Pick me up." / "Please."*（甘えん坊・小さな翼を上げてせがむ）。
   - 🔒引用アンカー（Daru）：*"He walks!" / "He walks. Like us!"*（リクガメ視点で二足歩行に驚く）。
@@ -558,12 +558,13 @@
   - 確定（抱き心地）：Pen-sanは "soft and round and warm"・綿毛は "like a little cloud"。Ako-chan *"She never held a thing so soft."*
   - ✅執筆済み（word_count 288）。
 - **Ep67「Tell Me About Obia」**（⚠️**改稿2026-06-27＝Day69→Day68へ移動**：旧冒頭"The next day"の不自然な日跨ぎを解消し、Pen-san登場と**同日の流れ**に。本文冒頭は"Later that day"）：Colonel Adelie登場・命名。一定リズムでまっすぐ歩いて来て、視線がObiaで止まる＝**Obia監視弧の開始**。モード：動・出来事。
-  - 🔒引用アンカー（Adelie）：*"I am Colonel Adelie." / "I watch over the little one." / "Tell me about Obia."*（声＝*"hard and sharp"*）。⚠️**改稿2026-06-27：旧"I watch over Pen-san."＝"Pen-san"はAko-chanがEp65で付けた名でAdelieは知り得ない→"the little one"に置換**（命名の先取り回避・A台帳整合）。★**Adelie命名・作中確立点（A台帳）**＝本人が名乗る。命名後は地の文 "the Colonel / he"。
-  - 確定（外見）：背中は真っ黒・腹は白・**目の周りに白いリング**（"a white ring around each eye"）・くちばしは短く丸い・Pen-sanより大きい・**まっすぐ硬く立つ**（"tall and stiff"）・小さいが**怖れない**（軍人肌：*"He is small, but he is not afraid."*）。
-  - 確定（監視弧の開始）：登場直後から**視線がObiaに固定**（"His eyes stay on Obia."）。Suke-sanと睨み合う＝*"Two careful animals look at each other. Neither one looks away."*（Suke-sanの警戒と重なる布石）。
+  - 🔒引用アンカー（Adelie）：*"I am Colonel Adelie." / "I watch over the little one." / "Tell me about Obia."*（声＝*"hard and sharp"*）。⚠️**改稿2026-06-27：旧"I watch over Pen-san."＝"Pen-san"はAko-chanがEp65で付けた名でAdelieは知り得ない→"the little one"に置換**（命名の先取り回避・A台帳整合）。⚠️改稿2026-06-29＝**"the little one"の指示対象を明瞭化**：直前に *"He looks down at Pen-san."* を置き、Pen-sanを指すと読者に伝わるようにした。★**Adelie命名・作中確立点（A台帳）**＝本人が名乗る。命名後は地の文 "the Colonel / he"。
+  - ⚠️改稿2026-06-29＝**Adelieが名"Obia"を知る根拠＝Pen-sanが先に渡す（確定ユーザー選択）**：到着時、Pen-sanが護衛Adelieに一行を紹介して名を渡す＝*"You found me!" ... "This is Ako-chan! She came! And that is Obia!"* → **その直後に**Adelieが *"Tell me about Obia."*（Obiaの名は一行しか知らない＝Pen-san経由で受け取った形に動機づけ）。同時に **Pen-san⇔Adelieの護衛-被護衛の絆と登場ラグの動機**（Adelieは走り去ったヒナを探して追ってきた＝"You found me!"）を1ビートで成立させる。
+  - 確定（外見・⚠️改稿2026-06-29＝tall/small矛盾を解消）：背中は真っ黒・腹は白・**目の周りに白いリング**（"a white ring around each eye"）・くちばしは短く丸い・**Pen-sanより大きいがペンギンとしては小さい**（*"It is bigger than Pen-san, but it is still small."*）・**まっすぐ硬く立つ**（"straight and stiff"）。旧 "a tall penguin" / "stands tall and stiff" は *"He is small, but he is not afraid."* と矛盾するため**"tall"を排し"straight"へ統一**（威圧感は身長でなく直立の軍人的所作で表す）・小さいが**怖れない**（軍人肌：*"He is small, but he is not afraid."*・world.md「約70cm・小さいが気が強い」と整合）。
+  - 確定（監視弧の開始）：登場直後から**視線がObiaへ向かう**（*"Then his eyes stop on Obia."*）。Suke-sanと睨み合う＝*"Two careful animals look at each other. Neither one looks away."*（Suke-sanの警戒と重なる布石）。
   - 🔒継続性ガード：Ako-chanの弁護 *"Obia is my friend. Obia came all this way with us. Obia helps us."* に対しAdelieは**答えずObiaを見続ける**（"the Colonel keeps watching it."）。締めは *"Something new is on the ice now."*（完了形回避）。★**Adelieの「演技でなく本物」認識はEp88へ集約＝ここでは出さない**。Ako-chanの "It does not move away" は彼女のPOVであってAdelieの認識ではない。
   - 確定（Obia代名詞 "it"）。
-  - ✅執筆済み（word_count 274・改稿後実測）。
+  - ✅執筆済み（word_count 278・2026-06-29改稿後実測）。
 
 ### Day 69 — 氷上の生活
 - **Ep68「On the Ice」**：氷上生活のテクスチャー。Pod南極モード活躍。Pen-sanが仲間に馴染む。モード：静・観察（日常）。

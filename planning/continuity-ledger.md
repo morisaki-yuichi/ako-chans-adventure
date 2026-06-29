@@ -22,7 +22,7 @@
 | Obiaの正体（未来のロボット／送信者） | S1では明かさない。告白は**Ep83（Ch11）** | — | S1中は「銀色の犬のようなもの」。誰も正体を知らない |
 | Daru / Gabu / Suke-san / Pen-san / Adelie | 各登場回（Ep18/31/39/65/67…）で名乗り or Ako-chanが受け取る | 登場前は言及しない | |
 | **Pen-san（名前）** | **Ep65** で**Ako-chanが付与**：*"I have a name for you. Pen-san."* | Ep64：群れの "small black shapes"（遠景・無名）／Ep65命名前：「the baby penguin / it」 | 自己命名型（Daru/Gabu/Suke-san）と異なりAko-chan付与。命名後は地の文 "Pen-san / he"。**人数宣言はしない**（南極残留の仲間） |
-| **Colonel Adelie（名前）** | **Ep67** で本人が名乗る：*"I am Colonel Adelie."* | Ep67名乗り前：「a new shape / the new bird / it」 | 命名後は地の文 "the Colonel / he"。S2で General に昇進（S1はColonel）。登場＝Obia監視弧の開始 |
+| **Colonel Adelie（名前）** | **Ep67** で本人が名乗る：*"I am Colonel Adelie."* | Ep67名乗り前：「a new shape / the new bird / it」 | 命名後は地の文 "the Colonel / he"。S2で General に昇進（S1はColonel）。登場＝Obia監視弧の開始。⚠️**Adelieが名"Obia"を知る根拠＝到着時にPen-sanが先に渡す**（*"And that is Obia!"*→直後にAdelie *"Tell me about Obia."*）＝Obiaの名は一行しか知らないため必ずPen-san経由で動機づける（確定2026-06-29）。"the little one"＝Pen-san（直前に *"He looks down at Pen-san."*）。**外見は "tall" 不可・"small/straight"で統一**（tall/small矛盾回避） |
 | 赤い首輪の正体（起源を伏せる） | **全シーズン明かさない**（⚠️確定2026-06-27ユーザー指示で「Ako-chan作」説を**撤回**） | S1では「Obiaが元から付けている赤い首輪」 | ⚠️**作者/起源を回収しない**＝bootstrapループ（Ep184でObiaがAko-chanに残す→Ch32でAko-chanが新ロボットに付ける→過去でS1 Obiaの首輪に＝同一物が循環・起点なし・world.md §3） |
 | **Ruka（名前）** | **読者初対面＝S2 Ep102**（設定上はS2開始時点で同居済みの家族。Ep101には登場させない＝紹介をEp102に集約） | — | 出会いはS2開始直前のプーリア（Ep103で回想）。**地の文の代名詞＝"she"**（命名前の回想内のみ "it"／確定 2026-06-26）。**ごく短い台詞を稀に許す**（基本は所作・静止） |
 | Obiaの暗号記憶／使命 | 発見＝**S2 Ep106**／復号開始＝**Ep136(Ch17)** | S1では存在も伏せる | Ep106で「読めない記憶がある」まで。使命内容（声を救え）はCh17まで明かさない |
