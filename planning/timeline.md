@@ -712,7 +712,7 @@
   - 確定（人数＝6）：帰路の一行は **Ako-chan・Dango・Obia・Daru・Gabu・Suke-san**（"Six friends stand on the deck."）。**Pen-san・Adelieは氷に残り見送る**（"Two small shapes ... Pen-san and the Colonel."＝南極残留の確定）。
   - 🔒（Ako-chan・見送り＝will不使用）：*"Goodbye! I come back!"*（Ep87 "I come back. I promise." と一致＝S2再会の布石）。Pen-sanが片翼を振る／Colonelは直立。
   - 確定（声の収束・継続）：*"The voices are quiet today."*（Ep86の収束を継続＝Ep90「Going Quiet」へ接続）。締めの核＝**Obiaが"横"に立つ**（"Obia stands beside her, not behind."＝Ep85と連続）＋方角は**北**（"She turns to face the north now."＝Ep90 太平洋北上へ）。
-  - 🔒章クローザー余韻：*"But the long road home starts here. And the ship sails on."*（Ep24/Ep33 章末 "And the road goes on." モチーフの回収）。next_ep＝/season1/chapter12/ep090/（章跨ぎ）。✅執筆済み（word_count 271）。
+  - 🔒章クローザー余韻：*"But the long road home starts here ..."*（Ep24/Ep33 章末 "And the road goes on." モチーフの回収）。⚠️改稿2026-06-29＝**友の一文を"往路＝集める／帰路＝返す"の対称に**：旧 *"So many friends are far away now."* は指示先が曖昧（実際に遠いのはPen-san/Adelieの2人のみ・Daru/Gabu/Suke-sanは甲板に同乗・"behind"は逆走する帰路と矛盾）だった→*"The long way gave her so many friends. But the long road home starts here — and one by one, it takes them home."* に。旅全体で得た友（庭の動物・クジラ・ゾウガメ等も含む）＝集めた友を、**帰路が一人ずつ故郷へ返す**＝Ch12（Suke-san Ep91→Gabu Ep93→Daru Ep95→Ep96「Back to Three」）の連続する別れへの布石。next_ep＝/season1/chapter12/ep090/（章跨ぎ）。✅執筆済み（word_count 283・2026-06-29改稿後実測）。
 
 <!-- Ch11 完了（Ep83〜89）。 -->
 
