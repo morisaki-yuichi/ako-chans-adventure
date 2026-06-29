@@ -33,7 +33,7 @@
   - 🔒引用アンカー（Obia名乗り）：Ako-chan *"Who are you?"* → Obia *"I am Obia."* ★**名前「Obia」はこの回で作中確立**（用途・出自は答えない＝謎は保持）。Ep1–2の地の文では "Obia" を使わない（「目／the silver thing」等）。※名乗りは「目＝Obia」の暴露ではない（その連結は下記のとおりS3まで伏せる）。
   - 🔒継続性：Ep1の庭の「目」＝Obiaであることは**明言しない**（Ako-chanにも読者にも）。S3 Ep299まで伏せる。Ep3ではObiaの目を"pale and blue"と描いてEp1と色だけ呼応させるが、Ako-chanは結びつけない（"Something about it feels strange. But she does not know why."）。
   - 追加台詞（Ako-chan・拒否）：*"No. I cannot go. I do not know you."* ※Ep5/Ep6の決意への伏線。
-- **Ep4「Night Voices」**：その夜、キツネとフクロウが同じく南を指す。異変が"広がり"であることを示す。
+  - ★**赤い首輪の作中初出・確立（追加2026-06-29）**：Obia初登場の外見描写に *"It wears a red collar."* を植える＝world.md:158「もともと付けている赤い首輪として登場する」を本文で担保。⚠️**意味・素性は語らない**（外見の一部・シンプルな赤い首輪）。道中**Ep68**で *"The red collar sits at its neck, as always."* と1回再描写し、Ep76「外して託す」→Ep78「They all know this red collar well.」の払い出しを裏付ける（旧：首輪はEp76が初出で唐突＝是正）。⚠️Ep1の「目」では首輪を出せない（目のみ可視）ため初出はEp3。：その夜、キツネとフクロウが同じく南を指す。異変が"広がり"であることを示す。
   - 確定：異変を訴える動物が増えていく段階（ハリネズミ→キツネ→フクロウ）。すべて南を指す。
   - 追加台詞（キツネ）：*"Do you feel it? It comes from the south. The night is not right."* ／（フクロウ）：*"South. All of us look south now."*
   - 確定：夜の庭が異常に静か（鳥も虫も鳴かない）。"It feels wrong, just like the hedgehog said." とEp2のハリネズミ台詞を地の文で呼応させる。
@@ -603,7 +603,7 @@
 - ★**送信3回シリーズの最終回（Ep72）→最大の異変＝snow storm→Obia消失→救出**。11話の波：送信#3(72)→追求・公表(73-74)→嵐接近(75-76)→嵐突入・消失(77)→話し合い・Suke-san宣言(78-79)→捜索・発見・蘇生(80-82)。
 - ⚠️**用語：英語本文は "snow storm" に統一**（"blizzard" 不使用。Adelie *"It is a snow storm. The worst kind."*）。Ch8 "storm" と地続き。
 - ⚠️**will未解禁**：Ep79 Ako-chanの同行表明は **"I am going too." / "I go too."**（"I will go too." にしない）。Suke-san *"I trust Obia."*（現在形＝可）。
-- ★**赤い首輪**：S1では「Obiaが元から付けている赤い首輪」。⚠️**正体（Ako-chan作）はS3まで伏せる**。Ep76でObiaがこっそりDangoに託す→Ep78でDangoがみんなに伝える→Ep80でDangoが**気配＋首輪の匂い**で追跡→Ep82でAko-chanが**つけ直す（復活の原因でなく再会の象徴）**。
+- ★**赤い首輪**：S1では「Obiaが元から付けている赤い首輪」。**作中初出＝Ep3外見描写**（*"It wears a red collar."*）・**Ep68で再描写**（*"...as always."*）＝Ep76託しの布石（追加2026-06-29）。⚠️**正体（Ako-chan作）はS3まで伏せる**。Ep76でObiaがこっそりDangoに託す→Ep78でDangoがみんなに伝える→Ep80でDangoが**気配＋首輪の匂い**で追跡→Ep82でAko-chanが**つけ直す（復活の原因でなく再会の象徴）**。
 - ★**Ep74＝Ako-chanが沈黙を破る**：これまで「言葉にしない」できた送信の符合を**初めてみんなに公表（3回目）**。ヨーロッパ(Ep13)・太平洋(Ep47)でも同じだったと明かす。※**送信の意味/正体はまだ不明**（告白はEp83/Ch11）。
 - ★**Ep82 蘇生の枠付け＝感情の並置・無因**：抱きしめる→涙が落ちる→ゆっくり目が光る、を**並べるだけで原因を述べない**。理由はS3まで伏せる。
 - ★**Suke-san信頼アークの payoff（Ep79）**：話し合いで *"I trust Obia."* と宣言→捜索を主導（Dangoと協力）。
@@ -628,7 +628,7 @@
 
 ### Day 73 — 嵐接近〜突入〜消失
 - **Ep75「The Worst Kind」**：数値が急上昇。コンパスが狂い始める。Adelieが南極の専門家として🔒 *"It is a snow storm. The worst kind."* Pen-sanが**初めて真剣な顔**（本能で危険を察知・遊びが止まる）。
-  - 確定（Obiaの観測・改稿2026-06-27）：⚠️**旧"small screen"/"The numbers on it"を撤廃**＝Obiaは**内部センサー**で計測し体感を述べる（*"It reads the cold air with its sensors." / "The cold falls fast. The wind rises. A big storm comes. Bigger than before."*）。⚠️**コンパスはObiaでなくAko-chanが持つ**＝*"Ako-chan takes out her compass. She holds it up. The needle spins round and round. It cannot find the way."* / Obia *"The compass is wrong now."*（**snow storm用語は本Epで初出・統一**）。
+  - 確定（Obiaの観測・改稿2026-06-27）：⚠️**旧"small screen"/"The numbers on it"を撤廃**＝Obiaは**内部センサー**で計測し体感を述べる（*"It reads the cold air with its sensors." / "The cold falls fast. The wind rises. A big storm comes. Bigger than the one at sea."*）。⚠️改稿2026-06-29＝**"Bigger than before." → "Bigger than the one at sea." に明確化**：referentはCh8（Ep56-59）の海の大嵐（転覆寸前・クジラの恩返し）＝その時点で"前の嵐"はこれのみ。旧"before"は約16話前・別タイプ（海vs雪）で指示先が曖昧だったため、固有名を出さずA1で一意化（Ch8 stormと地続き＝段階的エスカレーション：snow stormが最大の異変）。⚠️**コンパスはObiaでなくAko-chanが持つ**＝*"Ako-chan takes out her compass. She holds it up. The needle spins round and round. It cannot find the way."* / Obia *"The compass is wrong now."*（**snow storm用語は本Epで初出・統一**）。
   - 確定（Pen-san）：いつも遊ぶPen-sanが初めて真剣＝*"His small face is still and serious. For the first time, he looks afraid."*（⚠️別れの哀感は出さない＝危険察知のみ）。
   - 確定（締め）：*"The storm is close now. Very close. ... Something is coming. And there is little time left."*
 - **Ep76「Hold This」**：嵐直前、ObiaがこっそりDangoを呼び赤い首輪を外して渡す。🔒 Obia *"Hold this."* / *"I do not know why. But it is important. Hold it for me."* Dangoが戸惑う。⚠️首輪の由来は説明しない。
