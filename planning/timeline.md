@@ -127,7 +127,7 @@
   - 配置：next_ep は空欄（Ch3 Ep16 執筆時に ep016.prev_ep=ep015 と相互リンクを張る／Ep7→Ep8 と同じ運用）。
   - ✅執筆済み（word_count 273）。
 
-## Chapter 3「The Turtle on the Rocks」— クロアチア・ダルマティア海岸（Ep16〜24）
+## Chapter 3「The Tortoise on the Rocks」— クロアチア・ダルマティア海岸（Ep16〜24）
 
 **Ch3 共通**
 - ★**Daru合流＝三人→四人**（最初の仲間）。以後 Ako-chan・Dango・Obia＋Daru。
@@ -734,7 +734,7 @@
 - **Ep91「Suke-san's Mountain」**🟢執筆済：日本。Suke-sanが山の匂いを目を閉じて深く吸う。Dangoが無言で頭を押し当てる＝"you are good"の意を地の文が伝える（*"You are good, the quiet touch says."*／引用台詞ではない）。🔒Suke-san *"...You too,"* he says softly.（やっと出た言葉）。Ako-chanの別れ台詞 *"Goodbye, Suke-san."* 山へ消える。＝**人数5**（Ako-chan・Dango・Obia・Daru・Gabu）。
 
 ### Day 95前後 — 西へ
-- **Ep92「Still Together」**🟢執筆済：西へ向かう船。Daru/Gabuの最後の時間。Daru饒舌・Gabu静聴。Daru *"Do you remember the white rocks? And the hot red sand? And the big old turtle?"* → Gabu *"I remember. I remember it all."* まだ一緒。人数5。
+- **Ep92「Still Together」**🟢執筆済：西へ向かう船。Daru/Gabuの最後の時間。Daru饒舌・Gabu静聴。Daru *"Do you remember the white rocks? And the hot red sand? And the big old tortoise?"* → Gabu *"I remember. I remember it all."* まだ一緒。人数5。
 
 ### Day 105前後 — ワディラム（Gabu離脱）
 - **Ep93「Gabu's Rock」**🟢執筆済：ワディラム。Gabuが慎重に岩を登り（Ep28-31の到着の逆構図）、全員（Daru・Dango・Obia・Ako-chan）を見て最後にAko-chanを一度見る。**Gabuは無言**（少ない言葉のキャラを別れでも貫く）。Daru *"Gabu! Gabu!"* と呼ぶが止まらず岩の向こうへ消える。Ako-chan *"Goodbye, Gabu."* ＝**人数4**（Ako-chan・Dango・Obia・Daru）。
@@ -1282,7 +1282,7 @@
   - 🔒台詞（Obia）：*"Something is wrong! Hold on!"*
   - モード：動・出来事（転換）。③：包まれる五人、見送る四人、跳躍の渦、突然ねじれる光。④：跳躍の中で、何かが壊れ始めた。
   - 確定：跳躍組5＝Ako・Obia・Daru(赤)・Gabu(青)・Ruka(黄)。⚠️**裂け目は跳躍組にのみ＝現代組視点を出さない**（s2.md）。
-  - ✅執筆済み（word_count 272）。Day19。機械が三匹のPodを選ぶ（赤Daru→青Gabu→黄Ruka・"Three turtles. And Ako-chan and Obia, as always."）。現代組4は"stay back"・"watch the five from the dark"。Ako-chan *"We will come back,"*（Ep142エコー＝ドラマ的アイロニー）。裂け目＝"A deep crack runs through the white. It splits the spinning light in two."→🔒Obia *"Something is wrong!" ... "Hold on!"*（逐語）。⚠️**現代組の不可視を正しく明示**＝"the four in the cave see only light. They cannot see the crack inside the jump."✓（s2.md継続性ルールをCh21へ布石・目撃描写ではない）。④"something begins to come apart."。🔧レビュー：flat副詞 "flash bright"→"flash brightly"。light×8は跳躍現象の主題語で据え置き。⚠️行き先(氷河期)leakなし。
+  - ✅執筆済み（word_count 272）。Day19。機械が三匹のPodを選ぶ（赤Daru→青Gabu→黄Ruka・"Three tortoises. And Ako-chan and Obia, as always."）。現代組4は"stay back"・"watch the five from the dark"。Ako-chan *"We will come back,"*（Ep142エコー＝ドラマ的アイロニー）。裂け目＝"A deep crack runs through the white. It splits the spinning light in two."→🔒Obia *"Something is wrong!" ... "Hold on!"*（逐語）。⚠️**現代組の不可視を正しく明示**＝"the four in the cave see only light. They cannot see the crack inside the jump."✓（s2.md継続性ルールをCh21へ布石・目撃描写ではない）。④"something begins to come apart."。🔧レビュー：flat副詞 "flash bright"→"flash brightly"。light×8は跳躍現象の主題語で据え置き。⚠️行き先(氷河期)leakなし。
 - **Ep163「Ruka」**：跳躍の渦の中で裂け目がRukaを飲み込む。最小のRukaがミニPodごと裂け目の奥へ。自分の意思ではない・あっという間。Ako-chanが手を伸ばすが届かない。
   - 🔒台詞（Ako-chan）：*"Ruka!"*
   - モード：感情・喪失（**1語タイトル例外**）。③：渦巻く光、引き込まれる小さな黄色い光、伸ばす手、悲鳴。④：Rukaが、裂け目の中へ消える。
@@ -1533,7 +1533,7 @@
   - 🔒台詞（Daru）：*"Ruka knows everything here!"*／（Gabu）：*"...She does."*
   - モード：感情・回収（先輩逆転）。③：定位置が決まる、静かな所作、秋の光、落ち着いた気配。④：時間と場所が、順番を入れ替えた。
   - 確定：**S2先輩逆転の回収**。⚠️**"senpai"はタイトルのみ・地の文は英語**。Ruka=she・プーリア（Ep103回想）参照。
-  - ✅執筆済み（word_count 271）。Day28。🔒Daru *"Ruka knows everything here!"*／Gabu *"...She does."*（逐語・Gabuの短い肯定）。⚠️**"senpai"地の文不使用**＝英語で逆転（"Ruka came last of all, yet she leads first. ... The little one shows the big ones the way."）✓。**プーリア回収**＝"That was in Puglia, by a warm white wall. The little turtle climbed onto her hand back then."（Ep103整合）。Ruka=she・最小。④"Somehow, that feels exactly right."。🔧レビュー：flat副詞 "settles soft and still"→"settles, soft and still"。
+  - ✅執筆済み（word_count 271）。Day28。🔒Daru *"Ruka knows everything here!"*／Gabu *"...She does."*（逐語・Gabuの短い肯定）。⚠️**"senpai"地の文不使用**＝英語で逆転（"Ruka came last of all, yet she leads first. ... The little one shows the big ones the way."）✓。**プーリア回収**＝"That was in Puglia, by a warm white wall. The little tortoise climbed onto her hand back then."（Ep103整合）。Ruka=she・最小。④"Somehow, that feels exactly right."。🔧レビュー：flat副詞 "settles soft and still"→"settles, soft and still"。
 
 ### Day 33〜46 — 定着〜Obia不在の庭〜日記（S2完結）
 - **Ep197「Settling In」**：動物たちがイギリスの暮らしに馴染む。穏やかな日々。Daruは日溜まり、Gabuは木陰、Suke-sanはAko-chanの後ろ、Rukaは棚の上。Dangoはみんなの真ん中。新しい家族の形。

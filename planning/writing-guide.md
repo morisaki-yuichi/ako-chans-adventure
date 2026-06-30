@@ -96,7 +96,7 @@ Avoid:
 単純過去:   He ran to Ako-chan.
 現在進行形: The wind is blowing.
 助動詞:     She can hear animals. / She cannot move.（can/cannot のみ。could/would/will は S1禁止）
-There構文:  There is a small turtle near the rock.
+There構文:  There is a small tortoise near the rock.
 疑問文:     "What is that?" says Dango.
 ```
 
@@ -231,7 +231,7 @@ Ako-chan opens the red notebook. She holds the pen. But she does not write.
 The wind is cold. It touches her face. She pulls her coat close.
 （触覚・体の動作で状況を伝える）
 
-The turtle does not move. It just looks. Its eyes are very still.
+The tortoise does not move. It just looks. Its eyes are very still.
 （繰り返しで静寂を表現）
 ```
 

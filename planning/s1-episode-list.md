@@ -39,7 +39,7 @@
 
 ---
 
-## Chapter 3 · The Turtle on the Rocks — ダルマティア海岸（9話・Ep16〜24）
+## Chapter 3 · The Tortoise on the Rocks — ダルマティア海岸（9話・Ep16〜24）
 
 | # | タイトル | 役割 |
 |---|---------|------|
@@ -200,7 +200,7 @@
 |----|---------|------|------|--------|------|
 | 1 | The Voice in the Garden | イギリス | 7 | 1〜7 | 7 |
 | 2 | Following the South | フランス〜イタリア〜クロアチア手前 | 8 | 8〜15 | 15 |
-| 3 | The Turtle on the Rocks | ダルマティア海岸 | 9 | 16〜24 | 24 |
+| 3 | The Tortoise on the Rocks | ダルマティア海岸 | 9 | 16〜24 | 24 |
 | 4 | The Red Desert | ワディラム | 9 | 25〜33 | 33 |
 | 5 | The Long Way East | アジア陸路〜日本 | 5 | 34〜38 | 38 |
 | 6 | Building the Ship | 日本（港） | 7 | 39〜45 | 45 |
