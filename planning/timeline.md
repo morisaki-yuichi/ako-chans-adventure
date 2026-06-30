@@ -1069,6 +1069,7 @@
 - ★**S2 最重要章＝使命の reveal**。洞窟の奥→**タイムマシン発見**→Obiaが触れて**暗号記憶が復号**→**使命判明**（声を救え→未来へ転送）→跳躍の仕組み説明→準備→最初の跳躍の予感（章クローザー）。
 - ★**reveal の境界（確定 2026-06-26＝使命のみ）**：Obiaが思い出すのは**「何をするか」＝使命**のみ＝*"Save the voices of the dying animals. Send them to the future."*。**⚠️伏せる（S3へ）**：①**誰が作ったか（少年）**②**「the future」の正体（少年の成人後の時代・誰の時代か）＝"the future" は抽象のまま**③**タイムループ**④赤い首輪の正体⑤Ep1の「目」＝Obia。Obiaは機械が自分の目的と繋がると感じるが、**出自（誰が・いつ送ったか）は思い出さない**。
 - ★**機械の仕組み（明かす）**：行き先はセット済み・**同行メンバーはタイムマシンが選ぶ**・どこへ行くかは到着して初めて分かる（*"The machine chooses. We do not."*）。
+- ★**声の総数＝3（確定 2026-06-30・Ep139で確立）**：使命の規模＝**救うべき声は3つ**（Obiaの復号記憶が伝える総数）＝*"There are three voices to save. Three, and no more."*（Ep139）。⚠️**「3＝声の数（使命の総数）」であって「3つの固定行き先」ではない**＝どこへ・誰を・いつは到着まで不明（機械が選ぶ・隠す）を維持。**この1点がEp150以降の「あと2つ→1つ→3つ目→3つの声」を全て接地する**（旧稿は総数3が未確立のまま Ep150 "Two more voices wait" で突然既知化＝根拠欠落だった）。事故跳躍（Ch20-21の3回目）とも整合＝予定外の場所でも"3つ目の声"を引き当て＝Ep174 *"By chance, the long work is complete."* が強化される（数は既知・場所は事故）。⚠️Ep137 "...so many..."（多くの動物が死にゆく＝背景の悲劇）と "three voices"（機械が救える3つ＝使命の範囲）は別レイヤーで両立。
 - ★**まだ伏せる（Ch22へ）**：**異変の根本原因（機械が現代↔未来を開いたまま＝未来の崩壊が漏れる）**はCh17では明かさない。Ch17は「声を救う使命」まで。異変と機械の因果はEp179（Ch22）。
 - ★**Ako-chanの役割**：Ako-chanが**声を聴く**（S1の動物語能力）／Obiaが**未来へ転送**する。Ep140で本人が自覚（*"I am ready."*）。
 - 場所：全編**洞窟内**（暗い・古い氷・Obiaの青白い光が主光源）。一行＝7＋Pen-san＋Adelie（全員洞窟内で reveal を目撃）。**数は明示しない**。
@@ -1109,7 +1110,7 @@
   - 🔒台詞（Obia）：*"The machine chooses. We do not."*
   - モード：説明・静。③：機械のパネル、点る記号、聞き入る仲間たち、Ako-chanの覚悟。④：誰も何が待つかを知らない。
   - 確定：跳躍ルール（world.md §8）＝Ako-chan・Obiaは全跳躍必須／メンバーは機械が選定／行き先は登録済みだが誰も知らない。
-  - ✅執筆済み（word_count 271）。Day15。Obiaが仕組みを説明＝**時間移動の明示**（"It can carry us through time,"）＝跳躍ルール（行き先セット済み・到着まで不明・Ako/Obia必須・**メンバーは機械が選ぶ**）。🔒Obia *"The machine chooses. We do not."*（逐語）。⚠️**出自/未来の正体は出さない**（機械の機能説明のみ）。締め＝"She does not know what waits ahead. She does not know who it will choose."（Ep141への緊張）。
+  - ✅執筆済み（word_count 271→281・2026-06-30）。Day15。Obiaが仕組みを説明＝**時間移動の明示**（"It can carry us through time,"）＝跳躍ルール（行き先セット済み・到着まで不明・Ako/Obia必須・**メンバーは機械が選ぶ**）。🔒Obia *"The machine chooses. We do not."*（逐語）。⚠️**出自/未来の正体は出さない**（機械の機能説明のみ）。締め＝"She does not know what waits ahead. She does not know who it will choose."（Ep141への緊張）。⚠️**声の総数＝3を確立（2026-06-30追加）**＝P2に *"There are three voices to save. Three, and no more."* を挿入（語数 271→281）。**数（3）は既知・行き先/誰/いつは不明**の対比を維持（"But no one knows where they will go." の直前に置く）。これで Ep150「Two more voices wait」以降のカウントダウンが接地（旧稿の根拠欠落を解消）。詳細はCh17共通「声の総数＝3」参照。
   - 🔧レビュー適用（Phase C・第2バッチ Ep137-139）：reveal境界クリア（出自/未来正体/ループ/少年 言及なし・"the future"抽象・"through time"は機能説明）。①ep139 受動解消 "The places are already set inside."→"The places sit ready inside it."（能動）。②ep139 machine×6→5（"The machine hums low…"→"It hums low there…"）。いずれも語数中立。結果：fm＝274/271/271（範囲内）・story_day 14,15,15（非減少）・最長文≤8語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・三連 ep137のみ1・🔒逐語一致。ep138 voices×4・ep139 machine×5 は reveal/中心オブジェクトの主題語で据え置き。
 - **Ep140「We Do Not Know Where」**：行き先不明のまま跳躍準備。不安だがやらねば。Ako-chanは声を聴く役と知る。Obiaが転送。
   - 🔒台詞（Ako-chan）：*"I am ready."*
@@ -1184,7 +1185,7 @@
   - 🔒台詞（Pen-san）：*"Was it... sad?"*／（Ako-chan）：*"No. It was proud."*
   - モード：感情・章クローザー。③：洞窟の静けさ、寄り添う仲間、Ako-chanの遠い目、機械の低い音。④章クローザー：あと二つ、声が待っている。
   - 確定（章末リンク）：next_ep は空欄（Ch19 Ep151執筆時に ep151.prev_ep=ep150 と相互リンク）。⚠️**Ep151（2回目＝オオウミガラス／Pen-san・General Adelie選定／北大西洋孤島）はCh19＝先取りしない**（"あと二つ、声が待っている"まで）。🔒Ako-chan *"No. It was proud."* はEp147の狼の誇りの回収。
-  - ✅執筆済み（word_count 272）。Day16。章クローザー。🔒Pen-san *"Was it... sad?"* / Ako-chan *"No," ... "It was proud."*（逐語・Ep147 "The voice was not sad. It was proud." の回収）✓。⚠️**Ch19先取りなし**＝"Two more voices wait somewhere in time. She does not know where. She does not know who."（オオウミガラス・孤島は出さない）✓。next_ep 空欄✓。配置：Dango膝・Suke-san右・Daru/Gabu Pod・Ruka小さく傍ら（定位置整合）。締め＝"Somewhere far off, the voices wait for her."。⚠️残課題（要ユーザー判断）：最終文 "Its low sound fills the quiet dark." の "Its" は段落頭の "the old machine" を指す（Dango "his" との対比で機械と読めるが、直前 "Dango's warm side" との近接で一瞬曖昧）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。
+  - ✅執筆済み（word_count 272）。Day16。章クローザー。🔒Pen-san *"Was it... sad?"* / Ako-chan *"No," ... "It was proud."*（逐語・Ep147 "The voice was not sad. It was proud." の回収）✓。⚠️**Ch19先取りなし**＝"Two more voices wait somewhere in time. She does not know where. She does not know who."（オオウミガラス・孤島は出さない）✓。**※"Two more voices wait"＝総数3（Ep139で確立）に接地**＝数だけ既知・場所/誰は不明、で矛盾なし（2026-06-30）。next_ep 空欄✓。配置：Dango膝・Suke-san右・Daru/Gabu Pod・Ruka小さく傍ら（定位置整合）。締め＝"Somewhere far off, the voices wait for her."。⚠️残課題（要ユーザー判断）：最終文 "Its low sound fills the quiet dark." の "Its" は段落頭の "the old machine" を指す（Dango "his" との対比で機械と読めるが、直前 "Dango's warm side" との近接で一瞬曖昧）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。
 
 <!-- Ch18（Ep142〜150）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
 
