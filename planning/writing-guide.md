@@ -87,6 +87,7 @@ Avoid:
 - **過去進行形（was/were doing）※Season 3から解禁**
 - 仮定法（If she were...）
 - **未来形 will / 条件法 would・could** ※**Season 2から解禁**。S1は **can / cannot のみ**使用可。**例外：will のみ**「Obia固定台詞・仲間の合流の誓い・物語を運ぶ誓い」に限り可（timeline.md の will例外注記参照）
+  - **should** は「控えめな義務・自然な期待」を表す語として **S1でも少数（低頻度）許容**する（既存 Ep10/25/82/93 の4箇所を追認）。多用はせず、can/cannot で言えるものは can/cannot を優先する。
 - 不定詞の形容詞的用法（a place to go）→ "a place. She can go there." と分割
 - 分詞構文（Walking home, she saw...）
 
