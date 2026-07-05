@@ -52,7 +52,7 @@
 - **Ep6「We Leave Tomorrow」**：朝、Ako-chanがObiaに出発を告げる。荷造り。
   - 🔒引用アンカー（Obia）：*"I thought you might come."* / （Ako-chan）：*"We leave tomorrow."*
   - 確定：ObiaはEp3からずっと庭の古いshedのそばに留まり、一晩動いていない（"It did not move all night."）。
-  - 確定：Ako-chanの同行表明は現在進行形 *"I am coming with you. I am going to the south."*（**S1はwill不使用。例外＝① Obiaの固定台詞、② 仲間が旅に加わる"誓い"の定型 *"I will go with you"*＝Ep3 Obia "I will come with you" のエコー（Ep21 Daru ほか合流回）、③ 物語を運ぶ"誓い"（例：クジラ Ep50 *"We will not forget"*＝Ch8 恩返しの伏線）**）。
+  - 確定：Ako-chanの同行表明は現在進行形 *"I am coming with you. I am going to the south."*（**S1はwill不使用。例外＝① Obiaの固定台詞、② 仲間が旅に加わる"誓い"の定型 *"I will go with you"*＝Ep3 Obia "I will come with you" のエコー（Ep21 Dalu ほか合流回）、③ 物語を運ぶ"誓い"（例：クジラ Ep50 *"We will not forget"*＝Ch8 恩返しの伏線）**）。
   - 確定：荷物に warm clothes・gloves・warm hat・赤い日記帳・Dangoのお気に入りのおもちゃ（his favourite toy）を入れる。
   - ✅執筆済み（word_count 275）。
 
@@ -66,7 +66,7 @@
 ## Chapter 2「Following the South」— フランス〜イタリア〜クロアチア手前（Ep8〜15）
 
 **Ch2 共通**
-- 旅は**三人（Ako-chan・Dango・Obia）**。リクガメ／PodはまだいないでDaru合流はCh3。
+- 旅は**三人（Ako-chan・Dango・Obia）**。リクガメ／PodはまだいないでDalu合流はCh3。
 - Obiaは名乗り済み（Ep3）＝地の文で "Obia" 可。「Ep1の目＝Obia」は引き続き伏せる。
 - 移動手段：**実在の鉄道**（Eurostar・国際列車）。固有名（St Pancras, Eurostar など）は太字にしない・地図で追える描写に。
 - **南**が全話で通底（各国の動物が南を指す）。
@@ -123,55 +123,55 @@
 - **Ep15「Towards the Coast」**：丘を下ると海（アドリア海＝the Adriatic Sea）が見える。Dangoが海（暖かい南の海）の匂いを初めて嗅ぐ。ダルマティア海岸（the Dalmatian coast）へ近づく。章クローザー。
   - 確定：乾いた茶色の丘・オリーブの木を抜けて丘の頂へ→眼下にアドリア海。海の向こうにダルマティア海岸。"The south pulls harder here than before."
   - 確定：Dangoの海の匂い＝"new and strong and full of salt"／"He never smelled this warm sea before."（英国の海ではなく**暖かい南の海**として初体験）。
-  - 🔒継続：「海の向こうに何かが待つ」という予感で締める（"Ako-chan does not know what waits there. But something does."）＝**次章Ch3でDaru合流・Pod初登場への伏線**。Daruの名・存在は出さない。
+  - 🔒継続：「海の向こうに何かが待つ」という予感で締める（"Ako-chan does not know what waits there. But something does."）＝**次章Ch3でDalu合流・Pod初登場への伏線**。Daluの名・存在は出さない。
   - 配置：next_ep は空欄（Ch3 Ep16 執筆時に ep016.prev_ep=ep015 と相互リンクを張る／Ep7→Ep8 と同じ運用）。
   - ✅執筆済み（word_count 273）。
 
 ## Chapter 3「The Tortoise on the Rocks」— クロアチア・ダルマティア海岸（Ep16〜24）
 
 **Ch3 共通**
-- ★**Daru合流＝三人→四人**（最初の仲間）。以後 Ako-chan・Dango・Obia＋Daru。
-- ★**Podが初登場（Ep22）＝読者に仕組みを初めて見せる**：リクガメが中で歩くとPodが連動して動く（自走式）。**Daruは全力歩行→高速移動・発光色は赤**。冷却/湿度/UV機能は設定上あるが、ここでは基本の仕組み（歩く→動く・中が温かい）を中心に。「カプセル」とは呼ばない＝**Pod**。
-- ★**Dangoの嫉妬アーク #1（最初の嫉妬）**：Ako-chanがDaruに構うとDangoが嫉妬を見せ始める。⚠️**アークは単調な激化ではない（執筆実態・確定2026-06-29）**：Daru＝芽（Ep19）→**Gabu＝"対比/受容"のビート**（Ep31でDangoはむしろ尻尾を振って受け入れる＝積み上げの一段ではない）→Suke-san＝再燃・一段強い（Ep45・犬同士の定位置争い）→Pen-san＝頂点（Ep66）。**Gabuを「嫉妬の一段」として書かない**（Ep66の数え上げも *"Gabu was no trouble."* と受容を明示）。
-- Daru：ダルマティアヘルマンリクガメのベビー♂・甲長7cm・甲羅は黄茶×黒の強いコントラスト。**好奇心旺盛・すぐ行動する**。話し方は元気（例 "What is that? Let me see! Let me see!"）。
+- ★**Dalu合流＝三人→四人**（最初の仲間）。以後 Ako-chan・Dango・Obia＋Dalu。
+- ★**Podが初登場（Ep22）＝読者に仕組みを初めて見せる**：リクガメが中で歩くとPodが連動して動く（自走式）。**Daluは全力歩行→高速移動・発光色は赤**。冷却/湿度/UV機能は設定上あるが、ここでは基本の仕組み（歩く→動く・中が温かい）を中心に。「カプセル」とは呼ばない＝**Pod**。
+- ★**Dangoの嫉妬アーク #1（最初の嫉妬）**：Ako-chanがDaluに構うとDangoが嫉妬を見せ始める。⚠️**アークは単調な激化ではない（執筆実態・確定2026-06-29）**：Dalu＝芽（Ep19）→**Gabu＝"対比/受容"のビート**（Ep31でDangoはむしろ尻尾を振って受け入れる＝積み上げの一段ではない）→Suke-san＝再燃・一段強い（Ep45・犬同士の定位置争い）→Pen-san＝頂点（Ep66）。**Gabuを「嫉妬の一段」として書かない**（Ep66の数え上げも *"Gabu was no trouble."* と受容を明示）。
+- Dalu：ダルマティアヘルマンリクガメのベビー♂・甲長7cm・甲羅は黄茶×黒の強いコントラスト。**好奇心旺盛・すぐ行動する**。話し方は元気（例 "What is that? Let me see! Let me see!"）。
 - 地理：クロアチア・ダルマティア海岸（白い石灰岩の岩場・アドリア海）。実在・地図で追える。
 - 「signal」の語：Ep13以降、Ako-chanにとって**含みのある語**。Ep23でObiaが openly 口にするとき、Ako-chanは内心ざわつく（言葉にはしない）。
 
-### Day 7 — ダルマティア到着〜Daru出現
+### Day 7 — ダルマティア到着〜Dalu出現
 - **Ep16「White Rocks, Blue Sea」**：フェリーでダルマティア海岸へ。白い石灰岩の岩場・白い崖・アドリア海。トカゲが「南から来る変な声」を告げる。何かがいる気配。モード：静・観察。
   - 🔒台詞（トカゲ・英語確定）：*"A strange voice comes."* / *"It comes from the south. Far away."* / *"Can you hear it? Something is wrong."* / *"It is close now. Be careful."*
   - 確定：Ako-chan *"I hear it too."*／トカゲは岩の割れ目(crack)へ消える。Dangoはトカゲの匂いを嗅ぐが声は聴こえない（"Only Ako-chan can." をEp2から再呼応）。Obiaは静止し遠くを見る（まだ距離）。
-  - 確定：締めは「南＋もう一つの近い気配」の二重（"something else is here too. Something close."）＝Ep17のDaruの音への伏線。Daruの名・姿は出さない。
+  - 確定：締めは「南＋もう一つの近い気配」の二重（"something else is here too. Something close."）＝Ep17のDaluの音への伏線。Daluの名・姿は出さない。
   - ✅執筆済み（word_count 270）。
 - **Ep17「The Sound Under the Rock」**：岩陰から甲羅が石に当たる音（*Tap. Tap.*「a round, hard sound」「something with a hard back」）。全員が静止して待つ。姿は見えない・名乗らない。
   - 確定：Ako-chan *"It is okay. We are friends. Come out."* と呼びかけるが、何も出てこない。Dangoは耳を立て鼻を動かすが**足を踏み出さない**（Ako-chanと同じく静止）。
-  - 確定：Daruの正体（baby tortoise）はこの回ではまだ明かさない（読者にも"something"のまま）。Ep18で初めて姿＋名乗り。
+  - 確定：Daluの正体（baby tortoise）はこの回ではまだ明かさない（読者にも"something"のまま）。Ep18で初めて姿＋名乗り。
   - ✅執筆済み（word_count 274）。
-- **Ep18「Curious」**：岩陰から猛スピードで小さな丸いものが飛び出す＝**Daru登場・命名確立**。走り回って全員に挨拶。好奇心の塊。※転換点の1語タイトル例外。
-  - 🔒台詞（Daru名乗り）：*"Hello! Hello! I am Daru!"* / *"Who are you? Where do you go?"* ★**名前「Daru」はこの回で作中確立**（Ep16–17は "something / the thing / a baby tortoise"）。
-  - 追加台詞（Daru）：*"What is that? What is that?"* / *"Let me see! Let me see!"* / *"Wow! Big water! So big!"*（元気・即行動の口調）。Ako-chan *"Hello, Daru. I am Ako-chan."*
+- **Ep18「Curious」**：岩陰から猛スピードで小さな丸いものが飛び出す＝**Dalu登場・命名確立**。走り回って全員に挨拶。好奇心の塊。※転換点の1語タイトル例外。
+  - 🔒台詞（Dalu名乗り）：*"Hello! Hello! I am Dalu!"* / *"Who are you? Where do you go?"* ★**名前「Dalu」はこの回で作中確立**（Ep16–17は "something / the thing / a baby tortoise"）。
+  - 追加台詞（Dalu）：*"What is that? What is that?"* / *"Let me see! Let me see!"* / *"Wow! Big water! So big!"*（元気・即行動の口調）。Ako-chan *"Hello, Dalu. I am Ako-chan."*
   - 確定（外見）：ベビーのリクガメ・甲羅は黄茶(yellow-brown)に黒い線(black lines)・手のひらより小さい(no bigger than her hand)。
   - 確定（配置）：Dangoは驚いて後ずさり（"steps back fast"・耳が伏せる）＝**まだ嫉妬ではなく驚き**（嫉妬の芽はEp19）。Obiaは静止して観察。
   - ✅執筆済み（word_count 270）。
 
 ### Day 8 — 信頼〜合流〜Pod
-- **Ep19「Nose to Nose」**：DangoとDaruが初めて向き合う。双方が後ずさり、また近づく。「最初の了解」。★**Dangoの最初の嫉妬の芽**（Ako-chanがDaruに構うとDangoが間に入る／不機嫌）。
-  - 台詞（Daru）：*"You are big. And soft! So soft!"*（Dangoの毛に対して）。Ako-chan *"You are so brave."* / *"You are my Dango. Always."*
-  - 確定（嫉妬#1の芽）：Ako-chanがDaruを撫でる→Dangoが**間に割り込み**、Ako-chanの脚に強く寄りかかる／Daruを見ない／尻尾が低いまま＝**"芽"に留める**（激化させない）。Ako-chanがDangoの頭に手を置き安心させると尻尾が少し動く。が、片目はDaruを見続ける。
-  - 確定：Daruの呼称は地の文で "the little tortoise" 可（Dangoは "the big dog"）。
+- **Ep19「Nose to Nose」**：DangoとDaluが初めて向き合う。双方が後ずさり、また近づく。「最初の了解」。★**Dangoの最初の嫉妬の芽**（Ako-chanがDaluに構うとDangoが間に入る／不機嫌）。
+  - 台詞（Dalu）：*"You are big. And soft! So soft!"*（Dangoの毛に対して）。Ako-chan *"You are so brave."* / *"You are my Dango. Always."*
+  - 確定（嫉妬#1の芽）：Ako-chanがDaluを撫でる→Dangoが**間に割り込み**、Ako-chanの脚に強く寄りかかる／Daluを見ない／尻尾が低いまま＝**"芽"に留める**（激化させない）。Ako-chanがDangoの頭に手を置き安心させると尻尾が少し動く。が、片目はDaluを見続ける。
+  - 確定：Daluの呼称は地の文で "the little tortoise" 可（Dangoは "the big dog"）。
   - ✅執筆済み（word_count 274）。
-- **Ep20「Already There」**：Daruが崖の縁に近づいてしまう。Dangoが無言で体を当てて押し戻す。Daruの無鉄砲とDangoの世話。
-  - 確定：崖は Ep16 で確立済みの "white cliffs"（海まで straight down）。Daruは白い鳥を追って**一気に縁へ（"He is already there."＝タイトル）**。Ako-chan *"Daru! Stop!"*（※"Stop"単独タイトルはEp84用・ここは台詞なので可）。
-  - 確定：Dangoが**吠えずに**体を入れて押し戻す（"He does not bark."）＝無言の庇護。Daruは危険を理解せず *"What? What is down there?"* と覗きたがる。
-  - 確定（関係）：救出後、Daruは引かず一瞬静かに→「犬とカメの間に何かが通う」（Ep21の隣に座る受容への布石）。Dangoの世話＝嫉妬の裏面。
+- **Ep20「Already There」**：Daluが崖の縁に近づいてしまう。Dangoが無言で体を当てて押し戻す。Daluの無鉄砲とDangoの世話。
+  - 確定：崖は Ep16 で確立済みの "white cliffs"（海まで straight down）。Daluは白い鳥を追って**一気に縁へ（"He is already there."＝タイトル）**。Ako-chan *"Dalu! Stop!"*（※"Stop"単独タイトルはEp84用・ここは台詞なので可）。
+  - 確定：Dangoが**吠えずに**体を入れて押し戻す（"He does not bark."）＝無言の庇護。Daluは危険を理解せず *"What? What is down there?"* と覗きたがる。
+  - 確定（関係）：救出後、Daluは引かず一瞬静かに→「犬とカメの間に何かが通う」（Ep21の隣に座る受容への布石）。Dangoの世話＝嫉妬の裏面。
   - ✅執筆済み（word_count 275）。
-- **Ep21「I Will Go With You」**：赤リスが異変を告げる。Daruが**仲間に加わる**決意。🔒台詞（Daru）：*"I do not understand. But I will go with you."*（"will"はEp3 Obia "I will come with you" のエコー＝**意図的な will 例外**。合流回の"誓い"定型）
+- **Ep21「I Will Go With You」**：赤リスが異変を告げる。Daluが**仲間に加わる**決意。🔒台詞（Dalu）：*"I do not understand. But I will go with you."*（"will"はEp3 Obia "I will come with you" のエコー＝**意図的な will 例外**。合流回の"誓い"定型）
   - 🔒台詞（赤リス）：*"You hear it too. Something is wrong. It comes from far away."*／Ako-chan *"I have to go to the south. I have to find it."*（"I have to go" は Ep5 日記のエコー）。
-  - 確定（合流）：本文 "Now Daru is one of them too."（⚠️人数宣言はしない＝Ep21本文に "Now they are four." の明示は無い・2026-07-02修正）。
-  - 確定（関係）：DangoがそっとDaruの**横に座る**（押さない・離れない）＝受容。③は乾いた草の匂いを運ぶ風。
+  - 確定（合流）：本文 "Now Dalu is one of them too."（⚠️人数宣言はしない＝Ep21本文に "Now they are four." の明示は無い・2026-07-02修正）。
+  - 確定（関係）：DangoがそっとDaluの**横に座る**（押さない・離れない）＝受容。③は乾いた草の匂いを運ぶ風。
   - ✅執筆済み（word_count 276）。
-- **Ep22「Warm Inside」**：Daruが加わり、ObiaがDaru用の**Podを作る（＝Pod初登場・命名確立）**。🔒台詞（Obia）：*"For you. It is warm inside."* / *"It is a Pod. It keeps you safe and warm."* **仕組みを読者に見せる**：Daruが中で歩く→Podが連動して転がる／速く歩く→速く動く／走る→高速・**赤く光る**。中は柔らかく温かい。Daruが恐る恐る入り、最後は中で眠そうに落ち着く。
-  - 確定（命名）：Obiaが "Pod" と命名＝**作中確立点**。「カプセル」不使用。発光色：**赤**（Daru）。
+- **Ep22「Warm Inside」**：Daluが加わり、ObiaがDalu用の**Podを作る（＝Pod初登場・命名確立）**。🔒台詞（Obia）：*"For you. It is warm inside."* / *"It is a Pod. It keeps you safe and warm."* **仕組みを読者に見せる**：Daluが中で歩く→Podが連動して転がる／速く歩く→速く動く／走る→高速・**赤く光る**。中は柔らかく温かい。Daluが恐る恐る入り、最後は中で眠そうに落ち着く。
+  - 確定（命名）：Obiaが "Pod" と命名＝**作中確立点**。「カプセル」不使用。発光色：**赤**（Dalu）。
   - 確定（描写）：Pod は "something round / a clear ball"（透明な球）。Dangoは転がるPodに後ずさり→また嗅ぐ→吠えて追う（軽い好奇・嫉妬は激化させない）。
   - 確定：`signal` の語はこの回では未使用（Ep23でObiaが口にする）。
   - ✅執筆済み（word_count 273）。
@@ -179,23 +179,23 @@
 ### Day 9 — 旅立ち（海岸を離れる）
 - **Ep23「Far to the South」**：Obiaが長時間スキャン。🔒台詞（Obia）：*"The signal is from somewhere deep. Far to the south."*＝旅の方向の確認。
   - 確定（伏線#2）：Ako-chanが "signal" の語から **Ep13の送信#1を内心で結びつける**（夜の列車・青い光・低いハム・南を向くObia）。だが**問いたいのに言葉にしない**（"She wants to ask Obia why. But she does not say a thing."）＝3回の積み重ねの第二歩（送信シーンではなく"signal"語による不安の深化）。
-  - 配置：Daruは割り込むがObiaに止められる（"Wait, Daru. Be still."）。モード：静・観察／内面。
+  - 配置：Daluは割り込むがObiaに止められる（"Wait, Dalu. Be still."）。モード：静・観察／内面。
   - ✅執筆済み（word_count 273）。
-- **Ep24「The Shore Grows Small」**：フェリー出発。Daruが故郷の海岸が遠ざかるのをじっと見つめる＝初めての「故郷が遠ざかる」感覚（走らない・話さない・静か＝"This is new for Daru."）。
-  - 🔒台詞（Daru）：*"That is my home. It is far now."*／章末 *"And the road goes on."*
-  - 確定：DaruのPodは甲板に（"His Pod rests near him in the sun."）。海岸が thin pale line→消える→Daruは前を向く（友がそばに・"He is not alone."）。
+- **Ep24「The Shore Grows Small」**：フェリー出発。Daluが故郷の海岸が遠ざかるのをじっと見つめる＝初めての「故郷が遠ざかる」感覚（走らない・話さない・静か＝"This is new for Dalu."）。
+  - 🔒台詞（Dalu）：*"That is my home. It is far now."*／章末 *"And the road goes on."*
+  - 確定：DaluのPodは甲板に（"His Pod rests near him in the sun."）。海岸が thin pale line→消える→Daluは前を向く（友がそばに・"He is not alone."）。
   - 章クローザー。次章Ch4（ヨルダン・ワディラム／Gabu）へ。
   - ✅執筆済み（word_count 272）。
 
 ## Chapter 4「The Red Desert」— ヨルダン・ワディラム（Ep25〜33）
 
 **Ch4 共通**
-- ★**Gabu合流＝四人→五人**（2匹目のリクガメ）。Daru（赤・高速・元気）と対照的に **Gabuは慎重・静か・じっくり観察**（甲長7cm・鮮やかな黄×黒：控えめな黒縁＋各甲板中央に黒斑）。Pod内は**一定のリズム→安定走行・発光色は青**。
-- ★**Gabuの信頼は数日かけて**築く（Daruの即合流と対照）。Ep27（気配）→Ep28（5m・待つ）→Ep29（一歩）→Ep30（数日・少しずつ）→Ep31（向こうから来て座る＝**無言の合流**）。
-- ★**Gabuの声**：少ない言葉・観察的（例 *"Wait. Look at the shadow."*）。**合流は台詞でなく行動**（Daru/Obiaの "I will go with you" 型は使わない＝キャラ対比）。
+- ★**Gabu合流＝四人→五人**（2匹目のリクガメ）。Dalu（赤・高速・元気）と対照的に **Gabuは慎重・静か・じっくり観察**（甲長7cm・鮮やかな黄×黒：控えめな黒縁＋各甲板中央に黒斑）。Pod内は**一定のリズム→安定走行・発光色は青**。
+- ★**Gabuの信頼は数日かけて**築く（Daluの即合流と対照）。Ep27（気配）→Ep28（5m・待つ）→Ep29（一歩）→Ep30（数日・少しずつ）→Ep31（向こうから来て座る＝**無言の合流**）。
+- ★**Gabuの声**：少ない言葉・観察的（例 *"Wait. Look at the shadow."*）。**合流は台詞でなく行動**（Dalu/Obiaの "I will go with you" 型は使わない＝キャラ対比）。
 - ★**酷暑装備（Ep26）**：Ako-chanに**熱反射クロス**（超軽量・熱を跳ね返す）／Dangoに**肉球保護ブーツ**（Dangoは全力拒否→観念＝軽い笑い）。
-- ★**Pod冷却・排熱機能（Ep26）を初描写**：砂漠の酷暑でもDaruのPod内は快適に保たれる。
-- Dangoの嫉妬：⚠️**Gabuには向けない（整合2026-06-29）**＝Gabu合流(Ep31)はDangoが受け入れる"対比/受容"ビート（尻尾を振る）。Daruへの嫉妬は控えめに継続しつつ、**Daruを静止させる"世話役"**の面が強まる（待つ場面で暴走を抑える）。
+- ★**Pod冷却・排熱機能（Ep26）を初描写**：砂漠の酷暑でもDaluのPod内は快適に保たれる。
+- Dangoの嫉妬：⚠️**Gabuには向けない（整合2026-06-29）**＝Gabu合流(Ep31)はDangoが受け入れる"対比/受容"ビート（尻尾を振る）。Daluへの嫉妬は控えめに継続しつつ、**Daluを静止させる"世話役"**の面が強まる（待つ場面で暴走を抑える）。
 - 異変（Ep25）：夜行性のサソリ・トカゲが昼間に岩陰から這い出し、同じ方向（南）を向く（ワディラム＝段階1）。南の通底を継続。
 - 地理：ヨルダン・ワディラム砂漠（赤い砂・赤い岩壁・酷暑）。実在・地図で追える。**Ch3〜Ch4間は陸路＋フェリーで数日移動（本文では描かない）**。
 
@@ -204,58 +204,58 @@
   - 🔒引用アンカー（Obia）：*"The temperature is very high."*（章共通の固定台詞）。
   - 確定（異変・段階1）：夜行性のサソリ・トカゲが**昼間**に岩の割れ目から這い出し、隠れず**南**を向く（"They sit still in the hot sun. ... They look to the south."）。
   - 🔒台詞（トカゲ）：*"You should not be out now,"* はAko-chan。トカゲ＝*"We cannot stay inside."* / *"Something pulls us from the south."*（異変が南を指す・"説明しない"範囲）。
-  - 配置：Daruは**Pod内**（"So hot! So red!"＝元気だが暑さに一瞬黙る）。Dangoはそばで激しくパンティング。Obiaは名乗り済み・地の文で可、**Obiaの代名詞は "it"**。
+  - 配置：Daluは**Pod内**（"So hot! So red!"＝元気だが暑さに一瞬黙る）。Dangoはそばで激しくパンティング。Obiaは名乗り済み・地の文で可、**Obiaの代名詞は "it"**。
   - ✅執筆済み（word_count 275）。
 - **Ep26「Dango Says No」**：装備配布。モード：動・出来事（軽い息継ぎ）。
   - 確定（装備）：Ako-chan＝**熱反射クロス**（"a light cloth ... thin and silver and cool" / "It sends the heat away."）。Dango＝**肉球保護ブーツ4つ**（"four small boots, one for each foot"。⚠️鼻先マスクは廃止＝未使用小道具のため削除・2026-06-27）。Dangoは**全力拒否→観念**（拒否は地の文で所作化＝"His whole body says no, no, no."〔台帳A-2＝Dangoは引用台詞を持たない・2026-07-02改稿〕 → 大きなため息 → 履く → ぎこちなく歩く＝軽い笑い）。
   - 🔒台詞（Obia）：*"The ground is too hot."* / *"You need help out here."* / *"It sends the heat away."*（**Obiaの代名詞は "it"**：It gives / It holds）。
-  - 確定（**Pod冷却機能・初描写**）：DaruのPod内は酷暑でも快適（"The Pod sends the hot air away. Inside it stays soft and cool." / Daru *"It is nice in here!"*）。
-  - 確定（嫉妬）：Dangoの嫉妬は控えめに継続（Daruへ "a flat look"）。
+  - 確定（**Pod冷却機能・初描写**）：DaluのPod内は酷暑でも快適（"The Pod sends the hot air away. Inside it stays soft and cool." / Dalu *"It is nice in here!"*）。
+  - 確定（嫉妬）：Dangoの嫉妬は控えめに継続（Daluへ "a flat look"）。
   - ✅執筆済み（word_count 277）。
 - **Ep27「The Watcher」**：夕方（日が低い・影が長い）。岩と同じ色の小さな丸い形が一瞬動いて消える＝**Gabuの最初の気配**（未命名）。モード：静・観察。
   - 確定（気配）：Gabuは本文で **"something" / "the small thing" / "someone"** とのみ呼ぶ（名・姿は出さない）。"It is small and round and still. It is the same colour as the stone."→一度動いて消える。
   - 確定（Dango）：Dangoが匂いの跡を追うが岩で途切れ**届かない**（"the trail stops at the rocks. He cannot find the small thing."）→ 低い声。
-  - 🔒台詞（Daru）：*"What was it? What was it?"*（好奇心）。
+  - 🔒台詞（Dalu）：*"What was it? What was it?"*（好奇心）。
   - 確定（締め）：「確かにいた」という確信で終える（"Something is there in the rocks. ... Someone is out there."）＝Ep28（翌朝・15m）への伏線。
   - ✅執筆済み（word_count 273）。
 
 ### Day 13 — 5メートル〜最初の一歩
 - **Ep28「Five Metres」**：翌朝（早朝・涼しい）、Gabuが低い岩の上に現れる。距離**約5メートル**（黄色い甲羅・黒斑が見える近さ）。逃げない・近づかない。全員で**1時間**待つ。モード：静・観察。⚠️旧「fifteen metres」から改題・距離縮小（2026-06-27・小型保護色リクガメに15mは遠すぎとの指摘）。
-  - 確定（Gabu未命名）：本文では **"a small tortoise" / "the small tortoise" / "it"**（名・声は出さない）。**Daruは名前で区別**（"the tortoise"＝Gabuのみ）。
-  - 確定（外見・初描写）：*"Its shell is yellow with black marks."*（鮮やかな黄＋黒斑。Daruの "yellow-brown with black lines" と対比）。
-  - 確定（Gabuの性格・布石）：観察的＝*"It only watches and waits." / "This one is not like Daru at all. It does not rush."*（即行動のDaruと対照）。
-  - 確定（③・世話役）：Daruは**Pod外**で待機。動こうとする（"Let me look! Let me look!"）→**DangoがDaruの甲羅に体を当てて静止**させる（"Dango leans on Daru's shell. He holds him still with his body."）。Obiaも静止して見る（"it"）。
+  - 確定（Gabu未命名）：本文では **"a small tortoise" / "the small tortoise" / "it"**（名・声は出さない）。**Daluは名前で区別**（"the tortoise"＝Gabuのみ）。
+  - 確定（外見・初描写）：*"Its shell is yellow with black marks."*（鮮やかな黄＋黒斑。Daluの "yellow-brown with black lines" と対比）。
+  - 確定（Gabuの性格・布石）：観察的＝*"It only watches and waits." / "This one is not like Dalu at all. It does not rush."*（即行動のDaluと対照）。
+  - 確定（③・世話役）：Daluは**Pod外**で待機。動こうとする（"Let me look! Let me look!"）→**DangoがDaluの甲羅に体を当てて静止**させる（"Dango leans on Dalu's shell. He holds him still with his body."）。Obiaも静止して見る（"it"）。
   - 数（C台帳）：距離＝**five metres**（タイトル）／待ち時間＝**an hour**。
   - ✅執筆済み（word_count 279）。
 - **Ep29「One Step Closer」**：同日・日中（酷暑）。Ako-chanが熱い砂に座り、**手のひらを砂に平らに置く**（差し出さず開いて待つ）。Gabuが**一歩**動く。誰も動かない。慎重な信頼構築の始まり。
   - 確定（所作）：*"She does not reach for the tortoise. She just waits, with her hand open."* → Gabuが *"one small step towards Ako-chan."*（一歩のみ・それ以上来ない）。
-  - 確定（③）：Dangoは息を止めDaruをPod外で押さえる。汗がメガネの横を伝う（"Sweat runs down beside her glasses."）。
+  - 確定（③）：Dangoは息を止めDaluをPod外で押さえる。汗がメガネの横を伝う（"Sweat runs down beside her glasses."）。
   - ✅執筆済み（word_count 274）。
 
 ### Day 14 — 少しずつ
 - **Ep30「Step by Step」**：翌日。Gabuが**止まる→見る→また一歩**で少しずつ近づく。**昨日より近い**が、まだ来ない。モード：静・観察。
   - 確定（接近のリズム）：*"Step by step, it comes closer. It stops. It looks. It walks again."* → *"It comes nearer than yesterday now. But ... It does not come all the way."*
-  - 確定（③・Daru）：Daruが**息を止めて首を前に伸ばす**（"He holds his breath this time. He stretches his neck out far."）。⚠️殻に引っ込む描写は使わない＝引っ込み＝危険時のみ／期待・興奮は首/四肢を伸ばす（リクガメ姿勢ルール）。砂を踏むGabuの足音だけ。
+  - 確定（③・Dalu）：Daluが**息を止めて首を前に伸ばす**（"He holds his breath this time. He stretches his neck out far."）。⚠️殻に引っ込む描写は使わない＝引っ込み＝危険時のみ／期待・興奮は首/四肢を伸ばす（リクガメ姿勢ルール）。砂を踏むGabuの足音だけ。
   - 確定（余韻・継続性呼応）：信頼構築の段階を回想＝*"First only a shape. Then five metres away. Then one step on the sand."*（Ep27気配→Ep28・5m→Ep29一歩）。"数日かけて"は信頼構築のみを指し、異変の長期化は示唆しない。
   - ✅執筆済み（word_count 283）。
 
 ### Day 15 — 合流〜Pod
 - **Ep31「Steady」**：Gabuがまっすぐ歩いてきてAko-chanの前に座る。それだけ。でも全部だった。**＝Gabu合流（無言の行動）**。※転換点の1語タイトル例外。
-  - ★**Gabu命名・作中確立点**：合流は**無言の行動**（迷わずまっすぐ来て座る＝"It walks straight to her, slowly and steadily. Then it sits down right in front of her."）。**Daru/Obiaの "I will go with you" 型は使わない**（キャラ対比）。名前はGabu自身が**最小の一語**で名乗る：Ako-chan *"Hello. I am Ako-chan."* → Gabu *"Gabu."*（これ以前は "a small tortoise / the tortoise / it"）。
+  - ★**Gabu命名・作中確立点**：合流は**無言の行動**（迷わずまっすぐ来て座る＝"It walks straight to her, slowly and steadily. Then it sits down right in front of her."）。**Dalu/Obiaの "I will go with you" 型は使わない**（キャラ対比）。名前はGabu自身が**最小の一語**で名乗る：Ako-chan *"Hello. I am Ako-chan."* → Gabu *"Gabu."*（これ以前は "a small tortoise / the tortoise / it"）。
   - 確定（合流）：本文 *"Now Gabu walks the long road with them."* ＋ *"Welcome, Gabu,"*（⚠️人数宣言はしない＝Ep31本文に "Now they are five." の明示は無い・2026-07-02修正）。
-  - 確定（対比描写）：Daruの賑やかな登場（Ep18）と明示的に対比＝*"This is not like the day Daru came. Daru ran and shouted and jumped. Gabu came slowly, on his own feet."*
+  - 確定（対比描写）：Daluの賑やかな登場（Ep18）と明示的に対比＝*"This is not like the day Dalu came. Dalu ran and shouted and jumped. Gabu came slowly, on his own feet."*
   - 確定（Dango）：嫉妬は激化せず受容寄り＝Gabuを長く見たあと尻尾を振り始める（"his tail begins to wag slowly"）。
   - ✅執筆済み（word_count 276）。
-- **Ep32「His Own Pace」**：Gabu用の**Podを作る**。一定のリズム→安定走行・**青い発光**。説明はDaruのとき（Ep22）より省く。
+- **Ep32「His Own Pace」**：Gabu用の**Podを作る**。一定のリズム→安定走行・**青い発光**。説明はDaluのとき（Ep22）より省く。
   - 🔒台詞（Obia）：*"For you, Gabu."* / *"It is warm and safe inside."*（**Obiaの代名詞は "it"**：It works / It glows）。
-  - 確定（Pod・Gabu仕様）：一定のリズム→**安定走行**・発光色は**青**（"It glows a soft blue." / "The blue Pod rolls in an even line. ... It keeps one calm and steady beat."）。Daruの赤・高速と対照（"It does not rush like Daru's."）。
+  - 確定（Pod・Gabu仕様）：一定のリズム→**安定走行**・発光色は**青**（"It glows a soft blue." / "The blue Pod rolls in an even line. ... It keeps one calm and steady beat."）。Daluの赤・高速と対照（"It does not rush like Dalu's."）。
   - 確定（対比の定型）：赤＝quick and bright／青＝calm and steady。以後の並走描写の基準。
   - ✅執筆済み（word_count 273）。
 
 ### Day 16 — 砂漠を出る
-- **Ep33「Two Shells」**：砂漠（Wadi Rum）を出る。DaruとGabuのPodが**対照的なリズム**で並んで動く（赤＝高速／青＝安定）。Gabuが一度だけ砂漠を振り返る。章クローザー。次章Ch5（アジア陸路〜日本）へ。
-  - 確定（並走）：*"Daru runs hard inside his red Pod. ... Gabu walks at his steady, even pace. ... The two shells travel on as one."*（タイトル "Two Shells" 回収）。
-  - 確定（Gabuの別れの所作）：Gabuが**一度だけ**砂漠を振り返る→前を向き二度と振り返らない（"He looks for just one moment. Then he turns to the road ahead. He does not look back again."）＝**Ep24 Daruの「故郷が遠ざかる」と対の構図**。
+- **Ep33「Two Shells」**：砂漠（Wadi Rum）を出る。DaluとGabuのPodが**対照的なリズム**で並んで動く（赤＝高速／青＝安定）。Gabuが一度だけ砂漠を振り返る。章クローザー。次章Ch5（アジア陸路〜日本）へ。
+  - 確定（並走）：*"Dalu runs hard inside his red Pod. ... Gabu walks at his steady, even pace. ... The two shells travel on as one."*（タイトル "Two Shells" 回収）。
+  - 確定（Gabuの別れの所作）：Gabuが**一度だけ**砂漠を振り返る→前を向き二度と振り返らない（"He looks for just one moment. Then he turns to the road ahead. He does not look back again."）＝**Ep24 Daluの「故郷が遠ざかる」と対の構図**。
   - 🔒章末アンカー：*"Behind them, the red rocks grow small."*（⚠️旧記録 "The road goes on, to the east." は本文に無し・2026-07-02修正。Ch5への接続。Ep24 章末 "And the road goes on." と呼応）。
   - 注意（期間表現）：Gabuの故郷描写は "This red desert was his home." とし、**"for a long time" 等の期間表現は使わない**（継続性ガード）。
   - 配置：next_ep は空欄（Ch5 Ep34 執筆時に ep034.prev_ep=ep033 と相互リンク／Ep24→Ep25 と同運用）。
@@ -265,15 +265,15 @@
 
 **Ch5 共通**
 - ★**S1で最短の章（5話）＝移動章**。ワディラム→アジア陸路→日本の港。**各話に異なる感覚の焦点**を与えて長距離を持たせる（だれさせない）。
-- 一行は**五人＋2つのPod**（Ako-chan・Dango・Obia・Daru[赤・高速]・Gabu[青・安定]）。Daru饒舌×Gabu無言の対比は継続。
+- 一行は**五人＋2つのPod**（Ako-chan・Dango・Obia・Dalu[赤・高速]・Gabu[青・安定]）。Dalu饒舌×Gabu無言の対比は継続。
 - 移動手段：**陸路＋フェリー**（中東〜アジア）。実在の地理・地図で追える（地名は控えめでも"東へ向かう実感"を）。
 - ★**背景異変（カラス・魚）＝Obiaの送信とは別系統**。**進行中の現象**として描く（送信直後の異変＝Ep14とは区別）。説明しない。
 - 南：異変の源は依然「南」。ただしアジア/日本での"現れ方"は **カラスが無言で旋回／南方の魚が北上して打ち上げ**（world.md 段階2）。
 - 送信/signal の伏線はCh5では休止（#2＝Ep47 太平洋）。Suke-sanはCh6で登場（Ep38は港到着＝その余韻）。
 
 ### Day 17 — 砂漠を出て東へ
-- **Ep34「Always East」**：砂漠を離れ東へ。景色が砂→草→農地→山と変わる。Pod内のDaru（高速・赤）とGabu（安定・青）の対比。モード：移動・テクスチャー。
-  - 🔒台詞（確定）：Daru *"And then?"* → Obia *"East."*（2往復・Obiaは "East." のみ繰り返す＝Daruの好奇心×Obiaの淡白の対比）。
+- **Ep34「Always East」**：砂漠を離れ東へ。景色が砂→草→農地→山と変わる。Pod内のDalu（高速・赤）とGabu（安定・青）の対比。モード：移動・テクスチャー。
+  - 🔒台詞（確定）：Dalu *"And then?"* → Obia *"East."*（2往復・Obiaは "East." のみ繰り返す＝Daluの好奇心×Obiaの淡白の対比）。
   - 確定（景色変化）：red sand → pale brown stone → green plants → grass → farms（wide and flat）→ blue mountains。一行は**五人＋2 Pod**。signal/送信への言及なし（Ch5は伏線休止）。
   - 確定（締め）：Ako-chanが "East" の一語を胸に抱く（"She holds that small word close. ... East."＝タイトル回収）。
   - ✅執筆済み（word_count 271）。
@@ -282,7 +282,7 @@
 - **Ep35「The Silent Crows」**：背景異変①。**カラスが鳴かなくなり、無言で空を旋回し続ける**（声＝沈黙が不気味＝カラスの台詞は出さない）。Ako-chanが見上げる。Dangoが落ち着かない。※Obiaの送信とは切り離す。モード：静・観察（不穏）。
   - 確定：カラスは台詞なし。Ako-chanが声を待つが**何も受け取れない**（"But nothing comes to her."）＝不気味さの核。
   - 確定（呼応）：Ep25 と同じ地の文 *"It is the same wrong as before."* を再使用。源は**南**（"It comes from the south, she knows."）。**進行中の背景異変＝Obiaの送信とは無関係**。
-  - 台詞（Daru）：*"Why are they so quiet?"*（Ako-chanは答えられない）。配置：Dangoは耳を伏せ低く唸る（"A low growl"）／Gabuは空を見て静止。
+  - 台詞（Dalu）：*"Why are they so quiet?"*（Ako-chanは答えられない）。配置：Dangoは耳を伏せ低く唸る（"A low growl"）／Gabuは空を見て静止。
   - メモ：畳語 *"round and round"* を**Ch5で1回**使用済み（以降のCh5本文では別表現に変奏する）。
   - ✅執筆済み（word_count 274）。
 
@@ -294,16 +294,16 @@
   - ✅執筆済み（word_count 273）。
 
 ### Day 24 — 日本接近（休息）
-- **Ep37「Different Green」**：日本へ近づく。土地・空気の変化（"different green"）。**仲間の疲れと結束**を描く休息のテクスチャー回。DaruとGabuが緑の違いを話す。モード：休息・テクスチャー（異変の描写なし＝休符回）。
-  - 🔒台詞：Daru *"That green is different!" / "It is not like home. Not like the desert."* →（Gabu）*"Yes. It is darker. And more wet."*
-  - 確定（結束）：一行は疲れているが一体（"The long road made them one group."）。DaruとGabuがフェリーのデッキで並んで休む（赤・青＝Ep33「Two Shells」の並走を想起）。Dangoは膝に頭を載せる。**Obiaの目＝"pale and blue"（it）**。
+- **Ep37「Different Green」**：日本へ近づく。土地・空気の変化（"different green"）。**仲間の疲れと結束**を描く休息のテクスチャー回。DaluとGabuが緑の違いを話す。モード：休息・テクスチャー（異変の描写なし＝休符回）。
+  - 🔒台詞：Dalu *"That green is different!" / "It is not like home. Not like the desert."* →（Gabu）*"Yes. It is darker. And more wet."*
+  - 確定（結束）：一行は疲れているが一体（"The long road made them one group."）。DaluとGabuがフェリーのデッキで並んで休む（赤・青＝Ep33「Two Shells」の並走を想起）。Dangoは膝に頭を載せる。**Obiaの目＝"pale and blue"（it）**。
   - 余韻：*"Almost to Japan."*（港到着への予感）。
   - ✅執筆済み（word_count 272）。
 
 ### Day 25 — 日本の港へ
 - **Ep38「The Port」**：日本の港町に到着。深い緑の山・湿った空気・海と船の気配。**次章Suke-san登場への余韻**で締める。章クローザー。次章Ch6（日本・Suke-san・廃船改造）へ。
   - 確定：日本の港町＝**陸路の終点**（"This is Japan, at the end of the road."）。深緑の急峻な山・湿って暖かい空気・小さな漁港・漁船・ロープ・網。
-  - 配置：町の老人たちが一行を見る（"A dog, a girl, a silver thing. And two round Pods."＝**Obiaは町民視点で "a silver thing"**・名は出ない）。台詞 Daru *"We are here!"*／Gabuは緑の山を見る。
+  - 配置：町の老人たちが一行を見る（"A dog, a girl, a silver thing. And two round Pods."＝**Obiaは町民視点で "a silver thing"**・名は出ない）。台詞 Dalu *"We are here!"*／Gabuは緑の山を見る。
   - 🔒章クローザー余韻（**Suke-san伏線・名は出さない**）：海を渡る手段がまだない（*"How can they cross such big water?"*＝**Ch6 廃船への伏線**／will不使用で can）。**Dangoが港の上の岩の "something" に気づき見上げる→吠えない**（"High on the rocks, something is there. ... But he does not bark."）＝**Ep39 Suke-san登場への伏線**。Ep15「something waits there」と同型の章末伏線。
   - 配置：next_ep は空欄（Ch6 Ep39 執筆時に ep039.prev_ep=ep038 と相互リンク／Ep33→Ep34 と同運用）。
   - ✅執筆済み（word_count 281）。
@@ -311,7 +311,7 @@
 ## Chapter 6「Building the Ship」— 日本・港（Ep39〜45・7話）
 
 **Ch6 共通**
-- ★**Suke-san登場・合流＝五人→六人**（2匹目の犬）。**豆柴のパピー♂**：赤茶色＋白い靴下（口周り・頬・胸・内腿・手足の先が白）・キツネに似た三角の顔・ピンと立った耳・くるりと巻いた尻尾。**野生の勘が強く警戒心旺盛**。Daru（陽気）/Gabu（慎重だが温厚）とも違い、**鋭く"測る"**。
+- ★**Suke-san登場・合流＝五人→六人**（2匹目の犬）。**豆柴のパピー♂**：赤茶色＋白い靴下（口周り・頬・胸・内腿・手足の先が白）・キツネに似た三角の顔・ピンと立った耳・くるりと巻いた尻尾。**野生の勘が強く警戒心旺盛**。Dalu（陽気）/Gabu（慎重だが温厚）とも違い、**鋭く"測る"**。
 - ★**Suke-sanはObiaを特に強く警戒**。信頼は最も遅く条件付き：合流（Ep44）しても**まだObiaを完全には信用しない**（解決はCh10）。声＝鋭く少ない（"I do not know yet."）。**合流は台詞でなく行動**（道具を拾う＝Gabu型／"I will go with you" は使わない）。位置＝**常にAko-chanの右・少し後ろ**（ここで定位置確立）。
 - ★**廃船改造のものづくり章**：Obia設計＋全員で港の廃船を修復・改造し、太平洋横断の船を造る。
 - 一行：五人＋2Pod → Suke-san合流で**六人**（Ep45「Six on Board」）。
@@ -325,12 +325,12 @@
   - 確定（外見・初描写）：*"It is red-brown, with white socks. Its face is sharp, just like a fox. Its ears stand straight up. Its tail curls over its back."*（豆柴の特徴）。
   - 確定（命名前の呼称）：本文では **"a small dog" / "the small dog" / "it"**（名は出さない＝Ep41で確立）。
   - 確定（視線の順）：Dango→Ako-chan→**Obiaで停止**し長く留まる（"The small dog watches Obia. Its eyes are slow and careful."）。**Obiaの代名詞は "it"**。
-  - 確定（③）：Daru *"Who is that? Who is that?"* →沈黙して静止。Gabuも青Podで静止。松と土の匂い。Dangoも嗅がず見上げて静止。
+  - 確定（③）：Dalu *"Who is that? Who is that?"* →沈黙して静止。Gabuも青Podで静止。松と土の匂い。Dangoも嗅がず見上げて静止。
   - 締め：*"Something sharp is in its eyes. Something careful. Something that waits."*＝最初の測定の余韻。
   - ✅執筆済み（word_count 275）。
 - **Ep40「Still There」**：同日・日中。Ako-chanが**一人で**岩に近づく（Dangoに "Stay" と告げ置いていく）。逃げない——来ない——でもまだいる。モード：静・観察。
   - 確定（所作）：Ako-chanは岩に登らず下から見上げ *"Hello. We are friends."* と呼びかける→犬は何も返さないが**逃げず・隠れず・留まる**。
-  - 🔧配置：Dangoは下で待ち心配そうに見る（whine）。Obiaは boats のそばで静止。Daru/Gabuも下で静観。
+  - 🔧配置：Dangoは下で待ち心配そうに見る（whine）。Obiaは boats のそばで静止。Dalu/Gabuも下で静観。
   - 確定（余韻）：距離は同じだが「逃げなかった・見ていて留まった＝a start」で締める（"It watched her come, and it stayed. That is something. That is a start."）。
   - メモ：畳語 *"step by step"* を**Ch6で1回**使用済み（以降のCh6本文では別表現に変奏）。
   - ✅執筆済み（word_count 273）。
@@ -340,25 +340,25 @@
   - 🔒引用アンカー：Ako-chan *"What do you think?"* → Suke-san *"I do not know yet."*（声＝低く鋭い "Its voice is low and sharp."）。警戒の理由＝Obiaが"何か"だと勘づいている。
   - ★**Suke-san命名・作中確立点**：観察の核台詞のあと Ako-chan *"What is your name?"* → **"Suke-san," he says at last.**（Gabuの最小一語型に倣う）。**これ以前（Ep39–40）は "the small dog / it"。命名後は地の文で "he" に切替**。
   - 確定（観察対象）：Obiaの silver body と **pale blue eyes** を見続ける（"It looks like it wants to know something."）。**Obiaの代名詞は "it"**。
-  - 確定（③）：Daruが質問したがるがGabuが寄りかかって静止させる。塩と松の匂い・カモメ。
+  - 確定（③）：Daluが質問したがるがGabuが寄りかかって静止させる。塩と松の匂い・カモメ。
   - 締め：Ako-chanもObiaに"何か"を感じるが正体は分からない＝*"But like Suke-san, she does not know what. Not yet."*（Suke-sanの警戒とAko-chanの直感を重ねる）。
   - ✅執筆済み（word_count 276）。
 - **Ep42「We Need a Ship」**：港の端で**廃船を発見**。モード：動・出来事。signal語＝旅の方向（送信#2はCh7・この章では送信なし）。
   - 🔒引用アンカー（Obia）：*"The signal is very far south. We need a real ship."*（章共通の固定台詞）。続けて廃船を見て *"We can fix this."*
   - 確定（廃船・初描写）：港の端の大きく古い船。*"Its paint is all gone now. Its wood is grey and cracked. Rust runs down its metal sides."* 漁船では小さすぎる（"too small for such big water"）→大きな廃船が必要。**Obiaの代名詞は "it"**。
-  - 確定（③）：Daru *"A ship! A ship! Look at it!"* と赤Podで駆け寄る。Gabuは後ろから高い甲板を静かに見上げる（無言）。潮と錆びた金属の匂い。Dangoは古い船体を嗅いで錆の匂いを嫌う。
+  - 確定（③）：Dalu *"A ship! A ship! Look at it!"* と赤Podで駆け寄る。Gabuは後ろから高い甲板を静かに見上げる（無言）。潮と錆びた金属の匂い。Dangoは古い船体を嗅いで錆の匂いを嫌う。
   - 確定（配置）：Suke-sanは**離れた岩から**見る（まだ降りてこない・"He does not come close. But he watches every move."）。命名後＝地の文 "he"。
   - ✅執筆済み（word_count 274）。
 
 ### Day 28〜29 — 船づくり〜Suke-san合流
 - **Ep43「All Hands」**：廃船の修復・改造を**数日かけて全員で**（Obia中心）。モード：動・出来事。
-  - 確定（各自の関わり）：Obiaが中心で設計・修復（"It points and plans. It builds with care."）。Ako-chanは板を運ぶ。Daruは走り回り足元で邪魔（"What is this? What is this?"）。Gabuは黙々と小物を山に積む。Dangoはロープを咥えて落として拾い直し**邪魔しつつ頑張る**（"But he tries so hard."）。
+  - 確定（各自の関わり）：Obiaが中心で設計・修復（"It points and plans. It builds with care."）。Ako-chanは板を運ぶ。Daluは走り回り足元で邪魔（"What is this? What is this?"）。Gabuは黙々と小物を山に積む。Dangoはロープを咥えて落として拾い直し**邪魔しつつ頑張る**（"But he tries so hard."）。
   - 確定（Suke-san）：**離れた岩から見ている——でも目が離せない**（"his sharp eyes never leave them. He watches Obia most of all."）。日が経つごとに**少しずつ縁に近く座る**（"each day he sits a little nearer the edge."＝Ep44合流への布石）。Obiaは時折岩を見るが**呼ばない**（"It does not call out to Suke-san. It just lets him watch."）。
   - 確定（経過）：数日で廃船が strong and new に変わる（"The days pass. The old ship changes slowly."）。
   - ✅執筆済み（word_count 277）。
 - **Ep44「One More」**：Suke-sanが静かに岩を降りて**ロープ（道具）を咥えて運ぶ**＝**無言の合流**。誰も何も言わない。モード：感情・静。
   - 確定（合流の所作）：長くObiaを見たあと岩を降り、石の上のロープを咥えて材木の山へ運び、降ろして見上げ「どうするか待つ」（"No one says a word to him."）。**台詞での "I will go with you" 型は使わない**（Gabu型＝行動で示す）。
-  - 確定（③・反応）：Ako-chanは息を止め、Dangoは頭を上げて凝視、Daruは叫ぼうとするがGabuが静止させる＝**静けさを保つ**（"They let it stay quiet."）。Suke-sanは警戒を残す（"He is still ready to run away. But he does not run."）。
+  - 確定（③・反応）：Ako-chanは息を止め、Dangoは頭を上げて凝視、Daluは叫ぼうとするがGabuが静止させる＝**静けさを保つ**（"They let it stay quiet."）。Suke-sanは警戒を残す（"He is still ready to run away. But he does not run."）。
   - ★**Suke-san定位置の作中確立**：*"He stands by Ako-chan's right side, a little behind."*（＝シリーズ通しの定位置「Ako-chanの右・少し後ろ」をここで確立）。
   - 🔒継続（信頼）：**まだObiaを完全には信用していない**＝*"But he does not trust Obia. Not all the way. Not yet."*（解決はCh10）。締め＝*"Still, he is one more now. One more on the long road."*（タイトル回収）。
   - 注意（人数）：Ep44では**"six" を出さない**（人数宣言はEp45）。無言の合流に留める。
@@ -366,9 +366,9 @@
 
 ### Day 30 — 出航
 - **Ep45「Six on Board」**：船完成。全員乗り込み**出港・南へ**。モード：動・出来事→余韻（章クローザー）。
-  - 🔒引用アンカー（人数＝六）：*"Now they are six on board. Ako-chan, Dango, Obia, Daru, Gabu, and Suke-san."*（Ep21 "four"／Ep31 "five" の継続。**C台帳：Suke-san合流後＝6**）。締め直前 *"Six friends on one ship, going south."*
+  - 🔒引用アンカー（人数＝六）：*"Now they are six on board. Ako-chan, Dango, Obia, Dalu, Gabu, and Suke-san."*（Ep21 "four"／Ep31 "five" の継続。**C台帳：Suke-san合流後＝6**）。締め直前 *"Six friends on one ship, going south."*
   - 確定（出港）：完成した船は tall and strong・新しい白い帆。古い廃船の姿は消えた（"The grey old ship is gone now."）。港を離れ南へ針路（"It turns its nose towards the open sea."）。日本の緑の丘が遠ざかる。
-  - ★**左右の取り合い**：Suke-sanは**右・少し後ろ**（Ep44で確立した定位置）を占める→Dangoが割り込むがSuke-sanは動かず→**Dangoは左**に回る。Ako-chanが笑って**両方の頭に手を置く**：*"There is room for both of you."*（Dangoの嫉妬アークの新しい味付け）。Daru *"Two dogs now!"*／Gabuは静かに横を転がる。
+  - ★**左右の取り合い**：Suke-sanは**右・少し後ろ**（Ep44で確立した定位置）を占める→Dangoが割り込むがSuke-sanは動かず→**Dangoは左**に回る。Ako-chanが笑って**両方の頭に手を置く**：*"There is room for both of you."*（Dangoの嫉妬アークの新しい味付け）。Dalu *"Two dogs now!"*／Gabuは静かに横を転がる。
   - 確定（余韻）：*"Whatever waits out there, they go to meet it. Together."*（will不使用で前向きに締める）。※次章の内容（太平洋・送信#2）は先取りしない。
   - 章クローザー。次章Ch7（太平洋〜ガラパゴス・★送信#2）へ。
   - ✅執筆済み（word_count 292）。
@@ -376,11 +376,11 @@
 ## Chapter 7「Voices in the Deep」— 太平洋〜ガラパゴス（Ep46〜54・9話）
 
 **Ch7 共通**
-- 一行は**六人＋船**（Ako-chan・Dango・Obia・Daru・Gabu・Suke-san）。太平洋を渡りガラパゴスへ→さらに南へ。
+- 一行は**六人＋船**（Ako-chan・Dango・Obia・Dalu・Gabu・Suke-san）。太平洋を渡りガラパゴスへ→さらに南へ。
 - ★**Ep47＝Obia送信シーン #2**（送信3回シリーズの2回目）。#1（Ep13）と同型（無言・南向き・目がpale blueで明るく光る・低いハム）。今回は**Ako-chanがより深く追求しようとするが、Obiaはやはり答えない**。★**Suke-sanも目撃**＝彼のObia警戒が続く理由に。
 - ★**Ep48＝送信#2直後の異変＝クジラ座礁**（#1のヤモリ＝Ep14より明確に大きい）。Ako-chanは「送信→直後に異変」の2例目に半ば気づくが**まだ言葉にしない**（確信は#3＝Ep72）。**送信由来の異変（座礁）と、生き物が伝える背景異変（深海の声）を混同させない**。
 - ★クジラ救助→礼（Ep49-50）。🔒クジラ *"We will not forget."*＝**嵐での恩返し（Ch8）への伏線**。
-- ★ガラパゴスのゾウガメ（Ep51-54）：Daru/Gabu（小さなリクガメ）と巨体のゾウガメの対面＝「同じ甲羅・でも違う」。**世代と時間の重み**。
+- ★ガラパゴスのゾウガメ（Ep51-54）：Dalu/Gabu（小さなリクガメ）と巨体のゾウガメの対面＝「同じ甲羅・でも違う」。**世代と時間の重み**。
 - ⚠️**Ep53「古い記憶」の継続性注意（最重要）**：ゾウガメの語る記憶は**遠い過去の別の出来事**＝個体の一生を超えた**祖先の言い伝え**（S2マイオラニアの伏線）。🔒 *"Long ago——a creature. On a far island. Much bigger than us. And the south was wrong then too."* **これは"今の異変が昔からある"という意味ではない**（今の異変はObia到着＝Ep1から、は不変）。"then too"＝**昔も別の異変があった、という並行する過去の事象**として描く。Ako-chanにも読者にも、今の異変との繋がりは明示しない。
 - Ep54：異変が臨界点手前。ゾウガメが動かなくなり何時間も空を見上げる＝南が近づいている。章クローザー。
 - 地理：太平洋（鳥のいない静寂）→ガラパゴス（乾いた溶岩岩・ウミイグアナ・ゾウガメ）。実在・地図で追える。
@@ -388,7 +388,7 @@
 ### Day 31 — 太平洋へ
 - **Ep46「No Birds」**：太平洋へ出る。鳥のいない静寂（広大さゆえか異変ゆえか分からない）。③帆を鳴らす風の音だけ。Suke-sanが空を見上げるが何も言わない。モード：静・観察。
   - 確定：船は日本を離れ太平洋の真っ只中（"The land of Japan is far behind."）。Ako-chanが空に鳥がいないことに気づく＝"There are no birds. No gulls cry above the waves."／原因を判じかねる（"Maybe the sea is just too wide. ... Or maybe something is wrong out here. She cannot tell."）＝広大さか異変か未確定。
-  - 配置：Suke-sanは**Ako-chanの右**（"at her right side"）で空を見上げ無言（耳・鼻だけ動く）。Dangoは脚にもたれ静止。Daru/GabuはPod内で静か。
+  - 配置：Suke-sanは**Ako-chanの右**（"at her right side"）で空を見上げ無言（耳・鼻だけ動く）。Dangoは脚にもたれ静止。Dalu/GabuはPod内で静か。
   - 🔒継続：「鳥のいない空」は**Ep48でも継続**（座礁クジラの場面で "Still no birds call above."）。Day31→35で通底する不穏。
   - ✅執筆済み（word_count 280）。
 
@@ -407,11 +407,11 @@
   - 🔒引用（クジラ・雄大で少ない言葉＝**背景異変＝深海の乱れ**を伝える）：*"Lost." / "The deep is wrong." / "Cold rises from the south. I came the wrong way." / "Help me. The water pulls away."* ※**"We will not forget." はEp50**（ここでは出さない）。
   - 🔒継続（重要・混同防止）：クジラの声が伝えるのは**深海の背景異変**。**座礁という出来事**＝送信直後の異変。本文は両者を別物として扱う（クジラの台詞で送信を語らせない）。
   - 🔒継続（送信→異変・2例目の気づき）：Ako-chanが前夜のObia（Ep47）とこの出来事を結びつけ**かけるが言語化しない**＝*"Last night Obia stood and hummed. Now a whale lies stuck below. It happened once before too. The small things in the daylight. ... Two times now. She opens her mouth to speak. But no words come out. She cannot be sure of it. And there is no time. The whale needs help now."*（⚠️旧記録の "She is not sure. Not yet." は本文に無し・2026-07-02修正／Ep14 "She opens her mouth. But she does not speak." の意図的反復／**確信は#3＝Ep72**）。"The small things in the daylight" ＝Ep14のヤモリ・コウモリを指す。
-  - 配置：Dangoは船べりから吠える／Suke-sanは硬直して浅瀬を見る／Daru・GabuはPodから覗く。**鳥のいない空はEp46から継続**（"Still no birds call above."）。
+  - 配置：Dangoは船べりから吠える／Suke-sanは硬直して浅瀬を見る／Dalu・GabuはPodから覗く。**鳥のいない空はEp46から継続**（"Still no birds call above."）。
   - 注意（期間表現）：気づきの想起は "It happened once before too." とし、**"long ago" 等の期間表現は使わない**（Ep14＝Day6→Ep48＝Day35。継続性ガード）。
   - ✅執筆済み（word_count 278）。
 - **Ep49「All Together」**：全員でクジラを助ける。Ako-chanの指示・Obiaの力・犬たちの吠え＝協力。
-  - 確定（救助の段取り）：引き潮で座礁したクジラを全員で助ける。Ako-chanが各自に役割を与える（指示役）＝皮膚を濡らす（バケツで海水）／🔒 Obia *"It is heavy." / "I am strong."* と押す（Obiaの力）／Dango・Suke-sanが砂を掘り**吠える**／Daru・Gabuは小石を転がす。やがて**潮が戻り**、全員で押してクジラが深みへ滑り出て自由になる（"It is free. It is safe."）。
+  - 確定（救助の段取り）：引き潮で座礁したクジラを全員で助ける。Ako-chanが各自に役割を与える（指示役）＝皮膚を濡らす（バケツで海水）／🔒 Obia *"It is heavy." / "I am strong."* と押す（Obiaの力）／Dango・Suke-sanが砂を掘り**吠える**／Dalu・Gabuは小石を転がす。やがて**潮が戻り**、全員で押してクジラが深みへ滑り出て自由になる（"It is free. It is safe."）。
   - 🔒台詞（Ako-chan）：*"We help it now." / "All together."*（タイトル "All Together" 回収）／*"Hold on. The water comes back soon."*／解放時 *"Now! Push now! All together!"*
   - 配置：Suke-sanも救助に参加（警戒は残しつつ行動を共にする）。**Obiaの代名詞は "it"**。礼の台詞はEp50（この回では出さない）。
   - ✅執筆済み（word_count 290）。
@@ -423,30 +423,30 @@
   - ✅執筆済み（word_count 284）。
 
 ### Day 49 — ガラパゴス上陸
-- **Ep51「Galapagos」**：ガラパゴス上陸。乾いた溶岩岩・ウミイグアナ・そして巨大な影＝**ゾウガメとの初対面**。③岩の熱が足裏に。DaruがGabuに体を寄せ巨大な影を見上げる。※固有名詞タイトル。
+- **Ep51「Galapagos」**：ガラパゴス上陸。乾いた溶岩岩・ウミイグアナ・そして巨大な影＝**ゾウガメとの初対面**。③岩の熱が足裏に。DaluがGabuに体を寄せ巨大な影を見上げる。※固有名詞タイトル。
   - 確定（時間経過）：クジラ救助（Day35）から**Day49まで太平洋を航行**（"Many days pass on the open sea."）。🔒 Obia *"Galapagos."*（地名のみ・Ep9 "France." と同型）。
   - 確定（情景・生態）：黒い溶岩岩・乾いて暑い島・足裏に伝わる岩の熱（"The heat comes up through their shoes."）。**ウミイグアナ**（marine iguanas）が岩で日光浴し逃げない・波で泳ぐ＝実在の生態。
   - 確定（ゾウガメ初対面）：長い影→巨大なゾウガメ（"It is huge. It is bigger than them all." 首を空へ伸ばす）。**まだ無言・対話なし**（"The Same Shell"＝Ep52／"古い記憶"＝Ep53 はここでは出さない）。
-  - 配置：**DaruがGabuに小さな甲羅を寄せて見上げる**（🔒③）＝"He leans his small shell against Gabu."。Dangoは横で静止・Suke-sanも無言・イグアナも待つよう静止。**小さな2匹×巨体**の対比（Ep52「同じ甲羅・でも違う」への布石）。
+  - 配置：**DaluがGabuに小さな甲羅を寄せて見上げる**（🔒③）＝"He leans his small shell against Gabu."。Dangoは横で静止・Suke-sanも無言・イグアナも待つよう静止。**小さな2匹×巨体**の対比（Ep52「同じ甲羅・でも違う」への布石）。
   - ✅執筆済み（word_count 291）。
-- **Ep52「The Same Shell」**：Daru/Gabuがゾウガメの前に立つ。同じ甲羅を持つ者として——でも何かが違う（世代と時間の重み）。
+- **Ep52「The Same Shell」**：Dalu/Gabuがゾウガメの前に立つ。同じ甲羅を持つ者として——でも何かが違う（世代と時間の重み）。
   - 🔒台詞（ゾウガメ・深く遅い声）：*"You have a shell too." / "The same shell. Like mine."*（タイトル "The Same Shell" 回収）。
-  - 確定（対比＝世代と時間）：同じ形・同じ硬い甲羅、しかし**小さく新しい（Daru/Gabu）×巨大で灰色で古い（ゾウガメ・甲羅に深い割れ目）**。Ako-chan視点 *"They are the same. But they are not the same."*／*"The same shell, far apart in time."*
-  - 🔒台詞（Daru・賑やかさが鎮まる）：*"You are so big." / "So big. So very big."*（普段の大声が小さくなる）。ゾウガメは答えず静かに見守る。**今の異変・古い記憶（Ep53）はここでは語らない**。
-  - 配置：Dangoは少し離れて見て**吠えない**／Suke-sanは静止して目を見開く／イグアナは岩で休む。**DaruがGabuと身を寄せ合う**。
+  - 確定（対比＝世代と時間）：同じ形・同じ硬い甲羅、しかし**小さく新しい（Dalu/Gabu）×巨大で灰色で古い（ゾウガメ・甲羅に深い割れ目）**。Ako-chan視点 *"They are the same. But they are not the same."*／*"The same shell, far apart in time."*
+  - 🔒台詞（Dalu・賑やかさが鎮まる）：*"You are so big." / "So big. So very big."*（普段の大声が小さくなる）。ゾウガメは答えず静かに見守る。**今の異変・古い記憶（Ep53）はここでは語らない**。
+  - 配置：Dangoは少し離れて見て**吠えない**／Suke-sanは静止して目を見開く／イグアナは岩で休む。**DaluがGabuと身を寄せ合う**。
   - ✅執筆済み（word_count 284）。
 
 ### Day 50 — 古い記憶〜空を見上げる
 - **Ep53「A Very Old Memory」**：ゾウガメが**古い言い伝え（祖先の記憶）**を語る。🔒 *"Long ago——a creature. On a far island. Much bigger than us. And the south was wrong then too."* 意味はまだ分からない（S2マイオラニアの伏線）。※上記⚠️＝今の異変が昔からある意ではない。
   - 🔒**継続性ガード（最重要・実装済み）**：記憶は**ゾウガメ自身の一生の記憶ではない**＝祖先の言い伝え。本文で明示：*"This is not my own memory." / "The old ones gave it to me. They had it from the old ones before. It comes from far, far back in time."*
   - 🔒**今の異変との連結を一切張らない（実装済み）**：ゾウガメ自身も意味を知らない（*"It does not know what the story means."*）／Ako-chanも理解しない（*"She does not understand it at all. It is old and strange and far away."*）。本文は**今の「南が wrong」（Ep1以降の現異変）と古い記憶を比較・接続しない**（"then too" は🔒引用内のみ＝**並行する別の過去の事象**）。期間表現でも現異変の長期化を匂わせない。
-  - 配置：Daruは問おうとして言葉が出ない／Gabuは石を見て動かない／Dangoは足元で静か／Suke-sanはゾウガメを見続ける。
+  - 配置：Daluは問おうとして言葉が出ない／Gabuは石を見て動かない／Dangoは足元で静か／Suke-sanはゾウガメを見続ける。
   - ✅執筆済み（word_count 283）。
 - **Ep54「Looking at the Sky」**：異変（臨界点手前）。ゾウガメが動かなくなり、何時間も空を見上げる。南が近づいている。章クローザー。次章Ch8（嵐・南極近海）へ。
   - 確定（異変・段階3＝world.md）：ゾウガメが**突然動かなくなり空を見上げ続ける**（"It does not move. It does not blink. ... The hours pass slowly."）。空には何もない（*"No clouds. No birds. Nothing at all."*＝Ep46「鳥のいない空」と通底）。🔒台詞（Ako-chan）：*"What is it? What do you see?"* → ゾウガメ無応答。
   - 🔒継続（**現異変**との接続＝可）：Ako-chanはこれを**今まで追ってきた「南の wrong」**と認識する＝*"It is the wrong thing. The same wrong from far away. It is stronger here than ever before. The south is very close now."*（Ep2/Ep25 の "wrong" と呼応。**Ep53の古い記憶とは結びつけない**）。Suke-sanも南へ唸り感じ取る。
   - 確定（章クローザー余韻・伏線型）：*"She does not know what waits down there. But something does."*（Ep15「something waits there」/Ep38 と**同型の章末伏線**）。Ch8（嵐）の内容は先取りしない。
-  - 配置：Daruは怖がってPodに戻る／GabuはゾウガメのそばにとどまるDango は足元。next_ep は空欄（Ch8 Ep55 執筆時に ep055.prev_ep=ep054 と相互リンク）。
+  - 配置：Daluは怖がってPodに戻る／GabuはゾウガメのそばにとどまるDango は足元。next_ep は空欄（Ch8 Ep55 執筆時に ep055.prev_ep=ep054 と相互リンク）。
   - ✅執筆済み（word_count 285）。
 
 <!-- Ch7 完了（Ep46〜54）。 -->
@@ -465,7 +465,7 @@
 ### Day 51 — ガラパゴスを離れ南へ
 - **Ep55「Grey Water」**：南下。海の色が青→灰、水温が季節外れに低い。③手すりが冷たい。Suke-sanが船首で南の空気を鼻で読み、一度だけAko-chanを見る（野生の勘が危険を察知）。モード：静・観察（不穏）。
   - 確定（情景）：海が青→灰へ・季節外れの冷水（"It is not the right time for cold. But the cold is here."）。鳥も魚もいない空虚な海（"The sea has no birds now. No fish jump in the waves."＝Ep46/54「鳥のいない空」と通底）。③手すりが冷たい（"The metal is very cold. It bites her skin."）。
-  - 配置：Suke-sanが**船首で南の空気を読み、一度だけAko-chanを振り返る**（無言・"Just once." 野生の勘で危険を先に察知＝"He feels the danger first."）。DangoはAko-chanの足元／ObiaはAko-chanの近くで南を見る／Daru・GabuはPodで休む（赤・青の光）。
+  - 配置：Suke-sanが**船首で南の空気を読み、一度だけAko-chanを振り返る**（無言・"Just once." 野生の勘で危険を先に察知＝"He feels the danger first."）。DangoはAko-chanの足元／ObiaはAko-chanの近くで南を見る／Dalu・GabuはPodで休む（赤・青の光）。
   - 注意（期間表現なし）：章末伏線は "Something waits down there. She knows it now." に留め、嵐の内容を先取りしない。
   - ✅執筆済み（word_count 285）。
 
@@ -479,17 +479,17 @@
 - **Ep57「Two Hours」**：嵐直前の不気味な静寂。🔒 Obia *"Two hours. Maybe less."* DangoがAko-chanから離れない。モード：静（嵐前の張り詰め）。
   - 確定（不気味な静寂）：風が止み海が凪ぐ・クジラの声も止む・音が消える（"There is no sound now. No wind. No waves." / "The world holds its breath." / "The sea is a flat grey glass."）。Ako-chanは "This calm is wrong. She knows this kind of wrong." と感じる。
   - 🔒台詞：Obia *"It is close now." / "Two hours. Maybe less."*（**完全一致・嵐到達予告**。Obia "it"）。
-  - 配置：**DangoがAko-chanから離れない**（"He does not move from her. He leans hard on her leg."）→Ako-chanがかがんで抱きしめ "I am here. Stay close to me."。Suke-sanはAko-chanの右で低く緊張／Daru・GabuはPodの奥に隠れる／Obiaは船べりで見張る。
+  - 配置：**DangoがAko-chanから離れない**（"He does not move from her. He leans hard on her leg."）→Ako-chanがかがんで抱きしめ "I am here. Stay close to me."。Suke-sanはAko-chanの右で低く緊張／Dalu・GabuはPodの奥に隠れる／Obiaは船べりで見張る。
   - ✅執筆済み（word_count 278）。
 - **Ep58「The Whale Wall」**：嵐のピーク。船が転覆寸前。そのとき**あのクジラが仲間を連れて来る＝恩返し**。クジラたちが船を囲い、体を張って波を受ける。行動で見せる。モード：動・出来事。
   - 確定（嵐ピーク・転覆寸前）：黒い丘のような波が船を覆い船が大きく傾く（"The ship tips far to one side. ... It almost goes over."）。
   - 確定（恩返し＝Ep50回収・行動で見せる）：暗い海から**複数のクジラ**が浮上し**船を壁のように囲う**（"They make a wall around the ship. Their great bodies take the waves. The water hits them, not the ship."）。近くの1頭の巨大な目がAko-chanを見つけ、Ako-chanが**前回助けたクジラ**だと気づく（"It is the whale from before. They helped it once. Now it helps them."）。🔒台詞（Ako-chan）：*"You came back."* クジラは**話さず**ただ波を受け続ける（説明しすぎない）。
   - 🔒回想引用（Ep50「Thank You」の payoff）：Ako-chanが嵐の中で前のクジラの言葉を思い出す＝*"We will not forget," it said.*（**Ep50と完全一致**・誓い型willの正規例外・過去報告。"Now she knows what they mean."）。
-  - 配置：Dangoは床に伏せる／Suke-sanは爪を甲板に立てる／Daru・GabuはPodの奥／**Obiaが舵（the wheel）を握る**。**Obiaの代名詞 "it"**。
+  - 配置：Dangoは床に伏せる／Suke-sanは爪を甲板に立てる／Dalu・GabuはPodの奥／**Obiaが舵（the wheel）を握る**。**Obiaの代名詞 "it"**。
   - ✅執筆済み（word_count 289）。
 - **Ep59「Cold and Clear」**：クジラがAko-chanに声で進路を届ける。Ako-chanが冷静に全員へ指示（🔒 *"Obia: route. Dango: stay down."* 等）。声が嵐を切り、嵐を抜ける。
   - 確定（核＝聴く力→指示）：近くのクジラが**声で進路を届ける**（嵐を切る低く澄んだ声）。🔒台詞（クジラ）：*"This way. Follow us. Go where we go."* Ako-chanが聴き取り、冷静に短い指示を全員へ。
-  - 🔒台詞（Ako-chan・リーダーシップ）：*"Obia: route. Dango: stay down."*（**完全一致**）／*"Suke-san: watch the south."* / *"Daru, Gabu: stay in your Pods."* → 各自が役割を果たす（Obiaが舵を正しい向きへ／Dangoは伏せる／Suke-sanは南を見張る／2匹はPodで静止）。
+  - 🔒台詞（Ako-chan・リーダーシップ）：*"Obia: route. Dango: stay down."*（**完全一致**）／*"Suke-san: watch the south."* / *"Dalu, Gabu: stay in your Pods."* → 各自が役割を果たす（Obiaが舵を正しい向きへ／Dangoは伏せる／Suke-sanは南を見張る／2匹はPodで静止）。
   - 確定（タイトル回収・余韻）：Ako-chanの声＝*"cold and clear. It cuts the storm like the whale's."*（タイトル "Cold and Clear" 回収）。嵐を抜ける（波が小さくなり風が落ちる）。手は震えても声は震えなかった（"But her voice did not shake. Not once."）。
   - ✅執筆済み（word_count 270）。
 
@@ -501,15 +501,15 @@
   - ✅執筆済み（word_count 274）。
 
 ### Day 66 — 南極接近（氷〜装備）
-- **Ep61「First Ice」**：最初の氷山が現れ始める。全員が窓に集まる。🔒 Daru *"Does it not melt?"* → Gabu *"Here it does not."*
+- **Ep61「First Ice」**：最初の氷山が現れ始める。全員が窓に集まる。🔒 Dalu *"Does it not melt?"* → Gabu *"Here it does not."*
   - 確定（時間経過）：Day59→Day66（"Days pass. The storm is far behind them now."）。空気が日ごとに冷える。
   - 確定（最初の氷山）：朝、窓の外に最初の氷山（"a huge wall of ice"・船より高い）。全員が窓に集まる。③テクスチャー：近くで見ると氷は白だけでなく内側が青い（"It is not just white. It is blue too, deep inside."）・鳥も波もない静寂（"There are no birds. There are no waves."＝Ep46/54/55の「鳥のいない空」と通底）。
-  - 🔒台詞（完全一致）：Daru *"Ice! So much ice! Does it not melt?"* → Gabu *"Here it does not. Here it stays. It is too cold."*（賑やかなDaruが氷山の前で静まる＝"Even Daru is quiet."）。
+  - 🔒台詞（完全一致）：Dalu *"Ice! So much ice! Does it not melt?"* → Gabu *"Here it does not. Here it stays. It is too cold."*（賑やかなDaluが氷山の前で静まる＝"Even Dalu is quiet."）。
   - 配置：DangoはガラスにPaws／Suke-sanは耳を立てて外を見る。
   - ✅執筆済み（word_count 272）。
 - **Ep62「Ready for the Cold」**：Obiaが防寒装備を配布。Dango/Suke-san＝保温ブーツ＆ベスト／Pod＝南極モード（断熱・保温強化）。**未来技術の由来には触れない**。章クローザー。次章Ch9（南極上陸・Pen-san）へ。
   - 確定（防寒装備配布）：Obiaが箱から装備を配る。**Dango＝four small boots＋warm vest**（Ep26の "four small boots" と数値整合）／**Suke-san＝boots＋vest**（新しい物を警戒しつつ着用 🔒 *"They are warm. Good."*）／**Ako-chan＝軽く暖かいコート**（Obia作・**素材の由来＝未来技術には一切触れない**＝world.md §7準拠）。
-  - 確定（Pod南極モード換装）：ObiaがPodを寒冷対応に換装（"The Pods grow bigger and warmer inside." 🔒 Obia *"Now they keep the cold out."*）。Daru *"It is warm! So warm!"* 赤・青の光は "glow softly"。**Obiaの代名詞 "it"**。
+  - 確定（Pod南極モード換装）：ObiaがPodを寒冷対応に換装（"The Pods grow bigger and warmer inside." 🔒 Obia *"Now they keep the cold out."*）。Dalu *"It is warm! So warm!"* 赤・青の光は "glow softly"。**Obiaの代名詞 "it"**。
   - 確定（章クローザー余韻・伏線型）：*"Something waits there too. And they go to meet it."*（Ep54/Ep38/Ep15と同型の章末伏線）。**Pen-san等Ch9の内容は先取りしない**。次章Ch9（南極上陸・Pen-san）へ。
   - ✅執筆済み（word_count 273）。
 
@@ -520,14 +520,14 @@
 **Ch9 共通**
 - ★**南極上陸**。船を沿岸の氷に接岸し、**以後ストーリーは氷の上**で進む。⚠️**拠点は船のみ＝「基地」という建物は出さない**（world.md継続性ルール）。活動は船から視界の届く範囲。
 - ★**Pen-san登場・合流（Ep65-66）＝南極の仲間（7人目）**。エンペラーペンギンのヒナ♂・全身グレーの綿毛・黒い頭頂・白い頬〜顎・大きな黒目・丸い体型・**甘えん坊**。⚠️**Pen-sanは旅には同行せず南極に留まる**（合流＝仲間だが、Ch11出発時は残る。"全員が船に乗る"的な人数表現は避ける）。
-- ★**Dangoの嫉妬がピーク（Ep66）**：Ako-chanがモフモフのPen-sanを抱っこ→**嫉妬アークの頂点**（Daru＝芽→**Gabu＝受容（"no trouble"）**→Suke-san＝再燃→Pen-san＝頂点。⚠️Gabuは積み上げの一段ではなく対比ビート＝[[timeline]] #1注記参照）。
+- ★**Dangoの嫉妬がピーク（Ep66）**：Ako-chanがモフモフのPen-sanを抱っこ→**嫉妬アークの頂点**（Dalu＝芽→**Gabu＝受容（"no trouble"）**→Suke-san＝再燃→Pen-san＝頂点。⚠️Gabuは積み上げの一段ではなく対比ビート＝[[timeline]] #1注記参照）。
 - ★**Colonel Adelie登場（Ep67）**：アデリーペンギン♂・約70cm・黒背白腹・**目の周りの白いリング**・短く丸いくちばし・小さいが気が強い**軍人肌**。Pen-sanの護衛兼教育係。**Obia監視弧の開始**。
 - ★**ObiaへのW警戒（Ep70）**：Adelieの監視＋Suke-sanの勘が重なり、Obiaへの不穏が増幅（Ch10-11の核心へ）。Adelieの「演技でなく本物だった」という認識はEp88「You worked. You did not hide.」に集約＝**先取りしない**。
 - ⚠️**Ep69：洞窟・氷の崖の入口は出さない**（S2 Ch17まで未発見）。
 - ★**Ep71＝3回目送信の前触れ**：Obiaの様子がどこかおかしい。静かな不穏で締める（送信#3＝Ep72 Ch10）。この章では送信シーンなし。
 - ⚠️**grammar注意（Ep65）**：episode-listの🔒「I knew you **would** come!」は **"would"＝S1（A1）で未解禁**（will/would/couldはS2解禁）。→ **wouldを使わない言い回しに置換**（例 *"Ako-chan! You came! I knew it! You came!"*）。
 - 地理：南極（白い大地・氷・極寒）。装備（犬ブーツ＆ベスト／Pod南極モード）はCh8から継続。
-- ⚠️**Pod露出ルール（Ch9-11横断・確定2026-06-27／⚠️船内例外を撤回2026-06-29）＝南極ではリクガメ（Daru/Gabu）はPodから身体（頭等）を一切出さない＝氷上も船内も常にPod内に留まる**（断熱Pod＝温度・湿度・UVを管理する携帯ハビタット＝砂漠で冷却Podに留まるのと同じ理屈で南極は保温Podに留まる）。「覗く/頭を出す/peek out」等は不可＝**Pod内から見る/Podを動かして向く**等に統一。⚠️**旧「暖かい船内でPodを出る描写は許容」は撤回**：南極の船内は人＋厚毛の犬2匹（吹雪時はペンギンも退避）の共有空間で、リクガメ域の25〜30度は両立不能（≈20度＝リクガメには低い）→**船内でも甲羅/脚をPod外に出さない**。**吹雪・危険時はPodのロックモード**（world.md §7）で固定・保温。該当改稿＝Ep65・Ep88・**Ep77（2026-06-29＝船内でもPod内に統一）**。
+- ⚠️**Pod露出ルール（Ch9-11横断・確定2026-06-27／⚠️船内例外を撤回2026-06-29）＝南極ではリクガメ（Dalu/Gabu）はPodから身体（頭等）を一切出さない＝氷上も船内も常にPod内に留まる**（断熱Pod＝温度・湿度・UVを管理する携帯ハビタット＝砂漠で冷却Podに留まるのと同じ理屈で南極は保温Podに留まる）。「覗く/頭を出す/peek out」等は不可＝**Pod内から見る/Podを動かして向く**等に統一。⚠️**旧「暖かい船内でPodを出る描写は許容」は撤回**：南極の船内は人＋厚毛の犬2匹（吹雪時はペンギンも退避）の共有空間で、リクガメ域の25〜30度は両立不能（≈20度＝リクガメには低い）→**船内でも甲羅/脚をPod外に出さない**。**吹雪・危険時はPodのロックモード**（world.md §7）で固定・保温。該当改稿＝Ep65・Ep88・**Ep77（2026-06-29＝船内でもPod内に統一）**。
 
 ### Day 67 — 上陸〜白い世界
 - **Ep63「Ice Under Feet」**：上陸。船を沿岸の氷に接岸。氷の上に最初の一歩（以後は氷上）。モード：動・出来事。
@@ -538,22 +538,22 @@
 - **Ep64「The White World」**：船を拠点に氷上を歩く最初の探索・日常。モード：静・観察。⚠️**改稿2026-06-27＝Ep63と同日（Day67）の連続**：旧冒頭"The next morning ... steps off the ship again"の**別日跨ぎ＋二重下船を解消**（上陸=Ep63→そのまま最初の歩き出し）。
   - 確定（拠点動機・改稿2026-06-27＝実務/寒さ中心）：氷の世界は寒く広すぎ避難所がない＝船だけが暖かく安全→船から離れない（🔒*"The white land is too cold and too wide. There is no home out here. Only the ship keeps them warm and safe. So they stay close to it. They do not go far. They cannot."*）＝**なぜ先へ進まないかの動機を明示**（world.md §7準拠）。
   - 確定（ペンギンの群れ＝遠景のみ・⚠️改稿2026-06-29＝**曖昧な「黒い影」で統一**）：遠くに**小さな黒い影が多数**立つ（"small black shapes" / "Those dark things" / "The far black shapes"）。Ako-chan *"What are those? Those dark things, way out there?"*（旧 "Are those birds?" は鳥＝ペンギンを薄く先取りするため不使用）。**遠すぎて声は聴こえない**（"They are too far to hear."）＝個体接触・名は出さない（Ep65のPen-san登場への布石）。⚠️**群れは純背景＝鳥／ペンギンと特定しない**（読者がEp65で初めてペンギンと知る）。
-  - 確定（Suke-san・⚠️改稿2026-06-29）：右の定位置で新しい匂いを警戒＝*"Strange. I do not know this place."* 嗅覚描写の旧 "the far birds" を *"and something far off"* に置換（群れの曖昧化と整合）。Dangoは反対側を低く歩く。Daru/GabuはPod内。
+  - 確定（Suke-san・⚠️改稿2026-06-29）：右の定位置で新しい匂いを警戒＝*"Strange. I do not know this place."* 嗅覚描写の旧 "the far birds" を *"and something far off"* に置換（群れの曖昧化と整合）。Dangoは反対側を低く歩く。Dalu/GabuはPod内。
   - ③：きしむ氷（"The ice creaks ... a long, low sound."）・白い静寂（"The silence is deep and full."）・白い息。
   - ✅執筆済み（word_count 294・改稿後実測）。
 
 ### Day 68 — Pen-san登場〜命名〜抱っこ（嫉妬ピーク）
 - **Ep65「He Came Running」**：Pen-san登場・命名。⚠️改稿2026-06-29＝**群れから切り離す**：旧 "Then one of the shapes moves"（群れの一員が動き出す）を、群れとは別に**近くで小さな影が単独で動き出す**へ＝*"The far black shapes are out there, like before. Then, closer by, something small moves on the ice. It comes towards them."*（**群れ＝純背景・Pen-sanは群れの一員として描かない**＝s1.md/台帳のルール厳守。末尾 "He came all this way to find her" とも整合）。転びながら近づく（甘えん坊のヒナ）。モード：動・出来事。
-  - 🔒引用アンカー（Pen-san・**would回避の確定版**）：*"Ako-chan! You came! I knew it! You came!"*（episode-listの "I knew you would come!" は**would＝S1未解禁のため不使用**・この置換版を正とする）。⚠️**Pen-sanがAko-chanの名を知り「来ると信じていた」根拠は描かない＝寓話的余白として残す（確定2026-06-29ユーザー選択／世界観ルール「動物と話せる理由は描かない」と同調）**。他3匹（Daru/Gabu/Suke-san）は名を先回りしない＝Pen-sanだけの異例だが、説明はしない。
+  - 🔒引用アンカー（Pen-san・**would回避の確定版**）：*"Ako-chan! You came! I knew it! You came!"*（episode-listの "I knew you would come!" は**would＝S1未解禁のため不使用**・この置換版を正とする）。⚠️**Pen-sanがAko-chanの名を知り「来ると信じていた」根拠は描かない＝寓話的余白として残す（確定2026-06-29ユーザー選択／世界観ルール「動物と話せる理由は描かない」と同調）**。他3匹（Dalu/Gabu/Suke-san）は名を先回りしない＝Pen-sanだけの異例だが、説明はしない。
   - 確定（登場の所作）：氷上を走り*"Its little feet slip and slide."*→転ぶ→また走る（"It runs and falls, runs and falls."）。外見＝全身グレーの綿毛・頭頂が黒・頬が白・大きな黒目・丸い体型。
-  - ★**Pen-san命名・作中確立点（A台帳）**：**Ako-chanが名を付ける**＝*"I have a name for you. Pen-san."* → 以降の地の文・呼称は **"Pen-san" / "he"**（命名前は "the baby penguin / it"）。Daru/Gabu/Suke-sanの自己命名型とは異なり**Ako-chanが付与**。
-  - 配置：Dangoは**Ako-chanの前に立つ**（嫉妬の芽・ピークはEp66）。Suke-sanは警戒しつつ見守る。⚠️**改稿2026-06-27＝Pod露出一掃**：旧"Gabu looks out from his blue Pod / Daru pops his head up from his Pod"（南極で頭を出す）を**身体を出さない描写**へ＝*"Gabu watches slowly from inside his blue Pod. Daru spins his red Pod around to see."* Daru *"A bird! A new bird!"*（※Ep66 🔒 *"He walks. Like us!"* はここでは出さない）。
+  - ★**Pen-san命名・作中確立点（A台帳）**：**Ako-chanが名を付ける**＝*"I have a name for you. Pen-san."* → 以降の地の文・呼称は **"Pen-san" / "he"**（命名前は "the baby penguin / it"）。Dalu/Gabu/Suke-sanの自己命名型とは異なり**Ako-chanが付与**。
+  - 配置：Dangoは**Ako-chanの前に立つ**（嫉妬の芽・ピークはEp66）。Suke-sanは警戒しつつ見守る。⚠️**改稿2026-06-27＝Pod露出一掃**：旧"Gabu looks out from his blue Pod / Dalu pops his head up from his Pod"（南極で頭を出す）を**身体を出さない描写**へ＝*"Gabu watches slowly from inside his blue Pod. Dalu spins his red Pod around to see."* Dalu *"A bird! A new bird!"*（※Ep66 🔒 *"He walks. Like us!"* はここでは出さない）。
   - 注意（人数）：**Pen-sanの人数宣言はしない**（南極に留まる仲間＝"全員が船に"型の数表現を避ける）。
   - ✅執筆済み（word_count 277・2026-06-29改稿後実測）。
 - **Ep66「Pick Me Up」**：Ako-chanがPen-sanを抱っこ→★**Dangoの嫉妬が最高潮**（アーク頂点）。モード：動・出来事＋感情。
   - 🔒引用アンカー（Pen-san）：*"Pick me up." / "Please."*（甘えん坊・小さな翼を上げてせがむ）。
-  - 🔒引用アンカー（Daru）：*"He walks!" / "He walks. Like us!"*（リクガメ視点で二足歩行に驚く）。
-  - ★**Dango嫉妬ピーク（段階回想を本文化）**：耳が伏せ・尾が下がり・脚の間に割り込み・**顔を背ける**＝*"This is the worst one yet. First came Daru. Gabu was no trouble. Then came Suke-san. And now a soft, round penguin in her arms."*（⚠️改稿2026-06-29＝**Gabuは"受容"ビート**なので *"Gabu was no trouble."* と明示し、Ep31の軟化描写と整合させた。旧 "Then Gabu." はGabuも嫉妬対象と含意し矛盾していた）。Pen-san＝アークの頂点。
+  - 🔒引用アンカー（Dalu）：*"He walks!" / "He walks. Like us!"*（リクガメ視点で二足歩行に驚く）。
+  - ★**Dango嫉妬ピーク（段階回想を本文化）**：耳が伏せ・尾が下がり・脚の間に割り込み・**顔を背ける**＝*"This is the worst one yet. First came Dalu. Gabu was no trouble. Then came Suke-san. And now a soft, round penguin in her arms."*（⚠️改稿2026-06-29＝**Gabuは"受容"ビート**なので *"Gabu was no trouble."* と明示し、Ep31の軟化描写と整合させた。旧 "Then Gabu." はGabuも嫉妬対象と含意し矛盾していた）。Pen-san＝アークの頂点。
   - 確定（Ako-chanの収め方）：氷にひざまずき両方を抱える＝*"One arm for Pen-san. One hand for Dango." / "I am here for you too."*（※Ep45 "There is room for both of you." の**重複回避のため別表現**にした）。
   - 確定（抱き心地）：Pen-sanは "soft and round and warm"・綿毛は "like a little cloud"。Ako-chan *"She never held a thing so soft."*
   - ✅執筆済み（word_count 291・2026-06-29改稿後実測）。
@@ -568,7 +568,7 @@
 
 ### Day 69 — 氷上の生活
 - **Ep68「On the Ice」**：氷上生活のテクスチャー。Pod南極モード活躍。Pen-sanが仲間に馴染む。モード：静・観察（日常）。
-  - 確定（Pen-san×Daru/Gabu交流）：Pen-sanがPodを初めて見る＝Daru *"They are Pods. We walk, and they go!"* 赤Podを追って転ぶ→青Podの**Gabuの横に並ぶ**＝Pen-san *"You are slow. I like slow."*（Gabuは無言だがPen-sanのそばに居続ける）。Pen-sanが仲間に馴染む。
+  - 確定（Pen-san×Dalu/Gabu交流）：Pen-sanがPodを初めて見る＝Dalu *"They are Pods. We walk, and they go!"* 赤Podを追って転ぶ→青Podの**Gabuの横に並ぶ**＝Pen-san *"You are slow. I like slow."*（Gabuは無言だがPen-sanのそばに居続ける）。Pen-sanが仲間に馴染む。
   - 確定（拠点・装備）：Ako-chanは船の箱に座る（拠点＝船のみ）。Dango＝warm vest＋boots／Suke-san＝右で見張り／**装備の温かさ**（"everyone stays warm. Obia made good things for the cold."＝未来技術の由来に触れない）。
   - ③：風（"The wind is soft and low." / 雪が "low over the ice like white smoke"）・**氷に映る光**（"the ice throws the light back. It shines under their feet and all around."）。
   - 余韻：Pen-sanがAko-chanの膝で眠る＝*"For a while, no one needs to move." / "The world is calm and white."*（Adelie監視の深化＝Ep70へは出さない）。
@@ -590,7 +590,7 @@
 ### Day 71 — 不穏（送信#3の前触れ）
 - **Ep71「Something Is Wrong」**：章クローザー。Obiaの様子がどこかおかしい（3回目送信の前触れ）。静かな不穏さで締める。モード：静・観察（不穏）。
   - 確定（Obiaの異変）：皆から離れて立ち**南を again and again 見る**・口数が減る・問いに *"answers slowly"* または無応答・青い目が遠い。Ako-chan *"Obia? Are you okay?"* → Obia *"I am fine."*（だが声が flat and low）。⚠️**送信シーンは出さない**（Ep72へ）。
-  - 確定（群れの異変感知）：Suke-san＝Obiaと南を交互に見る・鼻が働く／Adelie＝終日動かず監視／Dango・Pen-san・Daru・Gabuも沈静（"The whole group feels the change."）。
+  - 確定（群れの異変感知）：Suke-san＝Obiaと南を交互に見る・鼻が働く／Adelie＝終日動かず監視／Dango・Pen-san・Dalu・Gabuも沈静（"The whole group feels the change."）。
   - 🔒継続（回想カウント＝**two**）：Ako-chanが**2つの奇妙な夜**を回想＝*"One on the train, back near the start. One on the ship at sea."*（＝Ep13送信#1・Ep47送信#2の挙動。**"three"のカウントはEp74へ温存**／"long ago"等の期間表現は使わず "back near the start" に置換）。両夜とも「Obiaが一人で立ち南を見た」。
   - 確定（章クローザー余韻）：*"Something is wrong. And the long night is only starting."*（静かな不穏で締め・Ch10の送信#3/猛吹雪は先取りしない）。next_ep＝/season1/chapter10/ep072/。
   - ✅執筆済み（word_count 277）。
@@ -635,9 +635,9 @@
   - 確定（場面）：Obiaが *"Dango," ... "Come here."* と**こっそり**呼ぶ（*"No one else is near them."*＝目撃者なし＝Ep78でDangoが伝えるまで皆は知らない）。Obiaが**自分の赤い首輪を外して**渡す。
   - 確定（Dango・改稿2026-06-27）：受け取るが訊けない＝⚠️**旧"He is only a dog. He cannot use words."（非発話の理由付け）を削除**し、その場の所作のみに＝*"He wants to ask so many things. But the words do not come. He cannot say them."*（台帳A-2＝Dango非発話は地の文/仕草で示し理由を語らない、と整合）。首輪は *"warm from Obia's body."* / Dangoは口にくわえ離さない。⚠️首輪の由来は一切示さない（起源を伏せる）。
   - 確定（締め）：Obiaが前足をDangoの頭に一瞬置く→*"Good," it says, soft and low.* / Dango *"Something is wrong. He feels it deep inside."*
-- **Ep77「White Out」**：snow storm到来。視界が白一色。**全員（Pen-san・Adelieも）船内へ退避**（ペンギンの群れは描かない）。気づくとObiaがいない（理由は誰も知らない）。③扉を閉じた瞬間、外の轟音が壁越しに。⚠️**改稿2026-06-29＝リクガメは船内でもPod内に統一**：旧「Daru・GabuがAko-chanの足元で震える／Ako-chanが甲羅を撫でる」は**船内例外撤回**（:530参照）に伴い不可→**Daru・GabuはロックしたPod内で安全に**、Ako-chanが**光るPodごと足元に引き寄せ手を当てる**＝*"Daru and Gabu stay safe in their Pods. The Pods lock tight in the storm. Ako-chan pulls both Pods close to her feet. She puts a hand on each one. They are warm, and the red and blue lights glow."*（甲羅直接接触・"glowing shell"は不可＝光るのはPod）。Pen-sanは怖がってAko-chanに寄る。
-  - 確定（退避メンバー）：Ako-chanが *"Inside! Everyone inside!"* → Dango・Suke-san・Daru・Gabu・Pen-san・the Colonel が船内へ（リクガメは**Pod内のまま** *"Suke-san rolls Daru and Gabu along in their Pods."*／**Colonelが最後**＝*"The Colonel comes in last of all."*／⚠️**ペンギンの群れhuddleは描かない**）。扉を閉じる＝*"It closes with a loud, hard bang. The roar of the storm goes behind the wall."*
-  - 確定（不在発覚）：Ako-chanが室内の皆を見回す（Dango/Suke-san/Daru/Gabu/Pen-san/Colonelを確認）→ *"But one is not here."* → *"Obia?" ... "Obia!"* 無応答 → 🔒 *"Obia is gone. And no one knows why."*（理由は誰も知らない＝告白Ep83まで未開示）。Dangoは首輪をくわえたまま（Ep78の伝達へ）。
+- **Ep77「White Out」**：snow storm到来。視界が白一色。**全員（Pen-san・Adelieも）船内へ退避**（ペンギンの群れは描かない）。気づくとObiaがいない（理由は誰も知らない）。③扉を閉じた瞬間、外の轟音が壁越しに。⚠️**改稿2026-06-29＝リクガメは船内でもPod内に統一**：旧「Dalu・GabuがAko-chanの足元で震える／Ako-chanが甲羅を撫でる」は**船内例外撤回**（:530参照）に伴い不可→**Dalu・GabuはロックしたPod内で安全に**、Ako-chanが**光るPodごと足元に引き寄せ手を当てる**＝*"Dalu and Gabu stay safe in their Pods. The Pods lock tight in the storm. Ako-chan pulls both Pods close to her feet. She puts a hand on each one. They are warm, and the red and blue lights glow."*（甲羅直接接触・"glowing shell"は不可＝光るのはPod）。Pen-sanは怖がってAko-chanに寄る。
+  - 確定（退避メンバー）：Ako-chanが *"Inside! Everyone inside!"* → Dango・Suke-san・Dalu・Gabu・Pen-san・the Colonel が船内へ（リクガメは**Pod内のまま** *"Suke-san rolls Dalu and Gabu along in their Pods."*／**Colonelが最後**＝*"The Colonel comes in last of all."*／⚠️**ペンギンの群れhuddleは描かない**）。扉を閉じる＝*"It closes with a loud, hard bang. The roar of the storm goes behind the wall."*
+  - 確定（不在発覚）：Ako-chanが室内の皆を見回す（Dango/Suke-san/Dalu/Gabu/Pen-san/Colonelを確認）→ *"But one is not here."* → *"Obia?" ... "Obia!"* 無応答 → 🔒 *"Obia is gone. And no one knows why."*（理由は誰も知らない＝告白Ep83まで未開示）。Dangoは首輪をくわえたまま（Ep78の伝達へ）。
 
 ### Day 73 夜 — 話し合い〜宣言
 - **Ep78「We Talk About Obia」**：船内で**全員（Pen-san・Adelie含む）**がObiaを話す（助けてくれたこと・不審な行動、両方）。**DangoがObiaから首輪を預かったことを伝える**＝預けて出た事実が重く響く。**Adelieもこの場で見届ける**（Ep88布石）。
@@ -670,7 +670,7 @@
 - ⚠️**Ep83 grammar**：確定台詞「I have been watching」は**現在完了進行＝S1未解禁**→**A1現在形に**（"I watch you." / "I send data."）。
 - ⚠️**will**：Ep84 Obia「I will stop. Here. Now.」＝**Obiaの固定台詞のwill例外**（Ep3と同枠＝可）。Ep87 Pen-sanは**折衷**＝中核の「I will be a good Emperor.」のみwillを残し、他はA1化（"I grow up now." / "You come back?"）。
 - ★**Ep88＝Adelieの信頼転換 payoff**：Ch9-10で見届けた"本物"を言語化。
-- ★**別れ（Ep87-89）**：Pen-san・Adelieは**南極に残る**（Ch10では布石を作らなかった＝ここで初めて扱う）。一行（Ako-chan・Dango・Obia・Daru・Gabu・Suke-san＝6）は帰路へ。
+- ★**別れ（Ep87-89）**：Pen-san・Adelieは**南極に残る**（Ch10では布石を作らなかった＝ここで初めて扱う）。一行（Ako-chan・Dango・Obia・Dalu・Gabu・Suke-san＝6）は帰路へ。
 - ★**Ep86＝送信停止の効果**：動物たちの声がわずかに静まり始める。Ako-chanは感じるが口に出さない（Ep99ハリネズミ「The ground is quiet. I can sleep again.」への布石）。
 - ★**赤い首輪**：Ep82でつけ直し済み。起源（誰が・いつ作ったか）は引き続き全シーズン伏せる＝bootstrap循環。
 
@@ -678,7 +678,7 @@
 - **Ep83「Confession」**：救出当日の夕方、暗くなってから、船内で一つの小さなランプの下、Obiaがゆっくり言葉を選んで打ち明ける。モード：静・感情。
   - 🔒引用アンカー（Obia告白・A1確定／改稿2026-06-27）：*"I watch you. All of you."* / *"On the train. On the ship. Here."* / *"I send data. I do not know where it goes."* / *"I think my sending caused this."* / *"The storm. The scared voices. All the wrong things."*（⚠️**改稿：旧"The lost voices"を"The scared voices"に置換**＝指す対象を明確化＋S3 Ep271の負の動機"the lost voices"との早期エコー混線を回避）。⚠️**改稿：嵐へ独り出た理由を告白に補足**＝*"When the storm came, I felt it. My sending and the storm came together. I had to know. So I went out. To the south. Alone. To face it."*（境界内＝送信と異変の連動の自覚→源/最悪へ"向き合いに"行った、まで。⚠️**使命・未来から・ループ・宛先・首輪の正体は一切明かさない**）。Obiaの代名詞は "it"。
   - 確定：Ako-chanが3夜（列車Ep13／船Ep47／氷Ep72の挙動：青い光・低いハム）を内心で結びつけ、ここで初めて腑に落ちる（"Now she understands."）。⚠️現在完了進行は不使用（"I watch you." の現在形）。
-  - 確定（反応）：Ako-chanは怒らない＝*"She is not angry. Her heart is full and sad."*／🔒 Ako-chan *"You came back. That is what matters now."* 締めはAko-chanがObiaの冷たい銀の手に触れる（無因の受容）。Dango・Suke-san（右）・Colonel・Pen-san・Daru/Gabu（Pod内）同席。
+  - 確定（反応）：Ako-chanは怒らない＝*"She is not angry. Her heart is full and sad."*／🔒 Ako-chan *"You came back. That is what matters now."* 締めはAko-chanがObiaの冷たい銀の手に触れる（無因の受容）。Dango・Suke-san（右）・Colonel・Pen-san・Dalu/Gabu（Pod内）同席。
   - ✅執筆済み（word_count 309・改稿後実測）。
 - **Ep84「Stop」**：同夜。Obiaが送信をやめると宣言。モード：感情・転換。プログラムに反し、初めて自分の意志で動く＝**監視者から仲間へ**。※1語タイトル例外。
   - 🔒引用アンカー（Obia）：*"I will stop. Here. Now."*（**Obiaのwill例外**＝Ep3と同枠）。
@@ -688,14 +688,14 @@
   - ✅執筆済み（word_count 298・改稿後実測）。
 - **Ep85「Aurora」**：その夜、Obiaが戸口で皆を呼び（🔒 Obia *"Come. Look up."*）、みんなで外に出てオーロラを見る。言葉の少ない満ちた静けさ。③緑の光が氷に映る・息の白さ・寄り添う体。※固有現象タイトル。モード：静・余韻。
   - 確定：緑の光が水のように流れ、途中ピンクに変わりまた緑へ（"slow and soft"）。Ako-chanは初めて見る（"She never saw this before."＝⚠️現在完了不使用・単純過去）。
-  - 確定（配置・余韻）：全員が外で寄り添う（Dango左／Pen-san反対側／Suke-san右／Daru・Gabu Pod／Colonel）。締めの核＝**Obiaが"後ろ"でなく"横"に立つ**（"Obia stands beside her now. Not behind her. Beside her."＝監視者→仲間の視覚的回収）。"And for now, that is enough."
+  - 確定（配置・余韻）：全員が外で寄り添う（Dango左／Pen-san反対側／Suke-san右／Dalu・Gabu Pod／Colonel）。締めの核＝**Obiaが"後ろ"でなく"横"に立つ**（"Obia stands beside her now. Not behind her. Beside her."＝監視者→仲間の視覚的回収）。"And for now, that is enough."
   - ✅執筆済み（word_count 270）。
 
 ### Day 75 — 声が和らぐ
 - **Ep86「The Voices Soften」**：送信停止の翌朝。動物たちの声が**わずかに**静まり始める＝送信停止の効果。Ako-chanは感じるが**口に出さない**（Ep99ハリネズミ「The ground is quiet. I can sleep again.」への布石）。モード：静・観察。
   - 確定（声の変化）：声はまだ在るが softer／*"Not so afraid. Not so wrong."*／前日まで皆**南**を指していた（"Yesterday they all pulled to the south."）が今日は calm。アザラシ・海鳥の声で具体化（"A seal calls out... slow and easy." / 海鳥が "do not cry so loud now"）。⚠️**収束は"a little"に留める**（南極＝最悪点／完全収束はEp99）。
   - 確定（因果の内省）：Ako-chanが**Ep84の送信停止と結びつける**＝*"Last night it said, 'I will stop.' And now the world feels a little soft."*（⚠️**口には出さず内心**＝"She does not say a word. She holds the feeling deep inside."＝Ep99公表への温存）。Obiaの代名詞 "it"。
-  - 配置：Pen-san遊ぶ／Daru[赤]・Gabu[青]Pod／Dango嗅ぐ／Suke-san右。✅執筆済み（word_count 270）。
+  - 配置：Pen-san遊ぶ／Dalu[赤]・Gabu[青]Pod／Dango嗅ぐ／Suke-san右。✅執筆済み（word_count 270）。
 
 ### Day 76 — 別れの朝
 - **Ep87「A Good Emperor」**：別れの朝（船は氷のそばで出発を待つ＝**まだ出航しない**／出航はEp89）。Pen-sanのお別れ。Pen-sanは**南極に残る**（S2で再会）。モード：感情・別れ。
@@ -707,12 +707,12 @@
   - 🔒引用アンカー（Colonel→Ako-chan）：*"Mission accomplished."*（短く firm）。
   - 🔒引用アンカー（Colonel→Obia）：*"You worked. You did not hide."* → **顎を下げる＝Adelie流の敬礼**（"He lowers his chin down low. ... it is his salute. From the Colonel, it means a lot."）。Obiaは無言で頭を下げ返す（"it dips its head to the Colonel too."）。Obiaの代名詞 "it"。
   - 確定（監視アークの回収）：Adelieが見ていた事実を列挙＝*"For many days, he watched it. He did not trust it at all. He watched it work all day and night. He watched it walk out in the snow alone."*（Ep70 不眠監視／Ep72・76 単独で雪へ＝の payoff）。⚠️**Ep70注記どおり「演技でなく本物」をここで初めて言語化**（先取りしない原則を守って集約）。
-  - 🔒（Ako-chan）：*"Thank you, Colonel."* → Colonelは *"one short nod"*。締め *"From the Colonel, that is everything."* 配置：Pen-sanがAdelieの後ろ／Daru[赤]・Gabu[青]Pod／Suke-san頭を下げる。✅執筆済み（word_count 282）。
+  - 🔒（Ako-chan）：*"Thank you, Colonel."* → Colonelは *"one short nod"*。締め *"From the Colonel, that is everything."* 配置：Pen-sanがAdelieの後ろ／Dalu[赤]・Gabu[青]Pod／Suke-san頭を下げる。✅執筆済み（word_count 282）。
 - **Ep89「The Morning We Leave」**：別れの朝＝**章クローザー**。船が南極の氷を離れ、白い大陸が遠ざかる。帰路の始まり。モード：別れ→静の余韻。
-  - 確定（人数＝6）：帰路の一行は **Ako-chan・Dango・Obia・Daru・Gabu・Suke-san**（"Six friends stand on the deck."）。**Pen-san・Adelieは氷に残り見送る**（"Two small shapes ... Pen-san and the Colonel."＝南極残留の確定）。
+  - 確定（人数＝6）：帰路の一行は **Ako-chan・Dango・Obia・Dalu・Gabu・Suke-san**（"Six friends stand on the deck."）。**Pen-san・Adelieは氷に残り見送る**（"Two small shapes ... Pen-san and the Colonel."＝南極残留の確定）。
   - 🔒（Ako-chan・見送り＝will不使用）：*"Goodbye! I come back!"*（Ep87 "I come back. I promise." と一致＝S2再会の布石）。Pen-sanが片翼を振る／Colonelは直立。
   - 確定（声の収束・継続）：*"The voices are quiet today."*（Ep86の収束を継続＝Ep90「Going Quiet」へ接続）。締めの核＝**Obiaが"横"に立つ**（"Obia stands beside her, not behind."＝Ep85と連続）＋方角は**北**（"She turns to face the north now."＝Ep90 太平洋北上へ）。
-  - 🔒章クローザー余韻：*"But the long road home starts here ..."*（Ep24/Ep33 章末 "And the road goes on." モチーフの回収）。⚠️改稿2026-06-29＝**友の一文を"往路＝集める／帰路＝返す"の対称に**：旧 *"So many friends are far away now."* は指示先が曖昧（実際に遠いのはPen-san/Adelieの2人のみ・Daru/Gabu/Suke-sanは甲板に同乗・"behind"は逆走する帰路と矛盾）だった→*"The long way gave her so many friends. But the long road home starts here — and one by one, it takes them home."* に。旅全体で得た友（庭の動物・クジラ・ゾウガメ等も含む）＝集めた友を、**帰路が一人ずつ故郷へ返す**＝Ch12（Suke-san Ep91→Gabu Ep93→Daru Ep95→Ep96「Back to Three」）の連続する別れへの布石。next_ep＝/season1/chapter12/ep090/（章跨ぎ）。✅執筆済み（word_count 283・2026-06-29改稿後実測）。
+  - 🔒章クローザー余韻：*"But the long road home starts here ..."*（Ep24/Ep33 章末 "And the road goes on." モチーフの回収）。⚠️改稿2026-06-29＝**友の一文を"往路＝集める／帰路＝返す"の対称に**：旧 *"So many friends are far away now."* は指示先が曖昧（実際に遠いのはPen-san/Adelieの2人のみ・Dalu/Gabu/Suke-sanは甲板に同乗・"behind"は逆走する帰路と矛盾）だった→*"The long way gave her so many friends. But the long road home starts here — and one by one, it takes them home."* に。旅全体で得た友（庭の動物・クジラ・ゾウガメ等も含む）＝集めた友を、**帰路が一人ずつ故郷へ返す**＝Ch12（Suke-san Ep91→Gabu Ep93→Dalu Ep95→Ep96「Back to Three」）の連続する別れへの布石。next_ep＝/season1/chapter12/ep090/（章跨ぎ）。✅執筆済み（word_count 283・2026-06-29改稿後実測）。
 
 <!-- Ch11 完了（Ep83〜89）。 -->
 
@@ -721,40 +721,40 @@
 **Ch12 共通（帰路と別れ）**
 - ★**帰路＝往路の逆順**（南極→太平洋北上→日本→西へ→ワディラム→地中海→ダルマティア→イギリス）。地理は"説明しない"・地図で追える範囲で。
 - ★**声が静まっていく**（Obia送信停止の効果）。Ako-chanは「Obiaがやめたから」と知るが、**送信先・理由は分からない**（S2へ）。Ep99でハリネズミが対回収。
-- ★**別れ（各自の故郷へ・キャラ相応に）**：Suke-san→日本の山（Ep91）／Gabu→ワディラム（Ep93）／Daru→ダルマティア（Ep95）。**Obiaはイギリス残留**。Ep96で**Ako-chan・Dango・Obiaの3人に戻る**（Ch1-2の原初トリオへのブックエンド）。
-- ★**人数**：6→Suke-san離脱(Ep91)=5→Gabu(Ep93)=4→Daru(Ep95)=3。Ep96「Back to Three」。
+- ★**別れ（各自の故郷へ・キャラ相応に）**：Suke-san→日本の山（Ep91）／Gabu→ワディラム（Ep93）／Dalu→ダルマティア（Ep95）。**Obiaはイギリス残留**。Ep96で**Ako-chan・Dango・Obiaの3人に戻る**（Ch1-2の原初トリオへのブックエンド）。
+- ★**人数**：6→Suke-san離脱(Ep91)=5→Gabu(Ep93)=4→Dalu(Ep95)=3。Ep96「Back to Three」。
 - ⚠️**Ep91 Dango台詞問題（推奨解決）**：episode-listはDango「You are good.」と引用するが、**台帳A-2でDangoは引用台詞を持たない**（Ep2：Dangoは動物の声が聴けない）。→**Dangoの"you are good"は無言の仕草で表し地の文が意味を伝える／Suke-sanの "...You too." のみ引用**。
-- ⚠️**Ep100（決定）**：① **静かな余韻で閉じる**（タイムマシン・Ruka・Obia未来行きは出さない／開いた白紙＋Obia残留の含みだけ）。② 日記は **ペンを持つだけ＝書かない**（3段日記の構造を保つ／次の記入はS2 Ep199 "Obia—"）。
+- ⚠️**Ep100（決定）**：① **静かな余韻で閉じる**（タイムマシン・Luca・Obia未来行きは出さない／開いた白紙＋Obia残留の含みだけ）。② 日記は **ペンを持つだけ＝書かない**（3段日記の構造を保つ／次の記入はS2 Ep199 "Obia—"）。
 - ★**赤い日記帳**：最初のページ "I have to go."（Ep5）を読み返す→新ページを開く。正体・首輪はS3まで伏せる。
 
 ### Day 80前後 — 太平洋北上
 - **Ep90「Going Quiet」**🟢執筆済：太平洋を北上。動物の声が静かに。Ako-chanはObiaが送信をやめたからだと知る。でも送信先・理由は分からない（S2へ）。Ep84の停止宣言を回想引用：*"I will stop."*（Ep86と同じ引用形）。地の文 *"She does not know where the data goes. She does not know why."* でS2フックを抑制提示。人数＝6（全員乗船）。
 
 ### Day 90前後 — 日本（Suke-san離脱）
-- **Ep91「Suke-san's Mountain」**🟢執筆済：日本。Suke-sanが山の匂いを目を閉じて深く吸う。Dangoが無言で頭を押し当てる＝"you are good"の意を地の文が伝える（*"You are good, the quiet touch says."*／引用台詞ではない）。🔒Suke-san *"...You too,"* he says softly.（やっと出た言葉）。Ako-chanの別れ台詞 *"Goodbye, Suke-san."* 山へ消える。＝**人数5**（Ako-chan・Dango・Obia・Daru・Gabu）。
+- **Ep91「Suke-san's Mountain」**🟢執筆済：日本。Suke-sanが山の匂いを目を閉じて深く吸う。Dangoが無言で頭を押し当てる＝"you are good"の意を地の文が伝える（*"You are good, the quiet touch says."*／引用台詞ではない）。🔒Suke-san *"...You too,"* he says softly.（やっと出た言葉）。Ako-chanの別れ台詞 *"Goodbye, Suke-san."* 山へ消える。＝**人数5**（Ako-chan・Dango・Obia・Dalu・Gabu）。
 
 ### Day 95前後 — 西へ
-- **Ep92「Still Together」**🟢執筆済：西へ向かう船。Daru/Gabuの最後の時間。Daru饒舌・Gabu静聴。Daru *"Do you remember the white rocks? And the hot red sand? And the big old tortoise?"* → Gabu *"I remember. I remember it all."* まだ一緒。人数5。
+- **Ep92「Still Together」**🟢執筆済：西へ向かう船。Dalu/Gabuの最後の時間。Dalu饒舌・Gabu静聴。Dalu *"Do you remember the white rocks? And the hot red sand? And the big old tortoise?"* → Gabu *"I remember. I remember it all."* まだ一緒。人数5。
 
 ### Day 105前後 — ワディラム（Gabu離脱）
-- **Ep93「Gabu's Rock」**🟢執筆済：ワディラム。Gabuが慎重に岩を登り（Ep28-31の到着の逆構図）、全員（Daru・Dango・Obia・Ako-chan）を見て最後にAko-chanを一度見る。**Gabuは無言**（少ない言葉のキャラを別れでも貫く）。Daru *"Gabu! Gabu!"* と呼ぶが止まらず岩の向こうへ消える。Ako-chan *"Goodbye, Gabu."* ＝**人数4**（Ako-chan・Dango・Obia・Daru）。
+- **Ep93「Gabu's Rock」**🟢執筆済：ワディラム。Gabuが慎重に岩を登り（Ep28-31の到着の逆構図）、全員（Dalu・Dango・Obia・Ako-chan）を見て最後にAko-chanを一度見る。**Gabuは無言**（少ない言葉のキャラを別れでも貫く）。Dalu *"Gabu! Gabu!"* と呼ぶが止まらず岩の向こうへ消える。Ako-chan *"Goodbye, Gabu."* ＝**人数4**（Ako-chan・Dango・Obia・Dalu）。
 
 ### Day 108前後 — 地中海
-- **Ep94「Towards Croatia」**🟢執筆済：地中海を西へ。🔒 Daru *"I know this sea!"*（続けて *"This is my sea!" / "Croatia! We go to Croatia!"*）一人になったDaruの興奮＋東の砂漠にいるGabuへの思い（*"Gabu is home. I go home too."*）。人数4。
+- **Ep94「Towards Croatia」**🟢執筆済：地中海を西へ。🔒 Dalu *"I know this sea!"*（続けて *"This is my sea!" / "Croatia! We go to Croatia!"*）一人になったDaluの興奮＋東の砂漠にいるGabuへの思い（*"Gabu is home. I go home too."*）。人数4。
 
-### Day 110前後 — ダルマティア（Daru離脱）〜3人へ
-- **Ep95「Daru's Rock」**🟢執筆済：ダルマティア海岸（夕方）。Daru *"Home! I am home!"* 走って岩の陰へ消え、また現れて🔒 *"Goodbye!"* また消える（Ep18登場の逆構図・最後までDaruのまま）。Ako-chan *"Goodbye, Daru!"* ＝**人数3**（Ako-chan・Dango・Obia＝原初トリオへ復帰）。
-- **Ep96「Back to Three」**🟢執筆済：船は北へ。Ako-chan・Dango・Obiaだけに戻る（夜・Ep95と同日Day110）。誰も何も言わない。空いた甲板、Daru/Gabuの居場所が空く、Dangoの長いため息（Ako-chanが察する＝引用なし）。*"They are three again, like at the start."*＝原初トリオへのブックエンド。人数3。
+### Day 110前後 — ダルマティア（Dalu離脱）〜3人へ
+- **Ep95「Dalu's Rock」**🟢執筆済：ダルマティア海岸（夕方）。Dalu *"Home! I am home!"* 走って岩の陰へ消え、また現れて🔒 *"Goodbye!"* また消える（Ep18登場の逆構図・最後までDaluのまま）。Ako-chan *"Goodbye, Dalu!"* ＝**人数3**（Ako-chan・Dango・Obia＝原初トリオへ復帰）。
+- **Ep96「Back to Three」**🟢執筆済：船は北へ。Ako-chan・Dango・Obiaだけに戻る（夜・Ep95と同日Day110）。誰も何も言わない。空いた甲板、Dalu/Gabuの居場所が空く、Dangoの長いため息（Ako-chanが察する＝引用なし）。*"They are three again, like at the start."*＝原初トリオへのブックエンド。人数3。
 
 ### Day 115前後 — 北へ
-- **Ep97「The Quiet Sea」**🟢執筆済：北へ向かう穏やかな海。旅を言葉にせず振り返る（白い岩=Daru／赤い砂=Gabu／緑の山=Suke-san／氷=Pen-san・Colonel／嵐=クジラ）。Obiaの目が前より柔らかい（*"Softer than before, somehow."*／送信をやめた後の変化）。人数3。
+- **Ep97「The Quiet Sea」**🟢執筆済：北へ向かう穏やかな海。旅を言葉にせず振り返る（白い岩=Dalu／赤い砂=Gabu／緑の山=Suke-san／氷=Pen-san・Colonel／嵐=クジラ）。Obiaの目が前より柔らかい（*"Softer than before, somehow."*／送信をやめた後の変化）。人数3。
 
 ### Day 120 — イギリス到着
 - **Ep98「White Cliffs」**🟢執筆済：ドーバーの白い崖（霧→崖が現れる）。🔒 Obia *"England," it says. "We are here."* Dangoが船の窓に鼻を押し当て白い息の雲を作る（引用なし・所作）。人数3。
 
 ### Day 121 — 庭（帰還〜S1クローザー）
 - **Ep99「The Ground Is Quiet」**🟢執筆済：朝の庭（Ep2の対構図）。ハリネズミ再登場。🔒 *"The ground is quiet," it says. "I can sleep again."*（Ep2 *"The ground feels wrong."* と対回収）。Ako-chanがObiaを見る＝Obiaは**old shed のそば**（Ep3初登場の位置へ回帰）。二人の間に言葉はない（*"They do not say a word at all."*）。人数3＋Obia残留を明示（*"Obia is home with them now too."*）。
-- **Ep100「The Red Notebook」**🟢執筆済＝**S1完結**：夜・机・ランプ（Ep5の対構図）。赤い日記帳（旅で擦れた表紙）の最初のページ *"I have to go."*（Four small words）を読み返す→新しい白紙ページを開き、ペンを構える→**書かない**（*"But this time she does not write. Not yet."*／Ep5 "Then she writes" の鏡像）。*"She closes the notebook softly."*（Ep5と同句で閉じる）。Obiaはイギリス残留。⚠️S2要素なし（タイムマシン・Ruka・未来行き不出）／日記の次の記入はS2 Ep199。★3作共通モチーフ「The Red Notebook」の起点。
+- **Ep100「The Red Notebook」**🟢執筆済＝**S1完結**：夜・机・ランプ（Ep5の対構図）。赤い日記帳（旅で擦れた表紙）の最初のページ *"I have to go."*（Four small words）を読み返す→新しい白紙ページを開き、ペンを構える→**書かない**（*"But this time she does not write. Not yet."*／Ep5 "Then she writes" の鏡像）。*"She closes the notebook softly."*（Ep5と同句で閉じる）。Obiaはイギリス残留。⚠️S2要素なし（タイムマシン・Luca・未来行き不出）／日記の次の記入はS2 Ep199。★3作共通モチーフ「The Red Notebook」の起点。
 
 <!-- S1 全100話 執筆完了（Ep1〜100）。次の日記記入＝S2 Ep199 "Obia—"。 -->
 - **日記の記入記録（S1）**：Ep5 *"I have to go."*（1ページ目・唯一の記入）／Ep100 新ページを開くがペンは持つだけ＝**未記入**（3段日記の構造を保持）。
@@ -771,53 +771,53 @@
 
 ## S2 最重要・継続性アンカー
 - **S2の文法ティア解禁**：will（意図・予測）／could・would 使用可（can/cannot はS1既出）。引き続き禁止＝関係代名詞節・現在完了形・過去進行形・過去完了形・仮定法・分詞構文。1文≤12語（最大15語）・語彙1500語。
-- **Ruka**：S2開始時点で**すでにAko-chanと同居**（家族）。出会いはS2開始直前のイタリア・プーリア旅行（Ep103で回想）。**地の文の代名詞＝"she"**（ユーザー確定 2026-06-26）。**ごく短い台詞を稀に許す**（基本は所作・静止で見せ、必要時のみ1〜2語の最小台詞。Daru饒舌との対比）。
+- **Luca**：S2開始時点で**すでにAko-chanと同居**（家族）。出会いはS2開始直前のイタリア・プーリア旅行（Ep103で回想）。**地の文の代名詞＝"she"**（ユーザー確定 2026-06-26）。**ごく短い台詞を稀に許す**（基本は所作・静止で見せ、必要時のみ1〜2語の最小台詞。Dalu饒舌との対比）。
 - **Obia**：引き続き地の文の代名詞＝**"it"**／"robot"不使用＝"the silver one/thing"。Ep1の庭の「目」＝Obiaの連結はS3 Ep299まで伏せる。S2でタイムマシンに触れて記憶復号（Ch17）まで、Obiaは自分の使命を知らない。
 - **異変**：S2は背景ノイズのみ（S1の継続送信は停止済み）。S2の南からの信号は**南極のタイムマシン発の暗号化信号**で、現代内通信＝異変増幅とは無関係（正体・宛先はS3まで伏せる）。
-- **Dango**：成犬。S1のパピーらしさは薄れるが、Ako-chanへの独占欲・Rukaへの軽い嫉妬は健在。**引き続き引用台詞なし**（所作＋地の文でAko-chanが代弁）。
+- **Dango**：成犬。S1のパピーらしさは薄れるが、Ako-chanへの独占欲・Lucaへの軽い嫉妬は健在。**引き続き引用台詞なし**（所作＋地の文でAko-chanが代弁）。
 - **赤い日記帳**：S2の記入は**Ep199 "Obia—"**（続かない）のみ。Ch13では日記に書かない。
 
 ## Chapter 13「The Signal from the South」— イギリス（Ep101〜108・8話・S2開幕）
 
 **Ch13 共通**
-- ★**3年後のイギリスで開幕**。一行＝**Ako-chan（13〜14歳）・Dango（成犬）・Obia・Ruka**の4人（Daru・Gabu・Suke-san・Pen-san・Adelieとはまだ再合流していない）。穏やかな日常→信号受信→「もう一度南へ」の決意、で章を閉じる。
-- ★**Rukaの導入章**：すでに家族であるRuka（黄〜オレンジの網目甲羅・甲長5cm・頭側面に黄色い丸斑）の存在を日常の中で定着させ（Ep102）、出会い（プーリア）を回想で見せる（Ep103）。代名詞＝she・最小台詞。
+- ★**3年後のイギリスで開幕**。一行＝**Ako-chan（13〜14歳）・Dango（成犬）・Obia・Luca**の4人（Dalu・Gabu・Suke-san・Pen-san・Adelieとはまだ再合流していない）。穏やかな日常→信号受信→「もう一度南へ」の決意、で章を閉じる。
+- ★**Lucaの導入章**：すでに家族であるLuca（黄〜オレンジの網目甲羅・甲長5cm・頭側面に黄色い丸斑）の存在を日常の中で定着させ（Ep102）、出会い（プーリア）を回想で見せる（Ep103）。代名詞＝she・最小台詞。
 - ★**信号アーク開始**：Ep104受信→Ep105解析（南へ行け）→Ep106 Obia自身の暗号記憶発見。**信号の正体・宛先・Obiaの使命は伏せる**（Ch17で復号）。Obiaは「理由は分からない」を貫く。
 - ⚠️**異変を「ずっと前から」と言わない**。S2の信号は"今"始まったもの。期間表現は避ける。
 - ⚠️**まだ確立していない先取り禁止**：飛行艇（Ch14）・ミニPod（Ep109）・タイムマシン・使命・跳躍・各仲間の再合流は本章で名指ししない。Ch13終了時点でAko-chanが知るのは「南から信号が来た／南へ行かねばならない／Obiaの中に読めない記憶がある」まで。
-- モチーフ：3年の静けさ／日溜まりのRuka／青白いObiaの目／"We go again"（S1旅立ちとの静かな反響）。
+- モチーフ：3年の静けさ／日溜まりのLuca／青白いObiaの目／"We go again"（S1旅立ちとの静かな反響）。
 
 ### Day 1 — 3年後のイギリスの朝
-- **Ep101「Three Years On」**：S1から3年後。穏やかな朝の日常。Ako-chanは少し背が伸び、Dangoは成犬、Obiaはまだ庭にいる。**この回はAko-chan・Dango・Obiaの原初トリオに絞る**（Rukaは登場させない＝紹介はEp102に集約）。テーマ＝「3年が過ぎた／変わらないもの／変わったもの」。
+- **Ep101「Three Years On」**：S1から3年後。穏やかな朝の日常。Ako-chanは少し背が伸び、Dangoは成犬、Obiaはまだ庭にいる。**この回はAko-chan・Dango・Obiaの原初トリオに絞る**（Lucaは登場させない＝紹介はEp102に集約）。テーマ＝「3年が過ぎた／変わらないもの／変わったもの」。
   - モード：静・観察。③：朝の光、紅茶、庭の芝、Dangoのあくび、Obiaの青白い目。④：何も起きない。でもAko-chanは時々、旅のことを思い出す。
-  - 確定：3年の経過は地の文で示す（"Three years"等）。世帯は4人だが**この回でRukaは描写・名指ししない**（読者がRukaに会うのはEp102が初）。S2要素（信号・飛行艇等）はまだ出さない。
+  - 確定：3年の経過は地の文で示す（"Three years"等）。世帯は4人だが**この回でLucaは描写・名指ししない**（読者がLucaに会うのはEp102が初）。S2要素（信号・飛行艇等）はまだ出さない。
   - 🔒継続性：Ep1の庭の朝と静かに呼応してよいが「目＝Obia」は明言しない。
   - ✅執筆済み（word_count 275）。台詞なし。3年経過＝単純過去 "Three years passed since the long journey." **構成＝1段落1主体（カメラ一方向）：P1庭の朝→P2 Ako-chan→P3 Dango→P4 Obia＋庭→P5テクスチャー→P6余韻**（視点の往復を排除）。各人物ブロック内で「変化＋不変」を完結。Ako-chan＝13歳・赤メガネ同じ。**変化＝Ako-chan背が伸びた／Dangoの成犬化（"sturdy and calm and strong"〔⚠️2026-07-02修正：コーギー寸法規約＝絶対表現 "big" 撤去・Ep107と同語彙〕・"bark is deep, not high"）／Ako-chanの成熟（"thinks before she speaks now"＝身長重複を避けた変化のビート）**。**不変＝Obia（古い小屋のそば・目 pale and blue・代名詞it・"looks no different than before / waits there, quiet, as it always does"）／庭（"the same fence / the same old shed / the same soft English light"）**。締め＝旅と遠い仲間を時々思う（**仲間を名指ししない**＝"the friends far away in other lands"）→内面の余韻 "…stays warm inside her chest, quiet and deep."
 
-### Day 1〜2 — Rukaの日常と出会いの回想
-- **Ep102「Ruka Is Everywhere」**：**Rukaの初登場回（読者初対面）**。冒頭でRukaを紹介し、外見の弁別特徴を中心に描く。続けて「どこにでも現れる」定位置（縁石の日溜まり・Dangoの水器のそば・玄関の棚の上）を見せる。Ako-chanはRukaがそこにいることをもう当然に感じている。
-  - モード：静・観察。③：甲羅の黒×網目＆ほっぺの黄丸、日溜まりの暖かさ、ゆっくりした足、止まる時間。④：いつからRukaが家族になったのかを思う。
+### Day 1〜2 — Lucaの日常と出会いの回想
+- **Ep102「Luca Is Everywhere」**：**Lucaの初登場回（読者初対面）**。冒頭でLucaを紹介し、外見の弁別特徴を中心に描く。続けて「どこにでも現れる」定位置（縁石の日溜まり・Dangoの水器のそば・玄関の棚の上）を見せる。Ako-chanはLucaがそこにいることをもう当然に感じている。
+  - モード：静・観察。③：甲羅の黒×網目＆ほっぺの黄丸、日溜まりの暖かさ、ゆっくりした足、止まる時間。④：いつからLucaが家族になったのかを思う。
   - 確定（外見・world.md準拠）：甲長5cm（3匹中最小）・**甲羅は黒の面積が最も広く網目状（"Her shell is mostly black. The black spreads over it like a net. Yellow and orange show through the gaps."）**・**ほっぺ＝頭側面に黄色い丸（"A round yellow spot marks each cheek."）**・手のひらに乗る大きさ（"She can sit in the palm of one hand."＝**掌サイズの確定アンカーはここに一本化**。Ep103では再記述しない）。代名詞she。台詞は出さない（所作のみ）。
   - ✅執筆済み（word_count 288）。台詞なし（所作のみ）。**構成＝P1 紹介＋外見（黒網目・ほっぺ黄丸・掌サイズ）→P2 "everywhere"＋定位置3点→P3 歩行（止まりながら "one step. Then she stops. She looks. Then she walks again."）→P4 日光浴→P5 Dango（嗅いでまた伏せる＝軽い受容）→P6 余韻**。外見描写はP1に集約（旧版でP3にあった「ほっぺ黄丸」はP1へ移動）。定位置＝①玄関踏み石の日溜まり ②Dangoの水器のそばの涼しい床 ③玄関そばの高い棚（"She likes that quiet spot the best of all"）。
-  - 🦎**日光浴の生態（確定）**：リクガメは**手足・首を伸ばして皮膚に日光（UV）を当てる**＝甲羅を温めるのではない。本文＝"Ruka stretches her legs wide. She reaches her head and neck up high. The warmth sinks into her skin, not just her shell."（×「脚を引っ込める」は誤り）。以後の日光浴描写の基準。
-  - ⚠️**締めの継続性（確定）**：Ep101でRuka不在のS1冒険を回想するため、「Rukaのいない時を思い出せない」型は**矛盾**＝不可。現在基準の felt-sense で："Now it is hard to imagine the house without Ruka."／"She fits here, in her own slow way."（×"cannot remember a time without Ruka" ／×"like she always was"）。締め＝いつ家族になったか思い出せない（"When did Ruka become part of the family?"）。
-- **Ep103「The White Walls of Puglia」**：回想（S2開始直前）。プーリアでの出会い。誰のものでもない小さなリクガメが白い石壁の日向を歩く。Ako-chanが手を差し出すと、Rukaは止まり、のぼってきた。
-  - モード：静・観察（回想＝単純過去で語る）。③：白い石壁、地中海の光、乾いた風、小さな甲羅の重み。④：そうしてRukaは新しい家族になった。
-  - 確定：frontmatterの story_day は現在（フレーム）側の Day 2。本文中身は過去（プーリア）。地名 Puglia は太字にしない。Rukaは無言（所作）。
-  - 🔒継続性：Daru/Gabuの故郷別れと違い、Rukaは"拾われて家族になった"出会いの構図。
-  - ✅執筆済み（word_count 285）。台詞なし。フレーム＝現在（庭でRukaを見る）→回想本体は**単純過去**。場所＝Italy・Puglia（南部・太字にしない）。回想内のRukaは命名前＝"a tiny tortoise / the little tortoise / it"。
-  - ⚠️**Ep102末尾との接続（確定）**：Ep102は「**いつ家族になったか**は分からない（"She cannot name the exact day"）」で閉じる。Ep103はこれを受け、**「家族になった日（不明・段階的）」と「出会った日（鮮明）」を区別**してから回想に入る。P1＝"She still cannot name the day Ruka became family. But she remembers the day they first met."／P6＝"She became one of the family little by little, with no clear day."（×旧 "And so Ruka became part of the family"＝定点化はEp102と矛盾）。"day"×4はこの対比のhinge（意図反復）。出会い＝Ako-chanが**手を差し出して待つ**（"She did not grab the little tortoise. She held out her open hand and waited."）→ Rukaが止まり**手のひらにのぼる**（"it climbed up onto her palm"）。③＝石壁・地中海の光（"The Mediterranean light was soft and gold."）・乾いた塩の風・手のひらの小さな温かい重み（"the small warm weight"）・"She knew she could not leave it behind."（持ち帰りへの情）。命名＝持ち帰って数日後に "Ruka"（"After some days, she gave her a name. Ruka."）→以後 she／家族。
+  - 🦎**日光浴の生態（確定）**：リクガメは**手足・首を伸ばして皮膚に日光（UV）を当てる**＝甲羅を温めるのではない。本文＝"Luca stretches her legs wide. She reaches her head and neck up high. The warmth sinks into her skin, not just her shell."（×「脚を引っ込める」は誤り）。以後の日光浴描写の基準。
+  - ⚠️**締めの継続性（確定）**：Ep101でLuca不在のS1冒険を回想するため、「Lucaのいない時を思い出せない」型は**矛盾**＝不可。現在基準の felt-sense で："Now it is hard to imagine the house without Luca."／"She fits here, in her own slow way."（×"cannot remember a time without Luca" ／×"like she always was"）。締め＝いつ家族になったか思い出せない（"When did Luca become part of the family?"）。
+- **Ep103「The White Walls of Puglia」**：回想（S2開始直前）。プーリアでの出会い。誰のものでもない小さなリクガメが白い石壁の日向を歩く。Ako-chanが手を差し出すと、Lucaは止まり、のぼってきた。
+  - モード：静・観察（回想＝単純過去で語る）。③：白い石壁、地中海の光、乾いた風、小さな甲羅の重み。④：そうしてLucaは新しい家族になった。
+  - 確定：frontmatterの story_day は現在（フレーム）側の Day 2。本文中身は過去（プーリア）。地名 Puglia は太字にしない。Lucaは無言（所作）。
+  - 🔒継続性：Dalu/Gabuの故郷別れと違い、Lucaは"拾われて家族になった"出会いの構図。
+  - ✅執筆済み（word_count 285）。台詞なし。フレーム＝現在（庭でLucaを見る）→回想本体は**単純過去**。場所＝Italy・Puglia（南部・太字にしない）。回想内のLucaは命名前＝"a tiny tortoise / the little tortoise / it"。
+  - ⚠️**Ep102末尾との接続（確定）**：Ep102は「**いつ家族になったか**は分からない（"She cannot name the exact day"）」で閉じる。Ep103はこれを受け、**「家族になった日（不明・段階的）」と「出会った日（鮮明）」を区別**してから回想に入る。P1＝"She still cannot name the day Luca became family. But she remembers the day they first met."／P6＝"She became one of the family little by little, with no clear day."（×旧 "And so Luca became part of the family"＝定点化はEp102と矛盾）。"day"×4はこの対比のhinge（意図反復）。出会い＝Ako-chanが**手を差し出して待つ**（"She did not grab the little tortoise. She held out her open hand and waited."）→ Lucaが止まり**手のひらにのぼる**（"it climbed up onto her palm"）。③＝石壁・地中海の光（"The Mediterranean light was soft and gold."）・乾いた塩の風・手のひらの小さな温かい重み（"the small warm weight"）・"She knew she could not leave it behind."（持ち帰りへの情）。命名＝持ち帰って数日後に "Luca"（"After some days, she gave her a name. Luca."）→以後 she／家族。
     - ⚠️**外見描写はEp102に一本化**（Ep103では甲羅の網目・ほっぺ黄丸・甲羅サイズを再カタログしない＝重複回避）。掌サイズの確定アンカーはEp102 "She can sit in the palm of one hand."（旧Ep103 "no bigger than her palm" は撤去）。Ep103 P5は出会いの瞬間のテクスチャー（場の感覚＋手触り＋情）に専念。
   - 🔧レビュー適用（Phase C）：
-    - 第1次（語数中立）：Ep103 サイズ "the size of her hand"→"no bigger than her palm"（Ruka最小の保持）。
-    - 第2次（要観察点反映）：Ep101 soft変奏（"slow and soft"→"slow and gentle"）＋締めの warm 連続クラスター/天気まとめを1ビートに集約（末尾＝"…stays warm inside her chest, quiet and deep."）。Ep102 quiet変奏（"watches her quietly"→"closely"／"quiet places"経由の重複を "favourite places" に）＋"When did **she**…"→"When did **Ruka**…"（曖昧解消）＋締めの3連まとめを2ビートに集約（"…She belongs here now, in every quiet day."）→ **word_count 282→278**。Ep103 は締めが既に単一余韻のため変更なし（276）。
-    - 第3次（ユーザー指摘・構成）：**Ep101からRukaを撤去**（紹介をEp102に集約）→空いた箇所をObiaの「不変」ビートに置換。**重複していた "Ako-chan's legs are longer now." を削除**（P2 "Ako-chan is taller now." と重複）→成熟ビートに差し替え。
+    - 第1次（語数中立）：Ep103 サイズ "the size of her hand"→"no bigger than her palm"（Luca最小の保持）。
+    - 第2次（要観察点反映）：Ep101 soft変奏（"slow and soft"→"slow and gentle"）＋締めの warm 連続クラスター/天気まとめを1ビートに集約（末尾＝"…stays warm inside her chest, quiet and deep."）。Ep102 quiet変奏（"watches her quietly"→"closely"／"quiet places"経由の重複を "favourite places" に）＋"When did **she**…"→"When did **Luca**…"（曖昧解消）＋締めの3連まとめを2ビートに集約（"…She belongs here now, in every quiet day."）→ **word_count 282→278**。Ep103 は締めが既に単一余韻のため変更なし（276）。
+    - 第3次（ユーザー指摘・構成）：**Ep101からLucaを撤去**（紹介をEp102に集約）→空いた箇所をObiaの「不変」ビートに置換。**重複していた "Ako-chan's legs are longer now." を削除**（P2 "Ako-chan is taller now." と重複）→成熟ビートに差し替え。
     - 第4次（ユーザー指摘・視点整理）：Ep101 中盤の視点往復（Ako→Dango→Obia→Dango→Ako→庭）を解消し**1段落1主体**に再編＝P2 Ako-chan（taller/13/hands bigger on cup/thinks before speaks＝変化＋"still wears red glasses"＝不変）／P3 Dango（big&calm&strong/bark deep＝変化＋"still lies at her feet"/yawns/head on foot＝不変）／P4 Obia＋庭（"looks no different / waits there, quiet, as it always does" ＋ "the same fence/shed/light"＝不変の総括）。→ **Ep101 word_count 275**。
-    - 第5次（ユーザー指摘・Ep102冒頭）：Ep101からRuka撤去に伴い**Ep102をRukaの初登場として冒頭から再構築**＝P1を紹介＋外見集約（world.md弁別特徴＝黒網目甲羅・ほっぺ黄丸・掌サイズ）に、P3は歩行専念に整理。"small"近接3回を変奏（"small gaps"→"the gaps"／"small enough…"→"can sit in the palm of one hand"）。→ **Ep102 word_count 280**。
-    - 第6次（ユーザー指摘・Ep102）：①日光浴の生態修正（脚を引っ込める→**手足・首を伸ばして皮膚にUV**："stretches her legs wide / reaches her head and neck up high / warmth sinks into her skin, not just her shell"）。②締めの矛盾修正（"cannot remember a time without Ruka"＝Ep101のS1回想と矛盾→"Now it is hard to imagine the house without Ruka"／"like she always was"→"She fits here, in her own slow way"）。→ **Ep102 word_count 288**。
+    - 第5次（ユーザー指摘・Ep102冒頭）：Ep101からLuca撤去に伴い**Ep102をLucaの初登場として冒頭から再構築**＝P1を紹介＋外見集約（world.md弁別特徴＝黒網目甲羅・ほっぺ黄丸・掌サイズ）に、P3は歩行専念に整理。"small"近接3回を変奏（"small gaps"→"the gaps"／"small enough…"→"can sit in the palm of one hand"）。→ **Ep102 word_count 280**。
+    - 第6次（ユーザー指摘・Ep102）：①日光浴の生態修正（脚を引っ込める→**手足・首を伸ばして皮膚にUV**："stretches her legs wide / reaches her head and neck up high / warmth sinks into her skin, not just her shell"）。②締めの矛盾修正（"cannot remember a time without Luca"＝Ep101のS1回想と矛盾→"Now it is hard to imagine the house without Luca"／"like she always was"→"She fits here, in her own slow way"）。→ **Ep102 word_count 288**。
     - 第7次（ユーザー指摘・Ep103 P5）：Ep102が外見を担う紹介回になったため、**Ep103 P5の外見カタログ（"Black lines crossed the yellow like a net" / "A round yellow spot marked each side of its head" / "The shell was no bigger than her palm"）を撤去**し、出会いの瞬間のテクスチャー（salt風／石壁の光／掌で休む手触り／"could not leave it behind"）に差し替え。P5 "white walls"→"stone walls" で white を1つ変奏。→ **Ep103 word_count 274**。掌サイズ確定アンカーはEp102に一本化。
-    - 第8次（ユーザー指摘・Ep102→Ep103接続）：Ep103フレームがEp102末尾「いつ家族になったか分からない」と**ちぐはぐ**（思い出せない直後に鮮明に回想）→ **「出会った日（鮮明）」と「家族になった日（不明・段階的）」を区別**してEp102から橋渡し。P1冒頭＝"She still cannot name the day Ruka became family. But she remembers the day they first met."／P6＝"And so Ruka became part of the family"（定点化）→"She became one of the family little by little, with no clear day."（段階化）。→ **Ep103 word_count 285**。
-    - 第9次（ユーザー指摘・Ep102 P1）：世帯メンバーにObia欠落 → "She lives with Ako-chan and Dango now."→"…Ako-chan, Dango, and Obia now."（4人＝Ako/Dango/Obia/Ruka）。→ **Ep102 word_count 289**。
+    - 第8次（ユーザー指摘・Ep102→Ep103接続）：Ep103フレームがEp102末尾「いつ家族になったか分からない」と**ちぐはぐ**（思い出せない直後に鮮明に回想）→ **「出会った日（鮮明）」と「家族になった日（不明・段階的）」を区別**してEp102から橋渡し。P1冒頭＝"She still cannot name the day Luca became family. But she remembers the day they first met."／P6＝"And so Luca became part of the family"（定点化）→"She became one of the family little by little, with no clear day."（段階化）。→ **Ep103 word_count 285**。
+    - 第9次（ユーザー指摘・Ep102 P1）：世帯メンバーにObia欠落 → "She lives with Ako-chan and Dango now."→"…Ako-chan, Dango, and Obia now."（4人＝Ako/Dango/Obia/Luca）。→ **Ep102 word_count 289**。
     - 結果：fm＝275/289/285（全話270–330内）。warm/still/same/small/sun/white/day 等の残存反復は段落分散・対比hinge・モチーフ（"The same fence/shed/light"／title "White Walls"／met日⇄家族日）で§5「近接3回（惰性）」非該当。
 
 ### Day 2 夜 — 信号受信
@@ -825,13 +825,13 @@
   - 🔒台詞（Obia）：*"There is a signal. From the south."* ※S2信号アークの起点。
   - モード：静・観察（不穏の芽）。③：青白く光るObiaの目、夜の静けさ、信号のかすかなノイズ、窓の外の暗い庭。④：3年の静けさが、その夜終わる。
   - 確定：信号の正体・宛先は伏せる。Ako-chanが振り返る。
-  - ✅執筆済み（word_count 273）。深夜、眠れないAko-chanが階下へ→Obiaが窓辺に立ち、目が pale and blue でいつもより明るい・低いハム音（"A low hum comes from inside it."）。🔒Obia：*"There is a signal,"* / *"From the south."*（逐語）。Ako-chanは信号を聴こうとするが聴こえない＝**"Only Obia can."**（Ep2 "Only Ako-chan can." の反転エコー）。継続性：3年の夜は静かだった＝単純過去 "For three years, the nights were calm."／"The ground was quiet."（Ep99 と呼応・期間表現で異変を長く言わない）。Dango=2階で就寝／Ruka=棚の上で静止。Obia呼称＝"the silver one"／代名詞 it。"south"は本文2回（🔒＋"The word 'south' sits cold"）に抑制。
+  - ✅執筆済み（word_count 273）。深夜、眠れないAko-chanが階下へ→Obiaが窓辺に立ち、目が pale and blue でいつもより明るい・低いハム音（"A low hum comes from inside it."）。🔒Obia：*"There is a signal,"* / *"From the south."*（逐語）。Ako-chanは信号を聴こうとするが聴こえない＝**"Only Obia can."**（Ep2 "Only Ako-chan can." の反転エコー）。継続性：3年の夜は静かだった＝単純過去 "For three years, the nights were calm."／"The ground was quiet."（Ep99 と呼応・期間表現で異変を長く言わない）。Dango=2階で就寝／Luca=棚の上で静止。Obia呼称＝"the silver one"／代名詞 it。"south"は本文2回（🔒＋"The word 'south' sits cold"）に抑制。
 
 ### Day 2夜〜3 — 解析と暗号記憶
 - **Ep105「From the South」**：Obiaが信号を解析（時間がかかる・夜から朝へ）。メッセージは明確に——南へ行け。
   - 🔒台詞（Obia）：*"We must go south. I do not know why."* ※"must"はS2可。Obiaは理由を知らないを貫く。
-  - モード：静・観察。③：明滅するObiaの目、夜から朝への時間、Dangoの寝息、Rukaの静止。④：また旅が始まろうとしている。
-  - ✅執筆済み（word_count 275）。夜通しの解析→夜明けに判明。🔒Obia：*"We must go south,"* / *"I do not know why."*（逐語・"must"はS2可）。Obiaは理由を知らないを貫く（締め "And Obia does not know why."）。Ako-chanは "She felt it three years ago."（前回の旅＝3年前。期間表現は前回の旅の記憶であり異変の長期化ではない）。③：Obiaの目 flicker（"on and off"＝畳語ticをCh13で1回使用・以降は変奏）／窓が grey→pale で夜明け／Dangoの寝息／Rukaの静止。"south"3回（🔒＋"South. That is the way."＋"looks south"）に抑制。
+  - モード：静・観察。③：明滅するObiaの目、夜から朝への時間、Dangoの寝息、Lucaの静止。④：また旅が始まろうとしている。
+  - ✅執筆済み（word_count 275）。夜通しの解析→夜明けに判明。🔒Obia：*"We must go south,"* / *"I do not know why."*（逐語・"must"はS2可）。Obiaは理由を知らないを貫く（締め "And Obia does not know why."）。Ako-chanは "She felt it three years ago."（前回の旅＝3年前。期間表現は前回の旅の記憶であり異変の長期化ではない）。③：Obiaの目 flicker（"on and off"＝畳語ticをCh13で1回使用・以降は変奏）／窓が grey→pale で夜明け／Dangoの寝息／Lucaの静止。"south"3回（🔒＋"South. That is the way."＋"looks south"）に抑制。
 - **Ep106「Something Locked」**：解析の過程で、Obiaは自分自身の中に暗号化されていて読めない記憶があると気づく。理由はObiaにも分からない。
   - 🔒台詞（Obia）：*"There is something in me. I cannot read it."* ※S2の核（暗号記憶）。復号はCh17。
   - モード：静・観察（不穏）。③：Obiaの目の明滅、止まる動き、Ako-chanの不安、夜の冷気。④：Obiaは自分が何を忘れているのかを知らない。
@@ -844,20 +844,20 @@
     - 結果：fm＝273/275/271（全話270–330内）・最長文9語・禁止文型/robot/三連/畳語/フラット副詞なし・🔒台詞3本逐語一致。
 
 ### Day 3〜4 — 成犬Dango／決意
-- **Ep107「Dango Is Bigger Now」**：テクスチャー回。成犬になったDango（体が大きく落ち着いた）。でもAko-chanへの独占欲は健在。Rukaが近づくとまだ少しやきもち。3年を犬の変化で見せる。
-  - モード：静・観察（休符寄り・③厚め）。③：大きくなった体、低い声、Ako-chanの足元の定位置、Rukaとの距離。④：変わったものと、変わらないもの。
-  - 確定：Dangoは引用台詞なし（所作＋地の文）。Rukaへの軽い嫉妬＝S1のDaru/Gabuへの嫉妬の系譜（激化させない）。
-  - ✅執筆済み（word_count 291）。Day4・休符回（"The signal can wait for one quiet day."＝信号アークを進めない＝張り詰めた信号の夜から一日引く休符宣言）。Dangoは引用台詞なし＝所作＋地の文。成長＝単純過去で対比："When he was small, it was high and sharp."（吠え声）／"Three years made him strong."／"His bark rolls deep and low, like far thunder."。世界観整合＝伝統的赤白コーギー（"His fur is thick and red and white."・"His long tail swings hard"＝しっぽカットせず）。**変／不変の対比が核**：体は大きく落ち着いた（changed）／足元の定位置・独占欲は不変（"Dango still naps right by her chair."／"his heart is the same."）。Rukaへの軽い嫉妬＝Rukaが手に近づく→Dangoが低い声＋間に寄る（"He does not want to share her."）＝**激化させず**Ako-chanが笑って収める。締め＝"Changed and unchanged, both at once."。Obia不登場（純Dango回）。
+- **Ep107「Dango Is Bigger Now」**：テクスチャー回。成犬になったDango（体が大きく落ち着いた）。でもAko-chanへの独占欲は健在。Lucaが近づくとまだ少しやきもち。3年を犬の変化で見せる。
+  - モード：静・観察（休符寄り・③厚め）。③：大きくなった体、低い声、Ako-chanの足元の定位置、Lucaとの距離。④：変わったものと、変わらないもの。
+  - 確定：Dangoは引用台詞なし（所作＋地の文）。Lucaへの軽い嫉妬＝S1のDalu/Gabuへの嫉妬の系譜（激化させない）。
+  - ✅執筆済み（word_count 291）。Day4・休符回（"The signal can wait for one quiet day."＝信号アークを進めない＝張り詰めた信号の夜から一日引く休符宣言）。Dangoは引用台詞なし＝所作＋地の文。成長＝単純過去で対比："When he was small, it was high and sharp."（吠え声）／"Three years made him strong."／"His bark rolls deep and low, like far thunder."。世界観整合＝伝統的赤白コーギー（"His fur is thick and red and white."・"His long tail swings hard"＝しっぽカットせず）。**変／不変の対比が核**：体は大きく落ち着いた（changed）／足元の定位置・独占欲は不変（"Dango still naps right by her chair."／"his heart is the same."）。Lucaへの軽い嫉妬＝Lucaが手に近づく→Dangoが低い声＋間に寄る（"He does not want to share her."）＝**激化させず**Ako-chanが笑って収める。締め＝"Changed and unchanged, both at once."。Obia不登場（純Dango回）。
   - 🦴**Dango＝コーギー成犬の寸法（確定 2026-06-26）**：コーギーは体高25–30cm・体重10–14kgの**小〜中型・低く重い**犬＝"big（大きい犬）"ではない。Ep107は**絶対表現の "big" を撤去**（"big and strong"→"sturdy and strong"／"He is big now"→"He is all grown now"／"big head"→"furry head"＝キツネ顔＆ダブルコート整合）。**残す正確な成長描写**＝broad chest／thick(short) legs／heavy／"takes up half the floor"（胴長で広がる）／"climbs onto her lap and does not fit"（膝に乗りきらない）。title "Bigger"＝**比較級（子犬時より大きい）で正確**＝維持。13歳Ako-chanとの対比でも大型犬に誤読させない。
-- **Ep108「We Go Again」**：Ako-chanが、もう一度南へ行く決意をする。Obia・Dango・Rukaがいる。仲間たちもきっと待っている。
+- **Ep108「We Go Again」**：Ako-chanが、もう一度南へ行く決意をする。Obia・Dango・Lucaがいる。仲間たちもきっと待っている。
   - 🔒台詞（Ako-chan）：*"We go again."* ※S1旅立ち（Ep5–7）と静かに反響。
-  - モード：感情／静。③：荷物、地図、Rukaを見つめるAko-chan、朝の光。④章クローザー：3年ぶりの旅が始まる。
+  - モード：感情／静。③：荷物、地図、Lucaを見つめるAko-chan、朝の光。④章クローザー：3年ぶりの旅が始まる。
   - 確定（章末リンク）：next_ep は空欄（Ch14 Ep109 執筆時に ep109.prev_ep=ep108 と相互リンク）。先取り禁止（飛行艇・ミニPodはCh14）。
-  - ✅執筆済み（word_count 284）。Day4朝・章クローザー。🔒Ako-chan：*"We go again."*（逐語・**softly**／"We"＝家族になった4人）。**S1旅立ちとの三段日記の反響を明示**：3年前を単純過去で回想＝*"Three years ago, she wrote four small words. I have to go."*（Ep5/Ep100アンカー・**4語**＝C台帳）→ **今回は書かない**＝*"This time, she does not write at all. She says it out loud, to all of them."*（Ep100 "she does not write" の継承／**Ch13は日記に書かない**＝S2初記入はEp199）。家族の確認＝Obia（戸口・pale blue・**親密ビートなので名前で呼ぶ**）／Dango（足元）／Ruka（窓辺の日溜まり・she・所作のみ："pulls her head in, then out"）。Dangoの反応＝"something is starting"（Ep104の地の文エコー）。⚠️先取り禁止厳守：旅の手段（飛行艇・ミニPod）は不出。地図は"the long way down. Sea and land and ice, far to the south."＝地理のみ（手段に触れない）。締め＝"And this time, they go together."（S1の単独出発との対比）。
+  - ✅執筆済み（word_count 284）。Day4朝・章クローザー。🔒Ako-chan：*"We go again."*（逐語・**softly**／"We"＝家族になった4人）。**S1旅立ちとの三段日記の反響を明示**：3年前を単純過去で回想＝*"Three years ago, she wrote four small words. I have to go."*（Ep5/Ep100アンカー・**4語**＝C台帳）→ **今回は書かない**＝*"This time, she does not write at all. She says it out loud, to all of them."*（Ep100 "she does not write" の継承／**Ch13は日記に書かない**＝S2初記入はEp199）。家族の確認＝Obia（戸口・pale blue・**親密ビートなので名前で呼ぶ**）／Dango（足元）／Luca（窓辺の日溜まり・she・所作のみ："pulls her head in, then out"）。Dangoの反応＝"something is starting"（Ep104の地の文エコー）。⚠️先取り禁止厳守：旅の手段（飛行艇・ミニPod）は不出。地図は"the long way down. Sea and land and ice, far to the south."＝地理のみ（手段に触れない）。締め＝"And this time, they go together."（S1の単独出発との対比）。
 
   - 🔧レビュー適用（Phase C・第3バッチ Ep107-108）：
     - Ep107：三連2→1（"calm and strong and sure"→"calm and sure"）・still 5→4（P6重複の "He still wants…all to himself"→"He wants…"）・strong 3→2。さらに**Ep101とのDango描写重複を解消**（"Dango is not a puppy anymore"→"The little puppy is long gone now"／"His bark is deep…"→"His bark rolls deep and low…"／"He still lies at her feet"→"Dango still naps right by her chair"）。**コーギー寸法に合わせ絶対表現 "big"×3 を撤去**（sturdy/all grown/furry head へ・正確な broad chest/heavy/床を占める/膝に乗りきらない は維持）。→ **word_count 291**。
-    - Ep108：small 4→3（Ruka "pulls her small head"→"pulls her head"。"four small words" は🔒コールバックのため保持）。→ **word_count 284**。Ep108本文はユーザー指示で**それ以外変更なし**。
+    - Ep108：small 4→3（Luca "pulls her small head"→"pulls her head"。"four small words" は🔒コールバックのため保持）。→ **word_count 284**。Ep108本文はユーザー指示で**それ以外変更なし**。
     - 結果：fm＝290/284（範囲内）・最長文9語・三連各1・禁止文型/robot/Obia代名詞なし・🔒「We go again」逐語。
 
 <!-- Ch13（Ep101–108）全話✅執筆済み＆レビュー完了（2026-06-26）。各Epに確定台詞・新情報・word_countを追記済み。 -->
@@ -865,36 +865,36 @@
 ## Chapter 14「Building the Flying Boat」— イギリス・制作（Ep109〜117・9話）
 
 **Ch14 共通**
-- ★**飛行艇制作章**（イギリス・庭）。一行＝**Ako-chan・Dango・Obia・Ruka の4人**。⚠️**Daru/Gabu/Suke-san/Pen-san/Adelie はまだ再合流していない**（Ch15以降）＝Ep116完成・Ep117初飛行の場面に**彼らを出さない**（先取り禁止）。
-- ★**制作順**：①Ruka用**ミニPod**（黄・最小）をEp109完成→Ep110でRukaが扱いを習得→②**飛行艇**の設計→制作→完成（Ep111–116）→③**初飛行**（Ep117・章クローザー＝3年ぶりの旅が空から）。Rukaは飛行艇制作中、傍らでPodを覚えながら静かに見守る。
-- ★**ミニPod（Ruka・確定）**：Daru/Gabuより小さい。発光色＝**黄**。Rukaはゆっくり止まりながら歩く→控えめな動き。Obia："This one is for you, Ruka."（Ep109）。
+- ★**飛行艇制作章**（イギリス・庭）。一行＝**Ako-chan・Dango・Obia・Luca の4人**。⚠️**Dalu/Gabu/Suke-san/Pen-san/Adelie はまだ再合流していない**（Ch15以降）＝Ep116完成・Ep117初飛行の場面に**彼らを出さない**（先取り禁止）。
+- ★**制作順**：①Luca用**ミニPod**（黄・最小）をEp109完成→Ep110でLucaが扱いを習得→②**飛行艇**の設計→制作→完成（Ep111–116）→③**初飛行**（Ep117・章クローザー＝3年ぶりの旅が空から）。Lucaは飛行艇制作中、傍らでPodを覚えながら静かに見守る。
+- ★**ミニPod（Luca・確定）**：Dalu/Gabuより小さい。発光色＝**黄**。Lucaはゆっくり止まりながら歩く→控えめな動き。Obia："This one is for you, Luca."（Ep109）。
 - ★**飛行艇（確定）**：Ako-chan＋Obia共同制作。**無名＝"the flying boat"**（S1の船と同じく命名しない）。庭で組み上がる大型機（翼・骨組み・エンジン）。全員＋3Pod を乗せられる規模（再合流を見越す）。⚠️**飛行・着水/着陸の仕組みは説明しない**（"飛行艇"だが砂漠にも降りる＝Ch15-16。機構は不問）。Obia技術の由来も伏せる。
 - ★**信号アーク継続（Ch13→）**：Ep113＝Obiaの暗号記憶は**まだ開かない**（"Still locked. I cannot open it." ＝Ep106 "I cannot read it." の継続）／Ep114＝南への引きが**強まる**。⚠️使命の中身・タイムマシン・跳躍は**伏せる**（復号はCh17）。
 - **Obia呼称**：既定 "Obia"＋"it"。"the silver one" は不気味さ狙いで1話0–1回（Ep113の暗号記憶の不穏に1回なら可）。**親密ビートでは名前**。制作中の昼の庭シーン＝Obiaは庭で作業（屋外・昼）。
 - **Dango**：引用台詞なし（所作＋地の文）。コーギー成犬の寸法基準（[[continuity-ledger]]）＝"big（大型犬）"表現は使わない。Ep115で「手伝おうとして邪魔になる」軽い息継ぎ。
 - Day割付：Ch13末＝Day4。制作で日数経過（"説明しない"・loose）。Ep109〜117をDay5〜（非減少）で割付。
 
-### Day 5前後 — Ruka用ミニPod
-- **Ep109「Ruka's Pod」**：Ako＋ObiaがRuka用ミニPodを作る（黄・最小）。Rukaが中で止まりながら歩くとPodは控えめに動く。
-  - 🔒台詞（Obia）：*"This one is for you, Ruka."*
-  - モード：静・観察／制作。③：小さなPod、黄色い淡い光、Rukaの慎重な足、組み立ての音。④：Rukaは新しい乗り物をじっと見ている。
-  - 確定：Ruka代名詞she・最小台詞（所作中心）。発光色＝黄（Daru赤・Gabu青と対比）。⚠️Daru/Gabu不在（再合流前）＝Podの色対比は"以前作った"記憶としてのみ可、現場に出さない。
-  - ✅執筆済み（word_count 277）。Day5・昼の庭（屋外）。一行＝4人（Ako・Dango・Obia・Ruka）。🔒Obia：*"This one is for you, Ruka."*（逐語・"Its voice is flat and kind."＝親密ビートなので名前 "Obia"＋it）。制作経緯＝単純過去 "For days, the two of them built it together."。ミニPod確定描写＝最小（"It is smaller than the ones Obia made before."＝Daru/Gabuの過去作への記憶参照のみ・現場に色対比は出さない）／黄の淡い光（"A soft yellow light glows inside it."）。Ruka＝she・台詞なし（所作："takes one slow step ... pulls her head in"／"She does not climb in. Not yet."＝Ep110習熟への引き）。③＝小さなclicks/taps（組み立ての音）・黄の光・風・遠い鳥・戸口のDango（"He does not come near."）。発光色：黄。
-- **Ep110「Learning the Pod」**：Rukaが自分のペースでPodの扱いを覚える。速くは動かない。止まって、考えて、また動く。Ako-chanは急かさない。
-  - モード：静・観察。③：Pod内のRuka、ゆっくりした回転、止まる時間、見守るAko-chanの目。④：Rukaのやり方は、Rukaのやり方だ。
-  - 確定：Rukaの「慎重・自分のペース」を所作で。台詞は最小/無し。
-  - ✅執筆済み（word_count 270）。**Day6**（"The next day is calm and grey."＝ep109 Day5の翌日。story_day 5→6に修正＝本文の"next day"と整合）・庭。Rukaが自分のペースでPod習熟＝所作の核 "Stop. Look. Walk. That is how Ruka goes."。Ako-chanは急かさない（"She wants Ruka to choose for herself."）＝最小台詞 *"Take your time,"*（Ako-chanの1台詞のみ・Rukaは無言）。③＝Pod内のRuka・ゆっくりした回転（"turns in a slow, wide circle"）・止まる時間（"Time seems to slow down with her."）・伏せたDango（"lies nearby with his head down"）。締め＝"Ruka's way is Ruka's way."（意図反復のhinge）。発光色：黄（継続）。
+### Day 5前後 — Luca用ミニPod
+- **Ep109「Luca's Pod」**：Ako＋ObiaがLuca用ミニPodを作る（黄・最小）。Lucaが中で止まりながら歩くとPodは控えめに動く。
+  - 🔒台詞（Obia）：*"This one is for you, Luca."*
+  - モード：静・観察／制作。③：小さなPod、黄色い淡い光、Lucaの慎重な足、組み立ての音。④：Lucaは新しい乗り物をじっと見ている。
+  - 確定：Luca代名詞she・最小台詞（所作中心）。発光色＝黄（Dalu赤・Gabu青と対比）。⚠️Dalu/Gabu不在（再合流前）＝Podの色対比は"以前作った"記憶としてのみ可、現場に出さない。
+  - ✅執筆済み（word_count 277）。Day5・昼の庭（屋外）。一行＝4人（Ako・Dango・Obia・Luca）。🔒Obia：*"This one is for you, Luca."*（逐語・"Its voice is flat and kind."＝親密ビートなので名前 "Obia"＋it）。制作経緯＝単純過去 "For days, the two of them built it together."。ミニPod確定描写＝最小（"It is smaller than the ones Obia made before."＝Dalu/Gabuの過去作への記憶参照のみ・現場に色対比は出さない）／黄の淡い光（"A soft yellow light glows inside it."）。Luca＝she・台詞なし（所作："takes one slow step ... pulls her head in"／"She does not climb in. Not yet."＝Ep110習熟への引き）。③＝小さなclicks/taps（組み立ての音）・黄の光・風・遠い鳥・戸口のDango（"He does not come near."）。発光色：黄。
+- **Ep110「Learning the Pod」**：Lucaが自分のペースでPodの扱いを覚える。速くは動かない。止まって、考えて、また動く。Ako-chanは急かさない。
+  - モード：静・観察。③：Pod内のLuca、ゆっくりした回転、止まる時間、見守るAko-chanの目。④：Lucaのやり方は、Lucaのやり方だ。
+  - 確定：Lucaの「慎重・自分のペース」を所作で。台詞は最小/無し。
+  - ✅執筆済み（word_count 270）。**Day6**（"The next day is calm and grey."＝ep109 Day5の翌日。story_day 5→6に修正＝本文の"next day"と整合）・庭。Lucaが自分のペースでPod習熟＝所作の核 "Stop. Look. Walk. That is how Luca goes."。Ako-chanは急かさない（"She wants Luca to choose for herself."）＝最小台詞 *"Take your time,"*（Ako-chanの1台詞のみ・Lucaは無言）。③＝Pod内のLuca・ゆっくりした回転（"turns in a slow, wide circle"）・止まる時間（"Time seems to slow down with her."）・伏せたDango（"lies nearby with his head down"）。締め＝"Luca's way is Luca's way."（意図反復のhinge）。発光色：黄（継続）。
 
 ### Day 6前後 — 飛行艇 設計・制作
-- **Ep111「The Flying Boat」**：ミニPod完成後、Ako＋Obiaが飛行艇の設計・制作に入る。二人が中心。Rukaは傍らでPodを覚えながら静かに見守る。
+- **Ep111「The Flying Boat」**：ミニPod完成後、Ako＋Obiaが飛行艇の設計・制作に入る。二人が中心。Lucaは傍らでPodを覚えながら静かに見守る。
   - モード：動・出来事／制作。③：広げた設計図、大きな骨組み、Obiaの正確な手、Ako-chanの汗。④：今度の旅は、空を行く。
   - 確定：飛行艇＝無名。Ako＋Obia共同。先取り禁止（再合流の仲間は出さない）。
-  - ✅執筆済み（word_count 285）。Day6・庭。ミニPod完成後、飛行艇の設計・制作に入る（始動）。飛行艇＝**無名**（"a flying boat" / "the frame" / "the boat"・固有名なし）。🔒Obia *"We start with the frame,"*（it・正確な手）。Ako＋Obia共同＝二人の噛み合い（"They pass parts back and forth. They do not need many words."）。S1の船を単純過去で参照＝"Much bigger than the ship was." / "Their old ship sailed the cold seas."（"big" は機体には可＝コーギー寸法ルールはDango専用）。③＝広げた設計図（"A wide drawing"）・大きな骨組み・金属の音・Ako-chanの汗（"Sweat runs down Ako-chan's face."）。Ruka＝傍らのPodで静かに見守る（"watches the two of them work."）。Dangoは金属の匂いを嗅ぐ。⚠️機構・着陸方法は説明しない／再合流の仲間は不出。締め＝"This time, the journey goes by sky."（S1船旅との対比）。
+  - ✅執筆済み（word_count 285）。Day6・庭。ミニPod完成後、飛行艇の設計・制作に入る（始動）。飛行艇＝**無名**（"a flying boat" / "the frame" / "the boat"・固有名なし）。🔒Obia *"We start with the frame,"*（it・正確な手）。Ako＋Obia共同＝二人の噛み合い（"They pass parts back and forth. They do not need many words."）。S1の船を単純過去で参照＝"Much bigger than the ship was." / "Their old ship sailed the cold seas."（"big" は機体には可＝コーギー寸法ルールはDango専用）。③＝広げた設計図（"A wide drawing"）・大きな骨組み・金属の音・Ako-chanの汗（"Sweat runs down Ako-chan's face."）。Luca＝傍らのPodで静かに見守る（"watches the two of them work."）。Dangoは金属の匂いを嗅ぐ。⚠️機構・着陸方法は説明しない／再合流の仲間は不出。締め＝"This time, the journey goes by sky."（S1船旅との対比）。
   - 🔧レビュー適用（Phase C・第1バッチ Ep109-111）：①ep110 story_day 5→6（本文"The next day"との整合）。②"Obia's hands move fast and sure." が ep109/ep111 で逐語重複＋"sure"がフラット副詞許容外 → **ep111を "Obia's hands are quick and exact." に変奏**（ep109は単発idiomとして残置）。③ep109 grass×4→3（"kneels close on the grass"→"kneels close beside her"）→word_count 278→277。結果：fm＝277/270/285（範囲内）・story_day 5,6,6（非減少）・最長文≤10語・禁止文型/robot/三連/畳語なし・🔒台詞逐語一致。ep110のPod×11/slow×5は"Learning the Pod"の中核モチーフ＋floor270のため据え置き。
 - **Ep112「Wing and Frame」**：制作継続。翼・骨組み・エンジン。少しずつ形になる。Ako-chanとObiaの手が噛み合う。
   - モード：制作テクスチャー（③厚め）。③：金属の匂い、工具の音、夜まで続く作業、組み上がる翼。④：大きなものが庭に生まれていく。
   - 確定：語数不足になりやすい制作回＝③を厚く。
-  - ✅執筆済み（word_count 285）。Day7・庭（朝→夜まで続く作業）。純制作回（信号アークは進めない＝Ep113/114で進める）。翼が組み上がる＝核（"They lift the other wing next. Now the boat has two wide wings."）＋エンジン搭載（"It is heavy and dark and round."＝本話の三連形容詞1回）。③厚め＝金属の匂い（"The smell of oil hangs in the air."）・工具の音（"Metal taps on metal. Tools turn and click."）・夜まで続く作業（"The sun goes down ... But the work does not stop. Obia's eyes light the metal with a soft glow."）。Ako＋Obiaの噛み合い（"They pass each tool between them."＝Ep111 "back and forth" と別表現）。Ruka＝Podで見守る／Dango＝エンジンのそばで眠る。締め＝"Something big is taking form here. And it is theirs."（受動 "being born" を回避し能動 "taking form" に）。"wing(s)" はタイトル主題の反復で許容。
+  - ✅執筆済み（word_count 285）。Day7・庭（朝→夜まで続く作業）。純制作回（信号アークは進めない＝Ep113/114で進める）。翼が組み上がる＝核（"They lift the other wing next. Now the boat has two wide wings."）＋エンジン搭載（"It is heavy and dark and round."＝本話の三連形容詞1回）。③厚め＝金属の匂い（"The smell of oil hangs in the air."）・工具の音（"Metal taps on metal. Tools turn and click."）・夜まで続く作業（"The sun goes down ... But the work does not stop. Obia's eyes light the metal with a soft glow."）。Ako＋Obiaの噛み合い（"They pass each tool between them."＝Ep111 "back and forth" と別表現）。Luca＝Podで見守る／Dango＝エンジンのそばで眠る。締め＝"Something big is taking form here. And it is theirs."（受動 "being born" を回避し能動 "taking form" に）。"wing(s)" はタイトル主題の反復で許容。
 - **Ep113「What Obia Cannot Read」**（確定タイトル・旧"The Memory He Cannot Read"＝"He"回避）：作業の合間、Obiaが暗号記憶にもう一度触れようとするが、まだ開かない。不穏な予感。
   - 🔒台詞（Obia）：*"Still locked. I cannot open it."* ＝Ep106 "There is something in me. I cannot read it." の継続。
   - モード：静・観察（不穏）。③：明滅するObiaの目、止まる手、夜の静けさ、Ako-chanの横顔。④：その記憶が何なのか、まだ誰も知らない。
@@ -908,71 +908,71 @@
   - 🔧レビュー適用（Phase C・第2バッチ Ep112-114）：①**story_day修正 6→7**（ep112 "It rose part way yesterday. Today they build the wings."＝frame上げ=ep111(Day6)の翌日。ep113/114はその同夜）。連鎖＝109:5/110:6/111:6/112:7/113:7/114:7（非減少）。②ep114 "He knows that something is starting." が Ep108(コミット済)と逐語重複 → "He knows the night is changing now." に変奏（→word_count 271→272）。③ep112 wide×4→3（"wings stretch wide"→"stretch far"）。④ep114 strong系×5→4（"feels strong tonight"→"feels heavy tonight"・残りは信号crescendoの意図反復）。結果：fm＝285/297/272（範囲内）・最長文≤9語・禁止文型/robot/Obia代名詞なし・三連各1（規約内）・🔒3本逐語一致・ep113 "the silver one"×1（不気味さに的確）。
 
 ### Day 7前後 — 完成へ
-- **Ep115「Dango Wants to Help」**：軽い息継ぎ回。Dangoが制作を「手伝おう」とする。工具をくわえて運ぶが邪魔になる。Ako-chanが笑う。Rukaは騒ぎの横で落ち着いている。
-  - モード：動・出来事（息継ぎ）。③：くわえた工具、振られる尻尾、散らかる部品、Rukaの静けさ。④：にぎやかな庭。旅の前の穏やかな一日。
+- **Ep115「Dango Wants to Help」**：軽い息継ぎ回。Dangoが制作を「手伝おう」とする。工具をくわえて運ぶが邪魔になる。Ako-chanが笑う。Lucaは騒ぎの横で落ち着いている。
+  - モード：動・出来事（息継ぎ）。③：くわえた工具、振られる尻尾、散らかる部品、Lucaの静けさ。④：にぎやかな庭。旅の前の穏やかな一日。
   - 確定：Dango引用台詞なし（所作）。コーギー寸法基準。
-  - ✅執筆済み（word_count 271）。Day7朝・庭（飛行艇ほぼ完成）。明るい息継ぎ回＝Ep114の不穏から一日引く（信号の不穏は引かない）。Dango＝**引用台詞なし**・所作のみ＝工具（big metal wrench＝"big"はレンチに係り＝Dango非該当）をくわえて運ぶ→部品の箱にぶつかり散らかす（"They spill out across the ground. Bolts and screws roll everywhere."）。コーギー寸法＝"His thick legs kick up the grass."（big犬表現なし）。Ako-chanが笑う（最小台詞 *"Oh, Dango,"*）／Rukaは騒ぎの横で静止（she・"She is calm in all the noise."）。締め＝"It is a calm, good day before the road."（旅前の穏やかな一日）。
-- **Ep116「Ready to Fly」**：飛行艇がついに完成。庭に大きな翼が広がる。全員が見上げる。**Dango・Ruka・Obia**が見ている（⚠️Daru/Gabu/Suke-sanはまだ再合流していない＝出さない）。
+  - ✅執筆済み（word_count 271）。Day7朝・庭（飛行艇ほぼ完成）。明るい息継ぎ回＝Ep114の不穏から一日引く（信号の不穏は引かない）。Dango＝**引用台詞なし**・所作のみ＝工具（big metal wrench＝"big"はレンチに係り＝Dango非該当）をくわえて運ぶ→部品の箱にぶつかり散らかす（"They spill out across the ground. Bolts and screws roll everywhere."）。コーギー寸法＝"His thick legs kick up the grass."（big犬表現なし）。Ako-chanが笑う（最小台詞 *"Oh, Dango,"*）／Lucaは騒ぎの横で静止（she・"She is calm in all the noise."）。締め＝"It is a calm, good day before the road."（旅前の穏やかな一日）。
+- **Ep116「Ready to Fly」**：飛行艇がついに完成。庭に大きな翼が広がる。全員が見上げる。**Dango・Luca・Obia**が見ている（⚠️Dalu/Gabu/Suke-sanはまだ再合流していない＝出さない）。
   - モード：静・観察。③：完成した機体、朝の光に光る翼、見上げる顔、静かな期待。④：あとは、飛ぶだけ。
-  - ⚠️**人数4の厳守**（Ako・Dango・Obia・Ruka）。先取り禁止。
-  - ✅執筆済み（word_count 274）。Day7朝・庭。飛行艇完成＝核（"It is finished now, at last."）。**見上げるのは4人のみ**＝Ako-chan・Dango（足元・"His tail is still."）・Ruka（Pod内・"She lifts her small head towards the wings."）・Obia（"Its pale blue eyes shine in the light."）。⚠️Daru/Gabu/Suke-san不出（先取り禁止厳守）。③＝朝の光に光る翼（"The early sun touches its wings. They shine soft and gold." / "The wings shine like still water."）・見上げる顔・静かな期待（"They all feel the same quiet hope."）。S1船と比較＝"It is bigger than their old ship was."（boatに"big"系は可）。家族確認＝"Dango. Ruka. Obia. And her."（=4）。締め＝"Only the sky is left now."（あとは飛ぶだけ）。
-- **Ep117「Into the Sky」**：飛行艇が初めて空へ。庭が、イギリスが小さくなる。南へ。Ako-chanは窓の外を見る。Dangoが足元にぴたり。RukaはミニPodの中。
+  - ⚠️**人数4の厳守**（Ako・Dango・Obia・Luca）。先取り禁止。
+  - ✅執筆済み（word_count 274）。Day7朝・庭。飛行艇完成＝核（"It is finished now, at last."）。**見上げるのは4人のみ**＝Ako-chan・Dango（足元・"His tail is still."）・Luca（Pod内・"She lifts her small head towards the wings."）・Obia（"Its pale blue eyes shine in the light."）。⚠️Dalu/Gabu/Suke-san不出（先取り禁止厳守）。③＝朝の光に光る翼（"The early sun touches its wings. They shine soft and gold." / "The wings shine like still water."）・見上げる顔・静かな期待（"They all feel the same quiet hope."）。S1船と比較＝"It is bigger than their old ship was."（boatに"big"系は可）。家族確認＝"Dango. Luca. Obia. And her."（=4）。締め＝"Only the sky is left now."（あとは飛ぶだけ）。
+- **Ep117「Into the Sky」**：飛行艇が初めて空へ。庭が、イギリスが小さくなる。南へ。Ako-chanは窓の外を見る。Dangoが足元にぴたり。LucaはミニPodの中。
   - モード：動・出来事。③：浮き上がる感覚、下に広がる景色、エンジンの振動、雲。④章クローザー：3年ぶりの旅が、空から始まる。
-  - 確定（章末リンク）：next_ep は空欄（Ch15 Ep118 執筆時に ep118.prev_ep=ep117 と相互リンク）。先取り禁止（クロアチア・Daru再合流はCh15）。
-  - ✅執筆済み（word_count 275）。Day7・庭→空。章クローザー＝**3年ぶりの旅が空から始まる**。一行4人が搭乗（Ako-chan前方／Dango足元／**RukaはミニPod内**／Obiaは操縦のそば）。初飛行＝浮き上がる感覚（"The lift feels strange and light. Ako-chan's stomach drops a little."）・下に広がる景色（"England spreads out far below. The green fields grow small and neat."）・エンジンの振動（"The engine hums, deep and steady. Ako-chan feels it in her chest."）・雲（"White mist wraps around the wings."）。Ako-chan最小台詞 *"Hold on,"*。⚠️行き先は伏せ "south" のみ（"Ako-chan turns the boat towards the south."＝Ep118クロアチアは先取りしない）。締め＝"The long road begins again. This time, it begins in the sky."（S1徒歩出発との対比・will不使用の現在形クローザー）。next_ep空欄（Ch15で相互リンク）。
+  - 確定（章末リンク）：next_ep は空欄（Ch15 Ep118 執筆時に ep118.prev_ep=ep117 と相互リンク）。先取り禁止（クロアチア・Dalu再合流はCh15）。
+  - ✅執筆済み（word_count 275）。Day7・庭→空。章クローザー＝**3年ぶりの旅が空から始まる**。一行4人が搭乗（Ako-chan前方／Dango足元／**LucaはミニPod内**／Obiaは操縦のそば）。初飛行＝浮き上がる感覚（"The lift feels strange and light. Ako-chan's stomach drops a little."）・下に広がる景色（"England spreads out far below. The green fields grow small and neat."）・エンジンの振動（"The engine hums, deep and steady. Ako-chan feels it in her chest."）・雲（"White mist wraps around the wings."）。Ako-chan最小台詞 *"Hold on,"*。⚠️行き先は伏せ "south" のみ（"Ako-chan turns the boat towards the south."＝Ep118クロアチアは先取りしない）。締め＝"The long road begins again. This time, it begins in the sky."（S1徒歩出発との対比・will不使用の現在形クローザー）。next_ep空欄（Ch15で相互リンク）。
 
-  - 🔧レビュー適用（Phase C・第3バッチ Ep115-117）：①**ep116 関係代名詞節を解消**（"All that is left now is the sky."＝that関係詞節＝S2禁止 → "Only the sky is left now."）→word_count 276→274。②ep116 still×5→4（"clear and still"→"clear and calm"）。③ep115 grass×4→3（"spill out across the grass"→"…the ground"）。結果：fm＝271/274/275（範囲内）・story_day 全7・最長文≤9語・禁止文型/robot/Obia代名詞/三連/畳語なし・人数4厳守（ep116/117にDaru/Gabu/Suke不出）・ep117は "never saw/felt … before"＝単純過去で現在完了回避（正）。
+  - 🔧レビュー適用（Phase C・第3バッチ Ep115-117）：①**ep116 関係代名詞節を解消**（"All that is left now is the sky."＝that関係詞節＝S2禁止 → "Only the sky is left now."）→word_count 276→274。②ep116 still×5→4（"clear and still"→"clear and calm"）。③ep115 grass×4→3（"spill out across the grass"→"…the ground"）。結果：fm＝271/274/275（範囲内）・story_day 全7・最長文≤9語・禁止文型/robot/Obia代名詞/三連/畳語なし・人数4厳守（ep116/117にDalu/Gabu/Suke不出）・ep117は "never saw/felt … before"＝単純過去で現在完了回避（正）。
 
 <!-- Ch14（Ep109–117）全話✅執筆済み＆レビュー完了（2026-06-26）。各Epに確定台詞・新情報・word_countを追記済み。レビュー：第1バッチ109-111／第2バッチ112-114／第3バッチ115-117。章タイトル "Building the Flying Boat" はユーザー確認済み（s2-episode-list 2026-06-25）。 -->
 
 ## Chapter 15「Gathering the Friends」— 空路・再集結（Ep118〜125・8話）
 
 **Ch15 共通**
-- ★**再集結章（空路）**。飛行艇で **England→クロアチア(Daru)→ヨルダン・ワディラム(Gabu)→日本(Suke-san)→南へ**。一行が **4→7** に増える：Daru再合流(Ep118)＝5／Gabu(Ep120)＝6／Suke-san(Ep123)＝7。
-- ★**各Podは飛行艇に積んで持参**（Daru/Gabu用の新Podは Ch14 制作時に作り積載済み）→再合流時に**手渡し**：Daru＝**赤**（全力歩行→高速）Ep119／Gabu＝**青**（一定リズム→安定）Ep121。Ruka＝**黄**（ミニPod・既出）。
-- ★**リクガメ3匹が揃う（Ep124）**＝**Rukaが最小・最新入り**（先輩逆転の伏線。回収はCh24）。3Podの色＝赤・青・黄。
-- ★**サイズ（確定 2026-06-26）**：Daru/Gabuは3年で**成長したが まだ小さい亜成体**（baby 7cm→~12cm程度・**手に乗る小ささ**・Podに収まり中で歩ける）。「成体／大型」とは描かない（コーギー寸法と同じくリアリティ重視）。性格は不変：Daru＝元気・即行動／Gabu＝静か・観察。
+- ★**再集結章（空路）**。飛行艇で **England→クロアチア(Dalu)→ヨルダン・ワディラム(Gabu)→日本(Suke-san)→南へ**。一行が **4→7** に増える：Dalu再合流(Ep118)＝5／Gabu(Ep120)＝6／Suke-san(Ep123)＝7。
+- ★**各Podは飛行艇に積んで持参**（Dalu/Gabu用の新Podは Ch14 制作時に作り積載済み）→再合流時に**手渡し**：Dalu＝**赤**（全力歩行→高速）Ep119／Gabu＝**青**（一定リズム→安定）Ep121。Luca＝**黄**（ミニPod・既出）。
+- ★**リクガメ3匹が揃う（Ep124）**＝**Lucaが最小・最新入り**（先輩逆転の伏線。回収はCh24）。3Podの色＝赤・青・黄。
+- ★**サイズ（確定 2026-06-26）**：Dalu/Gabuは3年で**成長したが まだ小さい亜成体**（baby 7cm→~12cm程度・**手に乗る小ささ**・Podに収まり中で歩ける）。「成体／大型」とは描かない（コーギー寸法と同じくリアリティ重視）。性格は不変：Dalu＝元気・即行動／Gabu＝静か・観察。
 - ★**Dango（確定 2026-06-26）**：引き続き**引用台詞なし**。Ep123 Suke-san「You are big now.」への返し「You too.」は**Dangoに言わせず無言の所作＋地の文**で伝える（S1 Ep91踏襲）。Suke-sanの台詞のみ引用。
 - **Suke-san**：成犬・警戒の鋭さ不変・定位置＝**Ako-chanの右・少し後ろ**（S1から継続）。Ako-chanには駆け寄るが**まず全員を確かめる**。
-- **Obia**＝it（飛行艇内・操縦のそば）／**Ruka**＝she・最小台詞。**人数の明示はEp124の全員列挙に一本化**（確定 2026-06-26）＝**個々の再合流(118/120/123)では数を出さず暗黙**（感情ビート優先："The first friend is back" / "They travel south together" / "The whole family stands here" 等）。Ep124で7人を列挙して"全員揃った"を示す。
+- **Obia**＝it（飛行艇内・操縦のそば）／**Luca**＝she・最小台詞。**人数の明示はEp124の全員列挙に一本化**（確定 2026-06-26）＝**個々の再合流(118/120/123)では数を出さず暗黙**（感情ビート優先："The first friend is back" / "They travel south together" / "The whole family stands here" 等）。Ep124で7人を列挙して"全員揃った"を示す。
 - ⚠️**先取り禁止**：Pen-san/General Adelie（南極＝Ch16）・南極・タイムマシン・跳躍・使命は出さない。行き先は "south" まで。
 - Day割付：Ch14末＝Day7（初飛行）。Ch15は空路で各地へ＝Day8〜（非減少・loose・"説明しない"）。
 
-### Day 8前後 — クロアチア（Daru再合流）
-- **Ep118「Back to Croatia」**：飛行艇がダルマティア海岸に降りる。岩場で成長したDaru。3年で大きくなったが走り出す元気は不変。
-  - 🔒台詞（Daru）：*"Ako-chan! You came back!"*
-  - モード：動・出来事（再会）。③：白い岩、青い海、駆け寄るDaru、Dangoの再会の吠え。④：最初の仲間が戻ってくる。
-  - 確定：Daru＝**成長したがまだ小さいリクガメ**（手に乗る・"He is bigger now. But he still fits in her two hands."）・元気不変。人数→5（声に出した宣言はしない＝感情優先）。Pod手渡しはEp119。
-  - 確定（地理・呼応）：ダルマティア海岸（Croatia）・白い崖／アドリア海。S1の出会い（Ep17–18）を地の文で回想：*"She met Daru here three years ago. He was a tiny baby then, no bigger than her hand. He came out from a crack in these rocks."*（S1 "no bigger than her hand" と一致）。
-  - 確定（配置）：Dangoは吠えて尻尾を振る（引用台詞なし）。Obiaは飛行艇のそばで静止（地の文 "it"）。Rukaは不出（搭乗中だがこの回は描かない）。締め＝*"The first friend is back with them again."*（現在形・will不使用）。
+### Day 8前後 — クロアチア（Dalu再合流）
+- **Ep118「Back to Croatia」**：飛行艇がダルマティア海岸に降りる。岩場で成長したDalu。3年で大きくなったが走り出す元気は不変。
+  - 🔒台詞（Dalu）：*"Ako-chan! You came back!"*
+  - モード：動・出来事（再会）。③：白い岩、青い海、駆け寄るDalu、Dangoの再会の吠え。④：最初の仲間が戻ってくる。
+  - 確定：Dalu＝**成長したがまだ小さいリクガメ**（手に乗る・"He is bigger now. But he still fits in her two hands."）・元気不変。人数→5（声に出した宣言はしない＝感情優先）。Pod手渡しはEp119。
+  - 確定（地理・呼応）：ダルマティア海岸（Croatia）・白い崖／アドリア海。S1の出会い（Ep17–18）を地の文で回想：*"She met Dalu here three years ago. He was a tiny baby then, no bigger than her hand. He came out from a crack in these rocks."*（S1 "no bigger than her hand" と一致）。
+  - 確定（配置）：Dangoは吠えて尻尾を振る（引用台詞なし）。Obiaは飛行艇のそばで静止（地の文 "it"）。Lucaは不出（搭乗中だがこの回は描かない）。締め＝*"The first friend is back with them again."*（現在形・will不使用）。
   - ✅執筆済み（word_count 282）。Day8。next_ep=ep119／prev_ep=ep117（章跨ぎ・ep117.next_ep も更新済み）。
-- **Ep119「Daru's Pod」**：Ako-chanがDaruに新Podを手渡す。中で全力歩行→高速回転。赤い発光が戻る。
-  - 🔒台詞（Daru）：*"Fast! It is fast!"*
-  - モード：動・出来事。③：赤く光るPod、猛スピード、巻き上がる砂、笑うAko-chan。④：Daruは、Daruのままだ。
-  - 確定：Daru Pod＝赤・高速（S1 Ep22の仕組み再現＝歩く→Pod連動回転／全力→高速／**赤く光る**）。新Pod＝Ch14で制作・持参。手渡し台詞（Ako-chan）：*"This one is for you, Daru."*（Ep109 Obiaのミニポッド台詞と同型）。
-  - 確定：Pod＝"round and clear / a clear ball"（S1表記踏襲）。製作者は明言しない（"Daru had a Pod like this once." と回想のみ）。Dangoは吠えて追う（引用台詞なし）。Obiaは飛行艇のそばで静止（"it"）。
-  - 締め＝*"Three years are gone now. But Daru is still Daru. Fast, glad, and never still for long."*（Ep120 Gabu版 "But Gabu is still Gabu." と対の定型）。
+- **Ep119「Dalu's Pod」**：Ako-chanがDaluに新Podを手渡す。中で全力歩行→高速回転。赤い発光が戻る。
+  - 🔒台詞（Dalu）：*"Fast! It is fast!"*
+  - モード：動・出来事。③：赤く光るPod、猛スピード、巻き上がる砂、笑うAko-chan。④：Daluは、Daluのままだ。
+  - 確定：Dalu Pod＝赤・高速（S1 Ep22の仕組み再現＝歩く→Pod連動回転／全力→高速／**赤く光る**）。新Pod＝Ch14で制作・持参。手渡し台詞（Ako-chan）：*"This one is for you, Dalu."*（Ep109 Obiaのミニポッド台詞と同型）。
+  - 確定：Pod＝"round and clear / a clear ball"（S1表記踏襲）。製作者は明言しない（"Dalu had a Pod like this once." と回想のみ）。Dangoは吠えて追う（引用台詞なし）。Obiaは飛行艇のそばで静止（"it"）。
+  - 締め＝*"Three years are gone now. But Dalu is still Dalu. Fast, glad, and never still for long."*（Ep120 Gabu版 "But Gabu is still Gabu." と対の定型）。
   - ✅執筆済み（word_count 277）。Day8。
 ### Day 9前後 — ヨルダン・ワディラム（Gabu再合流）
 - **Ep120「Back to the Desert」**：飛行艇がワディラムへ。赤い岩壁・酷暑。岩の上に成長したGabuが静かに待つ。慌てずまっすぐ見ている。
   - モード：静・観察（再会・静）。③：赤い砂、揺れる熱気、岩の上のGabu、熱反射クロスを着るAko-chan。④：Gabuは、変わらず静かだ。
   - 確定：Gabu＝成長したがまだ小さい・静か不変（"He is bigger now, but still small."）。Ako-chanの熱反射クロス（S1 Ep26装備）再登場：*"her light silver cloth. ... It sends the hot air away from her."*（S1 "It sends the heat away." と呼応）。人数→6はEp121手渡し後でも可。
   - 確定（Gabu所作）：高い岩の上で静止して待つ→ゆっくり降りてくる（"He sits calm and straight in the sun. He waits, patient as ever." → "slow and sure, he begins to climb down. He does not hurry."）。**この回はGabuに引用台詞なし**（Ep121で初台詞 "...Thank you."）。
-  - 確定（S1呼応）：Gabuの信頼構築を地の文で回想：*"He took many days to trust her then. He came to her slow, step by step."*（S1 Ep27–31＝15m→一歩→数日→無言の合流）。Daruは red Pod で *"Gabu! Gabu! We came back!"*。締め＝*"But Gabu is still Gabu. Quiet, calm, and full of patience."*
+  - 確定（S1呼応）：Gabuの信頼構築を地の文で回想：*"He took many days to trust her then. He came to her slow, step by step."*（S1 Ep27–31＝15m→一歩→数日→無言の合流）。Daluは red Pod で *"Gabu! Gabu! We came back!"*。締め＝*"But Gabu is still Gabu. Quiet, calm, and full of patience."*
   - ✅執筆済み（word_count 272）。Day9。
-  - 🔧レビュー適用（Phase C・第1バッチ Ep118-120）：①cross-ep tic「the way he always did」が ep119(Daru)/ep120(Gabu) で逐語重複 → **ep120を "patient as ever." に変奏**（ep119は単発残置）→word_count 274→272。結果：fm＝282/277/272（範囲内）・story_day 8,8,9（非減少）・最長文≤11語・禁止文型/関係詞節/robot/Obia代名詞なし・**Dango引用台詞0**・三連各1・畳語 "faster and faster"(漸増OK)＋**"barks and barks"＝Ch15の畳語tic1回**(以降のCh15は別表現に)・寸法/人数/伏せ範囲OK。ep119 fast/Pod・ep120 still/slow/redはキャラ/設定の意図反復で据え置き。"by heart"(ep119)はborderline idiomだが常套句で許容。
+  - 🔧レビュー適用（Phase C・第1バッチ Ep118-120）：①cross-ep tic「the way he always did」が ep119(Dalu)/ep120(Gabu) で逐語重複 → **ep120を "patient as ever." に変奏**（ep119は単発残置）→word_count 274→272。結果：fm＝282/277/272（範囲内）・story_day 8,8,9（非減少）・最長文≤11語・禁止文型/関係詞節/robot/Obia代名詞なし・**Dango引用台詞0**・三連各1・畳語 "faster and faster"(漸増OK)＋**"barks and barks"＝Ch15の畳語tic1回**(以降のCh15は別表現に)・寸法/人数/伏せ範囲OK。ep119 fast/Pod・ep120 still/slow/redはキャラ/設定の意図反復で据え置き。"by heart"(ep119)はborderline idiomだが常套句で許容。
 - **Ep121「Gabu's Pod」**：Ako-chanがGabuにPodを手渡す。一定リズム→安定走行。青い発光。
   - 🔒台詞（Gabu）：*"...Thank you."*（短い）
-  - モード：静・観察。③：青く光るPod、規則正しい動き、砂漠の風、DaruとGabuの並ぶPod。④：二匹の甲羅がまた並んで動く（赤・青）。
+  - モード：静・観察。③：青く光るPod、規則正しい動き、砂漠の風、DaluとGabuの並ぶPod。④：二匹の甲羅がまた並んで動く（赤・青）。
   - 確定：Gabu Pod＝青・安定（S1 Ep32再現＝一定リズム→smooth/even line・**青く光る**・"It does not race."）。手渡し台詞（Ako-chan）：*"This one is for you, Gabu."*。Gabu初台詞 *"...Thank you."*（"Just two small words."＝Thank you=2語・C台帳の数え語に整合）。
   - 確定（並走・S1呼応）：*"Ako-chan saw these two shells travel once. Now they roll along together once again."* 赤＝quick and bright／青＝calm and slow（S1 Ep32–33「Two Shells」の対比定型を踏襲）。
-  - 確定（人数6・**暗黙化**）：数を明示せず *"They travel south together now. The journey holds them all once more."*（＝Ako-chan・Dango・Obia・Ruka[搭乗]・Daru・Gabu＝6だが**数は出さない**。人数の明示は**Ep124の全員列挙に一本化**＝ユーザー決定 2026-06-26）。Dango＝吠えず尻尾/耳の所作（引用台詞なし）。Obia＝"it"。
+  - 確定（人数6・**暗黙化**）：数を明示せず *"They travel south together now. The journey holds them all once more."*（＝Ako-chan・Dango・Obia・Luca[搭乗]・Dalu・Gabu＝6だが**数は出さない**。人数の明示は**Ep124の全員列挙に一本化**＝ユーザー決定 2026-06-26）。Dango＝吠えず尻尾/耳の所作（引用台詞なし）。Obia＝"it"。
   - ✅執筆済み（word_count 273）。Day9。
 ### Day 10前後 — 日本（Suke-san再合流）
 - **Ep122「Back to Japan」**：飛行艇が日本へ。深い緑の山・湿った空気・海の匂い。Ako-chanがSuke-sanの気配を探す。
   - モード：静・観察。③：緑の山、霧、土と松の匂い、耳を澄ますDango。④：Suke-sanはまだ姿を見せない。
   - 確定：Suke-sanの名・姿はこの回では出さない（Ep123登場）＝S1 Ep38型の予感締め。本文は "a friend"／"the last friend" でのみ言及（"She does not call out a name."）。
-  - 確定（地理・呼応）：日本（緑の山・霧・雨・土と松と石の匂い）。Dangoが故郷の匂いに気づく＝*"He came here once, three years ago. ... not fear. ... more like hope."*（S1 Ep39「Sharp」港の松＋warm earthの匂いと呼応）。DaruとGabuはPod内で静止。締め＝*"The last friend stays out of sight."*（予感）。
+  - 確定（地理・呼応）：日本（緑の山・霧・雨・土と松と石の匂い）。Dangoが故郷の匂いに気づく＝*"He came here once, three years ago. ... not fear. ... more like hope."*（S1 Ep39「Sharp」港の松＋warm earthの匂いと呼応）。DaluとGabuはPod内で静止。締め＝*"The last friend stays out of sight."*（予感）。
   - ✅執筆済み（word_count 272）。Day10。
 - **Ep123「Suke-san Returns」**：Suke-sanが山から現れる。成犬・警戒の鋭さ不変。Ako-chanに駆け寄るが まず全員を確かめる。成犬同士のDangoとしばらく見つめ合う。
   - 🔒台詞（Suke-san）：*"You are big now."*（Dangoへ。※Suke-san＝豆柴のPOVで「大きくなった」＝コーギーは柴より大きい・比較の意）
@@ -985,10 +985,10 @@
   - ✅執筆済み（word_count 271）。Day10。
   - 🔧レビュー適用（Phase C・第2バッチ Ep121-123）：①**ep122 三連2→1**（"The air is cool and damp and soft."→"…cool and damp."＝"earth and pine and stone" を本話の唯一の三連に）→word_count 274→272。②**ep121 calm/slow/sure の再利用過多を解消**（冗長な要約 "He is calm here, sure and slow."→"He is glad to be here again."＝calm4→3・slow4→3・sure3→1）。結果：fm＝275/272/271（範囲内）・story_day 9,10,10（非減少）・最長文≤9語・禁止文型/関係詞節/robot/Obia代名詞なし・**Dango引用台詞0（Ep123 "You too" は所作化）**・三連各1・🔒3本逐語一致。③**ep121の人数を暗黙化**（ユーザー決定2026-06-26）："Six of them travel south together now."→"They travel south together now."（数を出さず＝118/123と一貫。**人数明示はEp124に一本化**）→word_count 275→273。ep121 Pod/Gabu語・ep122 mist/quiet/still は意図テクスチャーで据え置き。最終fm＝273/272/271。
 ### Day 11前後 — 全員集合〜南へ
-- **Ep124「All Together Again」**：全員が飛行艇に揃う。Ako-chan・Dango・Obia・Suke-san・Daru・Gabu・Ruka。リクガメ3匹でRukaが**最小・最新入り**。DaruとGabuがその小さな新入りを見る。
+- **Ep124「All Together Again」**：全員が飛行艇に揃う。Ako-chan・Dango・Obia・Suke-san・Dalu・Gabu・Luca。リクガメ3匹でLucaが**最小・最新入り**。DaluとGabuがその小さな新入りを見る。
   - モード：静・観察。③：飛行艇の中の定位置、3Podの色（赤・青・黄）、揃った気配。④：仲間がまた一つになった。
-  - 確定（人数7・体感列挙）：定位置を列挙：Dango＝足元／Suke-san＝右・少し後ろ／Obia＝操縦のそば(it)／Daru＝赤Pod／Gabu＝青Pod／Ruka＝小さな黄Pod。*"Seven of them, together at last."*＋*"Not one friend is missing now."*（"now they are seven"型の機械宣言は不使用）。⚠️Pen-san/Adelie不出（南極Ch16）。
-  - 確定（Ruka＝最小・最新入り＝先輩逆転Ch24布石）：3Pod並走＝赤・青・黄／*"the yellow Pod is the smallest one. Ruka is the littlest of the three. She is also the newest friend of all. Daru and Gabu look at the small newcomer."* 三者対比 *"Daru is loud. Gabu is slow. But little Ruka is the quiet one."* Ruka＝she・引用台詞なし（"calm and still, as always"）。
+  - 確定（人数7・体感列挙）：定位置を列挙：Dango＝足元／Suke-san＝右・少し後ろ／Obia＝操縦のそば(it)／Dalu＝赤Pod／Gabu＝青Pod／Luca＝小さな黄Pod。*"Seven of them, together at last."*＋*"Not one friend is missing now."*（"now they are seven"型の機械宣言は不使用）。⚠️Pen-san/Adelie不出（南極Ch16）。
+  - 確定（Luca＝最小・最新入り＝先輩逆転Ch24布石）：3Pod並走＝赤・青・黄／*"the yellow Pod is the smallest one. Luca is the littlest of the three. She is also the newest friend of all. Dalu and Gabu look at the small newcomer."* 三者対比 *"Dalu is loud. Gabu is slow. But little Luca is the quiet one."* Luca＝she・引用台詞なし（"calm and still, as always"）。
   - ✅執筆済み（word_count 277）。Day11。
 - **Ep125「South Again」**：飛行艇がさらに南へ。全員を乗せて。次は南極。Ako-chanは3年前の旅（船）を思い出す。今は空。
   - モード：移動・テクスチャー。③：下に広がる海、雲、エンジンの音、それぞれの仲間の姿。④章クローザー：白い大陸が近づいてくる。
@@ -996,7 +996,7 @@
   - 確定（章クローザー予感）：南極・装備・洞窟は**名指ししない**。締めは白い大陸の予感のみ＝*"A pale shape lies at the world's far edge. A great white land, far away. It is still far off. But it draws near. Their long road leads them there."*（"south" は本文で使用＝タイトル回収・行き先は"south"まで）。
   - 確定（章末リンク）：next_ep は空欄（Ch16 Ep126執筆時に ep126.prev_ep=ep125 と相互リンク）。⚠️南極・装備・洞窟はCh16＝先取りしない（"白い大陸が近づく"予感まで）。
   - ✅執筆済み（word_count 274）。Day11。**Ch15（Ep118〜125）完成。**
-  - 🔧レビュー適用（Phase C・第3バッチ Ep124-125）：内容/規約は良好（Ep124＝7人列挙＋"Seven of them"＝唯一の人数明示で一本化どおり・3Pod色赤青黄・Ruka最小最新入り／Ep125＝船→空の回想・南極は"great white land"の予感のみで先取りなし）。§5反復のみ変奏（中立）：ep125 sea×6→4（P1 "the sea spreads"→"the ocean spreads"・P5 "through the pale sky"→"through the quiet sky" でpale3→2も同時に解消）、ep124 friend×4→3（"each friend"→"each one"）。結果：fm＝277/274（範囲内）・story_day 11,11・最長文≤9語・禁止文型/関係詞節なし・三連/畳語なし・🔒なし回。
+  - 🔧レビュー適用（Phase C・第3バッチ Ep124-125）：内容/規約は良好（Ep124＝7人列挙＋"Seven of them"＝唯一の人数明示で一本化どおり・3Pod色赤青黄・Luca最小最新入り／Ep125＝船→空の回想・南極は"great white land"の予感のみで先取りなし）。§5反復のみ変奏（中立）：ep125 sea×6→4（P1 "the sea spreads"→"the ocean spreads"・P5 "through the pale sky"→"through the quiet sky" でpale3→2も同時に解消）、ep124 friend×4→3（"each friend"→"each one"）。結果：fm＝277/274（範囲内）・story_day 11,11・最長文≤9語・禁止文型/関係詞節なし・三連/畳語なし・🔒なし回。
 
 <!-- Ch15（Ep118〜125）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
 
@@ -1004,36 +1004,36 @@
 
 **Ch16 共通**
 - ★**空路〜南極到着章**。海上を南下→最初の氷山→南極上陸→**Pen-san(成体)/General Adelie 再合流**→氷の崖で**洞窟入口発見**→洞窟へ。**S2核心（タイムマシン・使命）の入口**。
-- 一行7人（Ako-chan・Dango・Obia・Suke-san・Daru・Gabu・Ruka）。南極で **Pen-san・General Adelie** が加わる（南極在住＝合流して同行・南極残留組）。南極シーンの登場＝9（7＋Pen-san＋Adelie）だが**数は明示しない**（人数明示はEp124で一本化済み）。
+- 一行7人（Ako-chan・Dango・Obia・Suke-san・Dalu・Gabu・Luca）。南極で **Pen-san・General Adelie** が加わる（南極在住＝合流して同行・南極残留組）。南極シーンの登場＝9（7＋Pen-san＋Adelie）だが**数は明示しない**（人数明示はEp124で一本化済み）。
 - ★**南極装備配布（Ep127）**：Obia→**Ako-chan・Dango・Suke-san**に防寒服／犬用ブーツ＆ベスト（S1 Ep72系装備の再現）。**Pen-san/Adelieは不要**（南極の生き物）。**リクガメ3匹はPod内（南極モード・断熱）**で保温。Dangoはブーツを嫌がる→Suke-sanがじっと見ると観念（軽い笑い）。
 - ★**Pen-san（確定）**：ヒナ→**エンペラーペンギン成体＝genuinely大きい**（実 ~1.2m・Dangoを見下ろす）。**これは生物学的に正確＝"big"表現OK**（コーギーと違いtoning不要）。S1 Ep87「I will be a good Emperor.」の回収。甘えん坊は不変。
 - ★**General Adelie（確定）**：ColonelからGeneralに昇進（**rank変化・サイズは~70cmで不変**）。厳格・規律正しい不変。Ako-chanは思わず旧rank "Colonel Adelie!" と呼ぶ→訂正される。命名後は地の文 "the General / he"。
 - ★**信号アーク（Ch13-14→）の収束点**：南極のタイムマシン発の信号源に近づく＝**洞窟へ導く**。⚠️**タイムマシン本体・使命・暗号記憶の復号は Ch17（Ep135-136）＝先取り禁止**。Ch16は Ep132 洞窟入口発見・Ep133「奥に何かがある」予感まで。
 - ★**洞窟**：S1では知らなかった場所（S1拠点は船のみ）。Ep132で**初めて入口を発見**。
-- **Dango**：引用台詞なし（所作）。コーギー寸法（big犬表現NG）。巨大化したPen-sanに**戸惑う/たじろぐ**（S1のPen-sanへの嫉妬の裏返し＝今は見上げる側）。**Obia**＝it（暗い洞窟では目が道を照らす）。**Ruka**＝she・最小台詞。
+- **Dango**：引用台詞なし（所作）。コーギー寸法（big犬表現NG）。巨大化したPen-sanに**戸惑う/たじろぐ**（S1のPen-sanへの嫉妬の裏返し＝今は見上げる側）。**Obia**＝it（暗い洞窟では目が道を照らす）。**Luca**＝she・最小台詞。
 - Day割付：Ch15末＝Day11。Ch16は南下継続〜到着〜探索＝Day12〜（非減少・loose）。
 
 ### Day 12前後 — 海上南下〜装備
 - **Ep126「Over the Sea」**：飛行艇が海の上を南へ飛び続ける。果てしない水平線。陸はもう見えない。仲間はそれぞれ静か。
-  - モード：移動・テクスチャー。③：エンジンの振動、窓を流れる雲、下に広がる灰色の海、RukaのミニPod。④：南へ、南へ。海がだんだん暗く、冷たくなる。
+  - モード：移動・テクスチャー。③：エンジンの振動、窓を流れる雲、下に広がる灰色の海、LucaのミニPod。④：南へ、南へ。海がだんだん暗く、冷たくなる。
   - 確定：台詞なし可（静かな移動回）。一行7人。先取り禁止（南極まだ）。
-  - ✅執筆済み（word_count 273）。Day12。台詞なし回。一行7人それぞれの定位置（Dango足元／Suke-san見張り／Daru・Gabu・RukaはPod内／Obia操縦のそば"steady by the controls"）。海がだんだん暗く冷たく＝"The warm seas are far behind them now." / "Frost starts to touch the window edge."（世界が冷えていく＝world.md異変進行ではなく南下の体感）。締め＝"Something waits at the end of the sea. ... it draws near with every hour."（予感）。先取りなし。
+  - ✅執筆済み（word_count 273）。Day12。台詞なし回。一行7人それぞれの定位置（Dango足元／Suke-san見張り／Dalu・Gabu・LucaはPod内／Obia操縦のそば"steady by the controls"）。海がだんだん暗く冷たく＝"The warm seas are far behind them now." / "Frost starts to touch the window edge."（世界が冷えていく＝world.md異変進行ではなく南下の体感）。締め＝"Something waits at the end of the sea. ... it draws near with every hour."（予感）。先取りなし。
 - **Ep127「The Gear」**：寒さが近づく。Obiaが南極装備を取り出し、Ako-chan・Dango・Suke-sanに配る。Dangoはブーツを嫌がるが、Suke-sanがじっと見ると観念して着ける。
   - モード：動・出来事（軽い息継ぎ）。③：白い防寒服、犬用ブーツ、冷えてくる機内、息の白さ。④：南極が、もうすぐそこにある。
   - 確定：装備＝Ako-chan(防寒服)／Dango・Suke-san(ブーツ＆ベスト)。Pen-san/Adelie不要。リクガメはPod内。Dango引用台詞なし（嫌がる所作＋地の文）。Obia台詞可（"it"）。
-  - ✅執筆済み（word_count 272）。Day12。装備配布＝**能動**（"Obia opens a long metal box. ... It lifts out a warm white coat. ... Then Obia takes out boots and vests."＝受動回避）。Obia台詞 *"The cold is near now," / "This is for you, Ako-chan," / "It will keep you warm in the ice."*（it）。装備＝Ako-chan防寒服／Dango・Suke-sanブーツ&ベスト／**"Daru, Gabu, and Ruka stay warm in their Pods."**（リクガメは装備不要・Pod内）。**Dangoのブーツ拒否→Suke-sanの無言の一瞥で観念**（"He shakes one boot off ... sits down hard ... Suke-san ... only stares, still and sharp. Dango lets out a long, low sigh." → 観念して履く＝Dango引用なし・所作のみ・軽い笑い "Ako-chan laughs softly"）。三連 "high and strange and slow"（本話の唯一の三連）。
+  - ✅執筆済み（word_count 272）。Day12。装備配布＝**能動**（"Obia opens a long metal box. ... It lifts out a warm white coat. ... Then Obia takes out boots and vests."＝受動回避）。Obia台詞 *"The cold is near now," / "This is for you, Ako-chan," / "It will keep you warm in the ice."*（it）。装備＝Ako-chan防寒服／Dango・Suke-sanブーツ&ベスト／**"Dalu, Gabu, and Luca stay warm in their Pods."**（リクガメは装備不要・Pod内）。**Dangoのブーツ拒否→Suke-sanの無言の一瞥で観念**（"He shakes one boot off ... sits down hard ... Suke-san ... only stares, still and sharp. Dango lets out a long, low sigh." → 観念して履く＝Dango引用なし・所作のみ・軽い笑い "Ako-chan laughs softly"）。三連 "high and strange and slow"（本話の唯一の三連）。
 
 ### Day 13前後 — 氷山〜上陸
 - **Ep128「First Ice Again」**：窓の外に最初の氷山。白く巨大に海に浮かぶ。Ako-chanに3年前の記憶が重なる。
-  - 🔒台詞（Daru）：*"I remember this."* ／（Gabu）：*"...Yes."*
+  - 🔒台詞（Dalu）：*"I remember this."* ／（Gabu）：*"...Yes."*
   - モード：静・観察。③：海に浮かぶ氷、青白い輝き、冷気、見つめる仲間たち。④：あのときの南極が、また近づいてくる。
-  - 確定：S1南極の記憶（Daru/Gabuも同行していた＝Ep63系）。
-  - ✅執筆済み（word_count 274）。Day13（"The next day"＝ep127 Day12の翌日）。🔒Daru *"I remember this,"*（"soft and low"）／Gabu *"...Yes,"*（"Just that."）逐語。最初の氷山＝核（"It is the first iceberg. It rises tall and bright from the sea."）。S1南極を**回想**＝*"The wind. The snow. **Pen-san's small grey face**. It all comes back to her now."*（baby Pen-sanの記憶＝Ep130巨大エンペラー再会の布石・先取りでない）。Dango/Suke-san/Ruka も窓辺。
+  - 確定：S1南極の記憶（Dalu/Gabuも同行していた＝Ep63系）。
+  - ✅執筆済み（word_count 274）。Day13（"The next day"＝ep127 Day12の翌日）。🔒Dalu *"I remember this,"*（"soft and low"）／Gabu *"...Yes,"*（"Just that."）逐語。最初の氷山＝核（"It is the first iceberg. It rises tall and bright from the sea."）。S1南極を**回想**＝*"The wind. The snow. **Pen-san's small grey face**. It all comes back to her now."*（baby Pen-sanの記憶＝Ep130巨大エンペラー再会の布石・先取りでない）。Dango/Suke-san/Luca も窓辺。
   - 🔧レビュー適用（Phase C・第1バッチ Ep126-128）：接近する寒さの cold/white/sea 密度（意図テクスチャー）から各話の最重クラスター1つを語数中立で変奏＝ep126 "The sea below grows darker"→"The water below…"（sea5→4）／ep127 "the gear for the cold"→"the gear they will need"（cold5→4）／ep128 "rises tall and white"→"rises tall and bright"（white5→4）。結果：fm＝273/272/274（範囲内）・story_day 12,12,13（非減少）・最長文≤9語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・🔒2本逐語一致。残る cold/white/ice は南極接近の意図テクスチャーで据え置き。
 - **Ep129「The White Land Again」**：飛行艇が南極に到着。白い大陸が再び目の前に。氷の上に降りる。冷たく静かで果てしない。3年ぶりの白。
   - モード：静・観察。③：着地の振動、白い地平線、きしむ氷、防寒服ごしの寒さ。④：帰ってきた、とAko-chanは思う。
   - 確定：上陸＝氷の上（S1拠点は船のみだったが今回は飛行艇で氷上に着地）。Pen-san/Adelieはまだ登場させない（Ep130-131）。
-  - ✅執筆済み（word_count 288）。Day13。飛行艇が氷上に着地（"The runners touch the icy floor. ... The ice creaks loud beneath them."）。3年ぶりの白＝回想（"Three years fall away in a breath. The same cold. The same white world."）。締め＝心内語 "I am back, she thinks. We came back at last."（Pen-san/Adelieはまだ）。三連 "flat and wide and pale"（本話唯一）。⚠️**2026-07-02修正**：南極Pod露出規則に照らし "Daru, Gabu, and Ruka peer out."（頭出し示唆）→"...watch from inside."（Pod内から見る・[[timeline]]:530）。word_count 287→288。
+  - ✅執筆済み（word_count 288）。Day13。飛行艇が氷上に着地（"The runners touch the icy floor. ... The ice creaks loud beneath them."）。3年ぶりの白＝回想（"Three years fall away in a breath. The same cold. The same white world."）。締め＝心内語 "I am back, she thinks. We came back at last."（Pen-san/Adelieはまだ）。三連 "flat and wide and pale"（本話唯一）。⚠️**2026-07-02修正**：南極Pod露出規則に照らし "Dalu, Gabu, and Luca peer out."（頭出し示唆）→"...watch from inside."（Pod内から見る・[[timeline]]:530）。word_count 287→288。
 
 ### Day 13前後 — Pen-san／General Adelie 再合流
 - **Ep130「Young Emperor」**：氷の上に大きなペンギン。Pen-sanだ。もうヒナではない。エンペラー成体になり、Dangoが戸惑うほど大きい。
@@ -1073,7 +1073,7 @@
 - ★**まだ伏せる（Ch22へ）**：**異変の根本原因（機械が現代↔未来を開いたまま＝未来の崩壊が漏れる）**はCh17では明かさない。Ch17は「声を救う使命」まで。異変と機械の因果はEp179（Ch22）。
 - ★**Ako-chanの役割**：Ako-chanが**声を聴く**（S1の動物語能力）／Obiaが**未来へ転送**する。Ep140で本人が自覚（*"I am ready."*）。
 - 場所：全編**洞窟内**（暗い・古い氷・Obiaの青白い光が主光源）。一行＝7＋Pen-san＋Adelie（全員洞窟内で reveal を目撃）。**数は明示しない**。
-- Obia＝it（洞窟で目が道を照らす）／Dango引用台詞なし（所作）／Ruka＝she最小台詞。
+- Obia＝it（洞窟で目が道を照らす）／Dango引用台詞なし（所作）／Luca＝she最小台詞。
 - Day割付：Ch16末＝Day14（洞窟を下る）。Ch17は洞窟内で連続＝Day14〜15（loose）。
 
 ### Day 14 — 洞窟最奥〜タイムマシン
@@ -1081,7 +1081,7 @@
   - 🔒台詞（Ako-chan）：*"Something is down here. I feel it."*
   - モード：移動の静寂（洞窟）。③：氷のきしみ、青白い光、白い息、深まる闇。④：奥へ行くほど信号が強くなる。
   - 確定：Ep133の続き。⚠️洞窟テクスチャー（ice/dark/cold）は§5で近接3回超を変奏（前章で過密だった点に注意）。
-  - ✅執筆済み（word_count 276）。Day14。Ep133の続きで洞窟を下る。🔒Ako-chan *"Something is down here," / "I feel it."*（逐語）。Obiaの青白い光が主光源（it）。信号が奥で強まる（"The hum runs through the ice like a pulse."）。一行全員（Dango足元/Suke-san右/Pen-san big feet/General/Daru・Gabu・RukaはPod内）。締め＝"Something waits at the end of the dark. And it is close now."（reveal未／予感）。畳語 "down and down"（漸増）。
+  - ✅執筆済み（word_count 276）。Day14。Ep133の続きで洞窟を下る。🔒Ako-chan *"Something is down here," / "I feel it."*（逐語）。Obiaの青白い光が主光源（it）。信号が奥で強まる（"The hum runs through the ice like a pulse."）。一行全員（Dango足元/Suke-san右/Pen-san big feet/General/Dalu・Gabu・LucaはPod内）。締め＝"Something waits at the end of the dark. And it is close now."（reveal未／予感）。畳語 "down and down"（漸増）。
 - **Ep135「The Machine in the Ice」**：洞窟のいちばん奥。古い氷に半分埋まった機械＝**タイムマシン**。誰もこんなものを見たことがない。信号はここから来ていた。
   - 🔒台詞（Ako-chan）：*"What is this?"*／（Obia）：*"...I think I know it."*
   - モード：静・観察（発見）。③：氷に埋まった金属、かすかな駆動音、青白く反射する光、静止する全員。④：機械がObiaを待っていたかのようだ。
@@ -1093,7 +1093,7 @@
   - 🔒台詞（Obia）：*"It is opening. The memory... is opening."*（現在進行形＝可）
   - モード：感情・転換。③：触れる手、走る光、震えるObia、見守る仲間たち。④：忘れていた何かが戻ってこようとしている。
   - ⚠️**地の文の代名詞は it を厳守**（Obia="it"）。タイトルも "He" を使わない（→"Obia Touches the Machine"）。
-  - ✅執筆済み（word_count 270）。Day14。Obiaが銀の前足で機械に触れる（"Obia lifts one silver paw up slowly."）→記憶が目覚め始める（"The locked memory begins to wake."＝Ep106/Ep113の回収）。🔒Obia *"It is opening," / "The memory... is opening."*（現在進行＝可・"hard, as if from far away"）。Obia=it厳守・タイトルも He不使用（確定 "Obia Touches the Machine"）。⚠️**中身は未開示**＝"Something forgotten starts to rise. ... no one knows what it will be."（reveal境界＝Ep138まで保留）。仲間は凍りつくように見守る（Dango伏せ/Suke-san stiff/Pen-san General に寄る/Ruka静止）。
+  - ✅執筆済み（word_count 270）。Day14。Obiaが銀の前足で機械に触れる（"Obia lifts one silver paw up slowly."）→記憶が目覚め始める（"The locked memory begins to wake."＝Ep106/Ep113の回収）。🔒Obia *"It is opening," / "The memory... is opening."*（現在進行＝可・"hard, as if from far away"）。Obia=it厳守・タイトルも He不使用（確定 "Obia Touches the Machine"）。⚠️**中身は未開示**＝"Something forgotten starts to rise. ... no one knows what it will be."（reveal境界＝Ep138まで保留）。仲間は凍りつくように見守る（Dango伏せ/Suke-san stiff/Pen-san General に寄る/Luca静止）。
   - 🔧レビュー適用（Phase C・第1バッチ Ep134-136）：reveal境界クリア（出自/未来/ループ/少年 言及なし）。§5の中心オブジェクト/光の過密を語数中立で変奏＝ep135 "a hall of ice"→"a high hall"（ice）／"The machine waits in its bed of ice"→"It rests…"（machine5→4）→wc275／ep136 "the silver body"→"its own body"・"the silver shell"→"its hard shell"（silver4→2）・"The light from the machine"→"The glow…"（light5→4）→wc270維持。結果：fm＝276/275/270（範囲内）・story_day 全14・最長文≤9語・禁止文型/関係詞節/受動/robot/Obia代名詞なし・三連各1・🔒逐語一致。ep135 machine・各話 blue/light は発見の中心要素で残置。
 - **Ep137「Fragments」**：記憶は一度に解けない。断片ずつ戻る。Obiaは自分が**何のために作られたか**を少しずつ思い出す。
   - モード：感情・断片。③：明滅する目、途切れる言葉、断片的なイメージ、Ako-chanの不安。④：使命の輪郭が霧の中から現れる。
@@ -1103,7 +1103,7 @@
   - 🔒台詞（Obia）：*"Save the voices of the dying animals. Send them to the future."*
   - モード：感情・reveal。③：はっきりするObiaの声、息をのむ仲間たち、氷の静けさ、機械の光。④：旅の本当の意味が明らかになる。
   - ⚠️**"the future" は抽象のまま**（誰の時代かは言わない）。異変との因果（Ch22）はまだ出さない。Ako-chanの「声を聴く役」を本人/地の文がここで結びつけてもよい（S1能力との接続）。
-  - ✅執筆済み（word_count 271）。Day15。**使命 reveal の核**＝🔒Obia *"Save the voices of the dying animals."* … *"Send them to the future."*（逐語・間に "A long pause."）。**"the future" は抽象**（"Send them to the future" / "into the future"＝誰の時代かは言わない）✓。**Ako-chanの役割をS1能力と接続**＝"The dying voices — she can hear them. She always could, her whole life long. Now she knows why that gift is hers. She will be the one to listen. Then Obia will send the voices on."。旅の意味の収束＝"The signal. The south. The ice. All of it led to this one task."。⚠️**出自/少年/ループ/異変原因(Ch22)は一切なし**✓。voices×4は使命キーワードの意図的強調で据え置き。仲間の絶句（Daru動けず/Gabu甲羅に引く/Pen-san目を見開く/Dango見上げる）。
+  - ✅執筆済み（word_count 271）。Day15。**使命 reveal の核**＝🔒Obia *"Save the voices of the dying animals."* … *"Send them to the future."*（逐語・間に "A long pause."）。**"the future" は抽象**（"Send them to the future" / "into the future"＝誰の時代かは言わない）✓。**Ako-chanの役割をS1能力と接続**＝"The dying voices — she can hear them. She always could, her whole life long. Now she knows why that gift is hers. She will be the one to listen. Then Obia will send the voices on."。旅の意味の収束＝"The signal. The south. The ice. All of it led to this one task."。⚠️**出自/少年/ループ/異変原因(Ch22)は一切なし**✓。voices×4は使命キーワードの意図的強調で据え置き。仲間の絶句（Dalu動けず/Gabu甲羅に引く/Pen-san目を見開く/Dango見上げる）。
 
 ### Day 15 — 仕組み〜跳躍準備
 - **Ep139「The Machine Chooses」**：Obiaがタイムマシンの仕組みを説明。行き先はセット済み・同行メンバーは機械が選ぶ・どこへ行くかは到着して初めて分かる。
@@ -1131,7 +1131,7 @@
 
 **Ch18 共通**
 - ★**S2の跳躍メカニクスの初実演＝声収集の"型"を確立する章**。機械が選定→跳躍→絶滅動物の声をAko-chanが聴く→Obiaが未来へ転送→帰還。以後Ch19（オオウミガラス）・Ch21（マイオラニア）が同型を踏む。
-- ★**選ばれたメンバー＝Dango・Suke-san**（＋必須のAko-chan・Obia）。**洞窟に残る＝Daru・Gabu・Ruka・Pen-san・General Adelie**（Ep142でタイムマシンが選定）。⚠️**なぜこの二匹かは説明しない**（機械の選定は不可解なまま＝world.md §8・Ep139 *"The machine chooses. We do not."* の実演）。
+- ★**選ばれたメンバー＝Dango・Suke-san**（＋必須のAko-chan・Obia）。**洞窟に残る＝Dalu・Gabu・Luca・Pen-san・General Adelie**（Ep142でタイムマシンが選定）。⚠️**なぜこの二匹かは説明しない**（機械の選定は不可解なまま＝world.md §8・Ep139 *"The machine chooses. We do not."* の実演）。
 - ★**行き先＝19世紀末〜20世紀初頭・日本の山奥**（深い雪・静寂・**人の気配なし**）。**ニホンオオカミ＝最後の群れ**。痩せて、それでも誇り高い。
 - ★**声の型（確定 2026-06-26・ユーザー選択）＝狼の長は短い引用台詞**（A2・**誇り高く・悲しみ/怒りでなく**）。Ako-chanが受け取り→Obiaが未来へ転送。**マイオラニア(Ch21)だけが"言葉でない感覚"**＝3跳躍で声の出し方に差をつける（狼＝誇りの言葉／オオウミガラスCh19＝穏やかな声／マイオラニアCh21＝言葉でない）。
   - 🔒狼の長（引用例・執筆時に最終確定）：*"We are the last. We do not run. This snow is ours. We are not afraid."*（誇り＝Ep150 *"It was proud."* と噛み合う）。⚠️**"We will not forget" 系の誓いはマイオラニアCh21の取り置き**＝狼には使わない。
@@ -1146,9 +1146,9 @@
 ### Day 15 — 選定〜跳躍〜19世紀末日本
 - **Ep142「Who Goes」**：タイムマシンが最初のメンバーを選ぶ。光がDangoとSuke-sanを包む。＋必須のAko-chanとObia。選ばれなかった仲間は洞窟に残る。
   - 🔒台詞（Ako-chan）：*"We will come back."*（will＝S2可／"残る仲間への誓い"型）
-  - モード：緊張・選定。③：選ぶ光、包まれる四人、残る仲間（Daru・Gabu・Ruka・Pen-san・General）の顔、機械の音。④：なぜこの二匹なのか、まだ分からない。
-  - 確定：跳躍組＝Ako-chan・Obia・Dango・Suke-san／洞窟残留＝Daru・Gabu・Ruka・Pen-san・General Adelie。⚠️**行き先（狼・日本）はEp144まで先取りしない**。人数の機械的宣言はしない（"光が包む"で示す）。⚠️Ep141 next_ep を ep142 へ更新（章頭の相互リンク・Phase Dで実施）。
-  - ✅執筆済み（word_count 298）。Day15。機械が選定＝光がDango→Suke-sanを包む（"A soft blue glow wraps around him."）。🔒Ako-chan *"We will come back,"*（逐語・"soft, but it does not shake"）。洞窟残留の5体を体感列挙（Daru/Gabu=Pod内・Ruka静止・Pen-san General に寄る）。⚠️選定理由は不問（"Why did it pick these two? No one knows. The machine gives no answer at all."）。Suke-san⇄Generalの無言の会釈（軍人の絆・所作）。Dango=所作のみ（whine/lick・引用なし）。"the four"＝Ako/Obia/Dango/Suke-san。締め＝跳躍直前で fade（"There is no turning back now. The jump is here."）。⚠️行き先・狼・日本は未開示。
+  - モード：緊張・選定。③：選ぶ光、包まれる四人、残る仲間（Dalu・Gabu・Luca・Pen-san・General）の顔、機械の音。④：なぜこの二匹なのか、まだ分からない。
+  - 確定：跳躍組＝Ako-chan・Obia・Dango・Suke-san／洞窟残留＝Dalu・Gabu・Luca・Pen-san・General Adelie。⚠️**行き先（狼・日本）はEp144まで先取りしない**。人数の機械的宣言はしない（"光が包む"で示す）。⚠️Ep141 next_ep を ep142 へ更新（章頭の相互リンク・Phase Dで実施）。
+  - ✅執筆済み（word_count 298）。Day15。機械が選定＝光がDango→Suke-sanを包む（"A soft blue glow wraps around him."）。🔒Ako-chan *"We will come back,"*（逐語・"soft, but it does not shake"）。洞窟残留の5体を体感列挙（Dalu/Gabu=Pod内・Luca静止・Pen-san General に寄る）。⚠️選定理由は不問（"Why did it pick these two? No one knows. The machine gives no answer at all."）。Suke-san⇄Generalの無言の会釈（軍人の絆・所作）。Dango=所作のみ（whine/lick・引用なし）。"the four"＝Ako/Obia/Dango/Suke-san。締め＝跳躍直前で fade（"There is no turning back now. The jump is here."）。⚠️行き先・狼・日本は未開示。
 - **Ep143「The Jump」**：最初の跳躍。激しい光。引っ張られる衝撃。一瞬すべてが白く。次の瞬間、空気が変わる。冷たい。匂いが違う。
   - モード：動・出来事。③：眩しい光、めまい、変わる温度、足元の感覚。④：目を開けると、そこは知らない時代だった。
   - 確定：跳躍の体感（光・衝撃・温度/匂いの変化）。⚠️**まだ"どこ/いつ"を明言しない**（Ep144で雪の山奥と判明）。往路の衝撃＝基準値（復路Ep149でやや増す）。
@@ -1179,13 +1179,13 @@
 ### Day 16 — 帰還〜受け止め
 - **Ep149「Back」**：帰還の跳躍。再び光と衝撃。雪の山奥から南極の洞窟へ。往路より、衝撃が少し大きい。四人が氷の上（洞窟内・機械のそば）に戻る。待っていた仲間が駆け寄る。
   - モード：動・出来事。③：眩しい光、めまい、戻る冷気、仲間の顔。④：戻ってこられた。でも、Ako-chanはまだ、狼の声を聴いている。
-  - 確定：**復路＞往路（少し大きい）＝逓増の起点**。⚠️**裂け目・分離はCh20＝ここでは"少し大きい"のみ**。戻り先＝**洞窟内**（機械のそば／"氷の上"はS1の沿岸でなく洞窟内の氷）。待つ仲間＝Daru・Gabu・Ruka・Pen-san・General。
-  - ✅執筆済み（word_count 275）。Day16。🔒Obia *"Hold on," ... "We jump back now."*。⚠️**復路＞往路＝逓増の起点**を明示＝"This time the pull is stronger." / "The jump back is harder than before."✓。⚠️**裂け目なし**（"少し大きい"のみ＝Ch20先取りせず）✓。戻り先＝**洞窟内・機械のそば**（"The cold air of the cave returns... The old machine hums close by... back in the deep cave."）✓。待つ5体が駆け寄る（Daru/Gabu Pod・Pen-san big feet=he・Ruka slowly・General tall）。締め＝Ako-chanはまだ狼の声を聴く（"Its proud words echo deep inside. It will not leave her, even now."）。🔧レビュー：flat副詞 "glows soft"→"glows softly"・"moves slow"→"moves slowly"。"grows bright"は連結動詞=据え置き。
+  - 確定：**復路＞往路（少し大きい）＝逓増の起点**。⚠️**裂け目・分離はCh20＝ここでは"少し大きい"のみ**。戻り先＝**洞窟内**（機械のそば／"氷の上"はS1の沿岸でなく洞窟内の氷）。待つ仲間＝Dalu・Gabu・Luca・Pen-san・General。
+  - ✅執筆済み（word_count 275）。Day16。🔒Obia *"Hold on," ... "We jump back now."*。⚠️**復路＞往路＝逓増の起点**を明示＝"This time the pull is stronger." / "The jump back is harder than before."✓。⚠️**裂け目なし**（"少し大きい"のみ＝Ch20先取りせず）✓。戻り先＝**洞窟内・機械のそば**（"The cold air of the cave returns... The old machine hums close by... back in the deep cave."）✓。待つ5体が駆け寄る（Dalu/Gabu Pod・Pen-san big feet=he・Luca slowly・General tall）。締め＝Ako-chanはまだ狼の声を聴く（"Its proud words echo deep inside. It will not leave her, even now."）。🔧レビュー：flat副詞 "glows soft"→"glows softly"・"moves slow"→"moves slowly"。"grows bright"は連結動詞=据え置き。
 - **Ep150「What We Heard」**：最初の声の重さを、みんなが受け止める。Ako-chanは多くを語らない。狼の誇りと、消えていくこと。仲間たちは静かに聴く。
   - 🔒台詞（Pen-san）：*"Was it... sad?"*／（Ako-chan）：*"No. It was proud."*
   - モード：感情・章クローザー。③：洞窟の静けさ、寄り添う仲間、Ako-chanの遠い目、機械の低い音。④章クローザー：あと二つ、声が待っている。
   - 確定（章末リンク）：next_ep は空欄（Ch19 Ep151執筆時に ep151.prev_ep=ep150 と相互リンク）。⚠️**Ep151（2回目＝オオウミガラス／Pen-san・General Adelie選定／北大西洋孤島）はCh19＝先取りしない**（"あと二つ、声が待っている"まで）。🔒Ako-chan *"No. It was proud."* はEp147の狼の誇りの回収。
-  - ✅執筆済み（word_count 272）。Day16。章クローザー。🔒Pen-san *"Was it... sad?"* / Ako-chan *"No," ... "It was proud."*（逐語・Ep147 "The voice was not sad. It was proud." の回収）✓。⚠️**Ch19先取りなし**＝"Two more voices wait somewhere in time. She does not know where. She does not know who."（オオウミガラス・孤島は出さない）✓。**※"Two more voices wait"＝総数3（Ep139で確立）に接地**＝数だけ既知・場所/誰は不明、で矛盾なし（2026-06-30）。next_ep 空欄✓。配置：Dango膝・Suke-san右・Daru/Gabu Pod・Ruka小さく傍ら（定位置整合）。締め＝"Somewhere far off, the voices wait for her."。⚠️残課題（要ユーザー判断）：最終文 "Its low sound fills the quiet dark." の "Its" は段落頭の "the old machine" を指す（Dango "his" との対比で機械と読めるが、直前 "Dango's warm side" との近接で一瞬曖昧）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。
+  - ✅執筆済み（word_count 272）。Day16。章クローザー。🔒Pen-san *"Was it... sad?"* / Ako-chan *"No," ... "It was proud."*（逐語・Ep147 "The voice was not sad. It was proud." の回収）✓。⚠️**Ch19先取りなし**＝"Two more voices wait somewhere in time. She does not know where. She does not know who."（オオウミガラス・孤島は出さない）✓。**※"Two more voices wait"＝総数3（Ep139で確立）に接地**＝数だけ既知・場所/誰は不明、で矛盾なし（2026-06-30）。next_ep 空欄✓。配置：Dango膝・Suke-san右・Dalu/Gabu Pod・Luca小さく傍ら（定位置整合）。締め＝"Somewhere far off, the voices wait for her."。⚠️残課題（要ユーザー判断）：最終文 "Its low sound fills the quiet dark." の "Its" は段落頭の "the old machine" を指す（Dango "his" との対比で機械と読めるが、直前 "Dango's warm side" との近接で一瞬曖昧）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。
 
 <!-- Ch18（Ep142〜150）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
 
@@ -1195,7 +1195,7 @@
 
 **Ch19 共通**
 - ★**跳躍の型の2回目**（Ch18で確立した：準備→選定→跳躍→Ako-chanが声を聴く→Obiaが転送→帰還）。本章で型を反復しつつ**声の質感を差別化**する。
-- ★**選ばれたメンバー＝Pen-san・General Adelie**（＋必須のAko-chan・Obia）。**洞窟に残る＝Dango・Suke-san・Daru・Gabu・Ruka**（Ep151で機械が選定）。⚠️**選定理由は説明しない**（machine chooses）。
+- ★**選ばれたメンバー＝Pen-san・General Adelie**（＋必須のAko-chan・Obia）。**洞窟に残る＝Dango・Suke-san・Dalu・Gabu・Luca**（Ep151で機械が選定）。⚠️**選定理由は説明しない**（machine chooses）。
 - ★**行き先＝18〜19世紀初頭・北大西洋の孤島・嵐の季節**（高波・強風・岩だらけ・たくさんの海鳥）。⚠️**島は命名しない**（"a rocky island in the North Atlantic"＝地域名が教材アンカー・Ch18の"old Japan"と同方針）。
 - ★**オオウミガラス**：大きい黒白の海鳥・**飛べない・人を恐れない**。⚠️**"great auk" の語は教材価値で1〜2回まで可**（実在の種名＝地名/"Emperor penguin"と同格）／多くは "the birds / the flightless birds / the seabirds"。companion的な命名はしない。
 - ★**Pen-sanの鏡像**：Pen-san（飛べない海鳥＝ペンギン）が、オオウミガラス（"北のペンギン"とも呼ばれた飛べない海鳥）に**自分と似た姿**を見る＝**主に無言の凝視**＋短い台詞可。**General Adelie＝観察者の台詞**（🔒"They cannot fly. And they do not run."）。
@@ -1210,8 +1210,8 @@
 ### Day 17 — 選定〜跳躍〜北大西洋の孤島
 - **Ep151「The Second Time」**：2度目の跳躍準備。機械が次のメンバーを選ぶ＝光がPen-sanとGeneral Adelieを包む（＋Ako-chan・Obia）。Pen-sanは少し緊張。Generalはいつもどおり落ち着いている。
   - モード：緊張・選定。③：選ぶ光、二羽のペンギン、機械の音、見守る仲間。④：今度は、どこへ行くのか。
-  - 確定：跳躍組＝Ako-chan・Obia・Pen-san・General Adelie／洞窟残留＝Dango・Suke-san・Daru・Gabu・Ruka。Pen-san＝緊張（所作/短い台詞）／General＝平静（短い命令調）。⚠️**行き先（孤島・オオウミガラス）は先取りしない**。
-  - ✅執筆済み（word_count 279）。Day17。Ep142と意図的に呼応する選定回（"This is the second time now. They all know what comes next."）。機械が光でPen-san→Generalを選ぶ（"A soft glow wraps his tall body."＝成体）。Pen-san緊張＝*"Is it my turn now?"*（wide and unsure）／General命令調＝*"Steady," ... "Stay close to me."*（firm and sure・"Hard times do not shake him."）。洞窟残留5体（Dango足元・Suke-san・Daru/Gabu Pod・Ruka静止）。Ako-chan *"We go together,"*。⚠️**行き先・鳥・島・海は一切出さない**（reveal境界クリア）。締め＝"Where will it take them this time? No one knows yet."。
+  - 確定：跳躍組＝Ako-chan・Obia・Pen-san・General Adelie／洞窟残留＝Dango・Suke-san・Dalu・Gabu・Luca。Pen-san＝緊張（所作/短い台詞）／General＝平静（短い命令調）。⚠️**行き先（孤島・オオウミガラス）は先取りしない**。
+  - ✅執筆済み（word_count 279）。Day17。Ep142と意図的に呼応する選定回（"This is the second time now. They all know what comes next."）。機械が光でPen-san→Generalを選ぶ（"A soft glow wraps his tall body."＝成体）。Pen-san緊張＝*"Is it my turn now?"*（wide and unsure）／General命令調＝*"Steady," ... "Stay close to me."*（firm and sure・"Hard times do not shake him."）。洞窟残留5体（Dango足元・Suke-san・Dalu/Gabu Pod・Luca静止）。Ako-chan *"We go together,"*。⚠️**行き先・鳥・島・海は一切出さない**（reveal境界クリア）。締め＝"Where will it take them this time? No one knows yet."。
 - **Ep152「A Harder Jump」**：2度目の跳躍。光と衝撃が一度目より大きい。Pen-sanが思わず声をあげる。次の瞬間、潮の匂いと強い風。
   - モード：動・出来事。③：激しい光、大きな衝撃、Pen-sanの叫び、変わる空気。④：目を開けると、灰色の海と嵐の空だった。
   - 確定：⚠️**往路＞1回目往路（逓増）**を体感で示す。場所は"灰色の海・嵐の空"まで（島の詳細はEp153）。
@@ -1247,7 +1247,7 @@
 - **Ep159「The Jumps Grow」**：跳躍のたびに衝撃が大きくなっている。次はもっと激しいだろう。みんなが気づく。Suke-sanとGeneral Adelieが顔を見合わせる。
   - モード：感情・章クローザー。③：疲れた体、洞窟の静けさ、機械の低い音、不安げな顔。④章クローザー：あと一つ。でも、その一つが、いちばん危うい。
   - 確定（章末リンク）：next_ep は空欄（Ch20 Ep160執筆時に ep160.prev_ep=ep159 と相互リンク）。⚠️**Ch20の"We should stop"明言はEp160＝先取りしない**（Ep159は**不安・顔を見合わせる**まで＝無言の同意）。Suke-san（洞窟残留・待機側）＋General（経験側）が逓増を察知。
-  - ✅執筆済み（word_count 270＝floor）。Day18。章クローザー。⚠️**"We should stop" 不使用厳守**＝無言の同意のみ＝"Suke-san looks up at the General. ... He gives a slow, heavy nod. Neither of them says a word. But they both feel the same fear."✓。逓増の総括＝"The first jump was hard. The second was harder still. ... The next jump will be worse."。④"One more jump lies ahead... that one will be the hardest. ... maybe it is the most dangerous of all."（Ch20への緊張）。next_ep 空欄✓。⚠️**裂け目・Ruka消失（Ch20）leak なし**✓。配置整合（Pen-san氷上・Dango・Ruka・Daru/Gabu Pod）。⚠️語数floor（270）。
+  - ✅執筆済み（word_count 270＝floor）。Day18。章クローザー。⚠️**"We should stop" 不使用厳守**＝無言の同意のみ＝"Suke-san looks up at the General. ... He gives a slow, heavy nod. Neither of them says a word. But they both feel the same fear."✓。逓増の総括＝"The first jump was hard. The second was harder still. ... The next jump will be worse."。④"One more jump lies ahead... that one will be the hardest. ... maybe it is the most dangerous of all."（Ch20への緊張）。next_ep 空欄✓。⚠️**裂け目・Luca消失（Ch20）leak なし**✓。配置整合（Pen-san氷上・Dango・Luca・Dalu/Gabu Pod）。⚠️語数floor（270）。
 
 <!-- Ch19（Ep151〜159）執筆完了。確定台詞・新情報・word_count 追記済み。 -->
 
@@ -1256,15 +1256,15 @@
 ## Chapter 20「The Rift」— 3回目跳躍・危機（Ep160〜167・8話）
 
 **Ch20 共通**
-- ★**S2最大の転換点＝3回目跳躍で事故が起きる章**。議論（やめるべき）→Ako-chanの決断（行く）→機械がリクガメ三匹を選ぶ→**跳躍直後に時空の裂け目**→**Ruka消失**→**Daru/Gabu追跡**→Ako/Obiaが**「時空のはざま」に取り残される**→自責→Obia「一緒に探そう」→追って跳ぶ（章クローザー）。
-- ★**跳躍組＝Ako-chan・Obia・Daru・Gabu・Ruka（5＝機械が選定）／現代組＝Dango・Suke-san・Pen-san・General Adelie（洞窟残留）**。⚠️**選定理由は不問**（machine chooses）。
+- ★**S2最大の転換点＝3回目跳躍で事故が起きる章**。議論（やめるべき）→Ako-chanの決断（行く）→機械がリクガメ三匹を選ぶ→**跳躍直後に時空の裂け目**→**Luca消失**→**Dalu/Gabu追跡**→Ako/Obiaが**「時空のはざま」に取り残される**→自責→Obia「一緒に探そう」→追って跳ぶ（章クローザー）。
+- ★**跳躍組＝Ako-chan・Obia・Dalu・Gabu・Luca（5＝機械が選定）／現代組＝Dango・Suke-san・Pen-san・General Adelie（洞窟残留）**。⚠️**選定理由は不問**（machine chooses）。
 - ★⚠️**最重要継続性：裂け目・三匹消失・はざまは「現代組（洞窟）には見えない」**（s2.md）。**Ch20は跳躍組視点で進める＝洞窟の現代組が異変を目撃する描写を入れない**（現代組の不安は Ch21 の現代組POV＝"長すぎる・戻らない"まで／異変の中身は見えない）。
 - ★**「時空のはざま」の英語＝"the space between times"（確定 2026-06-26・ユーザー選択）**。体感＝"Not here. Not there. Just grey and still. No ground. No sky."。**Ch21時空組POVでも同語**。⚠️機構の詳説はしない（"the jump did not finish" 程度）。
 - ★**Ako-chanの自責アーク（本章の情の核）**：Ep161で「行く」と決断（Suke-san/Generalの反対を越えて）＝**伏線**。Ep166で「自分が決めたせいだ」と爆発（涙・パニック）＝**Ep161の決断との因果を明確に結ぶ**。Obiaは責めず「一緒に行こう」（Ep167）。
-- ★**1語タイトル例外**：Ep163「Ruka」＝消失の転換点（S1 "Obia"/"Stop" と同じ取り置き）。他は文/名詞句。
+- ★**1語タイトル例外**：Ep163「Luca」＝消失の転換点（S1 "Obia"/"Stop" と同じ取り置き）。他は文/名詞句。
 - ⚠️**行き先（氷河期オーストラリア・マイオラニア）はCh21＝出さない**。**事故跳躍ゆえ行き先は登録外＝不明**。Ch20は「三匹がどこのいつへ行ったか誰も分からない」まで。
 - ⚠️**伏せる継続**：①"the future"抽象（本章は声収集なし＝出番少）②異変の根本原因（Ch22）③マイオラニア・氷河期（Ch21）。
-- 語り規約：Obia=it（はざまでAko-chanのそば・流れをたどる役）／**Ruka=地の文 "she"・台詞は最小**（消失は所作中心）／**Daru=引用台詞あり／Gabu=無言で追う（引用なし・所作）**／Dango引用なし。3Pod発光色＝赤(Daru)/青(Gabu)/黄(Ruka)。"should"＝S2既出（ep114/155）で可。
+- 語り規約：Obia=it（はざまでAko-chanのそば・流れをたどる役）／**Luca=地の文 "she"・台詞は最小**（消失は所作中心）／**Dalu=引用台詞あり／Gabu=無言で追う（引用なし・所作）**／Dango引用なし。3Pod発光色＝赤(Dalu)/青(Gabu)/黄(Luca)。"should"＝S2既出（ep114/155）で可。
 - Day割付：Ch19末＝Day18。Ch20＝**Day19**（休息後に3回目を試みる〜事故〜はざま＝連続・非減少）。
 
 ### Day 19 — 議論〜決断〜跳躍事故〜はざま
@@ -1277,22 +1277,22 @@
   - 🔒台詞（Ako-chan）：*"I will go. We are so close."*
   - モード：感情・決断。③：決意の顔、握った手、見つめる仲間、機械の光。④：**この決断が、のちの自責につながる（伏線）**。
   - 確定：will＝S2可（意図）。⚠️**Ep166の自責はこの決断を指す**＝後で因果を明確に結べるよう、ここで"自ら選んだ"ことを刻む。
-  - ✅執筆済み（word_count 284）。Day19。🔒Ako-chan *"I will go," ... "We are so close."*（逐語）。⚠️**自ら選んだことを強く刻む（Ep166自責の伏線）**＝"She chooses this herself. No one pushes her forward. The choice is hers, and hers alone."✓。根拠＝声を聴けるのは自分だけ（"Only she can."＝S1能力）。Obia=it（止めず "It will go where she goes."）。Dango＝所作（"He does not understand her words. But he feels her choice, and stays."＝引用なし）。3Pod色（赤Daru/青Gabu/黄Ruka）。④伏線締め＝"She does not know what this choice will cost her."。choice×5は自決の主題語＝意図的。
-- **Ep162「The Rift Opens」**：機械が三度目のメンバー＝Daru・Gabu・Ruka を選ぶ（＋必須Ako・Obia）。現代組（Dango・Suke-san・Pen-san・General）は洞窟に残り五人を見送る。光が五人を包み跳躍開始。だが直後、跳躍の最中に五人の周りで時空の裂け目が開く。
+  - ✅執筆済み（word_count 284）。Day19。🔒Ako-chan *"I will go," ... "We are so close."*（逐語）。⚠️**自ら選んだことを強く刻む（Ep166自責の伏線）**＝"She chooses this herself. No one pushes her forward. The choice is hers, and hers alone."✓。根拠＝声を聴けるのは自分だけ（"Only she can."＝S1能力）。Obia=it（止めず "It will go where she goes."）。Dango＝所作（"He does not understand her words. But he feels her choice, and stays."＝引用なし）。3Pod色（赤Dalu/青Gabu/黄Luca）。④伏線締め＝"She does not know what this choice will cost her."。choice×5は自決の主題語＝意図的。
+- **Ep162「The Rift Opens」**：機械が三度目のメンバー＝Dalu・Gabu・Luca を選ぶ（＋必須Ako・Obia）。現代組（Dango・Suke-san・Pen-san・General）は洞窟に残り五人を見送る。光が五人を包み跳躍開始。だが直後、跳躍の最中に五人の周りで時空の裂け目が開く。
   - 🔒台詞（Obia）：*"Something is wrong! Hold on!"*
   - モード：動・出来事（転換）。③：包まれる五人、見送る四人、跳躍の渦、突然ねじれる光。④：跳躍の中で、何かが壊れ始めた。
-  - 確定：跳躍組5＝Ako・Obia・Daru(赤)・Gabu(青)・Ruka(黄)。⚠️**裂け目は跳躍組にのみ＝現代組視点を出さない**（s2.md）。
-  - ✅執筆済み（word_count 272）。Day19。機械が三匹のPodを選ぶ（赤Daru→青Gabu→黄Ruka・"Three tortoises. And Ako-chan and Obia, as always."）。現代組4は"stay back"・"watch the five from the dark"。Ako-chan *"We will come back,"*（Ep142エコー＝ドラマ的アイロニー）。裂け目＝"A deep crack runs through the white. It splits the spinning light in two."→🔒Obia *"Something is wrong!" ... "Hold on!"*（逐語）。⚠️**現代組の不可視を正しく明示**＝"the four in the cave see only light. They cannot see the crack inside the jump."✓（s2.md継続性ルールをCh21へ布石・目撃描写ではない）。④"something begins to come apart."。🔧レビュー：flat副詞 "flash bright"→"flash brightly"。light×8は跳躍現象の主題語で据え置き。⚠️行き先(氷河期)leakなし。
-- **Ep163「Ruka」**：跳躍の渦の中で裂け目がRukaを飲み込む。最小のRukaがミニPodごと裂け目の奥へ。自分の意思ではない・あっという間。Ako-chanが手を伸ばすが届かない。
-  - 🔒台詞（Ako-chan）：*"Ruka!"*
-  - モード：感情・喪失（**1語タイトル例外**）。③：渦巻く光、引き込まれる小さな黄色い光、伸ばす手、悲鳴。④：Rukaが、裂け目の中へ消える。
-  - 確定：⚠️**Ruka＝she・台詞なし**（あっという間／所作）。恐怖はグラフィックでなく**無防備さ・伸ばす手**で（A2幼年読者向け）。黄色い光＝RukaのミニPod。
-  - ✅執筆済み（word_count 272）。Day19。1語タイトル例外。🔒Ako-chan *"Ruka!"*（逐語・唯一の台詞）✓。モード=感情・喪失。Ruka=she・台詞なし＝**無防備さで描く**（"She cannot hold on. She cannot fight it." ／"Her yellow Pod" ＝ミニPod）✓・非グラフィック✓。届かぬ手＝"Ako-chan's hand closes on nothing."。喪失の三段＝"Ruka is gone. The little Pod is gone. The light is gone."（意図的反復）。④"And she could not hold on."（→Ep166自責へ）。⚠️裂け目は跳躍組視点のみ（現代組leakなし）✓。
-- **Ep164「After Her」**：その瞬間、Daru・Gabuが動く。迷わず、それぞれ自分の意思でRukaを追って裂け目に飛び込む。赤と青の光が黄色を追って闇へ。Ako-chanとObiaは別の流れに引き離され追えない。
-  - 🔒台詞（Daru）：*"Ruka! I'm coming!"*／Gabu＝**無言でまっすぐ裂け目へ（引用なし・所作）**。
+  - 確定：跳躍組5＝Ako・Obia・Dalu(赤)・Gabu(青)・Luca(黄)。⚠️**裂け目は跳躍組にのみ＝現代組視点を出さない**（s2.md）。
+  - ✅執筆済み（word_count 272）。Day19。機械が三匹のPodを選ぶ（赤Dalu→青Gabu→黄Luca・"Three tortoises. And Ako-chan and Obia, as always."）。現代組4は"stay back"・"watch the five from the dark"。Ako-chan *"We will come back,"*（Ep142エコー＝ドラマ的アイロニー）。裂け目＝"A deep crack runs through the white. It splits the spinning light in two."→🔒Obia *"Something is wrong!" ... "Hold on!"*（逐語）。⚠️**現代組の不可視を正しく明示**＝"the four in the cave see only light. They cannot see the crack inside the jump."✓（s2.md継続性ルールをCh21へ布石・目撃描写ではない）。④"something begins to come apart."。🔧レビュー：flat副詞 "flash bright"→"flash brightly"。light×8は跳躍現象の主題語で据え置き。⚠️行き先(氷河期)leakなし。
+- **Ep163「Luca」**：跳躍の渦の中で裂け目がLucaを飲み込む。最小のLucaがミニPodごと裂け目の奥へ。自分の意思ではない・あっという間。Ako-chanが手を伸ばすが届かない。
+  - 🔒台詞（Ako-chan）：*"Luca!"*
+  - モード：感情・喪失（**1語タイトル例外**）。③：渦巻く光、引き込まれる小さな黄色い光、伸ばす手、悲鳴。④：Lucaが、裂け目の中へ消える。
+  - 確定：⚠️**Luca＝she・台詞なし**（あっという間／所作）。恐怖はグラフィックでなく**無防備さ・伸ばす手**で（A2幼年読者向け）。黄色い光＝LucaのミニPod。
+  - ✅執筆済み（word_count 272）。Day19。1語タイトル例外。🔒Ako-chan *"Luca!"*（逐語・唯一の台詞）✓。モード=感情・喪失。Luca=she・台詞なし＝**無防備さで描く**（"She cannot hold on. She cannot fight it." ／"Her yellow Pod" ＝ミニPod）✓・非グラフィック✓。届かぬ手＝"Ako-chan's hand closes on nothing."。喪失の三段＝"Luca is gone. The little Pod is gone. The light is gone."（意図的反復）。④"And she could not hold on."（→Ep166自責へ）。⚠️裂け目は跳躍組視点のみ（現代組leakなし）✓。
+- **Ep164「After Her」**：その瞬間、Dalu・Gabuが動く。迷わず、それぞれ自分の意思でLucaを追って裂け目に飛び込む。赤と青の光が黄色を追って闇へ。Ako-chanとObiaは別の流れに引き離され追えない。
+  - 🔒台詞（Dalu）：*"Luca! I'm coming!"*／Gabu＝**無言でまっすぐ裂け目へ（引用なし・所作）**。
   - モード：動・出来事。③：飛び込む二匹、赤と青の光、閉じかける裂け目、止める間もない一瞬。④：三匹が向こうへ。はざまに残るのは、Ako-chanとObiaだけ。
-  - 確定：⚠️Gabu所作のみ（Daruと対照＝Daru発話／Gabu沈黙の決意）。Ako/Obiaは"別の流れ"に引き離され追跡不能（救援はCh21）。
-  - ✅執筆済み（word_count 271）。Day19。🔒Daru *"Ruka! I'm coming!"*（逐語）✓。⚠️**Gabu=無言の所作のみ**＝"He says no word at all. But his choice is just as strong."✓（Daru発話／Gabu沈黙の対照）。各自の意思＝"They do not stop to think."。色：赤Daru→青Gabu→黄Ruka追跡。Ako/Obiaは別の流れに引離＝"a new pull takes her ... It tears her and Obia from the crack."（追跡不能・救援はCh21）。Ako-chan *"No! Wait!"*。④はざま残留＝"Only she and Obia remain."。Obia=it（"It stays close, and does not let go."）。⚠️行き先leakなし✓。🔧レビュー：flat副詞 "push fast and wild"→"push, fast and wild"（ep152 "spins, fast and wild" と同型のコンマ付加形容）。
+  - 確定：⚠️Gabu所作のみ（Daluと対照＝Dalu発話／Gabu沈黙の決意）。Ako/Obiaは"別の流れ"に引き離され追跡不能（救援はCh21）。
+  - ✅執筆済み（word_count 271）。Day19。🔒Dalu *"Luca! I'm coming!"*（逐語）✓。⚠️**Gabu=無言の所作のみ**＝"He says no word at all. But his choice is just as strong."✓（Dalu発話／Gabu沈黙の対照）。各自の意思＝"They do not stop to think."。色：赤Dalu→青Gabu→黄Luca追跡。Ako/Obiaは別の流れに引離＝"a new pull takes her ... It tears her and Obia from the crack."（追跡不能・救援はCh21）。Ako-chan *"No! Wait!"*。④はざま残留＝"Only she and Obia remain."。Obia=it（"It stays close, and does not let go."）。⚠️行き先leakなし✓。🔧レビュー：flat副詞 "push fast and wild"→"push, fast and wild"（ep152 "spins, fast and wild" と同型のコンマ付加形容）。
 - **Ep165「The Rift Closes」**：裂け目が閉じる。光がおさまる。Ako-chanとObiaは跳躍をやり遂げられないまま**「the space between times」**に取り残される。三匹は別の時代へ消えた。静まり返る。
   - モード：静・喪失。③：閉じる裂け目、消えた三色の光、はざまの薄明かり、二人だけの静寂。④：三匹は、どこの、いつへ行ったのか。
   - 確定：**"the space between times" 初出**（"Not here. Not there. Just grey and still. No ground. No sky."）。⚠️機構詳説しない（"the jump did not finish"程度）。⚠️**行き先（氷河期）は不明＝出さない**。
@@ -1316,7 +1316,7 @@
 
 **Ch21 共通**
 - ★**3グループPOVクロスカット（この章唯一）**＝エピソードごとに視点を切替え緊張を高める。
-  - **リクガメ組**：Ruka・Daru・Gabu（氷河期オーストラリアで孤立）
+  - **リクガメ組**：Luca・Dalu・Gabu（氷河期オーストラリアで孤立）
   - **時空組**：Ako-chan・Obia（追跡）
   - **現代組**：Suke-san・Dango・Pen-san・General Adelie（南極の洞窟で待機）
 - ★**開幕＝リクガメ組（Ep168）**：「追跡が来るか未確定」の3匹側の不安を先に見せる（読者はEp167で追跡決断を知る＝ドラマ的アイロニー）。
@@ -1325,57 +1325,57 @@
 - ★**マイオラニア＝描写のみ・"Maiolania"不使用（確定 2026-06-26・ユーザー選択）**＝"the giant tortoise / the great shell / the ancient one / the huge turtle" 等。⚠️**companion命名なし**（狼と同じ descriptive）。**怒っていない・ただ見ている**（benign/ancient/observing）。Ako-chanが見上げるほど巨大。
 - ★**声の型＝言葉でない感覚（確定・3つの声で唯一）**：Ep174「Not Words」＝**引用台詞なし**。感覚として届く（"very old, very big, very still"）。Ako-chanが受け取り→Obiaが記録。⚠️**事故跳躍なのに三つ目の声＝使命が果たされる**（偶然が使命を完成）。
 - ★**"We will not forget"＝Ep175でAko-chanが言う**（**S2初出＝designated payoff**・Ch18/19で温存）。will例外（物語を運ぶ誓い＝クジラの誓い／S2末「Obia—」に連なるシリーズモチーフ）。
-- ★⚠️**現代組は何が起きたか知らない**（裂け目・三匹消失はCh20で不可視）。Ep171は「長すぎる・何かあった」と**心配するだけ**＝**Rukaの喪失・裂け目を現代組に知らせない**（具体的な異変知識を持たせない）。できるのは待つことだけ。
-- ★**Ako-chanの自責の緩和**：三匹を無事見つける（Ep173）＝**安堵が中心**。⚠️speech で過度に解決しない（Daru/Gabuは自らの意思で追った・Rukaは事故＝完全な免罪はしない）。
+- ★⚠️**現代組は何が起きたか知らない**（裂け目・三匹消失はCh20で不可視）。Ep171は「長すぎる・何かあった」と**心配するだけ**＝**Lucaの喪失・裂け目を現代組に知らせない**（具体的な異変知識を持たせない）。できるのは待つことだけ。
+- ★**Ako-chanの自責の緩和**：三匹を無事見つける（Ep173）＝**安堵が中心**。⚠️speech で過度に解決しない（Dalu/Gabuは自らの意思で追った・Lucaは事故＝完全な免罪はしない）。
 - ⚠️**跳躍衝撃の逓増の頂点**：Ep176帰還＝**いちばん大きな衝撃**（4回中最大）。
 - ⚠️**伏せる継続**：①"the future"抽象（Ep174転送）②**異変の根本原因・収束せず・Obiaの別れはCh22＝先取りしない**（Ch21は救出と三つ目の声まで＝"三つの声が集まった・でも旅はまだ終わらない"予感まで）。
-- 語り規約：Obia=it（時空組で同行・記録役）／**Ruka=she・台詞最小**（ショックで動かない＝所作中心）／**Daru=引用台詞あり**（Ep168 "Where... are we?"・**Ep170で初めて言葉が出ない**＝対照）／Gabu=静か・少ない言葉／Dango引用なし／Pen-san・General=現代組（Ep171）／3Pod色＝赤青黄。
-- ⚠️**Pod内方針（確定 2026-06-30）＝氷河期では3匹は終始Pod内**：Podは冷却/断熱/UV/湿度を備えた変温動物の生命維持装置（world.md）＝極寒の氷河期で長時間Podの外に出るのは生態・設定的に不可。**甲羅を直接触る／冷たい地面に直に立つ描写は禁止**＝接触はPod越し（"bumps his red Pod against her hand" / "holds Ruka's small Pod" / "presses his cheek to her small Pod"）。Podは加熱機能ありで「温かさ」描写はPod越しで保てる。Ep172（Ako-chanがPodを探す）・Ep175（Pod内明記）と整合。旧稿でEp168/170/173/176に混在した「Pod外・甲羅直接接触」を全てPod描写に統一（改稿 2026-06-30）。Pod降車はCh22 Ep183（別れの場面）まで行わない。
+- 語り規約：Obia=it（時空組で同行・記録役）／**Luca=she・台詞最小**（ショックで動かない＝所作中心）／**Dalu=引用台詞あり**（Ep168 "Where... are we?"・**Ep170で初めて言葉が出ない**＝対照）／Gabu=静か・少ない言葉／Dango引用なし／Pen-san・General=現代組（Ep171）／3Pod色＝赤青黄。
+- ⚠️**Pod内方針（確定 2026-06-30）＝氷河期では3匹は終始Pod内**：Podは冷却/断熱/UV/湿度を備えた変温動物の生命維持装置（world.md）＝極寒の氷河期で長時間Podの外に出るのは生態・設定的に不可。**甲羅を直接触る／冷たい地面に直に立つ描写は禁止**＝接触はPod越し（"bumps his red Pod against her hand" / "holds Luca's small Pod" / "presses his cheek to her small Pod"）。Podは加熱機能ありで「温かさ」描写はPod越しで保てる。Ep172（Ako-chanがPodを探す）・Ep175（Pod内明記）と整合。旧稿でEp168/170/173/176に混在した「Pod外・甲羅直接接触」を全てPod描写に統一（改稿 2026-06-30）。Pod降車はCh22 Ep183（別れの場面）まで行わない。
 - Day割付：Ch20末＝Day19（はざま）。Ch21＝**全話Day19**（救出は連続・時空分断はストーリー上だが story_day は単一の語り現在）。⚠️**現代組を別Dayにしない**（"後の時間"と誤読させない）。
 
 ### Day 19 — 救出（3グループPOVクロスカット）
-- **Ep168「The Other Side」**（リクガメ組）：Daru・Gabu・Rukaが氷河期オーストラリアに着地。冷たく広く見知らぬ世界。3匹だけ。Rukaはショックで動かない。誰かが来るか分からない。
-  - 🔒台詞（Daru）：*"Where... are we?"*
-  - モード：静・観察（孤立）。③：冷たい風、見慣れない巨大な植物、広い灰色の空、震える小さな甲羅。④：DaruがRukaの隣に寄り添う。
-  - 確定：**行き先＝氷河期豪州を開示**。Ruka=she・動かない（所作）。⚠️マイオラニアはまだ出さない（Ep170）。
-  - ✅執筆済み（word_count 285）。Day19。リクガメ組POVで開幕（"Daru opens his eyes."）。🔒Daru *"Where... are we?"*（逐語・"His thin voice fades in the wind. No one answers him."）。行き先＝氷河期豪州を**設定で開示**（"Strange, huge plants" / "The sky is wide and flat and grey."＝地名は出さず＝キャラは知らない）。⚠️Ruka=she・ショックで静止（"She does not move. … Deep inside her shell, she shivers — not from the cold, but from fear. The shock holds her still."＝震えの原因を**寒さでなくショック**と明示／旧 "trembles in the cold" は寒さ原因の誤読＋"does not move at all"との矛盾のため改稿 2026-06-30）✓。Daruが寄り添う（"'I am here,' he says softly. 'We are here with you.'"）。④ドラマ的アイロニー＝"they do not know if anyone will come."（読者はEp167で追跡を知る）。三連 "wide and flat and grey"（1話1回）。⚠️マイオラニア未出。⚠️**Pod内方針反映（2026-06-30・word_count 285→288）**：旧 "He stands on cold, hard ground" / "Gabu stands close by" / "He walks slowly across to Ruka's side" / "The three of them press together"（Pod外・地面直立）→ Pod描写に統一（"His red Pod sits on cold, hard ground" / "Gabu's blue Pod rests close by" / "He rolls his Pod slowly across to Ruka's side" / "The three small Pods press together in the cold"）。Rukaは元々 "in her little Pod" で整合。
+- **Ep168「The Other Side」**（リクガメ組）：Dalu・Gabu・Lucaが氷河期オーストラリアに着地。冷たく広く見知らぬ世界。3匹だけ。Lucaはショックで動かない。誰かが来るか分からない。
+  - 🔒台詞（Dalu）：*"Where... are we?"*
+  - モード：静・観察（孤立）。③：冷たい風、見慣れない巨大な植物、広い灰色の空、震える小さな甲羅。④：DaluがLucaの隣に寄り添う。
+  - 確定：**行き先＝氷河期豪州を開示**。Luca=she・動かない（所作）。⚠️マイオラニアはまだ出さない（Ep170）。
+  - ✅執筆済み（word_count 285）。Day19。リクガメ組POVで開幕（"Dalu opens his eyes."）。🔒Dalu *"Where... are we?"*（逐語・"His thin voice fades in the wind. No one answers him."）。行き先＝氷河期豪州を**設定で開示**（"Strange, huge plants" / "The sky is wide and flat and grey."＝地名は出さず＝キャラは知らない）。⚠️Luca=she・ショックで静止（"She does not move. … Deep inside her shell, she shivers — not from the cold, but from fear. The shock holds her still."＝震えの原因を**寒さでなくショック**と明示／旧 "trembles in the cold" は寒さ原因の誤読＋"does not move at all"との矛盾のため改稿 2026-06-30）✓。Daluが寄り添う（"'I am here,' he says softly. 'We are here with you.'"）。④ドラマ的アイロニー＝"they do not know if anyone will come."（読者はEp167で追跡を知る）。三連 "wide and flat and grey"（1話1回）。⚠️マイオラニア未出。⚠️**Pod内方針反映（2026-06-30・word_count 285→288）**：旧 "He stands on cold, hard ground" / "Gabu stands close by" / "He walks slowly across to Luca's side" / "The three of them press together"（Pod外・地面直立）→ Pod描写に統一（"His red Pod sits on cold, hard ground" / "Gabu's blue Pod rests close by" / "He rolls his Pod slowly across to Luca's side" / "The three small Pods press together in the cold"）。Lucaは元々 "in her little Pod" で整合。
 - **Ep169「Following the Rift」**（時空組）：はざまでAko・Obiaが三匹を追う。Obiaが経路を必死にたどる。でも同じ場所・時代に出られる保証なし。不確かなまま跳ぶ。
   - 🔒台詞（Ako-chan）：*"Can you follow them?"*／（Obia）：*"I will try."*
   - モード：感情・追跡。③：ねじれる光、強い衝撃、Ako-chanの祈る顔、Obiaの集中する目。④：どこに出るか二人にも分からない。
   - 確定：Ch20 Ep167の続き（"the space between times" から跳ぶ）。Obia=it。
-  - ✅執筆済み（word_count 273）。Day19。時空組POV（"Ako-chan stands in the space between times."＝Ch20の確定語を再利用✓）。🔒Ako-chan *"Can you follow them?"* / Obia *"I will try."*（逐語）。⚠️**保証なしを明示**＝"But it cannot promise more than this. The same place. The same time. It does not know if they will be there."✓。Ako-chanの祈り＝三匹を心に（"Daru's quick feet" / "Gabu, calm and slow" / "small Ruka, lost and afraid"）。Obia=it（"Its voice is calm and sure."）。④"They will not stop until they find them."。🔧レビュー：flat副詞 "shine bright and hard"→"shine, bright and hard"（コンマ付加形容）。
-- **Ep170「The Giant Shell」**（リクガメ組）：三匹の上に影。空を塞ぐほど大きな甲羅＝マイオラニア（**描写のみ**）。見上げてもてっぺんが見えない巨大なリクガメ。三匹を静かに見下ろす。三匹は動けない。Daru＝初めて言葉が出ない。
+  - ✅執筆済み（word_count 273）。Day19。時空組POV（"Ako-chan stands in the space between times."＝Ch20の確定語を再利用✓）。🔒Ako-chan *"Can you follow them?"* / Obia *"I will try."*（逐語）。⚠️**保証なしを明示**＝"But it cannot promise more than this. The same place. The same time. It does not know if they will be there."✓。Ako-chanの祈り＝三匹を心に（"Dalu's quick feet" / "Gabu, calm and slow" / "small Luca, lost and afraid"）。Obia=it（"Its voice is calm and sure."）。④"They will not stop until they find them."。🔧レビュー：flat副詞 "shine bright and hard"→"shine, bright and hard"（コンマ付加形容）。
+- **Ep170「The Giant Shell」**（リクガメ組）：三匹の上に影。空を塞ぐほど大きな甲羅＝マイオラニア（**描写のみ**）。見上げてもてっぺんが見えない巨大なリクガメ。三匹を静かに見下ろす。三匹は動けない。Dalu＝初めて言葉が出ない。
   - モード：静・観察（畏怖）。③：巨大な甲羅、見上げる三匹、ゆっくりした巨大な動き、止まった時間。④：怒ってはいない。ただ見ていた。
-  - 確定：⚠️**Ako・Obiaはまだ到着していない**。⚠️**"Maiolania"不使用**＝"the giant tortoise / great shell"。**Daru沈黙＝Ep168の発話と対照**（言葉を失う）。
-  - ✅執筆済み（word_count 274）。Day19。リクガメ組POV。⚠️**Pod内方針反映（2026-06-30）**：旧 "The three turtles still wait on the cold ground"（亀が地面に直）→ "The three small Pods still wait on the cold ground"（Pod内・地面にはPodが置かれる）。⚠️**"Maiolania"不使用・描写のみ厳守**＝"a tortoise. But it is huge. ... like a hill. ... The great shell ... The ancient one ... the giant tortoise"（呼称を変奏＝drone回避）✓。⚠️**Daru言葉を失う＝Ep168の発話と対照**＝"He opens his mouth to speak. But no words come out. For once, Daru has nothing to say."✓。benign＝"the deep eyes hold no anger. It does not want to hurt them. It only looks."✓。Rukaは巨大な存在の前で落ち着く（"Her small body does not tremble now."＝Ep168の trembles と対照・Ep173への布石）。④"far off, no one else comes for them. Not yet."（Ako/Obia未到達）。三連 "calm and deep and slow"（1話1回）。⚠️Ch22 leakなし。
+  - 確定：⚠️**Ako・Obiaはまだ到着していない**。⚠️**"Maiolania"不使用**＝"the giant tortoise / great shell"。**Dalu沈黙＝Ep168の発話と対照**（言葉を失う）。
+  - ✅執筆済み（word_count 274）。Day19。リクガメ組POV。⚠️**Pod内方針反映（2026-06-30）**：旧 "The three turtles still wait on the cold ground"（亀が地面に直）→ "The three small Pods still wait on the cold ground"（Pod内・地面にはPodが置かれる）。⚠️**"Maiolania"不使用・描写のみ厳守**＝"a tortoise. But it is huge. ... like a hill. ... The great shell ... The ancient one ... the giant tortoise"（呼称を変奏＝drone回避）✓。⚠️**Dalu言葉を失う＝Ep168の発話と対照**＝"He opens his mouth to speak. But no words come out. For once, Dalu has nothing to say."✓。benign＝"the deep eyes hold no anger. It does not want to hurt them. It only looks."✓。Lucaは巨大な存在の前で落ち着く（"Her small body does not tremble now."＝Ep168の trembles と対照・Ep173への布石）。④"far off, no one else comes for them. Not yet."（Ako/Obia未到達）。三連 "calm and deep and slow"（1話1回）。⚠️Ch22 leakなし。
 - **Ep171「Those Who Wait」**（現代組）：南極の洞窟で四人が待つ。見送ってからずいぶん経つ。1回目も2回目ももっと早く戻った。でも誰も戻らない。長すぎる。心配。でも何が起きたか分からない。
   - 🔒台詞（Suke-san）：*"Too long. Something is wrong."*／（General Adelie）：*"...We wait. It is all we can do."*
   - モード：静・待機（不安）。③：静まった洞窟、消えた跳躍の光、Dangoの落ち着かない足、過ぎる時間。④：何が起きたか四人には分からない。ただ待つ。
   - 確定：⚠️**現代組は裂け目・喪失を知らない＝心配のみ**（具体的な異変知識を持たせない）。Dango所作（引用なし）。
-  - ✅執筆済み（word_count 292）。Day19。現代組POVで開幕（"Suke-san waits by the cave wall."）。🔒Suke-san *"Too long," ... "Something is wrong."*／General *"...We wait," ... "It is all we can do."*（逐語）。⚠️**現代組の無知を厳守**＝"No one knows what went wrong. No one knows where the friends are."✓（裂け目/Ruka喪失を知らず＝Ch18/19の帰還の早さとの差で"長すぎる"と察するのみ）。Dango所作＝"He walks back to Ako-chan's empty place. His feet tap ... He whines, low and soft."（引用なし）。⚠️**洞窟の縦深を維持**＝待機はマシン最奥（Ch16-17で "down and down" / "deeper and deeper" の長い下降として確立）。Suke-sanは入口へ往復しない＝**最奥から長い通路の先・はるか上の入口（細い灰色の光）を見上げる**（"Suke-san looks up the long, dark way they came. Far above, the cave mouth is just a thin grey light. ... The way out is a long climb, and the cold snow lies far beyond it."＝旧 "walks to the cave mouth … turns back" は最奥↔入口の即往復で下降スケールと矛盾→改稿 2026-06-30）。Dangoの machine↔Ako-chanの空席の往復は最奥チャンバー内の小移動＝据え置き。Pen-san＝"feels the fear all the same"。④"the empty cave waits with them."。wait は題名キーワードで反復（意図的）。
+  - ✅執筆済み（word_count 292）。Day19。現代組POVで開幕（"Suke-san waits by the cave wall."）。🔒Suke-san *"Too long," ... "Something is wrong."*／General *"...We wait," ... "It is all we can do."*（逐語）。⚠️**現代組の無知を厳守**＝"No one knows what went wrong. No one knows where the friends are."✓（裂け目/Luca喪失を知らず＝Ch18/19の帰還の早さとの差で"長すぎる"と察するのみ）。Dango所作＝"He walks back to Ako-chan's empty place. His feet tap ... He whines, low and soft."（引用なし）。⚠️**洞窟の縦深を維持**＝待機はマシン最奥（Ch16-17で "down and down" / "deeper and deeper" の長い下降として確立）。Suke-sanは入口へ往復しない＝**最奥から長い通路の先・はるか上の入口（細い灰色の光）を見上げる**（"Suke-san looks up the long, dark way they came. Far above, the cave mouth is just a thin grey light. ... The way out is a long climb, and the cold snow lies far beyond it."＝旧 "walks to the cave mouth … turns back" は最奥↔入口の即往復で下降スケールと矛盾→改稿 2026-06-30）。Dangoの machine↔Ako-chanの空席の往復は最奥チャンバー内の小移動＝据え置き。Pen-san＝"feels the fear all the same"。④"the empty cave waits with them."。wait は題名キーワードで反復（意図的）。
 - **Ep172「Ako-chan Arrives」**（時空組）：Ako・Obiaが氷河期の大地に降り立つ。同じ時代に出られた。でも三匹の姿は見えない。冷たい大地を探す。声が広い空に消える。
-  - 🔒台詞（Ako-chan）：*"Ruka! Daru! Gabu!"*
+  - 🔒台詞（Ako-chan）：*"Luca! Dalu! Gabu!"*
   - モード：動・探索。③：広い荒野、冷たい風、遠くの巨大な影、探す二人の足。④：あの影の方に、何かがいる。
   - 確定：同じ時代に到達（Ep169の跳躍成功）。遠くの巨大な影＝マイオラニア（まだ "giant shell"）。
-  - ✅執筆済み（word_count 273）。Day19。時空組POV（"The light fades, and Ako-chan opens her eyes."）。跳躍成功＝Obia *"We are in the same time," ... "The trail ends here."*（Ep169 "I will try" の回収）。三匹は見えず＝"no red Pod ... no blue Pod ... no small yellow shape"（3Pod色で不在を示す）。🔒Ako-chan *"Ruka! Daru! Gabu!"*（逐語・"The cold wind takes her words away."）。遠くの巨大な影＝"A huge dark shape ... taller than any plant or hill."（まだ未識別＝Ep173で接近）。④"Whatever waits there, they will go to it."。三連 "wide and grey and bare"（1話1回）。⚠️Maiolania名は出さない。
-- **Ep173「Ruka Is Safe」**（合流）：Ako-chanがついに三匹を見つける。Rukaは無事。動かず巨大なリクガメを見上げている。Daru・Gabuもそば。Ako-chanが駆け寄る。
+  - ✅執筆済み（word_count 273）。Day19。時空組POV（"The light fades, and Ako-chan opens her eyes."）。跳躍成功＝Obia *"We are in the same time," ... "The trail ends here."*（Ep169 "I will try" の回収）。三匹は見えず＝"no red Pod ... no blue Pod ... no small yellow shape"（3Pod色で不在を示す）。🔒Ako-chan *"Luca! Dalu! Gabu!"*（逐語・"The cold wind takes her words away."）。遠くの巨大な影＝"A huge dark shape ... taller than any plant or hill."（まだ未識別＝Ep173で接近）。④"Whatever waits there, they will go to it."。三連 "wide and grey and bare"（1話1回）。⚠️Maiolania名は出さない。
+- **Ep173「Luca Is Safe」**（合流）：Ako-chanがついに三匹を見つける。Lucaは無事。動かず巨大なリクガメを見上げている。Dalu・Gabuもそば。Ako-chanが駆け寄る。
   - 🔒台詞（Ako-chan）：*"You are safe! You are all safe!"*
-  - モード：感情・再会。③：見上げるRuka、駆け寄るAko-chan、巨大な甲羅、安堵の涙。④：間に合った。三匹は無事だった。
+  - モード：感情・再会。③：見上げるLuca、駆け寄るAko-chan、巨大な甲羅、安堵の涙。④：間に合った。三匹は無事だった。
   - 確定：時空組＋リクガメ組が合流。⚠️**自責の緩和＝安堵中心**（過度な speech 解決はしない）。
-  - ✅執筆済み（word_count 271）。Day19。時空組→合流POV。⚠️**Pod内方針反映（2026-06-30）**：旧 "He bumps his shell against her hand" / "holds Ruka's small shell" / "glow shines on the small shells" / "Ruka sits still on the cold ground"（甲羅直接接触・地面直）→ Pod越し（"bumps his red Pod against her hand" / "holds Ruka's small Pod" / "shines on the small Pods" / "Ruka sits still inside her Pod"）。"feels the warmth of all three friends" はPod加熱で据え置き。🔒Ako-chan *"You are safe!" ... "You are all safe!"*（逐語・speech tag split）。**Daru/GabuがRukaを守った**＝"They kept her safe through it all."（world.md整合）。⚠️**自責の緩和＝安堵中心・過度に解決しない**＝"Now the heavy fear melts a little inside her."（"a little"＝部分的緩和・完全免罪せず）✓。Ruka=she（"Ruka turns her small head ... looks at Ako-chan, then back up high."＝マイオラニアを見上げる・world.md整合・Ep170の落ち着きの継続）。マイオラニア＝描写のみ（"the giant tortoise / great shell / huge tortoise"）・benign（"The old eyes look down, calm and deep."）。④"For this one quiet moment, they are all together again."（→Ep174声へ）。"run warm"＝慣用depictive（warm/cold対比は意図的）で据え置き。
+  - ✅執筆済み（word_count 271）。Day19。時空組→合流POV。⚠️**Pod内方針反映（2026-06-30）**：旧 "He bumps his shell against her hand" / "holds Luca's small shell" / "glow shines on the small shells" / "Luca sits still on the cold ground"（甲羅直接接触・地面直）→ Pod越し（"bumps his red Pod against her hand" / "holds Luca's small Pod" / "shines on the small Pods" / "Luca sits still inside her Pod"）。"feels the warmth of all three friends" はPod加熱で据え置き。🔒Ako-chan *"You are safe!" ... "You are all safe!"*（逐語・speech tag split）。**Dalu/GabuがLucaを守った**＝"They kept her safe through it all."（world.md整合）。⚠️**自責の緩和＝安堵中心・過度に解決しない**＝"Now the heavy fear melts a little inside her."（"a little"＝部分的緩和・完全免罪せず）✓。Luca=she（"Luca turns her small head ... looks at Ako-chan, then back up high."＝マイオラニアを見上げる・world.md整合・Ep170の落ち着きの継続）。マイオラニア＝描写のみ（"the giant tortoise / great shell / huge tortoise"）・benign（"The old eyes look down, calm and deep."）。④"For this one quiet moment, they are all together again."（→Ep174声へ）。"run warm"＝慣用depictive（warm/cold対比は意図的）で据え置き。
 - **Ep174「Not Words」**：マイオラニアの声は言葉ではない。感覚としてゆっくりAko-chanの中に届く。とても古い・とても大きな・静かな何か。Ako-chanが受け取る。Obiaが記録。事故の跳躍なのに三つ目の声＝使命が果たされる。
   - モード：感情・核（声）。③：言葉のない声、Ako-chanの閉じた目、巨大な静けさ、光るObia。④：三つ目の声が救われた。偶然が、使命を完成させた。
   - 確定：⚠️**引用台詞なし**（3つの声で唯一の"言葉でない"＝world.md §8）。⚠️"the future"抽象（Obia記録/転送）。マイオラニア＝描写のみ。
-  - ✅執筆済み（word_count 270）。Day19。合流POV（マイオラニアの足元）。⚠️**マイオラニアの声＝引用なし・感覚として届く**＝"It is not a sound. It is not a word." / "The voice is not words at all. It comes slowly, like a deep, warm wave."✓。指定感覚＝"It feels very old. It feels very big. It feels very still."（Ep174専用に温存した三連反復）✓。benign＝"There is no fear in it. There is no anger in it. There is only deep, quiet peace."。Obiaが記録/転送＝Ep148/157と同register *"I sent it," ... "The voice is safe now."* ＋ "It will live on, far away in time."（⚠️**"the future"抽象＝誰の時代か出さない**）✓。**Daru沈黙の継続**＝"Daru does not say a word now. Even he has no words for this."（Ep170との連続）。⚠️**事故跳躍なのに使命完成**＝"They came here by a broken jump. ... But they saved the last voice all the same. By chance, the long work is complete."✓。④"She will carry it always."。⚠️異変/Ch22 leakなし。🔧レビュー：flat副詞 "comes slow"→"comes slowly"／"glow bright and clear"→"glow, bright and clear"。⚠️語数floor（270）。
-- **Ep175「All of Us」**：全員を連れて帰還の跳躍の準備。Ako・Obia・Daru・Gabu・Ruka——今度は全員一緒。マイオラニアが静かに見送る。
+  - ✅執筆済み（word_count 270）。Day19。合流POV（マイオラニアの足元）。⚠️**マイオラニアの声＝引用なし・感覚として届く**＝"It is not a sound. It is not a word." / "The voice is not words at all. It comes slowly, like a deep, warm wave."✓。指定感覚＝"It feels very old. It feels very big. It feels very still."（Ep174専用に温存した三連反復）✓。benign＝"There is no fear in it. There is no anger in it. There is only deep, quiet peace."。Obiaが記録/転送＝Ep148/157と同register *"I sent it," ... "The voice is safe now."* ＋ "It will live on, far away in time."（⚠️**"the future"抽象＝誰の時代か出さない**）✓。**Dalu沈黙の継続**＝"Dalu does not say a word now. Even he has no words for this."（Ep170との連続）。⚠️**事故跳躍なのに使命完成**＝"They came here by a broken jump. ... But they saved the last voice all the same. By chance, the long work is complete."✓。④"She will carry it always."。⚠️異変/Ch22 leakなし。🔧レビュー：flat副詞 "comes slow"→"comes slowly"／"glow bright and clear"→"glow, bright and clear"。⚠️語数floor（270）。
+- **Ep175「All of Us」**：全員を連れて帰還の跳躍の準備。Ako・Obia・Dalu・Gabu・Luca——今度は全員一緒。マイオラニアが静かに見送る。
   - 🔒台詞（Ako-chan）：*"Thank you. We will not forget."*
   - モード：感情・絆。③：寄り集まる五人、巨大な甲羅の見送り、高まる光、握り合う距離。④：今度こそ、みんなで帰る。
-  - 確定：**"We will not forget" S2初出＝designated payoff**（will例外・物語を運ぶ誓い）。マイオラニアへの感謝＝benign。三匹＝she(Ruka)/Daru/Gabu。
-  - ✅執筆済み（word_count 275）。Day19。合流POV（帰還準備）。🔒Ako-chan *"Thank you," ... "We will not forget."*（逐語・**S2初出 designated payoff**・will例外）✓。3Pod色＝赤(Daru)/青(Gabu)/黄(Ruka)を全て言及✓。マイオラニア＝benign見送り（"It is not angry. It never was." / "The ancient one dips its great head." / "It will stand here for many more years."）・描写のみ✓。Obia=it（中心で跳躍主導 *"Hold on to me,"*）。**全員一緒**＝"The five of them stand as one now." / "This time, they all go together."（Ep162-165の喪失と対比）。Rukaの成長＝巨大な存在を恐れない（"She is not afraid of the great one now."）。三連 "slow, and deep, and full of peace"（1話1回）。④"This time, they go home together."。⚠️Ch22 leakなし。
-- **Ep176「Home from the Ice」**：帰還の跳躍。光と、いちばん大きな衝撃（4回中最大）。氷河期→南極の洞窟。五人が氷の上に戻る。待っていた現代組が駆け寄る。Pen-sanがRukaに頬を寄せる。Dangoがぐるぐる回る。
+  - 確定：**"We will not forget" S2初出＝designated payoff**（will例外・物語を運ぶ誓い）。マイオラニアへの感謝＝benign。三匹＝she(Luca)/Dalu/Gabu。
+  - ✅執筆済み（word_count 275）。Day19。合流POV（帰還準備）。🔒Ako-chan *"Thank you," ... "We will not forget."*（逐語・**S2初出 designated payoff**・will例外）✓。3Pod色＝赤(Dalu)/青(Gabu)/黄(Luca)を全て言及✓。マイオラニア＝benign見送り（"It is not angry. It never was." / "The ancient one dips its great head." / "It will stand here for many more years."）・描写のみ✓。Obia=it（中心で跳躍主導 *"Hold on to me,"*）。**全員一緒**＝"The five of them stand as one now." / "This time, they all go together."（Ep162-165の喪失と対比）。Lucaの成長＝巨大な存在を恐れない（"She is not afraid of the great one now."）。三連 "slow, and deep, and full of peace"（1話1回）。④"This time, they go home together."。⚠️Ch22 leakなし。
+- **Ep176「Home from the Ice」**：帰還の跳躍。光と、いちばん大きな衝撃（4回中最大）。氷河期→南極の洞窟。五人が氷の上に戻る。待っていた現代組が駆け寄る。Pen-sanがLucaに頬を寄せる。Dangoがぐるぐる回る。
   - モード：動・再会（章クローザー）。③：眩しい光、戻る冷気、駆け寄る仲間、重なる安堵。④章クローザー：三つの声がすべて集まった。でも、旅はまだ終わらない。
   - 確定（章末リンク）：next_ep は空欄（Ch22 Ep177執筆時に ep177.prev_ep=ep176 と相互リンク）。⚠️**衝撃＝最大（逓増の頂点）**。⚠️**異変収束せず／Obiaの別れ（Ch22）は先取りしない**（"三つの声が集まった・でも旅はまだ終わらない"予感まで）。3グループ全再合流（現代組と再会）。
-  - ✅執筆済み（word_count 278）。Day19。章クローザー。動・再会POV（洞窟＝3グループ全再合流）。⚠️**Pod内方針反映（2026-06-30）**：旧 "He presses his cheek to her small shell" / "Ruka leans into Pen-san's soft warmth" / "roll out to the others"（甲羅直接接触・Pod外）→ Pod越し（"roll over to the others"＝"roll out"はPod脱出の誤読回避）。帰還先の洞窟も寒冷＝Pod内継続（降車はCh22 Ep183）。⚠️**Pen-san所作の可視化（2026-06-30）**：成体コウテイ（≈1.2m）が手のひら大のミニPodに頬を寄せる絵が想像しにくい（"leans down"＝屈み込み不足／"presses his cheek to" 小球＝解剖学的に不自然）→ 体の落差を明示＝"Pen-san bends his tall body right down low. He brings his soft cheek close to little Ruka's Pod. ... Her small Pod rests against his warm, soft front."（"bends his tall body right down low" で背の高さとの落差を見せ、接触は胸の柔毛＝ヒナを抱く位置に集約）。"Pen-san is so much bigger than her now." のサイズ差テーマと所作が一致。⚠️**衝撃＝4回中最大**＝"Then comes the jump, hard and wild. It is the strongest jump of them all."✓（Ch18"少し大きい"→Ch19"さらに重い"→Ch21"最大"の頂点）。再会＝Suke-san *"You came back!"*（barks）／Dango所作 **"spins around and around"**（＝本章唯一の畳語ticを使用・引用なし）／Pen-san *"I was so afraid,"*（Rukaに頬・成体で"so much bigger than her now"）／General＝"a long, proud salute"（厳格）。④章クローザー＝"Now all three voices are safe. The wolf. The seabird. The ancient one." ＋ ⚠️**Ch22予感まで**＝"something still feels strange to her. She cannot name it. Not yet. ... But the journey is not over yet."（異変収束せず・Obiaの別れは先取りしない）✓。next_ep 空欄✓。🔧レビュー：flat副詞 "barks loud"→"barks loudly"。"around and around"＝本章唯一の畳語tic（許容）。
+  - ✅執筆済み（word_count 278）。Day19。章クローザー。動・再会POV（洞窟＝3グループ全再合流）。⚠️**Pod内方針反映（2026-06-30）**：旧 "He presses his cheek to her small shell" / "Luca leans into Pen-san's soft warmth" / "roll out to the others"（甲羅直接接触・Pod外）→ Pod越し（"roll over to the others"＝"roll out"はPod脱出の誤読回避）。帰還先の洞窟も寒冷＝Pod内継続（降車はCh22 Ep183）。⚠️**Pen-san所作の可視化（2026-06-30）**：成体コウテイ（≈1.2m）が手のひら大のミニPodに頬を寄せる絵が想像しにくい（"leans down"＝屈み込み不足／"presses his cheek to" 小球＝解剖学的に不自然）→ 体の落差を明示＝"Pen-san bends his tall body right down low. He brings his soft cheek close to little Luca's Pod. ... Her small Pod rests against his warm, soft front."（"bends his tall body right down low" で背の高さとの落差を見せ、接触は胸の柔毛＝ヒナを抱く位置に集約）。"Pen-san is so much bigger than her now." のサイズ差テーマと所作が一致。⚠️**衝撃＝4回中最大**＝"Then comes the jump, hard and wild. It is the strongest jump of them all."✓（Ch18"少し大きい"→Ch19"さらに重い"→Ch21"最大"の頂点）。再会＝Suke-san *"You came back!"*（barks）／Dango所作 **"spins around and around"**（＝本章唯一の畳語ticを使用・引用なし）／Pen-san *"I was so afraid,"*（Lucaに頬・成体で"so much bigger than her now"）／General＝"a long, proud salute"（厳格）。④章クローザー＝"Now all three voices are safe. The wolf. The seabird. The ancient one." ＋ ⚠️**Ch22予感まで**＝"something still feels strange to her. She cannot name it. Not yet. ... But the journey is not over yet."（異変収束せず・Obiaの別れは先取りしない）✓。next_ep 空欄✓。🔧レビュー：flat副詞 "barks loud"→"barks loudly"。"around and around"＝本章唯一の畳語tic（許容）。
   - **🔗 Ch20→Ch21 相互リンク済み**：ep167.next_ep=/season2/chapter21/ep168/ ／ ep168.prev_ep=/season2/chapter20/ep167/。
 
 <!-- Ch21（Ep168〜176）執筆完了。全9話 ✅・確定台詞・word_count・🔧レビュー追記済み。章末 ep176.next_ep 空欄（Ch22 Ep177で相互リンク）。 -->
@@ -1393,9 +1393,9 @@
 - ★**赤い首輪（確定 2026-06-26・ユーザー選択）＝Ep184でObiaが外してAko-chanに残す**（S1 Ch10 Ep76の反復）。🔒Obia *"Keep this. I do not know why. But it is important."*（**S1 Ep76 *"I do not know why. But it is important. Hold it for me."* のエコー**＝Hold→Keep）。⚠️**意味・起源は説明しない**（起源は伏せる＝bootstrap循環）。首輪は**現代に残りAko-chanの手元へ→S3へ繋がる**。Obiaは首輪を外したまま去る。
 - ★**接続/扉の A2 メタファー**：機械が開いた「扉（door）」＝現代↔未来の接続。"The door is open. The future is leaking through." / "close the door from the other side." を一貫使用。⚠️科学的詳説はしない。**"is leaking"＝現在進行形（可）**。
 - ★**別れの register（house tone）＝抑制・尊厳・bittersweet**（メロドラマにしない）。身体所作（震える手・伏せる体・寄り添い・落ちる涙・伸ばす手）で外在化。希望の音＝"I will not forget you."（will例外・物語を運ぶ誓い）。Ep185「Silence」で静寂に着地。
-- ★**1語タイトル例外**＝Ep185「Silence」（クライマックス・S1 "Obia"/"Stop"・S2 Ep163 "Ruka" と同じ取り置き）。
+- ★**1語タイトル例外**＝Ep185「Silence」（クライマックス・S1 "Obia"/"Stop"・S2 Ep163 "Luca" と同じ取り置き）。
 - ⚠️**戻れない＝permanent**（Ep185 ④"もう戻らない"）。死そのものは描かない（"消える/未来へ行く"）。
-- 語り規約：Obia=it（別れの中心・**"the silver one"は使わない**＝親密ビートゆえ "Obia"＋it）／Dango引用なし（足元に伏せる＝所作）／**Suke-san初めてObiaに体を寄せる**（S1からの警戒→信頼の到達点・所作中心）／Ruka=she／3Pod色＝赤青黄（Ep183でPodを降りて近づく）／Pen-san・General含む全員が見送る。
+- 語り規約：Obia=it（別れの中心・**"the silver one"は使わない**＝親密ビートゆえ "Obia"＋it）／Dango引用なし（足元に伏せる＝所作）／**Suke-san初めてObiaに体を寄せる**（S1からの警戒→信頼の到達点・所作中心）／Luca=she／3Pod色＝赤青黄（Ep183でPodを降りて近づく）／Pen-san・General含む全員が見送る。
 - Day割付：Ch21末＝Day19。Ch22＝**Day19〜20**（Ep177-180＝Day19・認識/reveal／Ep181-185＝Day20・決断/別れ）。
 
 ### Day 19 — 使命完了の認識〜根本原因の reveal
@@ -1403,17 +1403,17 @@
   - 🔒台詞（Ako-chan）：*"We did it. We saved them."*
   - モード：感情・達成（だが不穏の予兆）。③：洞窟の静けさ、光を落ち着けるObia、寄り添う仲間、安堵の息。④：でもObiaの目が、まだ何かを見ている。
   - 確定：三声recap（描写名 "the ancient one"＝マイオラニア）。⚠️ここから不穏へ（④でObiaの不穏を予告）。
-  - ✅執筆済み（word_count 271）。Day19。🔒Ako-chan *"We did it," ... "We saved them."*（逐語）。三声recap＝描写名で統一（"The wolf, from the snowy mountain. The seabird, from the storm island. And the ancient one, from the ice age."）✓。"the future"抽象＝"sends the last voice into the future"。④不穏の予告＝"But Obia does not rest. ... Its blue eyes ... look past everyone, far away. Something is not right."（Ep178へ）。Dango所作（"pushes his head into her side"）。3Pod色言及（red/blue＋Ruka）。🔧レビュー：flat副詞3件 "hums low and soft"→"hums, low and soft"／"runs bright"→"runs brightly"／"glow soft"→"glow softly"。⚠️語数floor（271）。
+  - ✅執筆済み（word_count 271）。Day19。🔒Ako-chan *"We did it," ... "We saved them."*（逐語）。三声recap＝描写名で統一（"The wolf, from the snowy mountain. The seabird, from the storm island. And the ancient one, from the ice age."）✓。"the future"抽象＝"sends the last voice into the future"。④不穏の予告＝"But Obia does not rest. ... Its blue eyes ... look past everyone, far away. Something is not right."（Ep178へ）。Dango所作（"pushes his head into her side"）。3Pod色言及（red/blue＋Luca）。🔧レビュー：flat副詞3件 "hums low and soft"→"hums, low and soft"／"runs bright"→"runs brightly"／"glow soft"→"glow softly"。⚠️語数floor（271）。
 - **Ep178「Still Wrong」**：だが異変は収束していない。Obiaが感知。動物たちのざわめきがまだ消えていない。みんながObiaを見る。使命を果たしたのになぜ。
   - 🔒台詞（Obia）：*"Something is still wrong."*
   - モード：不穏・転換。③：Obiaの止まった動き、かすかな不穏、仲間の戸惑い、機械の低い音。④：本当の問題は、まだ残っていた。
   - 確定：⚠️**原因はEp179まで出さない**（感知のみ）。
-  - ✅執筆済み（word_count 270＝floor）。Day19。🔒Obia *"Something is still wrong."*（逐語）。⚠️**原因は未開示・感知のみ**＝"The animals are still not calm." / "A low hum runs under the ice. ... It does not go away with the voices."（"なぜ"はEp179）✓。仲間の戸惑い所作（Dango ears flat／Suke-san sniffs／Ruka=she "pulls into her shell"／General waits／Dango "low, soft whine"＝引用なし）。④"the trouble is still here. It was here all along."。flat副詞 "runs deep"/"sinks low"＝許容フラットで据え置き。⚠️語数floor（270）。
+  - ✅執筆済み（word_count 270＝floor）。Day19。🔒Obia *"Something is still wrong."*（逐語）。⚠️**原因は未開示・感知のみ**＝"The animals are still not calm." / "A low hum runs under the ice. ... It does not go away with the voices."（"なぜ"はEp179）✓。仲間の戸惑い所作（Dango ears flat／Suke-san sniffs／Luca=she "pulls into her shell"／General waits／Dango "low, soft whine"＝引用なし）。④"the trouble is still here. It was here all along."。flat副詞 "runs deep"/"sinks low"＝許容フラットで据え置き。⚠️語数floor（270）。
 - **Ep179「The Open Door」**：Obiaがついに気づく。タイムマシンが現代と未来をつないだまま開いている。未来の崩壊が現代へ漏れ続けている。声を救うだけでは足りなかった。
   - 🔒台詞（Obia）：*"The door is open. The future is leaking through."*
   - モード：reveal・静かな戦慄。③：開いたままの機械、漏れ出る気配、冷気、息をのむ仲間。④：扉を、閉じなければならない。
   - 確定：**根本原因の reveal**。"is leaking"＝現在進行形（可）。⚠️**"the future" 抽象**（誰の時代か言わない）。扉＝door メタファー。
-  - ✅執筆済み（word_count 270＝floor）。Day19。🔒Obia *"The door is open," ... "The future is leaking through."*（逐語）。**根本原因reveal**＝機械が扉を作り閉じなかった（"The machine is still open. It made a door between now and the future. And the door did not close."）✓。⚠️**reveal境界厳守**＝S3秘密(少年/maker/loop/whose time/首輪正体)leak なし✓・**"the future"抽象**（"the other side"＝未来・誰の時代か言わない）✓。"made a door"＝機械の動作（≠Obiaの製作者）。漏れの体感＝"A thin, cold air seeps from the machine. ... It comes from the other side."。仲間の所作（Suke-san fur up／Pen-san still／Ruka=she afraid）。④"They have to close it."（Ep180へ）。⚠️語数floor（270）。
+  - ✅執筆済み（word_count 270＝floor）。Day19。🔒Obia *"The door is open," ... "The future is leaking through."*（逐語）。**根本原因reveal**＝機械が扉を作り閉じなかった（"The machine is still open. It made a door between now and the future. And the door did not close."）✓。⚠️**reveal境界厳守**＝S3秘密(少年/maker/loop/whose time/首輪正体)leak なし✓・**"the future"抽象**（"the other side"＝未来・誰の時代か言わない）✓。"made a door"＝機械の動作（≠Obiaの製作者）。漏れの体感＝"A thin, cold air seeps from the machine. ... It comes from the other side."。仲間の所作（Suke-san fur up／Pen-san still／Luca=she afraid）。④"They have to close it."（Ep180へ）。⚠️語数floor（270）。
 - **Ep180「Someone Must Go」**：根本解決には誰かが未来へ渡って向こうから接続を閉じねば。戻っては来られない。洞窟が静まり返る。
   - 🔒台詞（Obia）：*"Someone must go. And close the door from the other side."*
   - モード：重い静寂。③：重い沈黙、機械の光、見つめ合う仲間、Ako-chanの強ばる顔。④：「誰かが行かなければならない。」
@@ -1430,11 +1430,11 @@
   - モード：感情・沈黙。③：誰も動かない、機械の低い音、寄り添う体、Ako-chanの落ちる涙。④：別れが、すぐそこに来ている。
   - 確定：Dango所作（伏せる）／**Suke-san所作（初めてObiaに体を寄せる＝S1からの警戒→信頼の到達点）**。引用最小（無言の重さ）。
   - ✅執筆済み（word_count 274）。Day20。Dango所作＝足元に伏せる（"He lies down there ... He does not bark. He does not whine. He just stays near."＝引用なし）。⭐**Suke-sanの弧の完成**＝"Once he did not trust Obia at all. In Japan, he watched it with sharp, wary eyes. ... Now he presses against it, warm and sure. All his old wariness is gone now."（S1 Ch6合流時の警戒→S2末の信頼＝S1継続性整合）✓。Ako-chanの無言の涙（"They fall, slow and warm ... Her shoulders shake without a sound."＝抑制house tone）。④"Soon Obia will step into the light. But for now, they hold it close."（Ep183-184へ）。引用ゼロ（沈黙の章）。三連なし。Obia=it。
-- **Ep183「The Goodbye」**：全員でObiaを見送る。一匹ずつObiaに別れを告げる。Pen-sanが頬を寄せる。Daru・Gabu・RukaがPodを降りて近づく。Ako-chanは最後まで言葉を選べない。
+- **Ep183「The Goodbye」**：全員でObiaを見送る。一匹ずつObiaに別れを告げる。Pen-sanが頬を寄せる。Dalu・Gabu・LucaがPodを降りて近づく。Ako-chanは最後まで言葉を選べない。
   - 🔒台詞（Ako-chan）：*"Obia... thank you. For everything."*
   - モード：感情・別れ。③：囲む仲間、青白い目、震える手、満ちる静けさ。④：ObiaがAko-chanを、じっと見る。
   - 確定：**3匹がPodを降りて近づく**（直接の接触）。各キャラの所作で別れ。⚠️首輪はまだ（Ep184）。
-  - ✅執筆済み（word_count 271）。Day20。🔒Ako-chan *"Obia... thank you," ... "For everything."*（逐語）。別れの所作の連なり＝Pen-san頬寄せ（"presses his cheek close. His big body trembles"）／General深い敬礼／**3匹がPod降りて接触**（Daru赤・Gabu青・Ruka黄＝"Their small shells touch Obia's cold feet."）／Dango頭を寄せる。④ObiaがAko-chanをじっと見る（"It looks at her for a long, long moment."）。⚠️**首輪は未登場**（Ep184）。Obia=it。三連なし。
+  - ✅執筆済み（word_count 271）。Day20。🔒Ako-chan *"Obia... thank you," ... "For everything."*（逐語）。別れの所作の連なり＝Pen-san頬寄せ（"presses his cheek close. His big body trembles"）／General深い敬礼／**3匹がPod降りて接触**（Dalu赤・Gabu青・Luca黄＝"Their small shells touch Obia's cold feet."）／Dango頭を寄せる。④ObiaがAko-chanをじっと見る（"It looks at her for a long, long moment."）。⚠️**首輪は未登場**（Ep184）。Obia=it。三連なし。
 - **Ep184「The Machine Sounds」**：タイムマシンが鳴り始める。光が高まる。**Obiaが機械の前で立ち止まり、赤い首輪を外してAko-chanに残す**（S1 Ep76の反復）。そして機械の中へ一歩踏み込む。振り返って最後にもう一度みんなを見る。
   - 🔒台詞（Obia・首輪）：*"Keep this. I do not know why. But it is important."*（S1 Ep76エコー）／（Obia・最後）：*"I will not forget you."*
   - モード：感情・別れの頂点。③：高まる駆動音、満ちる光、首輪を受け取るAko-chanの手、踏み込むObia。④：光が、すべてを包む。
@@ -1443,7 +1443,7 @@
 - **Ep185「Silence」**：光が消える。Obiaが消える。あとには静寂だけ。タイムマシンが静かになる。Ako-chanの伸ばした手は空をつかんでいる。誰も動けない。
   - モード：静寂・喪失（章クローザー・**1語タイトル例外**）。③：消えた光、空になった場所、止まった機械、洞窟の完全な静寂。④章クローザー：Obiaは未来へ行った。もう戻らない。
   - 確定（章末リンク）：next_ep は空欄（Ch23 Ep186執筆時に ep186.prev_ep=ep185 と相互リンク）。⚠️**Obia消失は永続**（戻らない）。Ako-chanの手元に赤い首輪（無言・このEpはObiaの不在に集中）。⚠️**Ch23（帰路・Pen-san/Adelie別れ）は先取りしない**。
-  - ✅執筆済み（word_count 271・章クローザー）。Day20。**1語タイトル例外**＝"Silence"（S1 "Obia"/"Stop"・S2 Ep163 "Ruka" と同じ取り置き）。光が消えObiaが去る→Ako-chanの伸ばした手は空をつかむ（"Her fingers close on nothing. Obia is gone."）。三連形容詞1回＝"bright and white and cold"（本話の1回枠）。**接続閉鎖の静かな確認**＝Obiaが向こうから扉を閉じた（"It went to close the door from the far side." / "The cold does not leak from it anymore."＝異変の根本解決を抑制的に提示）。Ako-chanは首輪を**無言で胸に**握る（Ep184から継続・S3へ）。④章クローザー＝"It will not come back. Not ever again." / "The cave holds only silence now."（永続・タイトル回収）。⚠️**Ch23先取りなし**（Pen-san/Adelie別れ・帰路は出さない）。死は描かず（"went to the future"）。Obia=it。
+  - ✅執筆済み（word_count 271・章クローザー）。Day20。**1語タイトル例外**＝"Silence"（S1 "Obia"/"Stop"・S2 Ep163 "Luca" と同じ取り置き）。光が消えObiaが去る→Ako-chanの伸ばした手は空をつかむ（"Her fingers close on nothing. Obia is gone."）。三連形容詞1回＝"bright and white and cold"（本話の1回枠）。**接続閉鎖の静かな確認**＝Obiaが向こうから扉を閉じた（"It went to close the door from the far side." / "The cold does not leak from it anymore."＝異変の根本解決を抑制的に提示）。Ako-chanは首輪を**無言で胸に**握る（Ep184から継続・S3へ）。④章クローザー＝"It will not come back. Not ever again." / "The cave holds only silence now."（永続・タイトル回収）。⚠️**Ch23先取りなし**（Pen-san/Adelie別れ・帰路は出さない）。死は描かず（"went to the future"）。Obia=it。
   - 章末リンク状態：**ep185.next_ep＝空欄**（Ch23 Ep186で相互リンク）／ep177.prev_ep＝ep176・**ep176.next_ep＝ep177 更新済み**（章跨ぎ相互リンク完了）。
 
 <!-- Ch22（Ep177〜185）執筆完了。全9話 ✅・確定台詞・word_count・🔧レビュー追記済み。章頭 ep176.next_ep=ep177 更新済み／章末 ep185.next_ep 空欄（Ch23 Ep186で相互リンク）。 -->
@@ -1458,17 +1458,17 @@
 - ★**Pen-san・General Adelie の別れ＝南極に残る**（Obiaの永続喪失と**対比**＝二羽は生きていて再会の可能性あり＝より穏やか/希望）。Pen-san＝甘えん坊（最後まで体を寄せる）／General＝厳格・尊厳（深い敬礼）。Ep187-188で別れ後は**登場しない**（南極残留）。
 - ★**首輪（Ch22から継続）**：Ako-chanの手元に赤い首輪。⚠️**前景化しない**＝Obiaの不在の token として**1回程度の無言の所作**に留める（説明なし・S3温存）。出さなくてもよい（執筆判断）。
 - ★**飛行艇（"the flying boat"・無名）＝帰路の移動手段**。Obia不在＝**操縦はAko-chanが引き継ぐ**（Ep189）。Obiaの定位置（操縦のそば＝立ち位置）が**空いた場所**（Ep190）。
-- ★**帰路の一行＝6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod。⚠️Obia去る・Pen-san/Adelie南極残留。**人数の機械宣言はしない**（Ep189で体感列挙）。
+- ★**帰路の一行＝6**（Ako-chan・Dango・Suke-san・Dalu・Gabu・Luca）＋3Pod。⚠️Obia去る・Pen-san/Adelie南極残留。**人数の機械宣言はしない**（Ep189で体感列挙）。
 - ⚠️**異変は収束済み**（ObiaがCh22 Ep185で扉を閉じた）＝帰路の世界は静か。⚠️**異変解決を改めて説明しない**（Ep185で示済み）。
 - ⚠️**S2末（Ch24）は先取りしない**：イギリス到着・「先輩逆転」・「Obia—」日記はCh24。Ch23は"もうすぐ家・でも何かが違う"予感まで（Ep192章クローザー）。
-- 語り規約：Obia=不在（言及は最小・**"the silver one"不使用**）／Dango引用なし（所作・空席を見る）／Suke-san＝Ako-chanの右後ろ（定位置）／**Ruka=she・最年少最新入りとして描く**（Ep191でAko-chanの隣／⚠️**先輩逆転はCh24**）／Pen-san・General＝Ep187-188の別れまで。
+- 語り規約：Obia=不在（言及は最小・**"the silver one"不使用**）／Dango引用なし（所作・空席を見る）／Suke-san＝Ako-chanの右後ろ（定位置）／**Luca=she・最年少最新入りとして描く**（Ep191でAko-chanの隣／⚠️**先輩逆転はCh24**）／Pen-san・General＝Ep187-188の別れまで。
 - Day割付：Ch22末＝Day20。Ch23＝**Day21〜25**（186=21・187-189=22・190=23・191=24・192=25＝南極→英の長い飛行）。
 
 ### Day 21〜22 — 喪失後〜南極を発つ
 - **Ep186「After He Is Gone」**：Obiaが去った直後の日々。洞窟は静か。みんなまだ言葉が少ない。Ako-chanは無意識にObiaを探して、いないことに気づく。不在が始まる。
   - モード：感情・静（喪失後）。③：空いた場所、減った気配、仲間の沈黙、氷の冷たさ。④：旅は終わった。でも、誰かが欠けている。
   - 確定：**不在モチーフの開始**。⚠️melodrama回避（静かに）。首輪を無言で握る所作を入れてもよい（1回・説明なし）。
-  - ✅執筆済み（word_count 279）。Day21。**不在モチーフ開始**＝話しかけようとして止まる("She turns to her side, ready to speak. ... The words are already in her mouth. But no one is there now. ... Ako-chan stops. ... Obia is gone.")✓。機械も静か("Its low hum is gone now. No blue glow runs on the icy walls."＝異変収束を所作で・改めて説明せず)。⚠️**首輪＝無言の所作1回・説明なし厳守**＝"The red collar is there, against her heart. She holds it for a moment, without a word. Then she lets it rest again."✓。Dango所作(空席を見る)・Ruka=she(shellに引く)。④"That spot stays empty beside her."。melodrama回避✓。
+  - ✅執筆済み（word_count 279）。Day21。**不在モチーフ開始**＝話しかけようとして止まる("She turns to her side, ready to speak. ... The words are already in her mouth. But no one is there now. ... Ako-chan stops. ... Obia is gone.")✓。機械も静か("Its low hum is gone now. No blue glow runs on the icy walls."＝異変収束を所作で・改めて説明せず)。⚠️**首輪＝無言の所作1回・説明なし厳守**＝"The red collar is there, against her heart. She holds it for a moment, without a word. Then she lets it rest again."✓。Dango所作(空席を見る)・Luca=she(shellに引く)。④"That spot stays empty beside her."。melodrama回避✓。
 - **Ep187「Pen-san's Farewell」**：南極を離れるとき、成体のPen-sanと別れる。Pen-sanは南極に残る。最後までAko-chanに体を寄せている。
   - 🔒台詞（Pen-san）：*"You will come back? Like last time?"*／（Ako-chan）：*"I will try."*
   - モード：感情・別れ（穏やか）。③：大きなPen-sanの体、寄り添う温もり、白い大陸、別れの風。④：ヒナだったPen-sanは、もう立派なエンペラーだ。
@@ -1481,22 +1481,22 @@
   - ✅執筆済み（word_count 270＝floor）。Day22。🔒General Adelie *"The work is done," ... "Go safely."*（逐語＝**"Mission accomplished" 言い換え・"accomplished"不使用**✓）。深い敬礼("lowers his chin in a long, deep salute")→Ako-chan bows back。厳しさの奥の友情＝"Under all his strict words, there was always something warm. A true and steady friendship. He will not say it out loud. ... The deep salute already says everything."✓。Generalの役割recap(厳格な命令・嵐を見張る・皆を守った)。Suke-san所作(老兵に頭を下げる)。④"Then she turns at last towards the flying boat."(Ep189へ)。Pen-san/Adelie南極残留。⚠️語数floor(270)。
 
 ### Day 22〜25 — 北への長い飛行
-- **Ep189「Heading North」**：残りのメンバー全員で飛行艇に乗り北へ。Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka。Obiaのいない初めての飛行。操縦はAko-chanが引き継ぐ。
+- **Ep189「Heading North」**：残りのメンバー全員で飛行艇に乗り北へ。Ako-chan・Dango・Suke-san・Dalu・Gabu・Luca。Obiaのいない初めての飛行。操縦はAko-chanが引き継ぐ。
   - モード：動・出発（静か）。③：離れる白い大陸、北を向く機首、エンジンの音、それぞれの静かな顔。④：イギリスへ。長い帰り道が、始まる。
   - 確定：**一行6（体感列挙・機械宣言なし）**。**Ako-chan操縦**（Obia役を引き継ぐ）。飛行艇＝"the flying boat"。
-  - ✅執筆済み（word_count 272）。Day22。**Ako-chan操縦の引き継ぎ**＝"Ako-chan looks at the pilot's seat. Obia always flew the boat before. Now that seat is hers. She sits down and holds the controls."✓。離陸→北旋回→白い大陸が離れる("the white land falls away. The ice grows smaller and smaller. ... Then even that line is gone.")。**一行6＝体感列挙（数を出さない）**＝Dango足元／Suke-san右後ろ／Daru・Gabu各Pod／Ruka小Pod＝6人を位置で列挙（"six"宣言なし・台帳C準拠）✓。Obia不在の予兆を1文("The boat is quiet without Obia's voice."＝Ep190へ)。④章モチーフ＝"The long way back begins now."（章題エコー）。Obia=名前2回・"it"代名詞/"silver one"なし。畳語"smaller and smaller"＝漸増強意（許容・tic別枠）。⚠️現在完了回避（"has begun"→"begins now"）。三連なし。最長文9語。
+  - ✅執筆済み（word_count 272）。Day22。**Ako-chan操縦の引き継ぎ**＝"Ako-chan looks at the pilot's seat. Obia always flew the boat before. Now that seat is hers. She sits down and holds the controls."✓。離陸→北旋回→白い大陸が離れる("the white land falls away. The ice grows smaller and smaller. ... Then even that line is gone.")。**一行6＝体感列挙（数を出さない）**＝Dango足元／Suke-san右後ろ／Dalu・Gabu各Pod／Luca小Pod＝6人を位置で列挙（"six"宣言なし・台帳C準拠）✓。Obia不在の予兆を1文("The boat is quiet without Obia's voice."＝Ep190へ)。④章モチーフ＝"The long way back begins now."（章題エコー）。Obia=名前2回・"it"代名詞/"silver one"なし。畳語"smaller and smaller"＝漸増強意（許容・tic別枠）。⚠️現在完了回避（"has begun"→"begins now"）。三連なし。最長文9語。
 - **Ep190「The Empty Space」**：帰路にObiaの不在をみんなが感じる。Obiaがいつも立っていた場所。誰もその場所には入らない。Dangoがその場所をときどき見る。Ako-chanは何度も話しかけそうになってやめる。
   - モード：感情・不在。③：空いた席、見つめるDango、Ako-chanの止まる言葉、窓の外の海。④：いないことに、少しずつ慣れていく。それが、いちばん寂しい。
   - 確定：**不在モチーフの核**。Dango所作（空席を見る・引用なし）。Obiaの定位置＝操縦のそば。
-  - ✅執筆済み（word_count 270）。Day23（"the second day in the air"＝Ep189出発の翌日）。**不在モチーフの核**＝操縦のそばの空いた場所（"Beside her is Obia's old place. Obia always stood there. Now it is empty."）・誰も入らない（"No one takes that place."）。⚠️**2026-07-02修正**：Obiaは操縦のそばに一貫して「立つ」（Ep117/124/125/126/127）ため座席語（seat/sat）を「場所」へ置換。タイトルも "The Empty Seat"→**"The Empty Space"**（S3 Ep207 "The Empty Place" との衝突回避）。word_count 271→270。**Ako-chan話しかけてやめる**＝"She turns her head to speak. 'Obia, look—' she starts. Then she stops. ... No one can hear her now."✓＋"She used to tell Obia everything. Now she keeps it all inside."（抑制・melodrama回避）。**Dango所作（引用なし）**＝空席を見て待つ→頭を下げる→低い溜息（"He waits, as if someone will come. But no one comes. ... He lets out a low, soft sigh."）。④"To stop looking for Obia hurts the most."＝慣れることがいちばん寂しい。Suke-san所作・Ruka=she。三連/畳語なし。最長文9語。🔧レビュー：**Obia地の文の "him/his"（Obia指示・3件）→名前 "Obia" に修正**（tell Obia／Obia's quiet voice／looking for Obia）＝**S2地の文はObia="it"/名前（he/him不可）**の規約に整合（Ch13–22・[[obia-pronoun-it]]）。⚠️タイトル "After He Is Gone"(Ep186)/Ch24"Home Without Him" は**感情的タイトル register の例外**（episode-list確定済み）＝地の文とは別扱い。"it"/"silver one"なし。
-- **Ep191「The Quiet Sky」**：北へ飛ぶ静かな空。誰も多くを語らない。それぞれが旅を、Obiaを心の中で振り返る。Ruka（最年少・最新入り）がAko-chanの隣で静かにしている。
+  - ✅執筆済み（word_count 270）。Day23（"the second day in the air"＝Ep189出発の翌日）。**不在モチーフの核**＝操縦のそばの空いた場所（"Beside her is Obia's old place. Obia always stood there. Now it is empty."）・誰も入らない（"No one takes that place."）。⚠️**2026-07-02修正**：Obiaは操縦のそばに一貫して「立つ」（Ep117/124/125/126/127）ため座席語（seat/sat）を「場所」へ置換。タイトルも "The Empty Seat"→**"The Empty Space"**（S3 Ep207 "The Empty Place" との衝突回避）。word_count 271→270。**Ako-chan話しかけてやめる**＝"She turns her head to speak. 'Obia, look—' she starts. Then she stops. ... No one can hear her now."✓＋"She used to tell Obia everything. Now she keeps it all inside."（抑制・melodrama回避）。**Dango所作（引用なし）**＝空席を見て待つ→頭を下げる→低い溜息（"He waits, as if someone will come. But no one comes. ... He lets out a low, soft sigh."）。④"To stop looking for Obia hurts the most."＝慣れることがいちばん寂しい。Suke-san所作・Luca=she。三連/畳語なし。最長文9語。🔧レビュー：**Obia地の文の "him/his"（Obia指示・3件）→名前 "Obia" に修正**（tell Obia／Obia's quiet voice／looking for Obia）＝**S2地の文はObia="it"/名前（he/him不可）**の規約に整合（Ch13–22・[[obia-pronoun-it]]）。⚠️タイトル "After He Is Gone"(Ep186)/Ch24"Home Without Him" は**感情的タイトル register の例外**（episode-list確定済み）＝地の文とは別扱い。"it"/"silver one"なし。
+- **Ep191「The Quiet Sky」**：北へ飛ぶ静かな空。誰も多くを語らない。それぞれが旅を、Obiaを心の中で振り返る。Luca（最年少・最新入り）がAko-chanの隣で静かにしている。
   - モード：静・回想。③：青い空、流れる雲、穏やかなエンジン音、寄り添う仲間。④：悲しみは、少しずつ、静けさに変わっていく。
-  - 確定：**悲しみ→静けさへの移行**。Ruka=she（**まだ最年少・最新入り**として描く）。⚠️**先輩逆転はCh24**＝先取りしない。
-  - ✅執筆済み（word_count 275）。Day24（"The third day"＝Ep189出発Day22から3日目）。**回想recap（三声・描写名）**＝アナフォラ "They remember the cold snow and the wolves. ... the storm and the gentle birds. ... the giant shell in the ice."（命名なし・"extinct"不使用）✓→"And they remember Obia most of all."。Obia motif＝"She thinks of Obia's pale blue eyes."（青白い目＝S1からのsignature）。**悲しみ→静けさへの移行**＝"The sadness does not go away. But it changes, slowly, in the quiet. It grows softer, like the wide, pale sky."✓。**Ruka=she・最年少最新入り**＝"She is the smallest of them all. She is the newest of the family too."（⚠️**先輩逆転は出さない**・Ch24温存）✓・Ako-chanの隣で網目甲羅に触れる。④"So does Obia. ... the boat flies on, towards home."。最長文8語・三連/畳語なし。⚠️**2026-07-02修正**：Ruka甲羅描写を確立語彙に統一＝"The small shell has soft black lines."→"The small shell wears its net of black."（Ep102 "like a net"・world.md「黒の網目」準拠）。word_count 275→276。
+  - 確定：**悲しみ→静けさへの移行**。Luca=she（**まだ最年少・最新入り**として描く）。⚠️**先輩逆転はCh24**＝先取りしない。
+  - ✅執筆済み（word_count 275）。Day24（"The third day"＝Ep189出発Day22から3日目）。**回想recap（三声・描写名）**＝アナフォラ "They remember the cold snow and the wolves. ... the storm and the gentle birds. ... the giant shell in the ice."（命名なし・"extinct"不使用）✓→"And they remember Obia most of all."。Obia motif＝"She thinks of Obia's pale blue eyes."（青白い目＝S1からのsignature）。**悲しみ→静けさへの移行**＝"The sadness does not go away. But it changes, slowly, in the quiet. It grows softer, like the wide, pale sky."✓。**Luca=she・最年少最新入り**＝"She is the smallest of them all. She is the newest of the family too."（⚠️**先輩逆転は出さない**・Ch24温存）✓・Ako-chanの隣で網目甲羅に触れる。④"So does Obia. ... the boat flies on, towards home."。最長文8語・三連/畳語なし。⚠️**2026-07-02修正**：Luca甲羅描写を確立語彙に統一＝"The small shell has soft black lines."→"The small shell wears its net of black."（Ep102 "like a net"・world.md「黒の網目」準拠）。word_count 275→276。
 - **Ep192「Almost Home」**：イギリスが近づく。緑の島が雲の下に見えてくる。数週間前に発ったあの海岸。Ako-chanの胸にいろいろな思いが混じる。
   - モード：感情・予感（章クローザー）。③：見えてくる海岸線、緑の大地、降下する飛行艇、高鳴る胸。④章クローザー：もうすぐ、家だ。でも、出発したときとは、何かが違う。
   - 確定（章末リンク）：next_ep は空欄（Ch24 Ep193執筆時に ep193.prev_ep=ep192 と相互リンク）。⚠️**Ch24（到着・先輩逆転・「Obia—」日記）は先取りしない**（"もうすぐ家・何かが違う"予感まで）。"何かが違う"＝Obiaの不在（明言は最小）。
-  - ✅執筆済み（word_count 276・章クローザー）。Day25（"Many days pass over the wide sea."＝南極→英の長い飛行の終点）。**イギリス接近**＝低い雲の下に緑の海岸線→"It is England. It is home."・降下（"flies lower and lower"＝漸増別枠）・"They flew away from this coast weeks ago."（⚠️旧 "They left this place three years ago." は時間矛盾＝S2出発はDay7・数週間前／「3年」はS1帰還→S2開幕の在宅期間。2026-07-02修正）。なお同段落 "Three years changed them all." はS1からの3年で正用＝残置。home-smellのテクスチャー（"The air smells of rain and grass. ... the smell of home."）。仲間の反応所作（Dango尻尾／Suke-san窓／Daru・Gabu／Ruka=she・引用なし）。**④章クローザー＝"もうすぐ家・でも何かが違う"**＝"They come back with one friend gone. The home below is the same. But they are not the same. ... Something is different now. And Ako-chan feels it, deep inside."✓。⚠️**Obiaの不在の明言は最小**（"one friend gone"＝名指さず）／**Ch24先取りなし**（到着・先輩逆転・日記 未出）。"The long way back is almost done."＝章題エコー。最長文9語・三連/畳語なし。
+  - ✅執筆済み（word_count 276・章クローザー）。Day25（"Many days pass over the wide sea."＝南極→英の長い飛行の終点）。**イギリス接近**＝低い雲の下に緑の海岸線→"It is England. It is home."・降下（"flies lower and lower"＝漸増別枠）・"They flew away from this coast weeks ago."（⚠️旧 "They left this place three years ago." は時間矛盾＝S2出発はDay7・数週間前／「3年」はS1帰還→S2開幕の在宅期間。2026-07-02修正）。なお同段落 "Three years changed them all." はS1からの3年で正用＝残置。home-smellのテクスチャー（"The air smells of rain and grass. ... the smell of home."）。仲間の反応所作（Dango尻尾／Suke-san窓／Dalu・Gabu／Luca=she・引用なし）。**④章クローザー＝"もうすぐ家・でも何かが違う"**＝"They come back with one friend gone. The home below is the same. But they are not the same. ... Something is different now. And Ako-chan feels it, deep inside."✓。⚠️**Obiaの不在の明言は最小**（"one friend gone"＝名指さず）／**Ch24先取りなし**（到着・先輩逆転・日記 未出）。"The long way back is almost done."＝章題エコー。最長文9語・三連/畳語なし。
   - 章末リンク状態：**ep192.next_ep＝空欄**（Ch24 Ep193で相互リンク）／ep186.prev_ep＝ep185・**ep185.next_ep＝ep186 更新済み**（前章末→今章頭の相互リンク完了）。
 
 <!-- Ch23（Ep186〜192）執筆完了。全7話 ✅・確定台詞（Pen-san/Ako/General 🔒逐語）・word_count・🔧レビュー追記済み。章頭 ep185.next_ep=ep186 更新済み／章末 ep192.next_ep 空欄（Ch24 Ep193で相互リンク）。一行＝6（体感列挙）・操縦Ako-chan・Obia不在モチーフ・Pen-san/Adelie南極残留。 -->
@@ -1506,52 +1506,52 @@
 ## Chapter 24「Home Without Him」— イギリス（Ep193〜200・8話・S2最終章）
 
 **Ch24 共通**
-- ★**S2の最終章＝帰宅・新しい家族の形・そしてObiaの不在を抱えて日常へ**。到着→Daru/Gabu/Suke-san初上陸→**Ruka「先輩」逆転**→定着（秋→冬）→Obiaのいない庭→Ep199「Obia—」（日記）→Ep200「The Red Notebook」（旅の全回顧＝S2前半完結）。
-- ★**Ruka「先輩」逆転（S2の主要回収）**：最小・最新入りのRukaが**もとの家を最もよく知る**＝Daru/Gabu/Suke-sanを案内する側に。⚠️**"senpai" は地の文で使わない（タイトルのみ・確定 2026-06-27ユーザー選択）**＝英語で逆転を描く（"Ruka knows the way / leads them / knows this place best"）。🔒Daru *"Ruka knows everything here!"*／Gabu *"...She does."*。
+- ★**S2の最終章＝帰宅・新しい家族の形・そしてObiaの不在を抱えて日常へ**。到着→Dalu/Gabu/Suke-san初上陸→**Luca「先輩」逆転**→定着（秋→冬）→Obiaのいない庭→Ep199「Obia—」（日記）→Ep200「The Red Notebook」（旅の全回顧＝S2前半完結）。
+- ★**Luca「先輩」逆転（S2の主要回収）**：最小・最新入りのLucaが**もとの家を最もよく知る**＝Dalu/Gabu/Suke-sanを案内する側に。⚠️**"senpai" は地の文で使わない（タイトルのみ・確定 2026-06-27ユーザー選択）**＝英語で逆転を描く（"Luca knows the way / leads them / knows this place best"）。🔒Dalu *"Luca knows everything here!"*／Gabu *"...She does."*。
 - ★**赤い日記帳（the red notebook）**：S1 Ep5で初記入 *"I have to go."*（**4語**＝"four small words"・continuity-ledger確定）。S2末 Ep199で *"Obia—"* を書く（**続かない**）。Ep200で最初から読み返す（全回顧）。⚠️**"I have to go." は逐語・4語**（"three words"は誤り）。⚠️**"Obia—" の続きは書かない**（S3 Ep300で続く＝橋渡し）。日記の代名詞：**Obia=名前**（him/his不可）。
-- ★**Ep200「The Red Notebook」＝S1 Ep100／S3 Ep300 と同題＝最終話モチーフ**。S1 Ep100の構図（夜・机・ランプ・赤い日記帳・"I have to go."を読む）を踏襲しつつ**進化**：今回は旅の全行程が日記に在る・**Obiaは いない**（S1 Ep100ではObiaは庭にいた）・最後のページ "Obia—" は白いまま。回顧順序（episode-list）＝*I have to go.*→クロアチアのDaru→砂漠のGabu→船を直したSuke-san→南極の吹雪とObiaの告白→飛行艇→三つの声→Obiaを見送った日。
+- ★**Ep200「The Red Notebook」＝S1 Ep100／S3 Ep300 と同題＝最終話モチーフ**。S1 Ep100の構図（夜・机・ランプ・赤い日記帳・"I have to go."を読む）を踏襲しつつ**進化**：今回は旅の全行程が日記に在る・**Obiaは いない**（S1 Ep100ではObiaは庭にいた）・最後のページ "Obia—" は白いまま。回顧順序（episode-list）＝*I have to go.*→クロアチアのDalu→砂漠のGabu→船を直したSuke-san→南極の吹雪とObiaの告白→飛行艇→三つの声→Obiaを見送った日。
 - ★**Obia不在の庭（Ep198）**：かつてObiaがいた場所＝**夜の見張りの位置・Ako-chanの隣・古い小屋(shed)のそば**（S1の定位置）。誰も埋めない・動物も避けて通る。⚠️**"the silver one"不使用・Obia=名前/it**（喪失回ゆえ名前で＝[[obia-absence-name-over-pronoun]]）。
 - ★⚠️**S3秘密は伏せる**：**赤い首輪の起源(誰がいつ作ったか＝bootstrap循環)／タイムループ／"the future"の正体／Ep1の目＝Obia**。Ep199-200の日記・回顧で**これらに触れない**。"Obia—"は喪失と未完の感情まで（説明しない）。
 - ★**トーン＝bittersweet・満ちた静けさ**（S2前半の完結感）。新しい家族の温かさ＋一人の不在。melodrama回避。Ep200 ④＝"物語はここでいったん満ちる・最後の一行だけが続きを待つ"。
-- 語り規約：Obia=不在（名前/it・"the silver one"不使用・him/his不可）／Dango引用なし（所作・みんなの真ん中）／Suke-san＝Ako-chanの右後ろ（定位置）／Daru=引用台詞あり／Gabu=短い台詞（"...She does."）／**Ruka=she（先輩逆転の主役）**／Pen-san・General・Obia＝登場しない（南極残留・未来へ）。一行＝6＋3Pod。
+- 語り規約：Obia=不在（名前/it・"the silver one"不使用・him/his不可）／Dango引用なし（所作・みんなの真ん中）／Suke-san＝Ako-chanの右後ろ（定位置）／Dalu=引用台詞あり／Gabu=短い台詞（"...She does."）／**Luca=she（先輩逆転の主役）**／Pen-san・General・Obia＝登場しない（南極残留・未来へ）。一行＝6＋3Pod。
 - Day割付：Ch23末＝Day25。Ch24＝**Day26〜46（loose）**＝到着(26)〜定着(秋→冬・数週間)〜日記の夜(199/200)。⚠️"秋から冬へ"の時間経過を許容（厳密管理しない）。
 
 ### Day 26〜28 — 帰着・新しい家・先輩逆転
-- **Ep193「Home Again」**：飛行艇がイギリスに着く。Ako-chanの家、あの庭。Rukaにとってはもとの家。RukaのミニPodが迷わずいつもの棚の方へ動く。
+- **Ep193「Home Again」**：飛行艇がイギリスに着く。Ako-chanの家、あの庭。Lucaにとってはもとの家。LucaのミニPodが迷わずいつもの棚の方へ動く。
   - モード：感情・帰着。③：見慣れた庭、秋の光、開く玄関、Dangoの嬉しそうな足取り。④：帰ってきた。長い旅が、終わった。
-  - 確定：**到着**（Ch23で温存した着陸）。Ruka＝もとの家を知る（先輩逆転の布石）。一行6。
-  - ✅執筆済み（word_count 277）。Day26。着陸＝Ako-chanの庭/家（秋の光・黄葉・古い小屋）。⚠️旧記録「三年前に発った」系（"She left from here three years ago."）は時間矛盾のため "She flew away from this garden weeks ago." に修正（2026-07-02）。**Rukaが迷わず棚へ**＝"It moves straight towards the house. Ruka knows just where to go. Her Pod climbs to the old shelf by the door. That spot was always hers."（先輩逆転の布石）✓。Ruka=she（"It"はPod指示）。Dango所作（庭を駆け回る・引用なし）。古い小屋に言及するがObia不在は明言せず（Ep198へ温存）。④"She is home. The long road is done at last."。⚠️Obia未言及（到着の喜び＝可）。
-- **Ep194「A New Place」**：Daru・Gabu・Suke-sanにとってはイギリスは初めて。新しい庭・匂い・光。Daruが駆け回る。Gabuが慎重に確かめる。Suke-sanが匂いを読む。
+  - 確定：**到着**（Ch23で温存した着陸）。Luca＝もとの家を知る（先輩逆転の布石）。一行6。
+  - ✅執筆済み（word_count 277）。Day26。着陸＝Ako-chanの庭/家（秋の光・黄葉・古い小屋）。⚠️旧記録「三年前に発った」系（"She left from here three years ago."）は時間矛盾のため "She flew away from this garden weeks ago." に修正（2026-07-02）。**Lucaが迷わず棚へ**＝"It moves straight towards the house. Luca knows just where to go. Her Pod climbs to the old shelf by the door. That spot was always hers."（先輩逆転の布石）✓。Luca=she（"It"はPod指示）。Dango所作（庭を駆け回る・引用なし）。古い小屋に言及するがObia不在は明言せず（Ep198へ温存）。④"She is home. The long road is done at last."。⚠️Obia未言及（到着の喜び＝可）。
+- **Ep194「A New Place」**：Dalu・Gabu・Suke-sanにとってはイギリスは初めて。新しい庭・匂い・光。Daluが駆け回る。Gabuが慎重に確かめる。Suke-sanが匂いを読む。
   - モード：動・観察（探索）。③：濡れた芝、知らない木々、北の柔らかい光、探索する仲間。④：ここが、これからのみんなの家になる。
-  - 確定：3匹初上陸＝各キャラの性格で探索（Daru元気/Gabu慎重/Suke-san勘）。
-  - ✅執筆済み（word_count 274）。Day26。3匹初上陸＝性格で探索（Daru "Round and round he goes"＝**本章の畳語tic 1回使用**・Gabu "moves, slow and careful"・Suke-san "reads the ground with his sharp nose"）✓。Dangoが旧友Suke-sanを案内（"He shows Suke-san the best corners."）。三連 "wide and green and wet"（1話1回）。④"It will be their new home together."。🔧レビュー：flat副詞 "moves slow and careful"→"moves, slow and careful"（コンマ付加形容）。"walks low"=許容。
-- **Ep195「Ruka Knows the Way」**：最小・最新入りのRukaがこの場所をよく知る。日溜まり・安全な場所。Rukaが先に動き三匹を案内するように。三匹がついていく。
-  - モード：静・観察（逆転の始まり）。③：先を行くRukaのPod、続く三匹、見慣れた庭の角、戸口で見守るAko-chan。④：Rukaが振り返らず先を行く（総括・宣言はEp196「The Senpai」が回収）。
-  - 確定：⚠️**"senpai"不使用＝英語で**（"Ruka knows the way / leads"）。逆転の所作。
-  - ✅執筆済み（word_count 274）。Day27。⚠️**"senpai"不使用・英語で逆転を描く厳守**＝"But Ruka knows. Ruka knows the way. ... The smallest one shows them the way."（**テーゼは1回に集約**）。Rukaが日溜まり/安全な角へ三匹を案内（前を行く・三匹が follow）。Ruka=she（全話she・"it"なし）。④＝出来事レベルの witnessing（"This morning, the garden feels like home."）。⚠️**2026-07-02 重複解消**：Ep196（"The Senpai"＝回収の正）と総括系が隣接重複していたため、Ep195の第4段落から総括・宣言（"Ruka came last...knows the most"／"the order is changing"／"the last one leads the way now"）と "Ako-chan smiles"（Ep196の締めが所有）を間引き、案内の所作（"Ruka does not look back, not once."等）へ差し替え。word_count 275→274。🔧レビュー：flat副詞 "moves slow"→"moves slowly"。"pools warm"=depictive据え置き。
-- **Ep196「The Senpai」**：Rukaが「先輩」になっている。プーリアで拾われた最小のリクガメが。Daru/Gabuより後に来たのに。逆転が静かに起きている。
-  - 🔒台詞（Daru）：*"Ruka knows everything here!"*／（Gabu）：*"...She does."*
+  - 確定：3匹初上陸＝各キャラの性格で探索（Dalu元気/Gabu慎重/Suke-san勘）。
+  - ✅執筆済み（word_count 274）。Day26。3匹初上陸＝性格で探索（Dalu "Round and round he goes"＝**本章の畳語tic 1回使用**・Gabu "moves, slow and careful"・Suke-san "reads the ground with his sharp nose"）✓。Dangoが旧友Suke-sanを案内（"He shows Suke-san the best corners."）。三連 "wide and green and wet"（1話1回）。④"It will be their new home together."。🔧レビュー：flat副詞 "moves slow and careful"→"moves, slow and careful"（コンマ付加形容）。"walks low"=許容。
+- **Ep195「Luca Knows the Way」**：最小・最新入りのLucaがこの場所をよく知る。日溜まり・安全な場所。Lucaが先に動き三匹を案内するように。三匹がついていく。
+  - モード：静・観察（逆転の始まり）。③：先を行くLucaのPod、続く三匹、見慣れた庭の角、戸口で見守るAko-chan。④：Lucaが振り返らず先を行く（総括・宣言はEp196「The Senpai」が回収）。
+  - 確定：⚠️**"senpai"不使用＝英語で**（"Luca knows the way / leads"）。逆転の所作。
+  - ✅執筆済み（word_count 274）。Day27。⚠️**"senpai"不使用・英語で逆転を描く厳守**＝"But Luca knows. Luca knows the way. ... The smallest one shows them the way."（**テーゼは1回に集約**）。Lucaが日溜まり/安全な角へ三匹を案内（前を行く・三匹が follow）。Luca=she（全話she・"it"なし）。④＝出来事レベルの witnessing（"This morning, the garden feels like home."）。⚠️**2026-07-02 重複解消**：Ep196（"The Senpai"＝回収の正）と総括系が隣接重複していたため、Ep195の第4段落から総括・宣言（"Luca came last...knows the most"／"the order is changing"／"the last one leads the way now"）と "Ako-chan smiles"（Ep196の締めが所有）を間引き、案内の所作（"Luca does not look back, not once."等）へ差し替え。word_count 275→274。🔧レビュー：flat副詞 "moves slow"→"moves slowly"。"pools warm"=depictive据え置き。
+- **Ep196「The Senpai」**：Lucaが「先輩」になっている。プーリアで拾われた最小のリクガメが。Dalu/Gabuより後に来たのに。逆転が静かに起きている。
+  - 🔒台詞（Dalu）：*"Luca knows everything here!"*／（Gabu）：*"...She does."*
   - モード：感情・回収（先輩逆転）。③：定位置が決まる、静かな所作、秋の光、落ち着いた気配。④：時間と場所が、順番を入れ替えた。
-  - 確定：**S2先輩逆転の回収**。⚠️**"senpai"はタイトルのみ・地の文は英語**。Ruka=she・プーリア（Ep103回想）参照。
-  - ✅執筆済み（word_count 271）。Day28。🔒Daru *"Ruka knows everything here!"*／Gabu *"...She does."*（逐語・Gabuの短い肯定）。⚠️**"senpai"地の文不使用**＝英語で逆転（"Ruka came last of all, yet she leads first. ... The little one shows the big ones the way."）✓。**プーリア回収**＝"That was in Puglia, by a warm white wall. The little tortoise climbed onto her hand back then."（Ep103整合）。Ruka=she・最小。④"Somehow, that feels exactly right."。🔧レビュー：flat副詞 "settles soft and still"→"settles, soft and still"。
+  - 確定：**S2先輩逆転の回収**。⚠️**"senpai"はタイトルのみ・地の文は英語**。Luca=she・プーリア（Ep103回想）参照。
+  - ✅執筆済み（word_count 271）。Day28。🔒Dalu *"Luca knows everything here!"*／Gabu *"...She does."*（逐語・Gabuの短い肯定）。⚠️**"senpai"地の文不使用**＝英語で逆転（"Luca came last of all, yet she leads first. ... The little one shows the big ones the way."）✓。**プーリア回収**＝"That was in Puglia, by a warm white wall. The little tortoise climbed onto her hand back then."（Ep103整合）。Luca=she・最小。④"Somehow, that feels exactly right."。🔧レビュー：flat副詞 "settles soft and still"→"settles, soft and still"。
 
 ### Day 33〜46 — 定着〜Obia不在の庭〜日記（S2完結）
-- **Ep197「Settling In」**：動物たちがイギリスの暮らしに馴染む。穏やかな日々。Daruは日溜まり、Gabuは木陰、Suke-sanはAko-chanの後ろ、Rukaは棚の上。Dangoはみんなの真ん中。新しい家族の形。
+- **Ep197「Settling In」**：動物たちがイギリスの暮らしに馴染む。穏やかな日々。Daluは日溜まり、Gabuは木陰、Suke-sanはAko-chanの後ろ、Lucaは棚の上。Dangoはみんなの真ん中。新しい家族の形。
   - モード：静・定着。③：それぞれの居場所、秋から冬への光、静かな庭、満ちる落ち着き。④：穏やかだ。でも、一人だけ、いない。
   - 確定：各キャラ定位置（台帳整合）。秋→冬の時間経過。④でObia不在へ転調（Ep198布石）。
-  - ✅執筆済み（word_count 274）。Day45（⚠️2026-07-02 再配分：旧Day33→45＝Day26黄葉→真冬までの季節進行を現実的な間隔に広げる。Ch24全体＝193/194=26・195=27・196=28・197=45・198=62・199=70・200=71）。各キャラ定位置を明示＝**Daru日溜まり/Gabu木陰/Suke-san=Ako-chanの右後ろ/Ruka棚/Dango真ん中**（台帳完全整合）✓。秋→冬（"Autumn slips slowly into winter. ... Frost shines on the grass."）。新家族の形（"A new family is taking shape here."）。④Obia不在へ転調＝"But the family is not quite whole. One friend is still not here."（Ep198へ）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。"turns thin"/"grows warm"=連結で据え置き。"Bit by bit"＝"X by X"慣用（畳語ticではない・許容）。
+  - ✅執筆済み（word_count 274）。Day45（⚠️2026-07-02 再配分：旧Day33→45＝Day26黄葉→真冬までの季節進行を現実的な間隔に広げる。Ch24全体＝193/194=26・195=27・196=28・197=45・198=62・199=70・200=71）。各キャラ定位置を明示＝**Dalu日溜まり/Gabu木陰/Suke-san=Ako-chanの右後ろ/Luca棚/Dango真ん中**（台帳完全整合）✓。秋→冬（"Autumn slips slowly into winter. ... Frost shines on the grass."）。新家族の形（"A new family is taking shape here."）。④Obia不在へ転調＝"But the family is not quite whole. One friend is still not here."（Ep198へ）。🔧レビュー：flat副詞 "glows soft"→"glows softly"。"turns thin"/"grows warm"=連結で据え置き。"Bit by bit"＝"X by X"慣用（畳語ticではない・許容）。
 - **Ep198「The Empty Garden」**：Obiaのいない庭。かつてObiaがいた場所——夜の見張りの位置、Ako-chanの隣、古い小屋のそば。誰も埋めない。動物も避けて通る。Ako-chanはときどき見つめる。
   - モード：感情・不在。③：空いた一角、何も置かれない地面、冬の薄い光、漂う不在。④：旅は終わった。でも、Obiaは、戻らない。
   - 確定：Obiaの定位置（S1＝**小屋のそば・夜の見張り・Ako-chanの隣**）。⚠️Obia=名前/it・"the silver one"不使用。冬。
-  - ✅執筆済み（word_count 272）。Day62（⚠️2026-07-02 再配分：旧Day40→62＝真冬 "Winter comes fully" を黄葉Day26から約5週後に置く）。⚠️**Obia=名前＋"it" 厳守・"the silver one"/"him/his"なし**＝"Obia used to stand by the old shed. At night, it watched over the quiet garden. It stayed close beside Ako-chan, always near."✓（S1定位置＝小屋のそば・夜の見張り・隣）。Ako-chanがまだ青い光を探す（"For a moment, she waits for the blue glow. ... Then she remembers. Obia is gone now."）。**動物も避けて通る**＝"Dango walks wide around that ground. ... Suke-san passes by it without a sound. Even Daru's quick Pod slows down there."✓。三連 "thin and pale and grey"（1話1回）。④"But Obia did not come back. That one place stays empty in the cold."。flat副詞 "grows flat"(連結)/"walks wide"(許容)/"stays still"(連結+許容)＝据え置き。⚠️首輪/S3 leakなし。
+  - ✅執筆済み（word_count 272）。Day62（⚠️2026-07-02 再配分：旧Day40→62＝真冬 "Winter comes fully" を黄葉Day26から約5週後に置く）。⚠️**Obia=名前＋"it" 厳守・"the silver one"/"him/his"なし**＝"Obia used to stand by the old shed. At night, it watched over the quiet garden. It stayed close beside Ako-chan, always near."✓（S1定位置＝小屋のそば・夜の見張り・隣）。Ako-chanがまだ青い光を探す（"For a moment, she waits for the blue glow. ... Then she remembers. Obia is gone now."）。**動物も避けて通る**＝"Dango walks wide around that ground. ... Suke-san passes by it without a sound. Even Dalu's quick Pod slows down there."✓。三連 "thin and pale and grey"（1話1回）。④"But Obia did not come back. That one place stays empty in the cold."。flat副詞 "grows flat"(連結)/"walks wide"(許容)/"stays still"(連結+許容)＝据え置き。⚠️首輪/S3 leakなし。
 - **Ep199「Obia—」**：ある夜、Ako-chanが赤い日記帳を開く。3年ぶりに。最初のページ＝旅立ちの日の *"I have to go."*（S1 Ep5・4語）。新しいページを開きペンを取る。書いたのは一つの名前だけ——「Obia—」。その先は続かない。言葉が見つからない。
   - モード：感情・クライマックス（**1語/名前タイトル例外**）。③：ランプの光、赤い表紙、たった一行、止まったペン、夜の静けさ。④：Ako-chanはその名前を、ただ見つめている。
   - 確定：⚠️**"I have to go." 逐語4語**。⚠️**"Obia—" の続きは書かない**（S3橋渡し）。"Obia—"＝名前＋em-dash（trail off・続かない）。S1 Ep5/Ep100の日記モチーフ。
   - ✅執筆済み（word_count 270＝floor）。Day70（⚠️2026-07-02 再配分：旧Day45→70）。1語/名前タイトル例外。夜・机・ランプ・赤い日記帳（S1 Ep100の構図エコー："The lamp hums low in the quiet room."）。⚠️**"I have to go." 逐語＝"Four small words."**✓（4語・"three words"誤りなし）。⚠️**"Obia—" を書いて止まる・続けない**＝"Then she writes. Just one word. A name. 'Obia—' The pen stops there. No more words come." ＋ "After it, there is only a long dash. She wants to write more. But the words will not come."✓（S3橋渡し）。Obia=名前（him/his・silver oneなし）。④"She looks at it for a long, long time."。🔧レビュー：since+単純過去の非整合 "happened since that night"→"happened after that night"（現在完了禁止ゆえ after で整合）。三連 "white and empty and new"（1話1回）。⚠️語数floor（270）。
-- **Ep200「The Red Notebook」**：別の夜、Ako-chanが赤い日記帳を最初から読み返す。そばにDango・Suke-san・Daru・Gabu・Ruka。一匹ずつ、名前を呼ばれたようにそっと顔を上げる。回顧（I have to go.→クロアチアのDaru→砂漠のGabu→船を直したSuke-san→南極の吹雪とObiaの告白→飛行艇→三つの声→Obiaを見送った日）。最後のページ「Obia—」その先はまだ白い。家族はここにみんないる。ただ一人をのぞいて。
+- **Ep200「The Red Notebook」**：別の夜、Ako-chanが赤い日記帳を最初から読み返す。そばにDango・Suke-san・Dalu・Gabu・Luca。一匹ずつ、名前を呼ばれたようにそっと顔を上げる。回顧（I have to go.→クロアチアのDalu→砂漠のGabu→船を直したSuke-san→南極の吹雪とObiaの告白→飛行艇→三つの声→Obiaを見送った日）。最後のページ「Obia—」その先はまだ白い。家族はここにみんないる。ただ一人をのぞいて。
   - モード：感情・回顧（**章クローザー＝S2前半完結・S1 Ep100/S3 Ep300同題**）。③：ランプの光、めくられるページ、寄り添う動物たち、よみがえる声と顔、最後の白い余白。④章クローザー：旅は、Ako-chanの中にすべて在る。物語は、ここでいったん満ちる。最後の一行だけが、続きを待っている。
   - 確定（章末リンク・S2末）：next_ep は空欄（**S2最終話**＝S3 Ep201へは繋がない／S3執筆時に判断）。⚠️**回顧でS3秘密に触れない**（首輪正体/ループ/未来正体/Ep1の目）。⚠️**"Obia—"の続きは白いまま**。S1 Ep100の構図（夜/机/ランプ/読み返す）を踏襲・進化（**Obia不在**・**全行程は記憶に甦る＝日記の実記入は2箇所のみ・他は白紙／「自分のページ」は不可**）。回顧の各場面は描写名・既出表現で（マイオラニア="the giant shell/ancient one"）。
-  - ✅執筆済み（word_count 287・**S2最終話**）。Day71（⚠️2026-07-02 再配分：旧Day46→71＝S2最終日。S3はDay1リセットのため下流に影響なし）。S1 Ep100と同題＝最終話モチーフ。**進化＝今回は独りでない**（"But tonight she is not alone."＝家族が寄り集まる）。⚠️**回顧順序を逐語実装**＝"I have to go."→Daru(クロアチアの岩)→Gabu(砂漠)→Suke-san(日本で船を直す)→南極の嵐とObiaの告白("Obia spoke at last")→飛行艇→三つの声("The wolves in the snow. The gentle birds. The giant shell, deep in the ice."＝**描写名・Maiolania不使用**)→Obiaを見送った日✓。⚠️**ページは白く記憶が旅を再生するフレームに調整（2026-07-02）**＝"The pages are white, but the memories are not."／Daruの反応は "Daru lifts his head, as if he hears his name."（旧 "at his own page" を撤回＝各キャラの「自分のページ」含意を除去・日記の実記入は2箇所のみ）／"The pages turn to the cold white south."→"Her memory moves to the cold white south."／"The whole long journey lives in this book."→"...lives in her still."。⚠️**"Obia—" は白いまま**＝"After it, the page is still white. She did not write more, not yet."✓。⚠️**S3秘密(首輪/ループ/未来正体/Ep1の目)leakなし**✓・**next_ep 空欄(S2末)**✓。④S2前半完結＝"The story is full tonight. ... All but one. ... Only the last line waits for more."（最後の一行だけが続きを待つ）。Obia=名前。🔧レビュー：flat副詞 "glows soft and warm"→"glows, soft and warm"。"one by one"=X by X慣用（許容・章内で step/bit/one by one が3回＝以降は変奏推奨）。
+  - ✅執筆済み（word_count 287・**S2最終話**）。Day71（⚠️2026-07-02 再配分：旧Day46→71＝S2最終日。S3はDay1リセットのため下流に影響なし）。S1 Ep100と同題＝最終話モチーフ。**進化＝今回は独りでない**（"But tonight she is not alone."＝家族が寄り集まる）。⚠️**回顧順序を逐語実装**＝"I have to go."→Dalu(クロアチアの岩)→Gabu(砂漠)→Suke-san(日本で船を直す)→南極の嵐とObiaの告白("Obia spoke at last")→飛行艇→三つの声("The wolves in the snow. The gentle birds. The giant shell, deep in the ice."＝**描写名・Maiolania不使用**)→Obiaを見送った日✓。⚠️**ページは白く記憶が旅を再生するフレームに調整（2026-07-02）**＝"The pages are white, but the memories are not."／Daluの反応は "Dalu lifts his head, as if he hears his name."（旧 "at his own page" を撤回＝各キャラの「自分のページ」含意を除去・日記の実記入は2箇所のみ）／"The pages turn to the cold white south."→"Her memory moves to the cold white south."／"The whole long journey lives in this book."→"...lives in her still."。⚠️**"Obia—" は白いまま**＝"After it, the page is still white. She did not write more, not yet."✓。⚠️**S3秘密(首輪/ループ/未来正体/Ep1の目)leakなし**✓・**next_ep 空欄(S2末)**✓。④S2前半完結＝"The story is full tonight. ... All but one. ... Only the last line waits for more."（最後の一行だけが続きを待つ）。Obia=名前。🔧レビュー：flat副詞 "glows soft and warm"→"glows, soft and warm"。"one by one"=X by X慣用（許容・章内で step/bit/one by one が3回＝以降は変奏推奨）。
 
 <!-- Ch24 足場（Phase A）。執筆後に各Epへ ✅執筆済み（word_count・確定台詞・🔧レビュー適用）を追記する。S2完結章。 -->
 
@@ -1571,13 +1571,13 @@
 ## Chapter 25「The Quiet Years」— イギリス・日常（Ep201〜210・10話・S3開幕章）
 
 **Ch25 共通**
-- ★**S3開幕＝S2末から約7年後の静かな日常**。Ako-chanは大人（20〜21歳・⚠️年齢は地の文で明言しない＝§5「描かない」）。Dangoは老い（口元に白）が**まだ隣にいる**。Daru/Gabu/Suke-san/Rukaとの穏やかな暮らし。**異変はもうない**（Obiaが扉を閉じた＝S2末）。動物の声は穏やか。物語の舞台＝近所の公園を導入（Ep209-210）。章クローザーで少年の人影（次章への助走）。
+- ★**S3開幕＝S2末から約7年後の静かな日常**。Ako-chanは大人（20〜21歳・⚠️年齢は地の文で明言しない＝§5「描かない」）。Dangoは老い（口元に白）が**まだ隣にいる**。Dalu/Gabu/Suke-san/Lucaとの穏やかな暮らし。**異変はもうない**（Obiaが扉を閉じた＝S2末）。動物の声は穏やか。物語の舞台＝近所の公園を導入（Ep209-210）。章クローザーで少年の人影（次章への助走）。
 - ★**7年の時間跳び＝明示（ユーザー選択 2026-06-27）**：*"Seven years have passed."* 型で年数をはっきり書く（**現在完了形の解禁ショーケース**）。Ep201で提示。Dangoの白い口元・大人になったAko-chanで体感も補強。
 - ★**不在の相棒＝極小参照／空席で語る（ユーザー選択 2026-06-27）**：名前禁止下で、**名前もエピテット（"the silver one/their old friend"等）も "it" も前景化しない**。**空いた場所・消えた青い光（blue glow）・誰も座らない位置・動物が避けて通る所**で「不在そのもの」を描く。⚠️[[obia-absence-name-over-pronoun]]はS2向け（名前で綴る）だが**S3は名前不可ゆえ方針転換＝物（空間）で示す**。Ep207「The Empty Place」が核。※**例外＝日記（Ep204）のみ "Obia—" を綴る**。
-- ★**3匹のリクガメの「現在」（Ep203）**：Daru/Gabu/Rukaは7年で**ほぼ同じ大きさ（甲長15cm弱）に育ち、ぱっと見では見分けがつかない**。違いは①甲羅の模様（Daru＝黄×黒コントラスト強／Gabu＝黄＋各甲板中央の黒斑／Ruka＝網目状の黒・頭側面に黄色い丸斑）②動き方（Daru＝全力→高速／Gabu＝一定リズム→安定／Ruka＝ゆっくり止まりながら）。⚠️**S2の「Ruka最小5cm」「先輩逆転」は決着済み（Ch24）＝S3では3匹同サイズ**（ledger C更新）。
+- ★**3匹のリクガメの「現在」（Ep203）**：Dalu/Gabu/Lucaは7年で**ほぼ同じ大きさ（甲長15cm弱）に育ち、ぱっと見では見分けがつかない**。違いは①甲羅の模様（Dalu＝黄×黒コントラスト強／Gabu＝黄＋各甲板中央の黒斑／Luca＝網目状の黒・頭側面に黄色い丸斑）②動き方（Dalu＝全力→高速／Gabu＝一定リズム→安定／Luca＝ゆっくり止まりながら）。⚠️**S2の「Luca最小5cm」「先輩逆転」は決着済み（Ch24）＝S3では3匹同サイズ**（ledger C更新）。
 - ★**Suke-sanの変化**：警戒（S1）→見守り（S3）。鋭さは消え、穏やかな見張りに。それでも何かを待っている（Ep206・自分でも分からないまま＝空席への視線）。
-- ★**回想（再話）回＝多読の上位レベル再読**：Ep205（雨→S1の大嵐とクジラの声）／Ep208（Ruka→S2プーリアE p103の淡い接続）。⚠️**回想内でも名前禁止・S3秘密leakなし**。A2-B1で短く再話・知覚と所作で再構成（"説明"で埋めない）。
-- 語り規約：Obia＝不在（名前/epithet/it を前景化しない・空席で語る・"the silver one"不使用）／**日記のみ "Obia—"**／Dango＝引用なし（所作・老い＝白い口元）／Suke-san＝Ako-chanの右後ろ（定位置・🔒1台詞のみ）／Daru＝引用あり／Gabu＝短い台詞／Ruka＝she（基本所作・稀に短い台詞）／Pen-san・General Adelie・Obia＝登場しない（南極/未来）。一行＝**6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod（赤=Daru・青=Gabu・黄=Ruka）。**人数の逓増逓減なし（章を通じて固定）**。
+- ★**回想（再話）回＝多読の上位レベル再読**：Ep205（雨→S1の大嵐とクジラの声）／Ep208（Luca→S2プーリアE p103の淡い接続）。⚠️**回想内でも名前禁止・S3秘密leakなし**。A2-B1で短く再話・知覚と所作で再構成（"説明"で埋めない）。
+- 語り規約：Obia＝不在（名前/epithet/it を前景化しない・空席で語る・"the silver one"不使用）／**日記のみ "Obia—"**／Dango＝引用なし（所作・老い＝白い口元）／Suke-san＝Ako-chanの右後ろ（定位置・🔒1台詞のみ）／Dalu＝引用あり／Gabu＝短い台詞／Luca＝she（基本所作・稀に短い台詞）／Pen-san・General Adelie・Obia＝登場しない（南極/未来）。一行＝**6**（Ako-chan・Dango・Suke-san・Dalu・Gabu・Luca）＋3Pod（赤=Dalu・青=Gabu・黄=Luca）。**人数の逓増逓減なし（章を通じて固定）**。
 - Day割付：**S3も季開幕＝Day1から数え直す**（S1/S2同様"季の開幕＝Day 1"・timeline L765準拠）。7年の経過は**Ep201の地の文**（"Seven years have passed."）で示し、日数では管理しない（"説明しない"方針・非減少・loose）。Ch25＝**Day1〜10（loose）**＝家/庭の日々→日記の夜→公園導入。
 
 ### Day 1〜2 — 庭の静かな日々・日記
@@ -1585,20 +1585,20 @@
   - モード：静・観察。③：朝の光、紅茶の湯気、濡れた芝、遠くの鳥の声。④：この静けさにまだ慣れていない自分に気づく。
   - 確定：**S3開幕**。7年明示（現在完了）。年齢は数値で言わない（"grown"等）。Dango＝老い（白い口元）＋まだ隣に。⚠️Obia不在を明言しすぎない（Ep204/207へ温存）。
   - ✅執筆済み（word_count 278）。Day1。**7年明示＝"Seven years have passed since the long journey ended."**（現在完了showcase）✓。Dango＝老犬ステージ（"His muzzle has turned white around the edges. He is older now, and a little slower. He sleeps more in the daytime than before. But he is still here..."＝**感傷を抑え軽く**・🔧レビューで decline 4文→3文へトリム）。異変なし（"Nothing pulls at the air."＝"pull"モチーフ）。④不在を名指さず＝"Some part of her still waits, soft and small. She does not know what for."（Ep206 Suke-sanの「待つ」と対）✓。🔧レビュー：①"seven years"×2→1／②"still"×4→2（"frost still clings"→"frost lingers"・"tail still thumps"→"tail thumps"）／③ Dango decline トリム＋"A car passes on the far road"で語数中立調整（277→278）。三連 "settled and slow and safe"（1話1回）。
-- **Ep202「The Same Garden」**：庭と動物たちの定位置を描く一日。Daru＝日溜まりの石／Gabu＝木陰／Suke-san＝Ako-chanの少し後ろ／Ruka＝玄関わきの棚の上。何も起きない静けさの価値。
+- **Ep202「The Same Garden」**：庭と動物たちの定位置を描く一日。Dalu＝日溜まりの石／Gabu＝木陰／Suke-san＝Ako-chanの少し後ろ／Luca＝玄関わきの棚の上。何も起きない静けさの価値。
   - モード：静・観察。③：季節の光の角度、葉を揺らす風、土と草の匂い、各体の重さと位置。④：「何も起きなさ」こそが大切だと静かに伝える。
   - 確定：定位置（台帳B整合）。同居キャラは"静の存在"として置く（動かさない）。
-  - ✅執筆済み（word_count 282）。Day1。定位置を明示＝**Daru日溜まりの石/Gabu木陰/Suke-san=Ako-chanの右後ろ/Ruka棚/Dango真ん中**（台帳B完全整合）✓。異変収束を過去形で回収＝"For years, there was a pull that never stopped. ... Now there is only this."（"pull"モチーフ・Ep201と連結）。④モードの核＝"The quiet is not empty. It is full."✓。三連/畳語なし。⚠️quiet×3（register・据え置き）。
-- **Ep203「Each of Them」**：成体になった4匹の「現在」を一匹ずつ。Daru＝先に動くが落ち着いた／Gabu＝静けさが深まる／Suke-san＝見張り→見守り／3匹のリクガメは同サイズ（甲長15cm弱）で見分けは模様と動き。
+  - ✅執筆済み（word_count 282）。Day1。定位置を明示＝**Dalu日溜まりの石/Gabu木陰/Suke-san=Ako-chanの右後ろ/Luca棚/Dango真ん中**（台帳B完全整合）✓。異変収束を過去形で回収＝"For years, there was a pull that never stopped. ... Now there is only this."（"pull"モチーフ・Ep201と連結）。④モードの核＝"The quiet is not empty. It is full."✓。三連/畳語なし。⚠️quiet×3（register・据え置き）。
+- **Ep203「Each of Them」**：成体になった4匹の「現在」を一匹ずつ。Dalu＝先に動くが落ち着いた／Gabu＝静けさが深まる／Suke-san＝見張り→見守り／3匹のリクガメは同サイズ（甲長15cm弱）で見分けは模様と動き。
   - モード：静・観察（点描）。③：3匹の歩き方・速さ・止まり方、Suke-sanの立ち位置。④：7年が各所作に静かに積もる。
   - 確定：**3匹同サイズ・模様/動きで識別**（ledger C・S2先輩逆転は決着済み）。Suke-san＝警戒→見守り。
-  - ✅執筆済み（word_count 280）。Day1。**3匹同サイズ＋模様/動きで識別**を正確に実装＝Daru "bold, deep black on yellow"・先に動く／Gabu "a dark spot on each plate"・"steady, even rhythm"／Ruka "a wide net of black"・"a small yellow spot marks each cheek"・止まりながら（world.md整合）✓。Suke-san "Once he watched the world with sharp, wary eyes. ... Now his watching has softened into care."（警戒→見守り回収）✓。3Pod glow 赤青黄。🔧レビュー：①"seven years"×2→1（④"The years sit quietly in each small body."）／③論理段差解消＝"To a stranger's eye, they look almost the same now"（他人には同じ・Ako-chanは識別可、で主体分離）。語数中立調整（276→280）。
+  - ✅執筆済み（word_count 280）。Day1。**3匹同サイズ＋模様/動きで識別**を正確に実装＝Dalu "bold, deep black on yellow"・先に動く／Gabu "a dark spot on each plate"・"steady, even rhythm"／Luca "a wide net of black"・"a small yellow spot marks each cheek"・止まりながら（world.md整合）✓。Suke-san "Once he watched the world with sharp, wary eyes. ... Now his watching has softened into care."（警戒→見守り回収）✓。3Pod glow 赤青黄。🔧レビュー：①"seven years"×2→1（④"The years sit quietly in each small body."）／③論理段差解消＝"To a stranger's eye, they look almost the same now"（他人には同じ・Ako-chanは識別可、で主体分離）。語数中立調整（276→280）。
 - **Ep204「The Last Line」**（Ako-chan POV）：夜、Ako-chanが赤い日記帳を開く。最後の行は **"Obia—"** で止まったまま（7年）。ペンを持つが書けない。
   - モード：感情・静。③：ランプの光、赤い表紙、乾いた古いインク、暗い庭。④：日記を閉じる。漂う不在。
   - 確定：⚠️**"Obia" の名は日記の中だけに現れる例外**（S3唯一の名前許容文脈）。⚠️**続きは書かない**（Ep300で続く＝三段日記）。⚠️首輪/S3秘密leakなし。
   - ✅執筆済み（word_count 274）。Day2。夜・机・ランプ・赤い日記帳。最後の行 **"Obia—"**（名前の唯一例外）＝"One name, and a long dash after it. 'Obia—'"・書けない（"She has never found the words to follow it."）✓。最初の行は名指さず示唆＝"The first words."（"I have to go."は引用せず）。**「空席で語る」決定が機能**＝④"Something is missing from the sleeping house. She feels it near her, soft and close."（ロボットを名前/epithet/itで指さず不在を外在化）✓。Dango＝引用なし所作のみ（"lifts his head ... He does not understand her stillness. Then he settles his head back down."）✓。⚠️首輪/ループ/未来/Ep1の目 leakなし✓。🔧レビュー：①"seven years"×2→1（"They have not come in all that time."）／②"quiet house"→"sleeping house"（冒頭"the house is asleep"と呼応・quiet×3→2）。word_count中立（274据え置き）。
 
-### Day 3〜5 — 回想・見守り・不在・Ruka
+### Day 3〜5 — 回想・見守り・不在・Luca
 - ★**【次バッチ Ep205-210 への申し送り】"seven years" モチーフ予算**：Ch25で既に Ep201/203/204 に各1回配置済み（章で十分効いている）。**Ep205-210 では原則 "seven years" を使わない**（重複回避）。同様に register 語（quiet/still/soft/calm）も1話内で近接3回以上は変奏する。
 - **Ep205「A Quiet Day」**（回想／Ako-chan POV）：何気ない所作/音がS1/S2の記憶を呼ぶ。例＝窓を打つ雨→S1の大嵐と船を守ったクジラの声。A2-B1で短く再話（上位レベル再読）。
   - モード：静・回想。③：窓の雨、暖かい部屋、今の静けさと記憶の轟音の対比。④：記憶は痛くない。ただ静かに在る。
@@ -1612,17 +1612,17 @@
 - **Ep207「The Empty Place」**：かつて相棒がいた場所——庭の隅・Ako-chanの隣・夜の見張りの位置（S1定位置）。誰も埋めない。動物も避けて通る。
   - モード：感情・不在（**章の核＝極小参照／空席で語る**）。③：空いた空間、何も置かれない地面、光の当たり方、風の通り道、消えた青い光（blue glow）。④：不在が形を持って残っている。
   - 確定：⚠️**名前/epithet/it を前景化しない＝空席・blue glowの不在・誰も座らない位置で描く**（ユーザー選択）。S1定位置＝小屋のそば・夜の見張り・隣（Ep198の**構図**を継ぐが**S3は名前不可**・⚠️**文面はEp198と逐語重複させない**＝経年質感で書き分け・2026-07-02）。⚠️首輪は出さない。
-  - ✅執筆済み（word_count 298）。Day5。**章の核＝「空席で語る」決定の実装が見事**。S1定位置（小屋の隅・夜の見張り・Ako-chanの隣）を**消えた青い光（blue glow）を媒介**に描く＝"On dark nights, a pale blue glow shone there. ... But no glow rises in that corner now."（名前/epithet/ロボット指示の"it"を前景化しない）✓。動物が避ける所作＝もう考えずに避ける習慣（"By now, they move around it without a thought. Their feet simply know the shape to avoid."）＋Dango/Suke-san/Ruka。④**不在の形象化**＝"The absence has a shape of its own now. It waits there, quiet, where the glow used to be."✓。⚠️首輪/S3秘密leakなし✓。⚠️**2026-07-02 重複解消**：S2 Ep198「The Empty Garden」（不在の初出＝正）と冒頭段落・動物回避4文がほぼ逐語一致していたため、**Ep207側を「不在が風景になった7年後」のB1質感に書き分け**＝冒頭を経年ディテール（"the ground has stayed bare for years"／霜が同じ形をなぞる）へ、動物回避を「習慣化＝考えずに避ける」へ変奏（Ep198は据え置き）。B1で現在完了使用可。word_count 274→298（B1レンジ内）。🔧旧レビュー：cold×5→3・quiet×4→3。
-- **Ep208「Ruka in the Sun」**：Rukaの静けさ。日溜まりをゆっくり横切り、止まり、また動く。今はDaru/Gabuと同サイズ。Ako-chanがプーリアの白い石壁を思い出しかける（S2 Ep103への淡い接続）。
-  - モード：静・観察。③：日向の暖かさ、甲羅に当たる光、Rukaのゆっくりした足、止まる時間の長さ。④：積み重なった時間がRukaの静けさに宿る。
-  - 確定：Ruka＝she・同サイズ。⚠️**プーリア（Ep103）は淡い回想に留める**（深追いしない）。先輩逆転は再説明しない（決着済み）。
-  - ✅執筆済み（word_count 275）。Day5。Rukaの静けさ＋同サイズ（"She is as large as Daru and Gabu now."）。プーリア淡い回想＝"she remembers white stone walls. A dry, warm wind. A small tortoise in the sun. ... Then it fades."（S2 Ep103・深追いせず）✓。現在完了showcase＝"So much time has passed since that first day."。④**basking姿勢＝"She stretches her legs out, loose and easy."**（[[tortoise-resting-posture]]＝くつろぎは四肢を伸ばす・引っ込めない／ユーザー指摘で修正済み）✓。🔧レビュー：warm×4→3（"warm light"→"bright light"）／"for a long time"→"for a long while"（Ep209との重複回避）。
+  - ✅執筆済み（word_count 298）。Day5。**章の核＝「空席で語る」決定の実装が見事**。S1定位置（小屋の隅・夜の見張り・Ako-chanの隣）を**消えた青い光（blue glow）を媒介**に描く＝"On dark nights, a pale blue glow shone there. ... But no glow rises in that corner now."（名前/epithet/ロボット指示の"it"を前景化しない）✓。動物が避ける所作＝もう考えずに避ける習慣（"By now, they move around it without a thought. Their feet simply know the shape to avoid."）＋Dango/Suke-san/Luca。④**不在の形象化**＝"The absence has a shape of its own now. It waits there, quiet, where the glow used to be."✓。⚠️首輪/S3秘密leakなし✓。⚠️**2026-07-02 重複解消**：S2 Ep198「The Empty Garden」（不在の初出＝正）と冒頭段落・動物回避4文がほぼ逐語一致していたため、**Ep207側を「不在が風景になった7年後」のB1質感に書き分け**＝冒頭を経年ディテール（"the ground has stayed bare for years"／霜が同じ形をなぞる）へ、動物回避を「習慣化＝考えずに避ける」へ変奏（Ep198は据え置き）。B1で現在完了使用可。word_count 274→298（B1レンジ内）。🔧旧レビュー：cold×5→3・quiet×4→3。
+- **Ep208「Luca in the Sun」**：Lucaの静けさ。日溜まりをゆっくり横切り、止まり、また動く。今はDalu/Gabuと同サイズ。Ako-chanがプーリアの白い石壁を思い出しかける（S2 Ep103への淡い接続）。
+  - モード：静・観察。③：日向の暖かさ、甲羅に当たる光、Lucaのゆっくりした足、止まる時間の長さ。④：積み重なった時間がLucaの静けさに宿る。
+  - 確定：Luca＝she・同サイズ。⚠️**プーリア（Ep103）は淡い回想に留める**（深追いしない）。先輩逆転は再説明しない（決着済み）。
+  - ✅執筆済み（word_count 275）。Day5。Lucaの静けさ＋同サイズ（"She is as large as Dalu and Gabu now."）。プーリア淡い回想＝"she remembers white stone walls. A dry, warm wind. A small tortoise in the sun. ... Then it fades."（S2 Ep103・深追いせず）✓。現在完了showcase＝"So much time has passed since that first day."。④**basking姿勢＝"She stretches her legs out, loose and easy."**（[[tortoise-resting-posture]]＝くつろぎは四肢を伸ばす・引っ込めない／ユーザー指摘で修正済み）✓。🔧レビュー：warm×4→3（"warm light"→"bright light"）／"for a long time"→"for a long while"（Ep209との重複回避）。
 
 ### Day 7〜9 — 公園の導入（次章への助走）
 - **Ep209「The Park」**：Ako-chanが動物たちを近くの公園へ連れていく（舞台導入）。緑・ベンチ・木立・遠くの人々。Dango先頭／Suke-san後ろ／3匹はそれぞれのPod（赤青黄）で進む。
   - モード：動・観察（場の導入）。③：公園の広さ、芝の匂い、子どもの声、木漏れ日、3つのPodの発光（赤・青・黄）。④：ベンチに座ると皆が各々の場所に落ち着く。ここがこれからの場所になる。
-  - 確定：3Pod並走＝赤(Daru)・青(Gabu)・黄(Ruka)（ledger C）。Suke-san定位置。⚠️少年はまだ出さない（Ep210章末で人影）。
-  - ✅執筆済み（word_count 276）。Day7。**舞台＝公園を導入**。隊列＝Dango前/Suke-san後/3Pod中央（"Daru's glows red, quick and eager. Gabu's glows blue, steady and even. Ruka's glows yellow, slow and calm."＝色×性格 完全整合）✓。"A few people turn to look"で人の気配導入。三連 "wide and green and open"（1話1回・S2 Ep194 "wide and green and wet"の近縁だが別話で可）。⚠️少年は未登場（Ep210へ）✓。🔧レビュー：softly×3→2（"crunch softly"→"crackle"）／easy×3→2（"slow, easy breath"→"slow, deep breath"）／calm×3→2（"calm and open"→"still and open"）。
+  - 確定：3Pod並走＝赤(Dalu)・青(Gabu)・黄(Luca)（ledger C）。Suke-san定位置。⚠️少年はまだ出さない（Ep210章末で人影）。
+  - ✅執筆済み（word_count 276）。Day7。**舞台＝公園を導入**。隊列＝Dango前/Suke-san後/3Pod中央（"Dalu's glows red, quick and eager. Gabu's glows blue, steady and even. Luca's glows yellow, slow and calm."＝色×性格 完全整合）✓。"A few people turn to look"で人の気配導入。三連 "wide and green and open"（1話1回・S2 Ep194 "wide and green and wet"の近縁だが別話で可）。⚠️少年は未登場（Ep210へ）✓。🔧レビュー：softly×3→2（"crunch softly"→"crackle"）／easy×3→2（"slow, easy breath"→"slow, deep breath"）／calm×3→2（"calm and open"→"still and open"）。
 - **Ep210「Just a Walk」**：公園の日課が定着する数日を軽いテクスチャーで。同じベンチ・木立・時間。特別なことは起きない。**章クローザー＝公園の向こうに少年の人影**（次章Grey and Redへの助走）。
   - モード：静・観察（章クローザー）。③：日ごとに変わる空の色、葉の落ち方、ベンチの木の感触。④章クローザー：いつもの午後。だが公園の向こうに、ひとりの人影が立っている——少年だ。
   - 確定：⚠️**少年＝人影のみ（接触/視点なし）**。相貌失認・赤い光はCh26で開始。章末リンク：next_ep＝/season3/chapter26/ep211/（Ch26 Ep211執筆時に相互リンク）。
@@ -1643,7 +1643,7 @@
 - ★**少年は台詞を持たない（Ch26）**：誰にも言わない（Ep211）・ひとり。**少年の発話はゼロ**（POV内面のみ）。台詞があるのは動物（Ep216 Suke-san🔒）。Ako-chanは**少年に声をかけない**（初接触＝Ch27 Ep224）。⚠️**Ch26で少年とAko-chanは交流しない**（Ako-chanは公園にいるが少年を見ない＝Ep216④）。
 - ★**種への判断は出さない**：少年の「人類への判断」はCh28で揺らぎ始める＝**Ch26では伏せる**（孤独・観察・"なぜ赤だけ"の問いまで）。s3.md「描かずに残す：少年の判断の具体」。
 - ⚠️**季節整合**：Ch25末＝冬（霜・最後の落ち葉・裸木）。**Ch26は冬の継続〜深まり**。⚠️episode-list Ep217の「秋へ傾く光」は**Ch25確定前の旧表記＝冬に置換**（裸木の公園・カラス/リス/鴨は冬も在・低い冬の光）。
-- 語り規約：少年＝"the boy"／"he/him"（無名）／**grey=少年POV専用**。動物（Ep216）＝Suke-san🔒・Daru所作・匂い/気配で判断（"no bad feeling"）。Ako-chan（Ep217）＝公園の生き物の声を聴く（みな穏やか・異変なし）。一行＝**6**（Ako-chan・Dango・Suke-san・Daru・Gabu・Ruka）＋3Pod（赤Daru/青Gabu/黄Ruka）＝公園に来る側。**少年は一行に加わらない**（別個の観察者・逓増なし）。
+- 語り規約：少年＝"the boy"／"he/him"（無名）／**grey=少年POV専用**。動物（Ep216）＝Suke-san🔒・Dalu所作・匂い/気配で判断（"no bad feeling"）。Ako-chan（Ep217）＝公園の生き物の声を聴く（みな穏やか・異変なし）。一行＝**6**（Ako-chan・Dango・Suke-san・Dalu・Gabu・Luca）＋3Pod（赤Dalu/青Gabu/黄Luca）＝公園に来る側。**少年は一行に加わらない**（別個の観察者・逓増なし）。
 - Day割付：Ch25末＝Day9。Ch26＝**Day10〜24（loose・冬）**＝少年が日参する数週間（211=10／212=11／213=13＝赤が横切る日／214=14／215=16／216=17／217=18／218=20／219=22／220=24）。⚠️"毎日来る"の時間幅は説明しすぎない。
 
 ### Day 10〜13 — 少年・灰色の世界・赤の出現
@@ -1664,10 +1664,10 @@
 - **Ep215「Every Day」**（少年POV）：毎日来るようになる。赤い光もたいてい来る。それを待っている自分に気づく——でも理由は分からない。
   - モード：静・観察。③：日ごとの空、葉の色、同じベンチ、増える落ち葉、赤い光が現れる時刻。④：灰色の世界に、ひとつだけ待つものができた。
   - 確定：興味の逓増（待つ）。⚠️"why"は答えない（Ep219へ）。
-- **Ep216「Watched in Return」**（動物POV・Ako-chanが小さな声を聴く）：動物たちがベンチの少年に気づく。Suke-sanが鼻を上げる。Daruがちらりと見る。少年は人でなく動物の方をまっすぐ見ている。匂い・気配で違いを感じ取る。Ako-chanがそのやり取りを聴く。
+- **Ep216「Watched in Return」**（動物POV・Ako-chanが小さな声を聴く）：動物たちがベンチの少年に気づく。Suke-sanが鼻を上げる。Daluがちらりと見る。少年は人でなく動物の方をまっすぐ見ている。匂い・気配で違いを感じ取る。Ako-chanがそのやり取りを聴く。
   - 🔒台詞（Suke-san）：*"That one is alone. He watches us. No bad feeling."*（S1のObia評 *"You have no bad feeling in you."* と**同じ判断基準＝匂い/気配**）
   - モード：感情・観察（動物POV）。③：芝の匂い、Suke-sanの耳、Podの中の3匹の動き。④：Ako-chanはまだ少年の方を見ない。
-  - 確定：⚠️**「grey」不使用**（動物の知覚でない）。⚠️**Ako-chanは少年を見ない/交流しない**（Ch27温存）。動物POV＝名前可（Suke-san/Daru/Pod）。🔒逐語。
+  - 確定：⚠️**「grey」不使用**（動物の知覚でない）。⚠️**Ako-chanは少年を見ない/交流しない**（Ch27温存）。動物POV＝名前可（Suke-san/Dalu/Pod）。🔒逐語。
 - **Ep217「Crows and Squirrels」**（Ako-chan POV／テクスチャー）：公園の他の生き物と季節。カラス・リス・鴨。Ako-chanは声を聴く——みな穏やか・異変なし。少年はそれを知らず同じ公園を見ている。聴こえる/聴こえない**二つの世界が並ぶ**。
   - モード：静・観察（変化球・単調回避）。③：⚠️**冬の公園**（裸木・冬の低い光・冷気・冬の鳥）／カラス/リス/鴨の声の重なり。④：同じ公園に二つの世界が静かに並ぶ。
   - 確定：⚠️**季節＝冬**（"秋へ傾く"は使わない）。Ako-chan POV＝動物の声（穏やか）。⚠️異変なし（"ずっと前から"禁止は無関係＝S3は異変収束済み）。⚠️grey不使用（少年POVでない）。
@@ -1703,22 +1703,22 @@
 ## Chapter 27「The First Words」— 公園・接触（Ep221〜230・10話）
 
 **Ch27 共通**
-- ★**接触の章**。Ch26の観察（少年が遠くから赤を見る）から一歩進む＝**動物の方から少年に近づく**（Ruka足元→Suke-san値踏み）→少年が「動物の視線は人間と違う」と気づく→**Ako-chanが初めて声をかける（Ep224＝章題 "The First Words"＝Ako-chanの第一声）**→旅の断片を少し語る→回想（S1/S2再話）→少年が「なぜ自分は待つのか」と問い、絆の"距離"を読み始める（章クローザー＝Ch28観察へ）。
+- ★**接触の章**。Ch26の観察（少年が遠くから赤を見る）から一歩進む＝**動物の方から少年に近づく**（Luca足元→Suke-san値踏み）→少年が「動物の視線は人間と違う」と気づく→**Ako-chanが初めて声をかける（Ep224＝章題 "The First Words"＝Ako-chanの第一声）**→旅の断片を少し語る→回想（S1/S2再話）→少年が「なぜ自分は待つのか」と問い、絆の"距離"を読み始める（章クローザー＝Ch28観察へ）。
 - ★**章題 "The First Words" ＝Ako-chanの第一声（Ep224）**であり、**少年の発話ではない**。⚠️**少年はCh27でも実質 発話ゼロ**（Ep224＝小さく頷くのみ／Ep226＝問い返さない）。**少年の"普通の会話"の初＝Ch30 Ep256**（温存）。少年＝無言の所作＋POV内面。
 - ★**接触の段階（staging）**：動物が先に近づく＝Ako-chanは**Ep221-223では見守るのみ（声をかけない）**→**Ep224で初めて声をかける**。⚠️段階を飛ばさない（Ako-chanの第一声はEp224まで来ない）。
 - ★**少年知覚は継続（Ch26 device）**：顔=灰色／Ako-chan=赤い光（**接近しても顔は見えない・赤は見える**＝Ep224 "声の主の顔はやはり見えない・でも赤い"）。⚠️**接触してもAko-chanの赤の理由は不明のまま**（メガネ/日記に結びつけない）。**grey=少年POV専用**（動物POV221/222・Ako-chan POV/回想225/227/228では不使用）。
 - ★**少年POVの命名（継続）**：少年は名を知らない＝**少年POV回ではキャラ名・"Pod"不使用**（"a little tortoise"／"a small dog"／"a reddish dog"／"glowing carts"／"the red light"）。⚠️Ep224でAko-chanは**名前を名乗らない**（少数語）＝少年は依然 名を知らない。**名前/"Pod"可＝動物POV(221/222)・Ako-chan POV/回想(225/226/227/228)**。
 - ★**回想内のロボット呼称（確定 2026-06-27ユーザー選択）**：Ep227/228の回想で去ったロボットを指すときは **"the one who is gone" / "the friend who left" 型のタイトル由来の描写句**（名前なし・"it"で薄めない・情を保つ）。⚠️**回想ゆえ"空席で語る"は不適**（過去に在って去る存在）＝[[s3-absent-robot-empty-space]]の自然な拡張。Ep228④はpale blue光が消える別れ（S2末・氷・未来へ）。⚠️**"Obia"の名は出さない**（日記の例外はCh27に無し＝回想は名前不可）。
-- ★**Dangoの嫉妬アーク #S3-① 開始（Ep225）**：少年（Ako-chanの新たな"競合"）に対しDangoが**二人の間に体を割り込ませ低く一声うなる**＝S3最初の嫉妬。Ako-chanが*"Dango."*と軽くたしなめる。Rukaは動じない。⚠️**Dango引用台詞なし**（うなり/所作＋Ako-chanの一語）。➡**#②＝Ep253（小屋・より強い）／解消＝Ep259「Dango's Truce」**。
+- ★**Dangoの嫉妬アーク #S3-① 開始（Ep225）**：少年（Ako-chanの新たな"競合"）に対しDangoが**二人の間に体を割り込ませ低く一声うなる**＝S3最初の嫉妬。Ako-chanが*"Dango."*と軽くたしなめる。Lucaは動じない。⚠️**Dango引用台詞なし**（うなり/所作＋Ako-chanの一語）。➡**#②＝Ep253（小屋・より強い）／解消＝Ep259「Dango's Truce」**。
 - ★**🔒台詞**：Ep222 Suke-san *"No bad feeling. But I will watch."*（**S1 Obia評 "You have no bad feeling in you." と同じ匂い/気配の判断基準**・S3 Ch26 Ep216 "No bad feeling" の継続）／Ep224 Ako-chan *"This little one likes you."*（「この子、あなたが好きみたい」の英訳・**warm・少数語**・※後続で引用回収されない＝確定default・微調整可）／Ep225 Ako-chan *"Dango."*（たしなめ）。
-- ⚠️**季節＝冬（晩冬）**（Ch25-26から継続）。Ako-chanは動物の声を聴く（穏やか・異変なし）。Ruka=she。
-- 語り規約：少年＝"the boy"/"he/him"（無名・発話ゼロ）／**grey=少年POV専用**／Dango引用なし（うなり/所作）／Suke-san=Ako-chanの右後ろ＋🔒（Ep222）／Daru=回想で引用可（"Let me see!"）／Gabu=短い／Ruka=she・所作。一行＝**6**＋3Pod（公園に来る側）。**少年は一行に未加入**（接触は始まるが"合流"はまだ）。
+- ⚠️**季節＝冬（晩冬）**（Ch25-26から継続）。Ako-chanは動物の声を聴く（穏やか・異変なし）。Luca=she。
+- 語り規約：少年＝"the boy"/"he/him"（無名・発話ゼロ）／**grey=少年POV専用**／Dango引用なし（うなり/所作）／Suke-san=Ako-chanの右後ろ＋🔒（Ep222）／Dalu=回想で引用可（"Let me see!"）／Gabu=短い／Luca=she・所作。一行＝**6**＋3Pod（公園に来る側）。**少年は一行に未加入**（接触は始まるが"合流"はまだ）。
 - Day割付：Ch26末＝Day24。Ch27＝**Day25〜33（loose・晩冬）**＝221=25／222=26／223=27／224=28（Ako第一声）／225=29／226=30／227=30（回想・同日）／228=31（回想）／229=32／230=33。
 
 ### Day 25〜27 — 動物が近づく（接触の始まり・Ako-chanは見守るのみ）
-- **Ep221「At His Feet」**（少年POV主・Rukaの所作）：リクガメの一匹（Ruka）のPodがゆっくり少年の足元まで来て止まる。中から少年を見上げる。少年は動かない——人間以外がこんなに近づいたのは初めて。そっと身をかがめる。
+- **Ep221「At His Feet」**（少年POV主・Lucaの所作）：リクガメの一匹（Luca）のPodがゆっくり少年の足元まで来て止まる。中から少年を見上げる。少年は動かない——人間以外がこんなに近づいたのは初めて。そっと身をかがめる。
   - モード：静・観察（接触）。③：黄色い淡い光、芝の上の影、ゆっくりした瞬き、止まった手。④：少年はそっと身をかがめる。
-  - 確定：⚠️**POVは一貫させる**＝少年POVなら "a little tortoise"（名前/Pod不使用）／動物POVに振るならRuka名可だが grey不使用。⚠️Ako-chanは**まだ声をかけない**（Ep224温存）。Ruka=she。
+  - 確定：⚠️**POVは一貫させる**＝少年POVなら "a little tortoise"（名前/Pod不使用）／動物POVに振るならLuca名可だが grey不使用。⚠️Ako-chanは**まだ声をかけない**（Ep224温存）。Luca=she。
 - **Ep222「The Red-Brown Dog」**（動物POV）：赤茶色の犬（Suke-san）が少年の正面に立ち、しばらくじっと値踏みする。それから静かに離れる。かつての警戒の名残＋新しい興味。
   - 🔒台詞（Suke-san）：*"No bad feeling. But I will watch."*（S1 Obia評 "You have no bad feeling in you." と同基準）
   - モード：感情・観察（動物POV）。③：Suke-sanの立ち方、三角の耳、膝の高さの視線、去る足音。④：少年は、その犬の視線が人間のそれと違うと気づく。
@@ -1729,15 +1729,15 @@
 
 ### Day 28〜31 — Ako-chanの声・旅の断片・回想
 - **Ep224「Her Voice」**（少年POV・Ako-chanの第一声）：赤い光（Ako-chan）が初めて少年に声をかける。*"This little one likes you."* 少数語。少年はどう答えていいか分からない——声の主の顔はやはり見えない、でも赤い。小さく頷く。それが精一杯。
-  - モード：感情（接触の核）。③：近づく赤、声の温度、Rukaの位置、少年の喉の動き。④：少年は小さく頷く。それが精一杯だった。
+  - モード：感情（接触の核）。③：近づく赤、声の温度、Lucaの位置、少年の喉の動き。④：少年は小さく頷く。それが精一杯だった。
   - 確定：🔒Ako-chan *"This little one likes you."*（warm少数語）。⚠️**Ako-chanは名乗らない**（少年は名を知らないまま）。⚠️**接近しても顔=不可視・赤は見える**。少年＝**頷くのみ（発話ゼロ）**。
-- **Ep225「Few Questions」**（Ako-chan POV寄り・中立）：互いに多くを聞かない/語らない。同じベンチの近くにいる。沈黙は気まずくない。**だがDangoが二人の間に体を割り込ませ低く一声うなる（嫉妬#S3-①）**。Ako-chan *"Dango."* と軽くたしなめる。Rukaは動じない。
+- **Ep225「Few Questions」**（Ako-chan POV寄り・中立）：互いに多くを聞かない/語らない。同じベンチの近くにいる。沈黙は気まずくない。**だがDangoが二人の間に体を割り込ませ低く一声うなる（嫉妬#S3-①）**。Ako-chan *"Dango."* と軽くたしなめる。Lucaは動じない。
   - モード：感情・観察。③：割り込むDango、午後の光、Podの淡い光、少年の引いた手。④：何も決まらない。でも明日もここにいるだろうと二人とも感じる。
   - 確定：**Dango嫉妬#S3-①**（Ep259で解消・⚠️引用なし＝うなり/所作）。🔒Ako-chan *"Dango."*。⚠️少年は問い返さない/語らない。
 - **Ep226「A Fragment of a Journey」**（少年POV・Ako-chanの声）：Ako-chanがぽつりと旅を話す＝旅をした/とても遠くまで行った/ずっと一緒にいた誰かがもういない。それ以上は語られない。少年は問い返さない。"もういない誰か"だけが少年に残る。
-  - モード：感情・静。③：声の途切れ、遠くを見る赤い光、冬の風、Rukaの静止。④："もういない誰か"——その言葉だけが少年の中に残る。
+  - モード：感情・静。③：声の途切れ、遠くを見る赤い光、冬の風、Lucaの静止。④："もういない誰か"——その言葉だけが少年の中に残る。
   - 確定：⚠️**ロボットの名前は出さない**（"someone who was always with her" 等）。旅の開示は**この3点まで**（Ep227/228回想へ橋渡し）。
-- **Ep227「Far Away」**（回想／Ako-chan POV）："とても遠くまで行った"→S1の旅の断片がよみがえる＝**white rocks（クロアチア・Daru）／hot red sand（砂漠・Gabu）／green mountain（日本・Suke-san）**（S1 Ep97の回顧テンプレを上位再話）。当時の声＝**Daru "Let me see!"**（S1 Ep18/20）。
+- **Ep227「Far Away」**（回想／Ako-chan POV）："とても遠くまで行った"→S1の旅の断片がよみがえる＝**white rocks（クロアチア・Dalu）／hot red sand（砂漠・Gabu）／green mountain（日本・Suke-san）**（S1 Ep97の回顧テンプレを上位再話）。当時の声＝**Dalu "Let me see!"**（S1 Ep18/20）。
   - モード：静・回想。③：記憶の中の光と今の公園の光の重なり。④：旅は終わった。でもAko-chanの中でまだ続いている。
   - 確定：A2-B1で短く再話（上位レベル再読）。⚠️**ロボットは周縁**（場所/動物中心）＝もし触れるなら **"the one who is gone"型**（名前なし）。S1 Ep1の「目」は使わない。
 - **Ep228「The One Who Is Gone」**（回想／Ako-chan POV・★ロボット中心）："もういない誰か"→そのロボットが未来へ去った場面（S2末）を回想。**"the one who is gone"/"the friend who left"型の描写句**で指す（名前なし・"it"で薄めない）。pale blue光が消える別れ・氷・未来へ。S2末の静けさをA2-B1再話。
@@ -1748,7 +1748,7 @@
 - **Ep229「Why He Waits」**（少年POV）：少年はAko-chan（赤い光）のことを考える。なぜ彼女は毎日来るのか。なぜ自分はそれを待つのか。初めて**他者に惹かれている自分**に気づく。理由は分からない。
   - モード：静・観察（内省）。③：夜のひとり、窓の外の暗さ、思い出される赤。④：少年は、明日が来るのを初めて待ち遠しく思う。
   - 確定：少年POV＝grey可・名前不使用。**他者への愛着の芽**（Ch28内向きの問いへの布石）。
-- **Ep230「The Space Between」**（少年POV・章クローザー）：少年がAko-chanと動物たちの"距離"を読み始める。Dangoがどれだけ近くを歩くか。犬がどこに立つか。Rukaがどこにいるか。それぞれの距離が何かを語る気がする。
+- **Ep230「The Space Between」**（少年POV・章クローザー）：少年がAko-chanと動物たちの"距離"を読み始める。Dangoがどれだけ近くを歩くか。犬がどこに立つか。Lucaがどこにいるか。それぞれの距離が何かを語る気がする。
   - モード：静・観察（章クローザー）。③：芝の上の配置、それぞれの間隔、午後の光、観察する少年の目。④章クローザー：少年は気づく——この距離には、自分の知らない長い時間がある（Ch28＝観察と問いへ）。
   - 確定：⚠️**距離=観察された具体で示す**（抽象ナレーション回避・writing-guide §7）。少年POV＝名前/Pod不使用（"the small dog"/"the little tortoise"）。章末リンク：next_ep＝/season3/chapter28/ep231/（Ch28 Ep231執筆時に相互リンク）。**章頭 ep221.prev_ep=/season3/chapter26/ep220/／Phase Dで ep220.next_ep=ep221 更新**。
 
@@ -1756,14 +1756,14 @@
 
 **Ch27（Ep221〜230）執筆完了 ✅**（全10話・word_count実測一致＆範囲内 272〜286・最長文≤16語・晩冬で一貫）
 - word_count（Phase C修正後・全話≥270）：221=278／222=276／223=275／224=282／225=285／226=287／227=281／228=271／229=270／230=274。story_day：25/26/27/28/29/30/30/31/32/33（非減少・Day割付通り）。
-- ★**接触アークの段階を遵守**：221（Ruka足元・少年POV）→222（Suke-san値踏み・動物POV）→223（少年が"見られている"と気づく・少年POV）→**224（Ako-chanの第一声・少年は頷くのみ）**→225（沈黙＋Dango嫉妬#①）→226（旅の断片）→227（回想Far Away）→228（回想The One Who Is Gone）→229（なぜ待つ・内省）→230（距離を読む・章クローザー）。**段階の飛び越しなし**（検証済み）。
-- ★**🔒台詞（逐語）**：Ep222 Suke-san *"No bad feeling," he says softly. "But I will watch."*（S1 Obia評と同基準・Ch26 Ep216継続）／Ep224 Ako-chan *"This little one likes you," she says, softly.*（warm少数語・**名乗らない**）／Ep225 Ako-chan *"Dango," says Ako-chan, soft but firm.*（たしなめ）／Ep227 Daru *"Let me see! Let me see!" he cried.*（S1 Ep18/20回想）。⚠️**Dango引用なし**（うなり/所作＝"growls, low. It is one short, deep sound"）。
+- ★**接触アークの段階を遵守**：221（Luca足元・少年POV）→222（Suke-san値踏み・動物POV）→223（少年が"見られている"と気づく・少年POV）→**224（Ako-chanの第一声・少年は頷くのみ）**→225（沈黙＋Dango嫉妬#①）→226（旅の断片）→227（回想Far Away）→228（回想The One Who Is Gone）→229（なぜ待つ・内省）→230（距離を読む・章クローザー）。**段階の飛び越しなし**（検証済み）。
+- ★**🔒台詞（逐語）**：Ep222 Suke-san *"No bad feeling," he says softly. "But I will watch."*（S1 Obia評と同基準・Ch26 Ep216継続）／Ep224 Ako-chan *"This little one likes you," she says, softly.*（warm少数語・**名乗らない**）／Ep225 Ako-chan *"Dango," says Ako-chan, soft but firm.*（たしなめ）／Ep227 Dalu *"Let me see! Let me see!" he cried.*（S1 Ep18/20回想）。⚠️**Dango引用なし**（うなり/所作＝"growls, low. It is one short, deep sound"）。
 - ★**少年＝実質発話ゼロ**（Ep224＝小さく頷く "one small, slow nod"／Ep226＝問い返さない "does not ask her anything back"）。普通の会話の初はCh30 Ep256へ温存。
 - ★**「grey」少年POV専用**：221（grey shapes）・223（grey faces／grey world）・229（always grey）のみ。**動物POV(222)・Ako-chan POV/回想(225/227/228)・少年POV他話(224/226/230)は grey ゼロ**（検証済み）。
-- ★**少年POVの命名遵守**：221/223/224/226/229/230 の地の文に**キャラ名・"Pod"・"Obia"ゼロ**（検証済み）＝Ako-chan="the red light/the red/the glow"／Dango="a small dog"／Suke-san="the reddish dog"／Ruka="the little tortoise"／Pod="glowing cart"。名前・"Pod"可は**動物POV(222)・Ako-chan POV/回想(225/227/228)のみ**。
-- ★**Dango嫉妬アーク #S3-① 開始（Ep225）**：二人の間に体を割り込ませ低く一声うなる→Ako-chan *"Dango."*。Rukaは動じない（"does not stir at all"）。➡#②=Ep253／解消=Ep259。
+- ★**少年POVの命名遵守**：221/223/224/226/229/230 の地の文に**キャラ名・"Pod"・"Obia"ゼロ**（検証済み）＝Ako-chan="the red light/the red/the glow"／Dango="a small dog"／Suke-san="the reddish dog"／Luca="the little tortoise"／Pod="glowing cart"。名前・"Pod"可は**動物POV(222)・Ako-chan POV/回想(225/227/228)のみ**。
+- ★**Dango嫉妬アーク #S3-① 開始（Ep225）**：二人の間に体を割り込ませ低く一声うなる→Ako-chan *"Dango."*。Lucaは動じない（"does not stir at all"）。➡#②=Ep253／解消=Ep259。
 - ★**回想ロボット呼称＝"the friend who left" / "one who is gone"型で一貫**（Ep227周縁＝"one who is gone"／Ep228中心＝"the friend who left"×3＋"the one who is gone"×2・Phase Cで×5→×3に変奏）。**"Obia"不使用・"it"で薄めない**（代名詞回避＝"The pale blue eyes shone"）。Ep228=南極の氷・pale blue光が消える別れ・"going to the future"（S2 Ep185準拠）。④=日記の未完の一行（"One line waits there, unfinished"・**"Obia"の語は出さない**）。⚠️首輪/ループ/未来の正体/Ep1の目 leakなし（検証済み）。
-- ★**回想素材の既出整合**：Ep227＝white rocks(Daru)／hot red sand(Gabu)／green mountain(Suke-san)＝S1 Ep97テンプレの上位再話。Ep228＝S2末別れ（cave of ancient ice・door of white light・pale blue glow fades）。
+- ★**回想素材の既出整合**：Ep227＝white rocks(Dalu)／hot red sand(Gabu)／green mountain(Suke-san)＝S1 Ep97テンプレの上位再話。Ep228＝S2末別れ（cave of ancient ice・door of white light・pale blue glow fades）。
 - 文法：S3解禁の現在完了（has told/have passed/has never 等）・過去進行形（was going/was moving 等）・限定関係詞使用。⚠️**過去完了（had+pp）は起草時に3件混入→全て単純過去に修正済み**（ep222/223/228）。仮定法/分詞構文ゼロ（検証）。"had to go on"=義務の単純過去で可。
 - 表記：三連形容詞=各話1回以内（222/224/228/223各1）。畳語＝"smaller and smaller"（漸増・章内1回）のみ。flat副詞は慣用形のみ（"moves low"＝low可／"grows quiet"＝連結動詞＋形容詞で対象外）。季節＝晩冬で一貫（霜・裸木・冬の風）。
 - リンク：ep221.prev_ep=/season3/chapter26/ep220/／章内連鎖／**ep230.next_ep 空欄**（Ch28 Ep231で相互リンク）。**Phase D で ep220.next_ep=ep221 を更新**。s3_titles[2]="The First Words"（episodes.md L58 確認済み）。
@@ -1776,15 +1776,15 @@
 
 **Ch28 共通**
 - ★**最も抽象/テーマ的な章**。接触（Ch27）の次＝**少年が Ako-chan と動物たちの"距離"を読み始める**→「始まりが見えない」（Ep235）→**問いが外向き→内向きへ転換**（Ep237 "なぜ自分はここにいるのか"）→**人類という種への判断が揺れ始める**（Ep238-239）→**自分に"作るべきもの"があると気づく**（Ep240章クローザー＝Ch29 制作へ）。
-- ★**T12対策＝最重要（writing-guide §7）**：相貌失認・「種への判断」「内への問い」等の抽象を**直接ナレーションしない**。**観察された具体行動・知覚に置換**（Dangoの歩幅・Suke-sanの角度・Rukaの位置＝"距離"そのものを描く）。少年が「見たもの」だけで示す。
+- ★**T12対策＝最重要（writing-guide §7）**：相貌失認・「種への判断」「内への問い」等の抽象を**直接ナレーションしない**。**観察された具体行動・知覚に置換**（Dangoの歩幅・Suke-sanの角度・Lucaの位置＝"距離"そのものを描く）。少年が「見たもの」だけで示す。
 - ★**少年の人間観のトーン（確定 2026-06-27ユーザー選択＝"静かな冷ややかさが揺らぐ"）**：少年は人を**"灰色の塊・dull mass・all the same・meaning nothing"** として**冷ややかに切り捨ててきた**（"never worth his eyes" / "for years he looked past them"）→それが赤い光と動物で揺らぐ。⚠️**判断の"具体"は描かない**（s3.md）／⚠️**断罪の負の動機はCh31 Ep271まで伏せる**（Ep240の"もう一つの動機"は**形にならないまま**）。内向きの問いも重め＝"What is he, among all the grey? Why is he here at all?"
 - ★⚠️**文法ガード（このトーン特有）**：「これまで（過去）の人間観」を語るが**過去完了（had+pp）禁止**。**単純過去 / 現在完了 / "For years…"構文で綴る**（×"he had judged them" → ○"For years, they meant nothing to him." / "He has looked past them all his life."）。
-- ★**少年知覚（継続）**：顔=灰色／Ako-chan=赤い光（赤の理由は不明）。**grey=少年POV専用**（回想232・動物POV236では不使用）。**少年POV回はキャラ名・"Pod"不使用**（Ako-chan="the red light"／Dango="the small dog"／Suke-san="the reddish dog"／Ruka="the little tortoise"／Pod="glowing cart"）。名前・Pod可＝回想(232)・動物POV(236)。
+- ★**少年知覚（継続）**：顔=灰色／Ako-chan=赤い光（赤の理由は不明）。**grey=少年POV専用**（回想232・動物POV236では不使用）。**少年POV回はキャラ名・"Pod"不使用**（Ako-chan="the red light"／Dango="the small dog"／Suke-san="the reddish dog"／Luca="the little tortoise"／Pod="glowing cart"）。名前・Pod可＝回想(232)・動物POV(236)。
 - ★**回想（Ep232）のロボット呼称＝"the one who is gone" / "the friend who left" 型**（Ch27確定の継続・名前なし・"it"で薄めない）。Ep232はSuke-sanの定位置（Ako-chanの右後ろ）の由来＝S1日本での**警戒→信頼**（Suke-sanが最初ロボットを警戒→S1 Ch10で信頼を宣言→守りの位置）。ロボットは**周縁**（"the one who is gone"を1回程度）。
 - ★**少年＝発話ゼロ（継続）**：Ep235「I cannot see the beginning.」は**内面の気づき**（free indirect "He cannot see the beginning." 可・声に出さない）。**普通の会話の初＝Ch30 Ep256**（温存）。Ako-chanはCh28では多くを語らない（観察の章＝対話は最小）。
 - ★**Ep236「The Witnesses」**＝動物が少年を"証人"として見守る／**種への判断の反例**として立つ。Ako-chanがその声を聴く。⚠️grey不使用（動物は匂い/気配）。④少年は**自分が見られ迎えられていることにまだ気づかない**。
 - ⚠️**季節＝晩冬**（Ch25-27から継続）。Ep235「変わる季節」＝日が伸びる等の**かすかな兆し**は可だが**春と明言しない**（制作章Ch29+へ温存）。異変なし（Ako-chanは穏やかな声を聴く）。
-- 語り規約：少年＝"the boy"/"he/him"（無名・発話ゼロ）／**grey=少年POV専用**／Dango引用なし（所作）／Suke-san=Ako-chanの右後ろ（定位置・Ep232で由来回想）／Daru/Gabu/Ruka=所作（Ruka=she）。一行＝**6**＋3Pod。**少年は観察者**（接触済みだが"合流"はまだ）。⚠️**"He…"文頭の連続を散らす**（Ch26/27の教訓＝少年POV8話で平板化注意）。
+- 語り規約：少年＝"the boy"/"he/him"（無名・発話ゼロ）／**grey=少年POV専用**／Dango引用なし（所作）／Suke-san=Ako-chanの右後ろ（定位置・Ep232で由来回想）／Dalu/Gabu/Luca=所作（Luca=she）。一行＝**6**＋3Pod。**少年は観察者**（接触済みだが"合流"はまだ）。⚠️**"He…"文頭の連続を散らす**（Ch26/27の教訓＝少年POV8話で平板化注意）。
 - Day割付：Ch27末＝Day33。Ch28＝**Day34〜48（loose・晩冬）**＝231=34／232=35／233=36／234=37／235=39／236=40／237=42／238=44／239=46／240=48（"何日も観察した"の時間幅は説明しすぎない）。
 
 ### Day 34〜37 — 距離を読む（具体の観察・T12）
@@ -1794,10 +1794,10 @@
 - **Ep232「A Step Behind」**（回想／Ako-chan POV）：少年は赤茶色の犬（Suke-san）がいつもAko-chanの少し後ろ・右に立つと気づく。なぜ後ろか→S1日本の警戒アークを回想＝Suke-sanが最初ロボットを警戒→やがて信じ→守りの位置を取る経緯をA2-B1再話。少年は理由を知らない。
   - モード：静・回想。③：Suke-sanの守る角度、記憶の中の港と船、今の公園の芝。④：距離には理由がある。少年にはまだ読めない。
   - 確定：回想＝名前可・grey不使用。**ロボット＝"the one who is gone"型・周縁**（名前なし・"it"で薄めない）。S1 Ch6合流〜Ch10信頼宣言→右後ろの定位置。⚠️過去完了禁止（単純過去で再話）。
-- **Ep233「Always There」**（少年POV）：Rukaがなぜいつも静かにそこにいるのか。Podの中、二人の足元で、動かずに。なぜこのリクガメはこんなに自然にここにいるのか。
-  - モード：静・観察。③：Podの淡い黄色、Rukaの止まった時間、Ako-chanの足元、風に揺れる草。④：Rukaの「当然そこにいる感じ」に長い積み重ねを見る。
-  - 確定：少年POV＝"the little tortoise"（Ruka名/Pod不使用）。Ruka=she（少年は性別を知らない＝"it"も可だが所作で）。⚠️姿勢＝くつろぎ（頭/四肢を出す・引っ込めない＝[[tortoise-resting-posture]]）。
-- **Ep234「The Weight of Time」**（少年POV）：少年が読み取ったものを**観察された具体**として描く回。Dangoの歩幅・Suke-sanの角度・Rukaの位置——それぞれの距離と重さが積み重なった時間を語る。**抽象を直接ナレーションせず**少年が「見たもの」だけで示す。
+- **Ep233「Always There」**（少年POV）：Lucaがなぜいつも静かにそこにいるのか。Podの中、二人の足元で、動かずに。なぜこのリクガメはこんなに自然にここにいるのか。
+  - モード：静・観察。③：Podの淡い黄色、Lucaの止まった時間、Ako-chanの足元、風に揺れる草。④：Lucaの「当然そこにいる感じ」に長い積み重ねを見る。
+  - 確定：少年POV＝"the little tortoise"（Luca名/Pod不使用）。Luca=she（少年は性別を知らない＝"it"も可だが所作で）。⚠️姿勢＝くつろぎ（頭/四肢を出す・引っ込めない＝[[tortoise-resting-posture]]）。
+- **Ep234「The Weight of Time」**（少年POV）：少年が読み取ったものを**観察された具体**として描く回。Dangoの歩幅・Suke-sanの角度・Lucaの位置——それぞれの距離と重さが積み重なった時間を語る。**抽象を直接ナレーションせず**少年が「見たもの」だけで示す。
   - モード：静・観察（T12の核）。③：それぞれの距離、間隔、光と影の配置。④：この絆が一日で生まれたのではないと知る。
   - 確定：⚠️**T12最重要回**＝抽象を観察で外在化。少年POV＝名前/Pod不使用。
 
@@ -1805,14 +1805,14 @@
 - **Ep235「The Invisible Beginning」**（少年POV）：もう何日も距離を見てきた。どれもが長い時間を語る。少年は思う **"I cannot see the beginning."**——この絆はいつ・どこから生まれたのか。入口が見つからない。
   - モード：静・観察。③：変わる季節（**かすかな兆し・春と明言しない**）、風、遠くで揺れるAko-chanの赤い光。④：見えない「始まり」が頭から離れない。
   - 確定：🔒（内面）**"I cannot see the beginning."**（声に出さない＝free indirect可）。⚠️抽象は観察の具体で。⚠️季節は晩冬＋兆しまで。
-- **Ep236「The Witnesses」**（動物POV・Ako-chanが聴く）：動物たちが証人のように少年を見ている。Suke-san・Daru・Gabu・Ruka——それぞれのやり方で少年を見守り確かめている。**人類という種への少年の見方の"反例"**としてそこに立つ。Ako-chanがその静かな声を聴く。
+- **Ep236「The Witnesses」**（動物POV・Ako-chanが聴く）：動物たちが証人のように少年を見ている。Suke-san・Dalu・Gabu・Luca——それぞれのやり方で少年を見守り確かめている。**人類という種への少年の見方の"反例"**としてそこに立つ。Ako-chanがその静かな声を聴く。
   - モード：感情・観察（動物POV）。③：四方からの視線、Podの光、犬の呼吸、少年を囲む静けさ。④：少年は自分が見られ迎えられていることにまだ気づかない。
   - 確定：⚠️grey不使用（動物は匂い/気配）。名前/Pod可。⚠️"反例"は**所作で**示す（抽象ナレーション回避）。Ako-chanは聴くが介入しない（観察の章）。
 - **Ep237「Inward」**（少年POV）：少年は自分がこの絆の**外側**にいると気づく。Ako-chanと動物には見えない始まりがあった。少年にはそれがない——顔の見えない世界で誰とも始まったことがない。ずっとひとり。持つ者と持たぬ者の対比が問いの向きを変える。「この絆はどこから来たのか」→**「自分は、なぜここにいるのか」**。外向きの問いが内向きの問いになる。
   - モード：感情・内省（**転換の核**）。③：夕方の公園、長い影、帰っていく赤い光、少年の動かない足。④：自分のことを考えるのが初めてだと気づく。
   - 確定：⚠️**外→内の転換**＝持つ/持たぬの対比で。内向きの問い＝"What is he, among all the grey? Why is he here at all?"（重め）。⚠️判断の具体/負の動機は出さない。
 - **Ep238「The Grey Wavers」**（少年POV）：人類という種への見方が少しずつ揺らぎ始める。⚠️**「人類を見限っていた」と直接書かない**。代わりに**少年が新しく気づくもの**で示す——灰色の人々の間にも見落としていた何かがあるかも、という小さな揺れ。きっかけ＝赤い光と動物。
-  - モード：静・観察。③：行き交う灰色の人々、その中の一つの赤、足元のRuka。④：自分の中の確かだったものが、ほんの少し動くのを感じる。
+  - モード：静・観察。③：行き交う灰色の人々、その中の一つの赤、足元のLuca。④：自分の中の確かだったものが、ほんの少し動くのを感じる。
   - 確定：⚠️T12＝抽象を知覚で。**冷ややかさ（dull mass/meaning nothing）→揺らぎ**。⚠️過去完了禁止（"For years…"単純過去）。
 
 ### Day 44〜48 — 一つの光・作るべきもの（章クローザー）
@@ -1855,7 +1855,7 @@
 - ★**制作描写＝A2-B1で具体・テクノバブル回避**：parts・wires・tools・a light・the shape・failed tries 等の**観察可能な具体**で（難しい技術説明はしない＝writing-guide §7）。Ep244は③テクスチャー厚め（失敗の山→最初の小さな"動き"）。
 - ⚠️**少年は誰にも言わない**（Ep241＝Ako-chanにも）＝制作は**Ep246でAko-chanが発見するまで秘密**。
 - ⚠️**季節**：晩冬→**早春の兆し**へ（制作が数週間に渡る＝時間経過）。⚠️屋内（夜の小屋）中心ゆえ季節描写は最小・春と強く明言しない（loose）。異変なし。
-- 語り規約：少年＝"the boy"/"he/him"（無名・発話ゼロ）／作りかけ＝中立語（robot/名前/Obia不使用）／Ako-chan＝少年POVでは"the red light"・Ako-chan POVでは"Ako-chan"／**grey=少年POV専用**（屋内＝人少・grey出番少）／Ruka=she。一行＝6＋3Pod（散歩でEp246以降 小屋に出入り）。⚠️**"He…"文頭の連続を散らす**（少年POV多数＝Ch26-28の教訓）。
+- 語り規約：少年＝"the boy"/"he/him"（無名・発話ゼロ）／作りかけ＝中立語（robot/名前/Obia不使用）／Ako-chan＝少年POVでは"the red light"・Ako-chan POVでは"Ako-chan"／**grey=少年POV専用**（屋内＝人少・grey出番少）／Luca=she。一行＝6＋3Pod（散歩でEp246以降 小屋に出入り）。⚠️**"He…"文頭の連続を散らす**（少年POV多数＝Ch26-28の教訓）。
 - Day割付：Ch28末＝Day48。Ch29＝**Day49〜64（loose・晩冬→早春の兆し）**＝241=49／242=50／243=52／244=54／245=56／246=58／247=58／248=59／249=60／250=62／251=64。
 
 ### Day 49〜56 — 単独の着手（小屋・夜の作業・難航）
@@ -1921,13 +1921,13 @@
 - ★**共同制作の章（11話）**。Ako-chanが制作に加わる（**無意識の牽引＝手伝う動機**）→協働が深まる→**Dango嫉妬#②（Ep253）→解消 Ep259「Dango's Truce」**→**少年が初めて人と言葉を交わす（Ep256）**→少年に何かが起きている→完成間近（Ep260-262・章クローザー＝Ch31 完成/起動へ）。
 - ★**少年の第一声＝シリーズの節目（Ep256・確定 2026-06-27ユーザー選択＝"作業に溶けた実用語・重みは地の文"）**：少年はEp211以来**45話ぶりに発話**。第一声は**作業中の最小実用語**（"Like this?" 等・低い声＝his first utterance）で**劇的演出しない**。重みは**地の文**が運ぶ＝*"He has never asked anyone anything before. ... The words feel strange. They are not grey."*（少年の気づき）。⚠️**Ep252-255は少年ほぼ無言**（第一声はEp256）。**Ep256以降 少年は喋れる＝terse/hesitant/感情語少**（"few names for feelings live in him"継続）。
 - ★**Ako-chanの牽引＝深まるが意識的には気づかない（Ch29決定の継続・Ch29→Ch31の中間）**：Ep252「なぜ手伝うか深く考えない／この形を放っておけない」。**Ep255で手が制作を覚えている**（S2で誰かと作った身体記憶）＝牽引が**より身体的に深まる**。でも**「あの子を作り直している」と意識的に繋がない・言わない**（⚠️因果接続しない・world.md §3）。完成へ向け affect は漸増（Ch31 Ep267の"赤い光が揺れる"へ接続）。
-- ★**Dango嫉妬アーク 解消（Ep259）**：#①Ep225（公園・低いうなり）→**#②Ep253（小屋・肩を寄せる近さで より強く）**→**解消 Ep259**（独占欲の強いDangoが少年を許し始める＝少し離れて寝そべる＝大きな譲歩・Ako-chanが気づき頭を撫でる）。⚠️**Dango引用台詞なし**（うなり/所作＋Ako-chan *"Dango."*）。Rukaは動じない。
-- ★**🔒台詞（Ep254）**：Daru *"It is taking shape."*／Gabu *"...Yes."*（動物が制作物の"形になる"を感じる・Ako-chanが聴く）。
+- ★**Dango嫉妬アーク 解消（Ep259）**：#①Ep225（公園・低いうなり）→**#②Ep253（小屋・肩を寄せる近さで より強く）**→**解消 Ep259**（独占欲の強いDangoが少年を許し始める＝少し離れて寝そべる＝大きな譲歩・Ako-chanが気づき頭を撫でる）。⚠️**Dango引用台詞なし**（うなり/所作＋Ako-chan *"Dango."*）。Lucaは動じない。
+- ★**🔒台詞（Ep254）**：Dalu *"It is taking shape."*／Gabu *"...Yes."*（動物が制作物の"形になる"を感じる・Ako-chanが聴く）。
 - ★**Ep255 回想（手の記憶）**：S2でAko-chanが**飛行艇（Ep116）・Pod を誰かと作った**身体記憶がよみがえる。**相手＝"the one who is gone"/"the friend who left"型**（名前なし・"it"で薄めない）。⚠️**"Obia"不使用・新制作物と因果接続しない**（同じ手・違う相手、で留める＝読者が繋ぐ）。
 - ★**作りかけの呼称（Ch29継続）**：少年POV＝中立語（the thing/it/the shape/the form/his work）・**robot/Obia/キャラ名/Pod不使用**。Ako-chan POV＝物理特徴（silver/small/pale blue eyes・未点灯）可。
 - ★**名前は未交換（継続）**：協働・会話しても**互いに名乗らない**（Ep225「She does not ask him where he comes from. He does not ask her name.」継続）。少年POVのAko-chan＝**"the red light"**（喋っても知覚は赤）。Ako-chan POV＝"the boy"。
-- ⚠️**季節**：晩冬→**早春**へ（協働が数週間）。屋内（小屋）中心ゆえ季節描写は最小（loose）。異変なし。**grey=少年POV専用**（屋内＝人少・出番少）。Ruka=she・くつろぎ姿勢は頭/四肢を出す。⚠️**"He…"文頭の連続を散らす／最長文≤11語に偏らせない（Ch29の教訓＝時折 長め文で緩急）**。
-- 語り規約：少年＝"the boy"/"he/him"（無名・Ep256から terse発話）／Ako-chan＝少年POV"the red light"・Ako POV"Ako-chan"／作りかけ＝中立語／Dango引用なし／Suke-san=戸口/右後ろ／Daru・Gabu=🔒(Ep254)／Ruka=she。一行＝6＋3Pod（散歩で小屋に出入り・見守る）。
+- ⚠️**季節**：晩冬→**早春**へ（協働が数週間）。屋内（小屋）中心ゆえ季節描写は最小（loose）。異変なし。**grey=少年POV専用**（屋内＝人少・出番少）。Luca=she・くつろぎ姿勢は頭/四肢を出す。⚠️**"He…"文頭の連続を散らす／最長文≤11語に偏らせない（Ch29の教訓＝時折 長め文で緩急）**。
+- 語り規約：少年＝"the boy"/"he/him"（無名・Ep256から terse発話）／Ako-chan＝少年POV"the red light"・Ako POV"Ako-chan"／作りかけ＝中立語／Dango引用なし／Suke-san=戸口/右後ろ／Dalu・Gabu=🔒(Ep254)／Luca=she。一行＝6＋3Pod（散歩で小屋に出入り・見守る）。
 - Day割付：Ch29末＝Day64。Ch30＝**Day66〜88（loose・早春へ）**＝252=66／253=68／254=70／255=72／256=74／257=77／258=80／259=82／260=85／261=87／262=88。
 
 ### Day 66〜72 — Ako-chanが加わる・協働・Dango#②・手の記憶
@@ -1936,9 +1936,9 @@
   - 確定：⚠️**無意識の牽引＝手伝う動機**（意識的な類似認識なし）。Ako-chan POV＝物理特徴可・"the boy"。
 - **Ep253「Side by Side」**（中立／Ako-chan）：並んで作業。Ako-chanが肩を寄せて座る→**Dangoがまた二人の間に体を入れ低くうなる（嫉妬#②・公園より強い＝こんなに近いのは初めて）**→Ako-chan *"Dango."*→しぶしぶ足元に伏せる。やがて二人の手の動きが噛み合い始める。
   - モード：感情・観察。③：割り込むDango、手の交差、工具の音、息の合った沈黙。④：少年は誰かと何かを「一緒にする」ことを初めて知る。
-  - 確定：**Dango嫉妬#②**（解消Ep259）。⚠️Dango引用なし＋🔒Ako *"Dango."* Rukaは動じない。少年ほぼ無言（第一声はEp256）。
-- **Ep254「The Watchers」**（動物POV・Ako-chanが聴く）：動物たちが二人の作業を見守る。Dangoは少し離れて。Suke-sanは戸口。Rukaは机の足元。何が作られているか感じているのかも。Ako-chanが静かな声を聴く。
-  - 🔒台詞：Daru *"It is taking shape."*／Gabu *"...Yes."*
+  - 確定：**Dango嫉妬#②**（解消Ep259）。⚠️Dango引用なし＋🔒Ako *"Dango."* Lucaは動じない。少年ほぼ無言（第一声はEp256）。
+- **Ep254「The Watchers」**（動物POV・Ako-chanが聴く）：動物たちが二人の作業を見守る。Dangoは少し離れて。Suke-sanは戸口。Lucaは机の足元。何が作られているか感じているのかも。Ako-chanが静かな声を聴く。
+  - 🔒台詞：Dalu *"It is taking shape."*／Gabu *"...Yes."*
   - モード：感情・観察（動物POV）。③：小屋に差す光、戸口と四方の視線、Podの淡い光、はんだの匂い。④：動物たちの静けさにはどこか懐かしさがある。
   - 確定：🔒逐語。⚠️grey不使用（動物は気配）。名前/Pod可。「懐かしさ」＝所作で（説明しすぎない）。
 - **Ep255「Her Hands Remember」**（回想／Ako-chan POV）：Ako-chanの手がかつての制作を覚えている。S2で飛行艇を、Podを、誰かと一緒に作った——その手の記憶がよみがえる。誰と作ったかは名前にしない。
@@ -1975,7 +1975,7 @@
 - **device 規律＝完璧／Ch29の3教訓を吸収**：過去完了=0（3章連続）・**He-openers大幅改善**（256/257/258=6前後・Ch29の9-12から低下）・**最長文の偏り解消**（11話中ほぼ全話に12-18語文）・フラット副詞ほぼ一掃（🔧で残2件修正）。作りかけ＝少年POV中立語（robot/Obia/名前/Pod=0）・grey=少年POV専用。
 - **少年の第一声（Ep256・節目）＝決定どおり**：*"Like this?"*（低い・unsure）＝作業に溶けた実用語、重みは地の文（"He has never asked anyone anything before… These words… are not grey."）。Ep252-255 少年無言✓。**Ep256以降 terse発話**。名乗らない（名前未交換）。
 - **Ako-chanの牽引＝無意識のまま・因果接続なし**：Ep252「放っておけない」、Ep255「手が覚えている」→*"She does not lay it over the work… The two stay apart, and she lets them rest."*✓。相手＝"someone who is gone / a friend who left"（"Obia"なし・"it"で薄めず）。
-- **Dango嫉妬アーク 解消**：#②Ep253("growls — low and long"＋🔒Ako"Dango.")→**解消Ep259「Dango's Truce」**("For a dog who shares nothing, this is much to give"・Ako-chanが頭を撫でる)。Dango引用なし✓。🔒Daru*"It is taking shape."*/Gabu*"...Yes."*(Ep254)逐語✓。
+- **Dango嫉妬アーク 解消**：#②Ep253("growls — low and long"＋🔒Ako"Dango.")→**解消Ep259「Dango's Truce」**("For a dog who shares nothing, this is much to give"・Ako-chanが頭を撫でる)。Dango引用なし✓。🔒Dalu*"It is taking shape."*/Gabu*"...Yes."*(Ep254)逐語✓。
 - 完成間近(260-262)＝銀色ボディ・閉じた青白い目(未点灯)＝物理描写。⚠️**起動はCh31 Ep263へ温存**(Ep262章クローザー="afraid of tomorrow"+"longs for it to come")✓。季節＝早春(buds/birdsong)。
 - 🔧**Phase C ポリッシュ（ユーザー承認 2026-06-27・Tier1/2全適用）**：Tier1＝フラット副詞/depictiveコンマ3件(254"glows soft"→"softly"／252"glows soft and yellow"→"glows, soft and yellow,"／256"settles soft and cool"→"settles, soft and cool")。Tier2＝256/261/262の全文≤11語に12-17語文を1本ずつ導入(短文ペア統合)。再スキャン：floor≥270・最長文≤18・過去完了/分詞0・robot/Obia 0通過。word_count再計算(256→278/262→279)。
 - リンク：ep252.prev=ch29ep251／章内連鎖／ep262.next空欄(Ch31 Ep263で相互リンク)。
@@ -1990,13 +1990,13 @@
 - ★**完成/起動の山場**。ロボットが初めて起動→**青白い目が灯り少年を見る（Ep264＝S1 Obiaと構図を重ねる）**→**動物たちが旧友と認識（Ep265-266・劇的アイロニー・名は口にしない）**→**Ako-chanの affect が頂点＝赤い光が一瞬揺れる（Ep267）**→少年がその揺れの意味を考える（Ep268）→**愛着を初めて知る（Ep269＝S1救出を重ねる回想）**→初めての感情（Ep270）→**二つの動機が形になる（Ep271＝負の動機の reveal・S3最暗 beat）**→必要なもの＝時を越える手段（Ep272章クローザー＝Ch32 別れへ）。
 - ★**負の動機の reveal（Ep271・確定 2026-06-27ユーザー選択＝"哀歌的・抑制"）**：正＝「絆がどう生まれるか見届けたい」／負＝**「失われた声——奪われたもの・人々が追いやったもの——を、その証として集めたい。忘れられないように」**（哀しみ寄り）。⚠️**「人類を断罪する」と直接言わない＝判断は含意のまま**。⚠️**"extinct"語不使用**（"the ones that are gone / the ones people drove away / the lost voices"）。⚠️**ループは過剰説明しない**＝負の動機がS2ミッション（声を集め未来へ）の設計だが、**S2ミッションとの接続は明示せず読者の推論に委ねる**（world.md §3）。逆説（哀歌的収集→"声を救う"善のミッション）。
 - ★**起動した作りかけの呼称**：起動しても**少年POVは中立語（it / the thing he made / the small silver one）・robot/Obia/名前 不使用**。Ako-chan POV＝物理特徴（silver・**青白い目=pale blue / blue-white**）可。⚠️**"Obia"不使用**（名は日記のみ・Ch31に日記なし）。
-- ★**動物の認識（Ep265-266・劇的アイロニー）**：動物たちは**それを知っている**（共に旅した存在）が**名を口にしない**＝Ep266は**無言の認識**（Suke-san見上げる/Ruka動かない・吠えない静けさ）。**Ako-chanがその沈黙の重さを聴く**。④Ep266＝**南極で何が起きるかをまだ誰も知らない（Ch33伏線）**。⚠️grey不使用（動物POV）。
+- ★**動物の認識（Ep265-266・劇的アイロニー）**：動物たちは**それを知っている**（共に旅した存在）が**名を口にしない**＝Ep266は**無言の認識**（Suke-san見上げる/Luca動かない・吠えない静けさ）。**Ako-chanがその沈黙の重さを聴く**。④Ep266＝**南極で何が起きるかをまだ誰も知らない（Ch33伏線）**。⚠️grey不使用（動物POV）。
 - ★**Ako-chanの affect 頂点（Ep267・Ch29→31の到達点）**：赤い光が**一瞬だけ揺れる**・**何かをこらえている**。⚠️**でも意識的な認識/類似の言語化はしない**（Ch30の"無意識・因果接続せず"の継続＝最も表面化するが、なお「あの子だ」と言わない/気づかない）。少年POVがその揺れを**見る**（Ep267-268）。
 - ★**Ep269 回想（愛着・S1救出を重ねる）**：少年が初めて「愛着」を知る／**Ako-chan POVでS1救出**（雪の中で凍った"the one who is gone"を抱き、涙、青白い光が戻り目が開く、**赤い首輪をつけ直す**＝再会の象徴）を淡く重ねる＝**読者だけが二つの愛着を繋ぐ**。⚠️**首輪＝S1再会の象徴として描くが「Ako-chanが作った」は明かさない（Ch32 Ep277-280温存）**／**新制作物に首輪はまだ付けない（Ch32 Ep278）**。⚠️"Obia"不使用・"the one who is gone"型・因果接続しない。
 - ★**少年の発話（terse・Ch30 Ep256以降）**：必要なら短い実用語のみ。Ep271-272は内省（POV内面）中心。
 - ⚠️**Ep272 行き先＝曖昧に**：少年は「ある場所＝遠い/南の冷たい場所」へ行かねばと知る（時を越える手段＝タイムマシンを作るため）。⚠️**南極/洞窟を明示しすぎない・なぜそこかを説明しない（ループ guard・Ch33で開示）**。**少年はロボットを連れて行くと決める**・**Ako-chanには言わない**（別れの準備＝Ch32）。
-- ⚠️**季節＝早春**（Ch30継続）。⚠️**起動シーン＝因果語を抑制**（S1 Ep74の "Then" のみで並置した手法を踏襲＝なぜ目が灯るかS3まで不問）。grey=少年POV専用（屋内・出番少）。Ruka=she。⚠️"He…"文頭散らす・最長文≤11偏り回避（Ch29-30教訓）。
-- 語り規約：少年＝"the boy"/"he/him"（無名・terse発話）／Ako-chan＝少年POV"the red light"・Ako POV"Ako-chan"／作りかけ＝中立語/物理特徴／Dango引用なし／動物＝Ep266は無言の認識（名を言わない）／Ruka=she。一行＝6＋3Pod（小屋に集う）。
+- ⚠️**季節＝早春**（Ch30継続）。⚠️**起動シーン＝因果語を抑制**（S1 Ep74の "Then" のみで並置した手法を踏襲＝なぜ目が灯るかS3まで不問）。grey=少年POV専用（屋内・出番少）。Luca=she。⚠️"He…"文頭散らす・最長文≤11偏り回避（Ch29-30教訓）。
+- 語り規約：少年＝"the boy"/"he/him"（無名・terse発話）／Ako-chan＝少年POV"the red light"・Ako POV"Ako-chan"／作りかけ＝中立語/物理特徴／Dango引用なし／動物＝Ep266は無言の認識（名を言わない）／Luca=she。一行＝6＋3Pod（小屋に集う）。
 - Day割付：Ch30末＝Day88。Ch31＝**Day89〜96（loose・早春）**＝263-267=Day89（起動の日・連続）／268=90／269=91／270=92／271=94／272=96。
 
 ### Day 89 — 起動・青白い目・動物の認識・揺れる赤
@@ -2006,10 +2006,10 @@
 - **Ep264「Blue-White Eyes」**（中立／少年POV）：青白い目がゆっくり開き、少年を見る。まっすぐに。少年は見られて動けない。人間の灰色の視線とも動物の視線とも違う——でも確かに「見ている」。
   - モード：感情（接触）。③：青白い光、少年に向く視線、暗い小屋に灯る二つの点、静寂。④：少年は作ったものに「見られる」という初めての感覚を知る。
   - 確定：**青白い目＝S1 Obiaと構図を重ねる**（pale blue / blue-white）。少年POVのgrey可（"unlike the grey faces"）。
-- **Ep265「They Gather」**（中立）：動物たちが静かにロボットに近づく。Dango、Suke-san、Daru、Gabu、Ruka。一匹ずつ、ゆっくり。警戒ではない。確かめるように。知っているものに再会したかのように。
+- **Ep265「They Gather」**（中立）：動物たちが静かにロボットに近づく。Dango、Suke-san、Dalu、Gabu、Luca。一匹ずつ、ゆっくり。警戒ではない。確かめるように。知っているものに再会したかのように。
   - モード：静・観察。③：近づく足音、Podの光、ロボットの周りに集まる気配、青白い目の動き。④：少年は動物たちのその近づき方を不思議に思う。
   - 確定：名前/Pod可（Ako/中立フレーム）。⚠️認識は所作で（名を言わない）。
-- **Ep266「Recognition」**（動物POV・Ako-chanが沈黙を聴く）：動物たちはそれを知っているようだ。Suke-sanが見上げる。Rukaが動かない。奇妙な認識——これは知っているもの。でもまだ名を口にしない。Ako-chanがその沈黙の重さを聴く。
+- **Ep266「Recognition」**（動物POV・Ako-chanが沈黙を聴く）：動物たちはそれを知っているようだ。Suke-sanが見上げる。Lucaが動かない。奇妙な認識——これは知っているもの。でもまだ名を口にしない。Ako-chanがその沈黙の重さを聴く。
   - モード：感情・観察（動物POV）。③：集まる動物、誰も鳴かない静けさ、青白い光、Ako-chanの止まった視線。④：南極で何が起きるかをまだ誰も知らない（Ch33伏線）。
   - 確定：⚠️**名を口にしない（無言の認識）**・grey不使用。⚠️Ch33伏線（説明しない）。
 - **Ep267「Held Back」**（中立／少年POVが揺れを見る）：Ako-chanがロボットを見る。青白い目を。銀色の体を。何も言わない。でも少年が見ているその赤い光が——一瞬だけ揺れた。Ako-chanは何かをこらえている。
@@ -2050,7 +2050,7 @@
 ## Chapter 32「The Parting」— 別れ・赤い首輪（Ep273〜282・10話）
 
 **Ch32 共通**
-- ★**別れの章＝S3最重要の感情回収**。少年が旅立ちを告げる→Rukaが離れない→**Suke-sanの最後の視線（🔒）**→Dangoの最後の譲歩→**Ako-chanが赤い首輪をロボットにつける（Ep277-280＝keystone）**→少年は理由を聞かない→**赤がすべてを語る（Ep281）**→少年とロボットが白い大陸へ旅立つ（Ep282章クローザー＝Ch33 南極へ）。
+- ★**別れの章＝S3最重要の感情回収**。少年が旅立ちを告げる→Lucaが離れない→**Suke-sanの最後の視線（🔒）**→Dangoの最後の譲歩→**Ako-chanが赤い首輪をロボットにつける（Ep277-280＝keystone）**→少年は理由を聞かない→**赤がすべてを語る（Ep281）**→少年とロボットが白い大陸へ旅立つ（Ep282章クローザー＝Ch33 南極へ）。
 - ★**赤い首輪の handling（確定 2026-06-27ユーザー指示＝起源を伏せる）**：
   - **首輪＝Ep184でObiaがAko-chanに残した同一物**（S2末 Obia *"Keep this. I do not know why. But it is important."*／Ch25-31は温存で未登場）。Ako-chanが**それを取り出して**新ロボットにつける（Ep277取り出し／Ep278装着）。
   - ⚠️**「いつ・誰が作ったか」は伏せる＝「Ako-chanが作った」とは描かない**（bootstrap ループ＝起源なし・world.md §3「ループの起点は回収しない」）。⚠️**旧 s3.md「赤い首輪はAko-chanが作った（S3で判明）」は本指示で上書き**（首輪は同一物が循環）。
@@ -2058,21 +2058,21 @@
   - シンプルな赤い首輪（機械仕掛けでない）。⚠️**"Obia"不使用**・robot/名前不使用（少年POVは中立語）。
 - ★**🔒台詞（Ep275）**：Suke-san *"Go. We will remember."*（**S1クジラ "We will not forget"／S2マイオラニア "We will not forget" の carrying-forward 誓いモチーフと連なる**・かつて人/Obiaを警戒したSuke-sanの到達点＝容認）。
 - ★**Dangoの最後の譲歩（Ep276）**：独占欲のDangoが一歩下がる＝最大の敬意（嫉妬アークはCh30 Ep259で解消済み＝ここはその到達点・もう割って入らない・静かに見守る）。⚠️Dango引用なし。Ako-chanがその一歩の意味を分かる。
-- ★**Rukaが離れない（Ep274）**：Podを降りて少年の足元にぴたりとつく。プーリアで誰のものでもなかったリクガメ（S2 Ep103）が別れを惜しむ。Ruka=she・所作（稀に短い台詞可）。
+- ★**Lucaが離れない（Ep274）**：Podを降りて少年の足元にぴたりとつく。プーリアで誰のものでもなかったリクガメ（S2 Ep103）が別れを惜しむ。Luca=she・所作（稀に短い台詞可）。
 - ★**Ep280 回想（首輪の情の歴史・無意識）**：Ako-chan POVで首輪の history（S1で凍ったObiaにつけ直した再会の象徴／Ep184でObiaが渡した "I do not know why"）を**淡い疼き**として重ねる。同じ赤・同じ手・同じ無言。⚠️**起源を closeしない・"作った"と言わない・"Obia"不使用・"the one who is gone"型・因果接続しない**。
 - ★**少年の知覚（継続）**：顔=灰色／Ako-chan=赤い光（接近しても不変）。Ep281＝赤がすべてを語る（言葉なし）。**grey=少年POV専用**。少年=terse/ほぼ無言（別れは所作・沈黙で）。名前未交換（最後まで名乗らない）。
 - ⚠️**行き先＝白い大陸（poetic）**：Ep282 "the white continent / the cold white land" へ。⚠️**"Antarctica"/"洞窟"は明示しすぎない**（Ch33で開示・南/白い大陸まで）。少年はAko-chanに行き先を詳しく告げない（Ep273）。
-- ⚠️**季節＝早春**。別れ＝朝。異変なし。Ruka=she。⚠️"He…"文頭散らす・最長文≤11偏り回避・フラット副詞-ly（Ch29-31教訓）。
-- 語り規約：少年＝"the boy"/"he/him"（無名・terse/無言）／Ako-chan＝少年POV"the red light"・Ako POV"Ako-chan"／ロボット＝中立語/物理特徴（silver・blue-white eyes）／首輪＝"a small red collar / the red collar"／Dango引用なし／Suke-san🔒(Ep275)／Ruka=she。一行＝6＋3Pod（見送る）。
+- ⚠️**季節＝早春**。別れ＝朝。異変なし。Luca=she。⚠️"He…"文頭散らす・最長文≤11偏り回避・フラット副詞-ly（Ch29-31教訓）。
+- 語り規約：少年＝"the boy"/"he/him"（無名・terse/無言）／Ako-chan＝少年POV"the red light"・Ako POV"Ako-chan"／ロボット＝中立語/物理特徴（silver・blue-white eyes）／首輪＝"a small red collar / the red collar"／Dango引用なし／Suke-san🔒(Ep275)／Luca=she。一行＝6＋3Pod（見送る）。
 - Day割付：Ch31末＝Day96。Ch32＝**Day97〜98（loose・早春の朝）**＝273=97（告げる）／274-282=98（旅立ちの朝・連続）。
 
 ### Day 97〜98 — 旅立ちを告げる・動物たちの別れ
 - **Ep273「The Day Comes」**（中立）：別れの日が来る。少年はロボットを連れて旅立つことをついにAko-chanたちに告げる。どこへ・なぜ——多くは語らない。Ako-chanも深くは聞かない。
   - モード：感情・観察。③：荷物、青白い目、集まる動物、朝の光。④：誰もが何かが終わり何かが始まると感じる。
   - 確定：⚠️行き先詳細を語らない。Ako-chanも深追いしない。
-- **Ep274「Ruka Holds On」**（中立／Ruka）：Rukaが少年のそばを離れない。Podを降りて足元にぴたりとつく。動かない。プーリアで誰のものでもなかったリクガメが別れを惜しむ。
-  - モード：感情（所作）。③：足元のRuka、Podを離れた小さな体、少年の靴、止まった時間。④：少年はしゃがんでRukaを見る。言葉はないが何かが通う。
-  - 確定：Ruka=she・プーリア(Ep103)参照。所作中心。
+- **Ep274「Luca Holds On」**（中立／Luca）：Lucaが少年のそばを離れない。Podを降りて足元にぴたりとつく。動かない。プーリアで誰のものでもなかったリクガメが別れを惜しむ。
+  - モード：感情（所作）。③：足元のLuca、Podを離れた小さな体、少年の靴、止まった時間。④：少年はしゃがんでLucaを見る。言葉はないが何かが通う。
+  - 確定：Luca=she・プーリア(Ep103)参照。所作中心。
 - **Ep275「Suke-san's Last Look」**（動物POV）：Suke-sanが最後に少年を見る。かつて人/Obiaを警戒したSuke-sanが。じっとまっすぐに。それは認めるという意味。
   - 🔒台詞（Suke-san）：*"Go. We will remember."*
   - モード：感情・観察（動物POV）。③：Suke-sanの立ち姿、三角の耳、まっすぐな視線、朝の冷気。④：少年はその視線に送り出されていると感じる。
@@ -2099,7 +2099,7 @@
 - **Ep281「No Words」**（少年POV）：少年はAko-chanを見た。顔は見えない——いつものように灰色の中の赤い光。でも今はその赤がすべてを語っている気がする。言葉はなかった。少年も何も言わなかった。
   - モード：感情。③：赤い光、少年の止まった呼吸、首輪をつけたロボット、朝の静けさ。④：少年はこの赤をずっと忘れないだろうと思う。
   - 確定：少年POV＝"the red light"。赤がすべてを語る（言葉なし）。
-- **Ep282「They Leave」**（中立・章クローザー）：少年とロボットが南極へ向かって旅立つ。Ako-chanは同行しない。動物たちが見送る。Rukaが最後まで少年の方を見ている。
+- **Ep282「They Leave」**（中立・章クローザー）：少年とロボットが南極へ向かって旅立つ。Ako-chanは同行しない。動物たちが見送る。Lucaが最後まで少年の方を見ている。
   - モード：感情（章クローザー）。③：遠ざかる二つの姿、振り返らない少年、見送る赤い光と動物、開けた空。④章クローザー：赤い首輪をつけたロボットが少年とともに白い大陸へ向かう（Ch33＝南極・洞窟へ）。
   - 確定：⚠️**行き先＝白い大陸（poetic）・"Antarctica"/"洞窟"明示しすぎない**。章末リンク：next_ep＝/season3/chapter33/ep283/（Ch33 Ep283執筆時に相互リンク）。**章頭 ep273.prev_ep=/season3/chapter31/ep272/／Phase Dで ep272.next_ep=ep273 更新**。
 
@@ -2108,7 +2108,7 @@
 - **device 規律＝完璧・過去完了0（5章連続）**：ロボット＝中立語/物理特徴・**robot/Obia/名前=0**・少年POVは"the red light"・grey=少年POV専用・destination poetic（Antarctica/cave/penguin=0）。
 - **★赤い首輪 keystone＝決定どおり起源を伏せる**：Ep277 *"No one says where it came from. No one says who made it, or when."*（"made"は否定のみ）。Ep278 装着＝無言・**"as if they have done this somewhere long before. She has no clear memory of such a moment, and yet her hands are certain."**＋"as though it has always belonged there. And maybe, somehow, it always has."＝**無意識・ループを地の文で説明せず読者にcue**。"Obia"不使用・"she made it"なし。
 - **Ep280 回想＝因果接続なし**：S1救出（"the one who is gone"・雪・つけ直す）＋Ep184（"a voice she loved… 'I do not know why,' … 'But it is important.'"＝逐語エコー）の二つの淡い記憶→**"She cannot say why she has done this… But her hands knew, even when she did not."**（"same collar"断定なし・意識的にループ閉じない）。
-- 🔒Suke-san *"Go. We will remember."*（Ep275・carrying-forward誓い）逐語／Dango引用なし（所作・一歩下がる Ep276）／Ruka（Ep274 足元）。
+- 🔒Suke-san *"Go. We will remember."*（Ep275・carrying-forward誓い）逐語／Dango引用なし（所作・一歩下がる Ep276）／Luca（Ep274 足元）。
 - 🔧**Phase C ポリッシュ（ユーザー承認 2026-06-27）**：Tier1（hard）＝ep279 19語文を分割。Tier2＝ep275 "the silver friend"→"the one who came from far away"（Ch28 Ep232と同じ device整合・"silver"距離化語を回想呼称から除去）。＋ロボット呼称 "machine"→"the silver one"（ep279×2/ep281×1＝Ch29-31の一貫呼称に統一・**"the machine"はCh33タイムマシン用に温存**／ep277 "nothing of the machine"=機械仕掛けの意で据置）。再スキャン：floor≥270・最長文≤18・過去完了0・Obia/robot 0通過。word_count再計算（275→284/279→273/281→276）。
 - ★**首輪 doc 整合（このターン）**：s3.md「Ako-chan作」撤回／s2.md に Ep184 handoff を明文化（実本文 ep184/185 と一致確認）／ledger 2箇所修正。**起源＝bootstrapループで回収しない**で全 planning doc 統一。
 - 🔧**首輪 doc 整合の残存漏れ解消（2026-07-02）**：監査で検出した「正体（Ako-chan作）」等の positively-assert 箇所を一括是正＝s1.md:61／chapter-workflow.md:98／ledger（S2末秘密の伏せ行）／s3-episode-list.md:148（Ep280）／timeline 606/675/1391/1393/1442/1514/1565 を「起源＝bootstrap循環で伏せる」表現へ統一。撤回を記録するガード文（ledger 26/132/138/261・timeline 1995/2025/2056/2113・world.md/s3.md）は据え置き。以後 planning doc に「Ako-chan作」を事実として書かない。

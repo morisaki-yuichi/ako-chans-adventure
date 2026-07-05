@@ -209,7 +209,7 @@ Ako-chan opens the red notebook. She holds the pen. But she does not write.
 ### エピソードタイトルのルール
 
 **原則禁止のタイトル形式：**
-- キャラクター名のみ（例：*Daru*、*Suke-san*、*Pen-san*）
+- キャラクター名のみ（例：*Dalu*、*Suke-san*、*Pen-san*）
 - 一般的すぎる1語（例：*Five*、*North*、*Home*、*Night*）
 
 **例外：感情の盛り上がりとなるエピソード**
@@ -277,10 +277,10 @@ The tortoise does not move. It just looks. Its eyes are very still.
 | **Ako-chan** | 素直・疑問を持つ・感情豊か | "What is that sound? Can you hear it, Dango?" |
 | **Dango** | 短い・感情的・行動で語る | "I want to go too!" / （吠える・飛びつく） |
 | **Obia** | 正確・淡々・感情が薄め | "The temperature is low. I will make a warm space." |
-| **Daru** | 元気・好奇心・先に動く | "What is that? Let me see! Let me see!" |
+| **Dalu** | 元気・好奇心・先に動く | "What is that? Let me see! Let me see!" |
 | **Gabu** | 静か・観察する・少ない言葉 | "Wait. Look at the shadow. Something is there." |
 | **Suke-san** | 短い・警戒・プライドがある | "I know. I felt it first." |
-| **Ruka** | 慎重・静か・自分のペース | （行動が先、言葉は少ない） |
+| **Luca** | 慎重・静か・自分のペース | （行動が先、言葉は少ない） |
 | **Pen-san** | 甘えん坊・純粋 | "Ako-chan! Pick me up! Please!" |
 | **General Adelie** | 命令調・短い・厳格 | "Stand here. Do not move. I will watch." |
 
@@ -293,8 +293,8 @@ The tortoise does not move. It just looks. Its eyes are very still.
 - ただし英語はA1なので、難しい説明は**Ako-chanが観察する視点**に置き換える
 
 ```
-Bad:  "Ruka needs to regulate her body temperature by moving between sun and shade."
-Good: "Ruka moves to the sunny stone. She stops. She is still. Ako-chan watches."
+Bad:  "Luca needs to regulate her body temperature by moving between sun and shade."
+Good: "Luca moves to the sunny stone. She stops. She is still. Ako-chan watches."
 ```
 
 ### 地名・交通機関
@@ -415,7 +415,7 @@ Good: The boy did not look at faces. He looked at the space between people.
 ---
 
 【登場キャラクター】
-【例: Ako-chan, Dango, Obia, Daru】
+【例: Ako-chan, Dango, Obia, Dalu】
 
 ---
 
