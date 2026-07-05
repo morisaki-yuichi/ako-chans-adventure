@@ -1831,7 +1831,7 @@
 - 🔒整合：Ep232 Suke-san "I trust it,"＝**S1 Ep079「I Trust Obia」**(canon "I trust Obia")の名前禁止下での正しい再話（S1も動物は robot を "it" と呼ぶ）。
 - 🔧整合（2026-07-02修正）：Ep232 の警戒期回想 "Not safe," / "I do not like that smell." は**S1本文に存在しない台詞**（writing-guide §6 の例文が流入）だったため、S1 Ep41 の確定台詞 **"I do not know yet."**（timeline:340）へ置換（"was all he said" で地の文接続）。word_count 272→271。
 - 🔧**Phase C 横断ポリッシュ（ユーザー承認 2026-06-27・1-4全適用）**：
-  - 1＝Ep232の回想呼称を device整合（"the silver friend"×2→"the newcomer"（警戒期）＋"the friend who left"・既存"the one who is gone"と合わせ1/1/1）。"silver"はworld.md上 距離化語ゆえ親密ビートで不使用。
+  - 1＝Ep232の回想呼称を device整合（"the silver friend"×2→"the newcomer"（警戒期）＋"the friend who left"・既存"the one who is gone"と合わせ1/1/1）。"silver"はworld.md上 距離化語ゆえ親密ビートで不使用。⚠️**2026-07-05 訂正**：この "the newcomer"（Obia指し）は**事実誤り**（合流したのはSuke-san＝新入りはSuke-sanの方・Obiaは最古参）。→ "the newcomer"=**Suke-san**へ再割当、Obia警戒対象は "the one who is gone" に（下記2026-07-05注）。
   - 2＝非・人物の"grey"を変奏（device純化＝grey は人/顔の知覚に限定：ep234 "grey afternoon"→"dull, cold"／ep235 "grey with frost"→"white"／ep239 "greying sky"→"darkening"）。ep238のgrey×4は全て"人=灰色"のdevice＝温存。
   - 3＝天井文（17-18語＋ダッシュ挿入で重い）を2文に：ep239／ep240。
   - 4＝ep240 "He…"文頭8→6（2文を語順変更）。
@@ -1839,6 +1839,33 @@
 - リンク：ep231.prev=ch27ep230／章内連鎖／ep240.next空欄（Ch29 Ep241で相互リンク）。
 
 <!-- Ch28（Ep231〜240）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧Phase C一括レビュー適用済み。Phase D：ep230.next_ep=ep231（更新）／章末 ep240.next_ep 空欄→Ch29 Ep241で相互リンク。s3_titles[3]="Reading the Distances"確認。⚠️執筆側は timeline を編集しない。 -->
+
+- 🔧**回想・整合修正（2026-07-05・ユーザー承認バッチ①）**＝S3 Ch25/27/28 の内容確認で判明した明確な要修正のみ適用：
+  - **Ep232**：①**POV訂正**＝第1段（少年の観察フレーム）の実名 "Suke-san"/"Ako-chan" を呼称へ（"the reddish dog"/"the red light"）。実名は第2段以降のAko-chan回想内のみ。②**"the newcomer" の誤割当を訂正**＝"the newcomer"=**Suke-san**（合流した新入り）、警戒対象のObiaは "the one who is gone"／後段は "that friend"（"the friend who left" の照応）に。⚠️"silver" は距離化語ゆえ親密ビートで不使用の原則を維持（"silver one" 案は撤回）。③"I trust it"（canon "I trust Obia" の名前禁止下再話）は**据置**。word_count 271→274。
+  - **Ep230/234/235：Dalu・Gabu の消失を修正**＝公園には常に3Pod同行（Ep209/222/236で確定）なのに列挙がLuca1匹のみだった。Lucaを足元に据えたまま「Two more carts（赤・青）」を各回1行追加。wc：230=274→283／234=292→300／235=291→300。
+  - **Ep225「three of them」→「them all」**＝現場の人数（Ako-chan・少年・Dango・Luca＋3Pod）と合わないため数えない句へ。wc 285→283。
+  - **Ep233：冬公園でLucaがPod外に読める点を修正**＝"stretch easy on the ground"→"in its glow"／"into the cool air"→"from the warm Pod"／"takes a step"→"shifts a little"（保温Pod内に統一）。wc 284→283。
+  - **Ep239「fixed upon the single red」→「his eyes stay on the one red light」**（B1明瞭化）。wc 287→288。
+  - **匂いの反復過多を変奏**＝"smells of wet earth and grass" 系：Ep202 二重の一方（"smell of damp earth"→"a thread of woodsmoke"・wc 282→281）／Ep233（"wet earth and grass"→"sharp and clean today"）。Ep216/222 は X が各々異なる（frost／old leaves）ため据置。
+  - 全話 floor≥270・最長文≤18語・三連1回制約 通過。**保留（未適用）**：Ep204（3段日記フレーム）・Ep229（"first time"tic重複）・Ep231-233単調・Ep238-239重複・Ep240小屋伏線 は要検討としてユーザー判断待ち。
+
+- 🔧**回想・整合修正（2026-07-05・ユーザー承認バッチ②）**＝上記「保留」分を適用：
+  - **Ep204：3段日記フレーム整合**＝"So much of the journey lives in here."（＝多量記入の含み）を Ep200確定の「白紙＋記憶」フレームへ＝"Most are white — she wrote so little down. But the whole journey lives in her still."。日記の実記入は生涯2箇所のみ（Ep5 "I have to go."／Ep199 "Obia—"）を担保。wc 274→283。
+  - **Ep229："first time…waits for tomorrow" の重複解消**＝Ep215「make him want tomorrow」と衝突する "For the first time in all his life, the boy waits for tomorrow." を撤去→"Never before has a tomorrow pulled at him like this. He lies awake in the dark, waiting for it."（"待つ"主題＝題"Why He Waits"は保持・"first time"tic回避）。wc 270→276。⚠️**"For the first time…"tic は依然多発**（Ep219/223/224/237/240/245/262/264/268・題270）＝全面間引きは別パス（未実施）。
+  - **Ep233：単調（"not in a day"/"long stretch of time"の反復）解消**＝Ep230と語句重複していた④を撤去→時間の量化（"How many winters have the two of them shared? How many slow, quiet days like this one?"）へ差別化。wc 283→274。
+  - **Ep238/239：内容重複の切り分け**＝239の核イメージ（群衆の中の一つの赤＝個体化）をEp238から除去。238は**動物が少年を選んだ→"grey"への疑い**に純化（"A creature chose him — him, out of everyone." ／ "But maybe grey was never the whole truth."）。239は個体化（"She is one."）のまま据置。wc 238=290据置。
+  - **Ep234-235：絆の"始まり"に特別感/引きを付与**＝Ep235④に「小さな最初の一瞬から全てが育った・それを見たかった」を追加（"Somewhere there was a first meeting once. Small, perhaps — but everything grew from it. He wants to have seen that one first moment."）。wc 300→308。
+  - **Ep240小屋の伏線化**＝Ch29工房＝**公園隅の古い温室（greenhouse）**（Ep241/246で確立・Ep246 "She has passed it many times before"）が Ch26-28に無伏線だった問題。**Ep212④に温室を初出**＝"In one far corner stands an old greenhouse. Its glass is dim, and no one goes in."。⚠️Ep207の "old wooden shed"（庭＝ロボットの空席）とは**別構造**（庭 vs 公園）。Ep240の "room" は少年の自宅（Ep229と同・高所/公園を見下ろす）＝温室ではない（自宅=設計／温室=製作の分業は Ch29 で自然化）。wc 212=287→304。
+  - 全話 floor≥270・最長文≤18語・"grey"=人知覚限定・三連1回 通過。
+
+- 🔧**回想・整合修正（2026-07-05・ユーザー承認バッチ③＝残り全項目）**：
+  - **Ep228 `ancient ice`→`old ice`**（シリーズ標準・Ep135/290と統一）。wc 271据置。
+  - **Ep202/203 Pod内外の明確化**＝Ep202に「休息＝Pod外」を明示（"Their Pods sit quiet and empty nearby. Here at home, they rest outside them."）／Ep203の "watches the three Pods glow" は現在進行の誤読を避け "knows each Pod by its glow"（性質の把握）へ。world.md「移動＝Pod／休息＝外」と整合。wc 202=281→295／203=280→281。
+  - **Ep227 `carried Suke-san home`（不明瞭）→`That green land was Suke-san's own home.`**。wc 281→280。
+  - **Ep231 単調の切り分け**＝④の汎用句 "That easy closeness did not come for free." をEp231固有の観察（見ずに一体で動く）へ＝"They move as one, and never need to look. That takes something he cannot see."。wc 288据置。
+  - **Ep226 に3Pod在席を担保**＝"The little tortoise sits still in its cart."→"The three little carts sit still on the grass. One small head stays out..."（3Pod前提の徹底・"red and blue carts"tic回避のため別表現）。wc 287→288。
+  - **"For the first time…" tic 間引き（横断）**＝反復過多を解消。**撤去/変奏**：Ep219（"Now, at last, something in him reaches out…"）／Ep224（"Then, at last, the red light speaks."）／Ep237（"Now he turns that reading on himself."）／Ep245（"Tonight the quiet feels heavy and strange."）／Ep262（"…look at them at last."）／Ep268（"Now the boy feels, deep down, that…"）。**据置（意味の要）**：Ep223「feels seen」・Ep240章クローザー「he begins」・**Ep264「seen for the first time by something he made」（核）**・**Ep270 題 "The First Time"（意図的ペイオフ）**。wc：219=270据置／224=282→281／237=285→284／245=271→270／262=279→277／268=272→271。
+  - 全話 floor≥270・最長文≤18語・三連1回 通過。**item全消化**（保留なし。Ep270題は意図的重複として温存）。
 
 ---
 
