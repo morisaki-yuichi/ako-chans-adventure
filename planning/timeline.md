@@ -1560,7 +1560,7 @@
 # ★★ SEASON 3 開始（Ep201〜300・Ch25〜34・CEFR A2〜B1）★★
 
 **S3 通しガード（全章共通・最優先）**
-- ★**「Obia」の名前は本文で一切使わない**（少年はその名を知らない）。ロボットは無名で扱う。**唯一の例外＝Ako-chanの日記**（Ep204で既出の "Obia—"／Ep300で続きを書く）。動物がロボットを旧友と認識する場面（Ch31/33）でも名前を出さず所作・反応で示す。
+- ★**「Obia」の名前は本文で一切使わない**（少年はその名を知らない）。ロボットは無名で扱う。**唯一の例外＝Ako-chanの日記**（v2 Ep203〔旧204〕で既出の "Obia—"／Ep300で続きを書く）。動物がロボットを旧友と認識する場面（Ch31/33）でも名前を出さず所作・反応で示す。
 - ★**S3文法ティア解禁**：過去進行形（was/were doing）・現在完了形（have/has done）・限定的な関係代名詞節（who/which/that＝心理/説明に限り・使いすぎない）。**引き続き禁止**：過去完了形（had done）・仮定法・分詞構文。1文≤15語（最大18語）・語彙≤2500・約300語・4ビート。
 - ★**S3秘密は全章で伏せる**：①赤い首輪の起源（誰がいつ作ったか＝bootstrap循環）②タイムループ③"the future"の正体（誰の時代か）④Ep1の「目」＝Obia⑤少年の名前・出身・「判断」の具体。
 - ★**相貌失認は"言葉にせず見せる"**（診断名禁止・知覚で描く）。**「灰色」は少年の知覚専用**＝動物の台詞・地の文では使わない（動物は匂い・気配・"no bad feeling"で判断）。※Ch26〜から本格化。
@@ -1568,67 +1568,25 @@
 
 ---
 
-## Chapter 25「The Quiet Years」— イギリス・日常（Ep201〜210・10話・S3開幕章）
+## Chapter 25「The Quiet Years」— イギリス・日常（Ep201〜207・7話・S3開幕章・★v2改稿済み）
 
-**Ch25 共通**
-- ★**S3開幕＝S2末から約7年後の静かな日常**。Ako-chanは大人（20〜21歳・⚠️年齢は地の文で明言しない＝§5「描かない」）。Dangoは老い（口元に白）が**まだ隣にいる**。Dalu/Gabu/Suke-san/Lucaとの穏やかな暮らし。**異変はもうない**（Obiaが扉を閉じた＝S2末）。動物の声は穏やか。物語の舞台＝近所の公園を導入（Ep209-210）。章クローザーで少年の人影（次章への助走）。
-- ★**7年の時間跳び＝明示（ユーザー選択 2026-06-27）**：*"Seven years have passed."* 型で年数をはっきり書く（**現在完了形の解禁ショーケース**）。Ep201で提示。Dangoの白い口元・大人になったAko-chanで体感も補強。
-- ★**不在の相棒＝極小参照／空席で語る（ユーザー選択 2026-06-27）**：名前禁止下で、**名前もエピテット（"the silver one/their old friend"等）も "it" も前景化しない**。**空いた場所・消えた青い光（blue glow）・誰も座らない位置・動物が避けて通る所**で「不在そのもの」を描く。⚠️[[obia-absence-name-over-pronoun]]はS2向け（名前で綴る）だが**S3は名前不可ゆえ方針転換＝物（空間）で示す**。Ep207「The Empty Place」が核。※**例外＝日記（Ep204）のみ "Obia—" を綴る**。
-- ★**3匹のリクガメの「現在」（Ep203）**：Dalu/Gabu/Lucaは7年で**ほぼ同じ大きさ（甲長15cm弱）に育ち、ぱっと見では見分けがつかない**。違いは①甲羅の模様（Dalu＝黄×黒コントラスト強／Gabu＝黄＋各甲板中央の黒斑／Luca＝網目状の黒・頭側面に黄色い丸斑）②動き方（Dalu＝全力→高速／Gabu＝一定リズム→安定／Luca＝ゆっくり止まりながら）。⚠️**S2の「Luca最小5cm」「先輩逆転」は決着済み（Ch24）＝S3では3匹同サイズ**（ledger C更新）。
-- ★**Suke-sanの変化**：警戒（S1）→見守り（S3）。鋭さは消え、穏やかな見張りに。それでも何かを待っている（Ep206・自分でも分からないまま＝空席への視線）。
-- ★**回想（再話）回＝多読の上位レベル再読**：Ep205（雨→S1の大嵐とクジラの声）／Ep208（Luca→S2プーリアE p103の淡い接続）。⚠️**回想内でも名前禁止・S3秘密leakなし**。A2-B1で短く再話・知覚と所作で再構成（"説明"で埋めない）。
-- 語り規約：Obia＝不在（名前/epithet/it を前景化しない・空席で語る・"the silver one"不使用）／**日記のみ "Obia—"**／Dango＝引用なし（所作・老い＝白い口元）／Suke-san＝Ako-chanの右後ろ（定位置・🔒1台詞のみ）／Dalu＝引用あり／Gabu＝短い台詞／Luca＝she（基本所作・稀に短い台詞）／Pen-san・General Adelie・Obia＝登場しない（南極/未来）。一行＝**6**（Ako-chan・Dango・Suke-san・Dalu・Gabu・Luca）＋3Pod（赤=Dalu・青=Gabu・黄=Luca）。**人数の逓増逓減なし（章を通じて固定）**。
-- Day割付：**S3も季開幕＝Day1から数え直す**（S1/S2同様"季の開幕＝Day 1"・timeline L765準拠）。7年の経過は**Ep201の地の文**（"Seven years have passed."）で示し、日数では管理しない（"説明しない"方針・非減少・loose）。Ch25＝**Day1〜10（loose）**＝家/庭の日々→日記の夜→公園導入。
+**Ch25 共通（v2再設計 2026-07-08 改稿反映）**
+- ★**v2再設計**（`s3-episode-list-v2.md`）＝Ch25は10話→**7話**：旧202+203→**202統合**／旧209+210→**207統合**／**旧208カット**／繰上げ＝旧204→203・旧207→204（205・206は番号不変・Day更新のみ）。方針4〜7適用。
+- ★7年後の静かな日常・異変なし・年齢数値なし・Dango老い（白い口元）——v1決定を全継承（不在の相棒＝空席で語る〔核＝v2 Ep204〕／日記の名前例外〔v2 Ep203〕／首輪出さない／S3秘密leakなし／「灰色」不使用）。
+- ★**Kara-san（公園のカラス・♂）＝v2新レギュラー初登場（Ep207）**：Ako-chan付与名（オフページ命名を一文で接地＝"Ako-chan gave him his name years ago"）。register＝ぶっきらぼう・実利・少し偉そう。**口癖 "Quiet sky. Nothing wrong."**（Ep213で反復予定）。
+- モチーフ予算：**"seven years"＝Ep201/202/203 に各1回**（204以降使わない）／**reduplication-tic枠＝Ep205 "again and again" 使用済み**／三連形容詞＝Ep201なし・Ep205 "high and dark and wild"・Ep207 "wide and green and open"（各1話1回）。
+- Day割付（v2）：**Day1〜7（loose）**＝201(D1)・202(D1)・203(D2)・204(D3)・205(D4)・206(D5)・207(D7・"one afternoon"で数日を束ねる)。一行＝6＋3Pod（固定）。
 
-### Day 1〜2 — 庭の静かな日々・日記
-- **Ep201「Years Later」**（Ako-chan POV）：S2末から7年後。大人のAko-chanが朝、台所の窓から庭を見る。Dangoが老い（口元の白）て、いつもの場所に伏せている。穏やかな声・異変のない世界。**7年の明示＝"Seven years have passed."**。
-  - モード：静・観察。③：朝の光、紅茶の湯気、濡れた芝、遠くの鳥の声。④：この静けさにまだ慣れていない自分に気づく。
-  - 確定：**S3開幕**。7年明示（現在完了）。年齢は数値で言わない（"grown"等）。Dango＝老い（白い口元）＋まだ隣に。⚠️Obia不在を明言しすぎない（Ep204/207へ温存）。
-  - ✅執筆済み（word_count 278）。Day1。**7年明示＝"Seven years have passed since the long journey ended."**（現在完了showcase）✓。Dango＝老犬ステージ（"His muzzle has turned white around the edges. He is older now, and a little slower. He sleeps more in the daytime than before. But he is still here..."＝**感傷を抑え軽く**・🔧レビューで decline 4文→3文へトリム）。異変なし（"Nothing pulls at the air."＝"pull"モチーフ）。④不在を名指さず＝"Some part of her still waits, soft and small. She does not know what for."（Ep206 Suke-sanの「待つ」と対）✓。🔧レビュー：①"seven years"×2→1／②"still"×4→2（"frost still clings"→"frost lingers"・"tail still thumps"→"tail thumps"）／③ Dango decline トリム＋"A car passes on the far road"で語数中立調整（277→278）。三連 "settled and slow and safe"（1話1回）。
-- **Ep202「The Same Garden」**：庭と動物たちの定位置を描く一日。Dalu＝日溜まりの石／Gabu＝木陰／Suke-san＝Ako-chanの少し後ろ／Luca＝玄関わきの棚の上。何も起きない静けさの価値。
-  - モード：静・観察。③：季節の光の角度、葉を揺らす風、土と草の匂い、各体の重さと位置。④：「何も起きなさ」こそが大切だと静かに伝える。
-  - 確定：定位置（台帳B整合）。同居キャラは"静の存在"として置く（動かさない）。
-  - ✅執筆済み（word_count 282）。Day1。定位置を明示＝**Dalu日溜まりの石/Gabu木陰/Suke-san=Ako-chanの右後ろ/Luca棚/Dango真ん中**（台帳B完全整合）✓。異変収束を過去形で回収＝"For years, there was a pull that never stopped. ... Now there is only this."（"pull"モチーフ・Ep201と連結）。④モードの核＝"The quiet is not empty. It is full."✓。三連/畳語なし。⚠️quiet×3（register・据え置き）。
-- **Ep203「Each of Them」**：成体になった4匹の「現在」を一匹ずつ。Dalu＝先に動くが落ち着いた／Gabu＝静けさが深まる／Suke-san＝見張り→見守り／3匹のリクガメは同サイズ（甲長15cm弱）で見分けは模様と動き。
-  - モード：静・観察（点描）。③：3匹の歩き方・速さ・止まり方、Suke-sanの立ち位置。④：7年が各所作に静かに積もる。
-  - 確定：**3匹同サイズ・模様/動きで識別**（ledger C・S2先輩逆転は決着済み）。Suke-san＝警戒→見守り。
-  - ✅執筆済み（word_count 280）。Day1。**3匹同サイズ＋模様/動きで識別**を正確に実装＝Dalu "bold, deep black on yellow"・先に動く／Gabu "a dark spot on each plate"・"steady, even rhythm"／Luca "a wide net of black"・"a small yellow spot marks each cheek"・止まりながら（world.md整合）✓。Suke-san "Once he watched the world with sharp, wary eyes. ... Now his watching has softened into care."（警戒→見守り回収）✓。3Pod glow 赤青黄。🔧レビュー：①"seven years"×2→1（④"The years sit quietly in each small body."）／③論理段差解消＝"To a stranger's eye, they look almost the same now"（他人には同じ・Ako-chanは識別可、で主体分離）。語数中立調整（276→280）。
-- **Ep204「The Last Line」**（Ako-chan POV）：夜、Ako-chanが赤い日記帳を開く。最後の行は **"Obia—"** で止まったまま（7年）。ペンを持つが書けない。
-  - モード：感情・静。③：ランプの光、赤い表紙、乾いた古いインク、暗い庭。④：日記を閉じる。漂う不在。
-  - 確定：⚠️**"Obia" の名は日記の中だけに現れる例外**（S3唯一の名前許容文脈）。⚠️**続きは書かない**（Ep300で続く＝三段日記）。⚠️首輪/S3秘密leakなし。
-  - ✅執筆済み（word_count 274）。Day2。夜・机・ランプ・赤い日記帳。最後の行 **"Obia—"**（名前の唯一例外）＝"One name, and a long dash after it. 'Obia—'"・書けない（"She has never found the words to follow it."）✓。最初の行は名指さず示唆＝"The first words."（"I have to go."は引用せず）。**「空席で語る」決定が機能**＝④"Something is missing from the sleeping house. She feels it near her, soft and close."（ロボットを名前/epithet/itで指さず不在を外在化）✓。Dango＝引用なし所作のみ（"lifts his head ... He does not understand her stillness. Then he settles his head back down."）✓。⚠️首輪/ループ/未来/Ep1の目 leakなし✓。🔧レビュー：①"seven years"×2→1（"They have not come in all that time."）／②"quiet house"→"sleeping house"（冒頭"the house is asleep"と呼応・quiet×3→2）。word_count中立（274据え置き）。
+### 各話（v2）
+- **Ep201「Years Later」**（Ako-chan POV・改稿）：台所→**庭へ出て朝の挨拶**（方針4の声フロア）。🔒7年明示＝"Seven years have passed since the long journey ended."（現在完了showcase）。声＝Dalu "The stone is warm already!" / "Come and feel it!"／Ako-chan "Good morning, Dalu."／Gabu "...Morning."。Dango＝白い口元・tail thumps・ステップに出る。"Nothing is wrong. Nothing pulls at the air."（pullモチーフ継承）。④v1継承＝"Some part of her still waits, soft and small. She does not know what for."（冒頭フック＝方針7対象外）。wc301。
+- **Ep202「Their Places」**（旧202+203統合）：定位置（Dalu石/Gabu木陰/Suke右後ろ/Luca棚/Dango中央・Pods空で傍ら＝家では外に出る）＋3匹同サイズ・模様/動き識別（Dalu "bold, deep black on yellow"／Gabu "dark spot on each plate"／Luca "wide net of black"）＋Suke警戒→見守り（"softened into care"）。**声**＝Dalu "I was first to the stone today."／Gabu "...You are always first."（軽の微ビート）。Daluくつろぎ＝stretches out（休息姿勢◯）。"Seven years have shaped each one of them."。④"The quiet is not empty. It is full."（v1継承）。wc296。
+- **Ep203「The Last Line」**（旧204・本文無変更・沈黙免除）：Day2。日記 **"Obia—"**（名前の唯一例外）。"Seven years, and the line has not grown."。④"Something is missing from the sleeping house."。wc283。
+- **Ep204「The Empty Place」**（旧207・本文無変更・沈黙免除）：Day3。**空席で語る章の核**（blue glowの不在・動物が避ける習慣）。④"The absence has a shape of its own now."。wc298。
+- **Ep205「A Quiet Day」**（旧205・本文無変更）：Day4。回想＝S1 Ch8「クジラの壁」再話。🔒クジラ逐語（S1 Ep59）＝**"This way," it said. "Follow us. Go where we go."**。過去進行showcase。tic枠使用（again and again）。wc278。
+- **Ep206「Suke-san at the Door」**（旧206・本文無変更・動物POV）：Day5。🔒**"Quiet," he says ... "The world is quiet now."**（Ako-chanが内から聴く）。④空いた場所への視線。wc273。
+- **Ep207「To the Park」**（旧209+210統合＋Kara-san初登場・章クローザー）：Day7。公園＝**長年の習慣**（"They have walked here for a long time."＝旧209準拠・「導入」ではない）。隊列＝Dango前/Suke後/3Pod中央（赤青黄）。**Kara-san確立＋🔒初台詞**＝"You are late today," ... "The bench was cold without you." ／ "Hm. Afternoon. Quiet sky. Nothing wrong."。"Day after day"＝X-after-X慣用。④🔒少年の人影（旧210逐語継承）＝"Far across the park, someone stands alone. A still figure, watching from the trees. Ako-chan does not know him yet. But there he is, quiet in the distance."。next_ep=/season3/chapter26/ep208/（Ch26移行時に実体化）。wc282。
 
-### Day 3〜5 — 回想・見守り・不在・Luca
-- ★**【次バッチ Ep205-210 への申し送り】"seven years" モチーフ予算**：Ch25で既に Ep201/203/204 に各1回配置済み（章で十分効いている）。**Ep205-210 では原則 "seven years" を使わない**（重複回避）。同様に register 語（quiet/still/soft/calm）も1話内で近接3回以上は変奏する。
-- **Ep205「A Quiet Day」**（回想／Ako-chan POV）：何気ない所作/音がS1/S2の記憶を呼ぶ。例＝窓を打つ雨→S1の大嵐と船を守ったクジラの声。A2-B1で短く再話（上位レベル再読）。
-  - モード：静・回想。③：窓の雨、暖かい部屋、今の静けさと記憶の轟音の対比。④：記憶は痛くない。ただ静かに在る。
-  - ✅執筆済み（word_count 278）。Day3。回想＝**S1 Ch8 Ep56-59「クジラの壁」**（南下中の大嵐・クジラが船を輪で囲み波を受け夜を導く）をA2-B1で再話＝上位レベル再読✓。🔒**クジラ逐語（S1 Ep59）＝"This way," it said. "Follow us. Go where we go."**（クジラ=it・S1準拠）✓。**相棒を出さず**（嵐/クジラ中心）＝極小参照を自然に満たす✓。過去進行形showcase＝"They were sailing south across a cold sea."。④痛みの昇華＝"The memory does not hurt her now. ... It rests in her, deep and calm."。三連 "high and dark and wild"（1話1回）／畳語tic "again and again"（**Ch25の reduplication-tic 1回枠を使用→Ep208-210は別ticを使わない**）。🔧レビュー：warm×4→3（"hushed and warm"→"hushed and dim"）。⚠️S1 Ep1の「目」不使用✓。
-  - 確定：⚠️**S1 Ep1の「目」は核ゆえ使わない**。⚠️回想内でも**名前禁止・極小参照**（クジラの声/嵐中心・相棒は出さない）。クジラ🔒**逐語＝S1 Ep59「Cold and Clear」**＝*"This way. Follow us. Go where we go."*（⚠️旧版の "North/Go north" は writing-guide §5の例示文を誤記したもの＝**S1本文には存在しない**。回想する嵐＝S1 Ch8 Ep56-59「クジラの壁」／南下中の大嵐・クジラが船を輪で囲み波を受ける）。
-- **Ep206「Suke-san at the Door」**（動物POV・Ako-chanが聴く）：Suke-sanが玄関のそばで世界の静けさを見張る。警戒の鋭さ→穏やかな見守り。それでも何かを待っている（自分でも分からない）。
-  - 🔒台詞（Suke-san）：*"Quiet. The world is quiet now."*
-  - モード：静・観察（動物POV）。③：戸口の冷たい石、外の物音、Suke-sanの耳の動き、夕方の匂い。④：Suke-sanが空いた場所をちらりと見る（不在＝空席で示唆）。
-  - 確定：🔒Suke-san逐語（S3文法OK）。⚠️**「灰色」不使用**（動物の知覚ではない）。④の「空いた場所」＝極小参照（名前出さない）。
-  - ✅執筆済み（word_count 273）。Day4。動物POV（Suke-san）・夕暮れの戸口。🔒**Suke-san逐語＝"Quiet," he says ... "The world is quiet now."**（Ako-chanが内から聴く）✓。警戒→見守り＝"Long ago, he watched for danger. ... His sharp old watching has turned gentle. Now he keeps watch the way a friend does."✓（"would lift"=would・S2／"has waited"=現在完了）。④**不在を空席で示唆**＝"He looks at the place where no one stands."（名前/it出さず＝Ep207への布石）✓。⚠️「灰色」なし✓・S3秘密leakなし。🔧レビュー：quiet×4（うち2は🔒台詞）→地の文 "quiet of dusk"→"hush of dusk"（narration quiet 1に）。
-- **Ep207「The Empty Place」**：かつて相棒がいた場所——庭の隅・Ako-chanの隣・夜の見張りの位置（S1定位置）。誰も埋めない。動物も避けて通る。
-  - モード：感情・不在（**章の核＝極小参照／空席で語る**）。③：空いた空間、何も置かれない地面、光の当たり方、風の通り道、消えた青い光（blue glow）。④：不在が形を持って残っている。
-  - 確定：⚠️**名前/epithet/it を前景化しない＝空席・blue glowの不在・誰も座らない位置で描く**（ユーザー選択）。S1定位置＝小屋のそば・夜の見張り・隣（Ep198の**構図**を継ぐが**S3は名前不可**・⚠️**文面はEp198と逐語重複させない**＝経年質感で書き分け・2026-07-02）。⚠️首輪は出さない。
-  - ✅執筆済み（word_count 298）。Day5。**章の核＝「空席で語る」決定の実装が見事**。S1定位置（小屋の隅・夜の見張り・Ako-chanの隣）を**消えた青い光（blue glow）を媒介**に描く＝"On dark nights, a pale blue glow shone there. ... But no glow rises in that corner now."（名前/epithet/ロボット指示の"it"を前景化しない）✓。動物が避ける所作＝もう考えずに避ける習慣（"By now, they move around it without a thought. Their feet simply know the shape to avoid."）＋Dango/Suke-san/Luca。④**不在の形象化**＝"The absence has a shape of its own now. It waits there, quiet, where the glow used to be."✓。⚠️首輪/S3秘密leakなし✓。⚠️**2026-07-02 重複解消**：S2 Ep198「The Empty Garden」（不在の初出＝正）と冒頭段落・動物回避4文がほぼ逐語一致していたため、**Ep207側を「不在が風景になった7年後」のB1質感に書き分け**＝冒頭を経年ディテール（"the ground has stayed bare for years"／霜が同じ形をなぞる）へ、動物回避を「習慣化＝考えずに避ける」へ変奏（Ep198は据え置き）。B1で現在完了使用可。word_count 274→298（B1レンジ内）。🔧旧レビュー：cold×5→3・quiet×4→3。
-- **Ep208「Luca in the Sun」**：Lucaの静けさ。日溜まりをゆっくり横切り、止まり、また動く。今はDalu/Gabuと同サイズ。Ako-chanがプーリアの白い石壁を思い出しかける（S2 Ep103への淡い接続）。
-  - モード：静・観察。③：日向の暖かさ、甲羅に当たる光、Lucaのゆっくりした足、止まる時間の長さ。④：積み重なった時間がLucaの静けさに宿る。
-  - 確定：Luca＝she・同サイズ。⚠️**プーリア（Ep103）は淡い回想に留める**（深追いしない）。先輩逆転は再説明しない（決着済み）。
-  - ✅執筆済み（word_count 275）。Day5。Lucaの静けさ＋同サイズ（"She is as large as Dalu and Gabu now."）。プーリア淡い回想＝"she remembers white stone walls. A dry, warm wind. A small tortoise in the sun. ... Then it fades."（S2 Ep103・深追いせず）✓。現在完了showcase＝"So much time has passed since that first day."。④**basking姿勢＝"She stretches her legs out, loose and easy."**（[[tortoise-resting-posture]]＝くつろぎは四肢を伸ばす・引っ込めない／ユーザー指摘で修正済み）✓。🔧レビュー：warm×4→3（"warm light"→"bright light"）／"for a long time"→"for a long while"（Ep209との重複回避）。
-
-### Day 7〜9 — 公園の導入（次章への助走）
-- **Ep209「The Park」**：Ako-chanが動物たちを近くの公園へ連れていく（舞台導入）。緑・ベンチ・木立・遠くの人々。Dango先頭／Suke-san後ろ／3匹はそれぞれのPod（赤青黄）で進む。
-  - モード：動・観察（場の導入）。③：公園の広さ、芝の匂い、子どもの声、木漏れ日、3つのPodの発光（赤・青・黄）。④：ベンチに座ると皆が各々の場所に落ち着く。ここがこれからの場所になる。
-  - 確定：3Pod並走＝赤(Dalu)・青(Gabu)・黄(Luca)（ledger C）。Suke-san定位置。⚠️少年はまだ出さない（Ep210章末で人影）。
-  - ✅執筆済み（word_count 276）。Day7。**舞台＝公園を導入**。隊列＝Dango前/Suke-san後/3Pod中央（"Dalu's glows red, quick and eager. Gabu's glows blue, steady and even. Luca's glows yellow, slow and calm."＝色×性格 完全整合）✓。"A few people turn to look"で人の気配導入。三連 "wide and green and open"（1話1回・S2 Ep194 "wide and green and wet"の近縁だが別話で可）。⚠️少年は未登場（Ep210へ）✓。🔧レビュー：softly×3→2（"crunch softly"→"crackle"）／easy×3→2（"slow, easy breath"→"slow, deep breath"）／calm×3→2（"calm and open"→"still and open"）。
-- **Ep210「Just a Walk」**：公園の日課が定着する数日を軽いテクスチャーで。同じベンチ・木立・時間。特別なことは起きない。**章クローザー＝公園の向こうに少年の人影**（次章Grey and Redへの助走）。
-  - モード：静・観察（章クローザー）。③：日ごとに変わる空の色、葉の落ち方、ベンチの木の感触。④章クローザー：いつもの午後。だが公園の向こうに、ひとりの人影が立っている——少年だ。
-  - 確定：⚠️**少年＝人影のみ（接触/視点なし）**。相貌失認・赤い光はCh26で開始。章末リンク：next_ep＝/season3/chapter26/ep211/（Ch26 Ep211執筆時に相互リンク）。
-  - ✅執筆済み（word_count 271）。Day9。**Ch25章クローザー**。sameness を畳みかけて日常をlull（"same"motif＝意図的・🔧で1つ間引き）→④**少年の人影**＝"Far across the park, someone stands alone. A still figure, watching from the trees. Ako-chan does not know him yet. But there he is, quiet in the distance."✓。**外部視点の人影のみ**（接触/少年POV/赤い光/灰色なし＝Ch26温存）・"him/he"＝少年は男性で性別は秘密でない✓。"Day after day"＝X-after-X慣用（and-tic枠を侵さない）。⚠️S3秘密leakなし✓・章末next_ep空欄（Ch26 Ep211で相互リンク）。🔧レビュー：quiet×3→2（"quiet voices"→"soft voices"・"quiet in the distance"温存）／"same"1つ間引き（"at the same hour"→"at their usual hour"）。
-
-<!-- Ch25（Ep201〜210）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧レビュー追記済み（Phase C×3バッチ）。Phase D完了：ep201.prev_ep=ep200／**ep200.next_ep=ep201 更新済み（S2→S3 連結）**／章末 ep210.next_ep 空欄→Ch26 Ep211で相互リンク。s3_titles[0]="The Quiet Years"確認済み。 -->
+<!-- Ch25 v2改稿完了（2026-07-08）：7話・旧208-210削除・word_count実測反映・リンク連鎖確認済み（201 prev=S2 ep200 不変）。旧→v2対応は s3-episode-list-v2.md 参照。次＝Ch26（v2 Ep208〜215）。 -->
 
 ---
 

@@ -25,6 +25,7 @@
 | **Colonel Adelie（名前）** | **Ep67** で本人が名乗る：*"I am Colonel Adelie."* | Ep67名乗り前：「a new shape / the new bird / it」 | 命名後は地の文 "the Colonel / he"。S2で General に昇進（S1はColonel）。登場＝Obia監視弧の開始。⚠️**Adelieが名"Obia"を知る根拠＝Adelieの視線がObiaに固定された流れでAko-chan自身が告げる**（*"That is Obia," says Ako-chan.*→Adelie *"Tell me about Obia."*）＝Obiaの名は一行しか知らないが、Ako-chanが告げるのは自明で自然（⚠️旧案「Pen-sanが渡す」はEp65-66でObia不在＝Pen-sanが名を知る描写がなく唐突だったため撤回・確定2026-06-29）。"the little one"＝Pen-san（直前に *"He looks down at Pen-san."*）。**外見は "tall" 不可・"small/straight"で統一**（tall/small矛盾回避） |
 | 赤い首輪の正体（起源を伏せる） | **全シーズン明かさない**（⚠️確定2026-06-27ユーザー指示で「Ako-chan作」説を**撤回**） | S1では「Obiaが元から付けている赤い首輪」。**作中初出＝Ep3外見描写**（*"It wears a red collar."*）／**Ep68再描写**（*"...as always."*）＝Ep76託し・Ep78「they all know this red collar well」の布石（追加2026-06-29・旧Ep76初出の唐突さを是正）。意味・素性は語らない | ⚠️**作者/起源を回収しない**＝bootstrapループ（Ep184でObiaがAko-chanに残す→Ch32でAko-chanが新ロボットに付ける→過去でS1 Obiaの首輪に＝同一物が循環・起点なし・world.md §3） |
 | **Luca（名前）** | **読者初対面＝S2 Ep102**（設定上はS2開始時点で同居済みの家族。Ep101には登場させない＝紹介をEp102に集約） | — | 出会いはS2開始直前のプーリア（Ep103で回想）。**地の文の代名詞＝"she"**（命名前の回想内のみ "it"／確定 2026-06-26）。**ごく短い台詞を稀に許す**（基本は所作・静止） |
+| **Kara-san（名前）** | **S3 v2 Ep207**で接地（*"Ako-chan gave him his name years ago"*＝7年ギャップ中のオフページ命名・Pen-san式のAko-chan付与） | 登場前は言及しない | S3 v2新レギュラー（公園のカラス・♂）。register＝ぶっきらぼう・実利（虫/パン）・少し偉そう。**口癖 "Quiet sky. Nothing wrong."**（Ep207/213）。地の文 "Kara-san / he"。1話1〜3行まで（出しゃばらせない） |
 | Obiaの暗号記憶／使命 | 発見＝**S2 Ep106**／復号開始＝**Ep136(Ch17)** | S1では存在も伏せる | Ep106で「読めない記憶がある」まで。使命内容（声を救え）はCh17まで明かさない |
 | 飛行艇・ミニPod・タイムマシン・跳躍 | 各確立回まで先取り禁止 | — | ミニPod=Ep109／飛行艇=Ep116完成／タイムマシン=Ep135／使命=Ep138。**Ch13では一切名指ししない** |
 
@@ -175,18 +176,20 @@
 
 ### S3（Ch25〜・追加）
 
+> ⚠️**v2リナンバリング進行中（2026-07-08〜）**：S3の旧Ep番号は `s3-episode-list-v2.md` の各章表で読み替える。**移行済み＝Ch25（v2 Ep201〜207）**。未移行章の旧番号記載は移行時に順次更新。
+
 | 対象 | 確定値 | メモ |
 |------|--------|------|
 | **「Obia」の名前（S3全章）** | **本文で一切使わない**（少年は名を知らない）。唯一の例外＝**Ako-chanの日記**（Ep204 "Obia—"／Ep300 続き） | ロボットは無名で扱う。動物が旧友と認識する場面(Ch31/33)でも名前は出さず所作で。計画文書の「Obia」は便宜表記 |
 | **S3回想内の引用（名前部分の置換）** | 逐語引用ルールと名前禁止が衝突する場合、**名前部分のみ "it"/"the friend" 等へ置換可**（それ以外は逐語のまま）。例＝Ep232 *"I trust it"*（S1 Ep79 *"I trust Obia"* の名前禁止下での再話・timeline:1831承認） | S3回想でS1/S2の🔒台詞を引くときの標準。名前以外は改変しない（追加2026-07-02・監査 要確認より） |
-| **不在の相棒の呼称（Ch25・確定2026-06-27ユーザー選択）** | **極小参照／空席で語る**＝名前・epithet("the silver one/their old friend")・"it" を**前景化しない**。空いた場所・消えた青い光(blue glow)・誰も座らない位置・動物が避ける所で「不在そのもの」を描く | Ep207「The Empty Place」が核。⚠️[[obia-absence-name-over-pronoun]]はS2向け(名前で綴る)＝S3は名前不可ゆえ**物/空間で示す方針へ転換**。例外＝日記(Ep204)のみ "Obia—" |
+| **不在の相棒の呼称（Ch25・確定2026-06-27ユーザー選択）** | **極小参照／空席で語る**＝名前・epithet("the silver one/their old friend")・"it" を**前景化しない**。空いた場所・消えた青い光(blue glow)・誰も座らない位置・動物が避ける所で「不在そのもの」を描く | v2 Ep204（旧207）「The Empty Place」が核。⚠️[[obia-absence-name-over-pronoun]]はS2向け(名前で綴る)＝S3は名前不可ゆえ**物/空間で示す方針へ転換**。例外＝日記(v2 Ep203・旧204)のみ "Obia—" |
 | **S3文法ティア解禁（Ch25〜）** | 過去進行形(was/were doing)・現在完了形(have/has done)・**限定的**関係代名詞節(who/which/that＝心理/説明に限り) | 引き続き禁止：過去完了形(had done)・仮定法・分詞構文。1文≤15語(最大18語)・語彙≤2500。Ep201で現在完了の showcase＝"Seven years have passed." |
 | **7年の時間跳び（Ch25・確定2026-06-27ユーザー選択）** | **明示**＝*"Seven years have passed."* 型で年数を書く | S2末Day46→S3開幕。Ako-chanの年齢は**数値で言わない**(§5・"grown"等)。Dango＝老い(白い口元)＋まだ隣に |
-| **S3 Day割付ベース** | **S3も季開幕＝Day1から数え直す**(S1/S2同様"季の開幕＝Day1"・timeline L765準拠)。Ch25＝Day1〜10(loose・非減少) | 7年の経過は**Ep201の地の文**("Seven years have passed.")で示し日数管理しない。season跨ぎでstory_dayはリセット(S1=Day1〜121／S2=Day1〜46／S3=Day1〜) |
+| **S3 Day割付ベース** | **S3も季開幕＝Day1から数え直す**(S1/S2同様"季の開幕＝Day1"・timeline L765準拠)。v2 Ch25＝Day1〜7(loose・非減少・移行済み) | 7年の経過は**Ep201の地の文**("Seven years have passed.")で示し日数管理しない。season跨ぎでstory_dayはリセット(S1=Day1〜121／S2=Day1〜46／S3=Day1〜) |
 | **S3リクガメ3匹のサイズ（Ch25〜）** | Dalu/Gabu/Luca＝7年で**ほぼ同サイズ(甲長15cm弱)・ぱっと見見分け不可**。識別＝①模様(Dalu黄×黒強/Gabu黄+中央黒斑/Luca網目状黒・頭側面黄斑)②動き(Dalu全力→高速/Gabu一定リズム→安定/Luca止まりながら) | ⚠️**S2「Luca最小5cm」「先輩逆転(Ch24)」は決着済み**＝S3は3匹同サイズ。移動は常にPod(赤/青/黄) |
 | **S3のPod（サイズ継承）** | 3匹の成長（甲長15cm弱）に合わせ、PodはS2帰還後〜S3の間にAko-chanが**作り直した**（オフページ）。特にLucaのミニPod（S2＝5cm用）は作り直し必須 | ⚠️**本文では説明しない**（Ep255 "Her Hands Remember" の身体記憶と整合・オフページ処理）。色（赤/青/黄）と「お気に入り」の連続性のみ保つ。少年POVでは "small glowing carts"（追加2026-07-02・監査 要確認 軸Gより） |
 | **Suke-sanの変化（S3）** | 警戒(S1)→**見守り(S3)**。鋭さは消え穏やかな見張りへ。それでも何かを待つ(Ep206) | 定位置＝Ako-chanの右・少し後ろ(不変)。🔒Ep206 *"Quiet. The world is quiet now."* |
-| **Ch25 一行・配置/伏せ** | **6**(Ako-chan・Dango・Suke-san・Dalu・Gabu・Luca)＋3Pod(赤=Dalu・青=Gabu・黄=Luca)。人数固定(逓増逓減なし)。Pen-san/Adelie/Obia不在 | ⚠️**赤い首輪は出さない**(Ako-chan手元にあるがCh32 Ep277-280の回収温存)。⚠️**少年はEp210で人影のみ**(相貌失認・赤い光はCh26〜)。⚠️「灰色」は少年知覚専用＝動物/地の文で不使用 |
+| **Ch25 一行・配置/伏せ** | **6**(Ako-chan・Dango・Suke-san・Dalu・Gabu・Luca)＋3Pod(赤=Dalu・青=Gabu・黄=Luca)。人数固定(逓増逓減なし)。Pen-san/Adelie/Obia不在 | ⚠️**赤い首輪は出さない**(Ako-chan手元にあるがCh32 Ep277-280の回収温存)。⚠️**少年はv2 Ep207（旧210）で人影のみ**(相貌失認・赤い光はCh26〜)。⚠️「灰色」は少年知覚専用＝動物/地の文で不使用 |
 
 ### S3 Ch26（Grey and Red・少年POV導入・追加）
 
