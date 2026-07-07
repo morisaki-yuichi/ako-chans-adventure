@@ -1774,74 +1774,28 @@
 
 ---
 
-## Chapter 32「The Parting」— 別れ・赤い首輪（Ep273〜282・10話）
+## Chapter 32「The Parting」— 別れ・赤い首輪（Ep262〜271・10話・★v2改稿済み）
 
-**Ch32 共通**
-- ★**別れの章＝S3最重要の感情回収**。少年が旅立ちを告げる→Lucaが離れない→**Suke-sanの最後の視線（🔒）**→Dangoの最後の譲歩→**Ako-chanが赤い首輪をロボットにつける（Ep277-280＝keystone）**→少年は理由を聞かない→**赤がすべてを語る（Ep281）**→少年とロボットが白い大陸へ旅立つ（Ep282章クローザー＝Ch33 南極へ）。
-- ★**赤い首輪の handling（確定 2026-06-27ユーザー指示＝起源を伏せる）**：
-  - **首輪＝Ep184でObiaがAko-chanに残した同一物**（S2末 Obia *"Keep this. I do not know why. But it is important."*／Ch25-31は温存で未登場）。Ako-chanが**それを取り出して**新ロボットにつける（Ep277取り出し／Ep278装着）。
-  - ⚠️**「いつ・誰が作ったか」は伏せる＝「Ako-chanが作った」とは描かない**（bootstrap ループ＝起源なし・world.md §3「ループの起点は回収しない」）。⚠️**旧 s3.md「赤い首輪はAko-chanが作った（S3で判明）」は本指示で上書き**（首輪は同一物が循環）。
-  - ⚠️**Ako-chanは理由が分からないままつける**（無意識の衝動＝Ch29-31の牽引の最終形・**Obia自身の "I do not know why" と同じ register**）。**意識的にループを閉じない/「同じ首輪だ」と言語化しない**。読者だけがループを閉じる。
-  - シンプルな赤い首輪（機械仕掛けでない）。⚠️**"Obia"不使用**・robot/名前不使用（少年POVは中立語）。
-- ★**🔒台詞（Ep275）**：Suke-san *"Go. We will remember."*（**S1クジラ "We will not forget"／S2マイオラニア "We will not forget" の carrying-forward 誓いモチーフと連なる**・かつて人/Obiaを警戒したSuke-sanの到達点＝容認）。
-- ★**Dangoの最後の譲歩（Ep276）**：独占欲のDangoが一歩下がる＝最大の敬意（嫉妬アークはCh30 Ep259で解消済み＝ここはその到達点・もう割って入らない・静かに見守る）。⚠️Dango引用なし。Ako-chanがその一歩の意味を分かる。
-- ★**Lucaが離れない（Ep274）**：Podを降りて少年の足元にぴたりとつく。プーリアで誰のものでもなかったリクガメ（S2 Ep103）が別れを惜しむ。Luca=she・所作（稀に短い台詞可）。
-- ★**Ep280 回想（首輪の情の歴史・無意識）**：Ako-chan POVで首輪の history（S1で凍ったObiaにつけ直した再会の象徴／Ep184でObiaが渡した "I do not know why"）を**淡い疼き**として重ねる。同じ赤・同じ手・同じ無言。⚠️**起源を closeしない・"作った"と言わない・"Obia"不使用・"the one who is gone"型・因果接続しない**。
-- ★**少年の知覚（継続）**：顔=灰色／Ako-chan=赤い光（接近しても不変）。Ep281＝赤がすべてを語る（言葉なし）。**grey=少年POV専用**。少年=terse/ほぼ無言（別れは所作・沈黙で）。名前未交換（最後まで名乗らない）。
-- ⚠️**行き先＝白い大陸（poetic）**：Ep282 "the white continent / the cold white land" へ。⚠️**"Antarctica"/"洞窟"は明示しすぎない**（Ch33で開示・南/白い大陸まで）。少年はAko-chanに行き先を詳しく告げない（Ep273）。
-- ⚠️**季節＝早春**。別れ＝朝。異変なし。Luca=she。⚠️"He…"文頭散らす・最長文≤11偏り回避・フラット副詞-ly（Ch29-31教訓）。
-- 語り規約：少年＝"the boy"/"he/him"（無名・terse/無言）／Ako-chan＝少年POV"the red light"・Ako POV"Ako-chan"／ロボット＝中立語/物理特徴（silver・blue-white eyes）／首輪＝"a small red collar / the red collar"／Dango引用なし／Suke-san🔒(Ep275)／Luca=she。一行＝6＋3Pod（見送る）。
-- Day割付：Ch31末＝Day96。Ch32＝**Day97〜98（loose・早春の朝）**＝273=97（告げる）／274-282=98（旅立ちの朝・連続）。
+**Ch32 共通（v2再設計 2026-07-08 改稿反映）**
+- ★v2＝10話（数は不変・-11リナンバー）：旧273→**262（＋評議⑤決着）**／旧274→263／旧275→264／旧276→265／旧277→**266（方針7密集解消）**／旧278→**267（★方針7アンカー②維持・④集約）**／旧279→268（「聞かない」の集約先＝無変更）／旧280→**269（方針7所作変換）**／旧281→270／旧282→271。Dayは旧値継承（97・98×9）。
+- ★**評議⑤決着（Ep262）**：🔒 Dalu "Do we tell her?" "What we think it is?"／Gabu **"She knows more than we do," ... "Her hands knew."**／Suke-san＝無言でAko-chanの側へ（動物たちは**言わないことを選ぶ**＝評議①212→②227→③243→④255→⑤262の完結）。声はPod間で低く＝Ako-chanの目は少年に（聴取は確定しない）。
+- ★**方針7＝Ch32密集の解消**：「説明しない・聞かない」の明示は**268（No Reason Asked）に集約**。266＝"No one says where it came from. No one says who made it, or when." 削除→所作（親指が赤い帯をなでる）。267＝アンカー②（*"She has no clear memory of such a moment, and yet her hands are certain."*）のみ残し、④の "He does not know what it means. He does not ask." を削除（268が担う）＋**Kara-san無言のカメオ**（"High in the bare tree, Kara-san watches, and for once says nothing."）。269＝"She does not know its name."／"She does not know why she kept it"／④の "She cannot say why…"×2 を所作へ（palm を collar に当て・立って膝を払う）。270は据置（無言＝主題そのもの）。
+- ★v1決定を全継承：首輪の起源は伏せる（bootstrap・Ep184の同一物・"作った"と書かない）／Suke-san🔒 "Go. We will remember."／Dango引用なし（一歩下がる＝最大の贈り物）／Luca＝Podを降りて足元（プーリア回収）／行き先は"白い大陸"poetic（"Antarctica"明示しない）／grey=少年POV専用。
+- Day割付（v2）：**Day97〜98**＝262(97)・263〜271(98＝別れの朝)。季節＝春。
 
-### Day 97〜98 — 旅立ちを告げる・動物たちの別れ
-- **Ep273「The Day Comes」**（中立）：別れの日が来る。少年はロボットを連れて旅立つことをついにAko-chanたちに告げる。どこへ・なぜ——多くは語らない。Ako-chanも深くは聞かない。
-  - モード：感情・観察。③：荷物、青白い目、集まる動物、朝の光。④：誰もが何かが終わり何かが始まると感じる。
-  - 確定：⚠️行き先詳細を語らない。Ako-chanも深追いしない。
-- **Ep274「Luca Holds On」**（中立／Luca）：Lucaが少年のそばを離れない。Podを降りて足元にぴたりとつく。動かない。プーリアで誰のものでもなかったリクガメが別れを惜しむ。
-  - モード：感情（所作）。③：足元のLuca、Podを離れた小さな体、少年の靴、止まった時間。④：少年はしゃがんでLucaを見る。言葉はないが何かが通う。
-  - 確定：Luca=she・プーリア(Ep103)参照。所作中心。
-- **Ep275「Suke-san's Last Look」**（動物POV）：Suke-sanが最後に少年を見る。かつて人/Obiaを警戒したSuke-sanが。じっとまっすぐに。それは認めるという意味。
-  - 🔒台詞（Suke-san）：*"Go. We will remember."*
-  - モード：感情・観察（動物POV）。③：Suke-sanの立ち姿、三角の耳、まっすぐな視線、朝の冷気。④：少年はその視線に送り出されていると感じる。
-  - 確定：🔒逐語。**carrying-forward誓いモチーフ**（"We will not forget"系）。grey不使用。
-- **Ep276「Dango Steps Back」**（中立）：Dangoが一歩下がる。独占欲のDangoなりの最大の敬意。少年とAko-chanの間にもう割って入らない。ただ静かに見ている。
-  - モード：感情・観察。③：Dangoの位置、白い口元、下がった一歩、Ako-chanの足元の空間。④：Ako-chanはその一歩の意味をよく分かっている。
-  - 確定：嫉妬アーク到達点（解消はEp259）。⚠️Dango引用なし。
+### 各話（v2）
+- **Ep262「The Day Comes」**（旧273改稿・評議⑤）：D97。旅立ちの告知（🔒少年 "I am going away," "I am taking it with me."）＋動物たちの決着。wc305。
+- **Ep263「Luca Holds On」**（旧274・本文無変更）：D98。wc271。
+- **Ep264「Suke-san's Last Look」**（旧275・本文無変更）：D98。🔒 "Go," ... "We will remember."。wc284。
+- **Ep265「Dango Steps Back」**（旧276・本文無変更）：D98。一歩下がる。wc270。
+- **Ep266「Something Red」**（旧277改稿）：D98。首輪の登場・メタ標示を所作へ。wc270。
+- **Ep267「The Red Collar」**（旧278改稿・★アンカー②）：D98。無言の装着（沈黙免除）。wc277。
+- **Ep268「No Reason Asked」**（旧279・本文無変更・集約先）：D98。wc273。
+- **Ep269「The Same Red」**（旧280改稿・方針7）：D98。S1装着×Ep184受領の二重回想・所作で閉じる。wc278。
+- **Ep270「No Words」**（旧281・本文無変更）：D98。wc276。
+- **Ep271「They Leave」**（旧282・本文無変更・章クローザー）：D98。南へ。next_ep=/season3/chapter33/ep272/（Ch33移行時に実体化）。wc275。
 
-### Day 98 — 赤い首輪（★keystone・起源を伏せる）
-- **Ep277「Something Red」**（中立／Ako-chan）：Ako-chanが何かを持ってくる。小さな赤い首輪。機械仕掛けでない、シンプルな赤い首輪。**どこから来たのか・いつ作られたのか、誰も言わない**。少年も初めて見る。
-  - モード：感情・観察。③：Ako-chanの手の中の赤、朝の光、近づく足音、見守る動物。④：Ako-chanはまっすぐロボットに歩み寄る。
-  - 確定：⚠️**「作った」と描かない・起源を伏せる**（＝Ep184でObiaが残した同一物）。少年も初見。
-- **Ep278「The Red Collar」**（中立・★keystone）：Ako-chanが何も言わずロボットの首に赤い首輪をつける。自発的に。静かに。——これがS1/S2でロボット（Obia）が"もともとつけていた"あの赤い首輪。すべての始まりがここにある。
-  - モード：感情（keystone）。③：首にかかる赤、Ako-chanの指、青白い目、止まる全員の動き。④：首輪はただそこにある。問いも答えもなく。
-  - 確定：⚠️**keystone回収**。⚠️**起源/作者を明かさない・"Obia"不使用・ループを地の文で説明しない**（読者が繋ぐ）。
-- **Ep279「No Reason Asked」**（中立／少年）：少年は理由を聞かない。なぜ赤い首輪なのか。なぜ今なのか。聞かない。Ako-chanも何も言わない。二人の間に言葉はいらない。
-  - モード：感情（沈黙）。③：沈黙、赤い首輪、見つめ合わない二人、朝の光。④：少年はその首輪がAko-chanの大切な何かだとただ感じる。
-  - 確定：問わない/語らない。少年=無言。
-- **Ep280「The Same Red」**（回想／Ako-chan POV・★無意識）：S1/S2を知る読者にとってこの瞬間にすべてが繋がる。——Ako-chan POVで首輪の情の歴史（S1で凍った"the one who is gone"につけ直した再会／Ep184で渡された "I do not know why"）を**淡い疼き**として重ねる。同じ赤・同じ手・同じ無言。
-  - モード：感情・回想。③：二つの場面の赤の重なり、雪と庭、同じ仕草。④：Ako-chanは**自分がなぜこれをするのか説明できない**（理由も起源も言葉にならない）。
-  - 確定：⚠️**起源を closeしない・"作った"と言わない・"Obia"不使用・因果接続しない・ループ非説明**。Obiaの "I do not know why" と同じ register。
-
-### Day 98 — 言葉なき別れ・旅立ち（章クローザー）
-- **Ep281「No Words」**（少年POV）：少年はAko-chanを見た。顔は見えない——いつものように灰色の中の赤い光。でも今はその赤がすべてを語っている気がする。言葉はなかった。少年も何も言わなかった。
-  - モード：感情。③：赤い光、少年の止まった呼吸、首輪をつけたロボット、朝の静けさ。④：少年はこの赤をずっと忘れないだろうと思う。
-  - 確定：少年POV＝"the red light"。赤がすべてを語る（言葉なし）。
-- **Ep282「They Leave」**（中立・章クローザー）：少年とロボットが南極へ向かって旅立つ。Ako-chanは同行しない。動物たちが見送る。Lucaが最後まで少年の方を見ている。
-  - モード：感情（章クローザー）。③：遠ざかる二つの姿、振り返らない少年、見送る赤い光と動物、開けた空。④章クローザー：赤い首輪をつけたロボットが少年とともに白い大陸へ向かう（Ch33＝南極・洞窟へ）。
-  - 確定：⚠️**行き先＝白い大陸（poetic）・"Antarctica"/"洞窟"明示しすぎない**。章末リンク：next_ep＝/season3/chapter33/ep283/（Ch33 Ep283執筆時に相互リンク）。**章頭 ep273.prev_ep=/season3/chapter31/ep272/／Phase Dで ep272.next_ep=ep273 更新**。
-
-### ✅ Ch32 執筆完了（Phase C 一括レビュー・2026-06-27）
-- **全10話 ✅執筆済み**（word_count：273=283／274=271／275=284／276=270／277=274／278=276／279=273／280=279／281=276／282=275・全話270-330内）。Day97-98（早春の朝）。
-- **device 規律＝完璧・過去完了0（5章連続）**：ロボット＝中立語/物理特徴・**robot/Obia/名前=0**・少年POVは"the red light"・grey=少年POV専用・destination poetic（Antarctica/cave/penguin=0）。
-- **★赤い首輪 keystone＝決定どおり起源を伏せる**：Ep277 *"No one says where it came from. No one says who made it, or when."*（"made"は否定のみ）。Ep278 装着＝無言・**"as if they have done this somewhere long before. She has no clear memory of such a moment, and yet her hands are certain."**＋"as though it has always belonged there. And maybe, somehow, it always has."＝**無意識・ループを地の文で説明せず読者にcue**。"Obia"不使用・"she made it"なし。
-- **Ep280 回想＝因果接続なし**：S1救出（"the one who is gone"・雪・つけ直す）＋Ep184（"a voice she loved… 'I do not know why,' … 'But it is important.'"＝逐語エコー）の二つの淡い記憶→**"She cannot say why she has done this… But her hands knew, even when she did not."**（"same collar"断定なし・意識的にループ閉じない）。
-- 🔒Suke-san *"Go. We will remember."*（Ep275・carrying-forward誓い）逐語／Dango引用なし（所作・一歩下がる Ep276）／Luca（Ep274 足元）。
-- 🔧**Phase C ポリッシュ（ユーザー承認 2026-06-27）**：Tier1（hard）＝ep279 19語文を分割。Tier2＝ep275 "the silver friend"→"the one who came from far away"（Ch28 Ep232と同じ device整合・"silver"距離化語を回想呼称から除去）。＋ロボット呼称 "machine"→"the silver one"（ep279×2/ep281×1＝Ch29-31の一貫呼称に統一・**"the machine"はCh33タイムマシン用に温存**／ep277 "nothing of the machine"=機械仕掛けの意で据置）。再スキャン：floor≥270・最長文≤18・過去完了0・Obia/robot 0通過。word_count再計算（275→284/279→273/281→276）。
-- ★**首輪 doc 整合（このターン）**：s3.md「Ako-chan作」撤回／s2.md に Ep184 handoff を明文化（実本文 ep184/185 と一致確認）／ledger 2箇所修正。**起源＝bootstrapループで回収しない**で全 planning doc 統一。
-- 🔧**首輪 doc 整合の残存漏れ解消（2026-07-02）**：監査で検出した「正体（Ako-chan作）」等の positively-assert 箇所を一括是正＝s1.md:61／chapter-workflow.md:98／ledger（S2末秘密の伏せ行）／s3-episode-list.md:148（Ep280）／timeline 606/675/1391/1393/1442/1514/1565 を「起源＝bootstrap循環で伏せる」表現へ統一。撤回を記録するガード文（ledger 26/132/138/261・timeline 1995/2025/2056/2113・world.md/s3.md）は据え置き。以後 planning doc に「Ako-chan作」を事実として書かない。
-- リンク：ep273.prev=ch31ep272／章内連鎖／ep282.next空欄(Ch33 Ep283で相互リンク)。
-
-<!-- Ch32（Ep273〜282・10話）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧Phase C一括レビュー適用済み。Phase D：ep272.next_ep=ep273（更新）／章末 ep282.next_ep 空欄→Ch33 Ep283で相互リンク。s3_titles[7]="The Parting"確認。⚠️執筆側は timeline を編集しない。⚠️首輪＝起源を伏せる（Ep184の同一物・bootstrapループ）。 -->
+<!-- Ch32 v2改稿完了（2026-07-08）：10話・旧273-282削除・word_count実測反映・リンク連鎖確認。⚠️首輪＝起源を伏せる（Ep184の同一物・bootstrapループ）。次＝Ch33（v2 Ep272〜287・16話・ペンギン対話劇）。 -->
 
 ---
 
