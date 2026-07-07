@@ -1718,72 +1718,32 @@
 
 ---
 
-## Chapter 30「Building Together」— ロボット制作・共同（Ep252〜262・**11話**）
+## Chapter 30「Building Together」— ロボット制作・共同（Ep241〜251・11話・★v2改稿済み）
 
-**Ch30 共通**
-- ★**共同制作の章（11話）**。Ako-chanが制作に加わる（**無意識の牽引＝手伝う動機**）→協働が深まる→**Dango嫉妬#②（Ep253）→解消 Ep259「Dango's Truce」**→**少年が初めて人と言葉を交わす（Ep256）**→少年に何かが起きている→完成間近（Ep260-262・章クローザー＝Ch31 完成/起動へ）。
-- ★**少年の第一声＝シリーズの節目（Ep256・確定 2026-06-27ユーザー選択＝"作業に溶けた実用語・重みは地の文"）**：少年はEp211以来**45話ぶりに発話**。第一声は**作業中の最小実用語**（"Like this?" 等・低い声＝his first utterance）で**劇的演出しない**。重みは**地の文**が運ぶ＝*"He has never asked anyone anything before. ... The words feel strange. They are not grey."*（少年の気づき）。⚠️**Ep252-255は少年ほぼ無言**（第一声はEp256）。**Ep256以降 少年は喋れる＝terse/hesitant/感情語少**（"few names for feelings live in him"継続）。
-- ★**Ako-chanの牽引＝深まるが意識的には気づかない（Ch29決定の継続・Ch29→Ch31の中間）**：Ep252「なぜ手伝うか深く考えない／この形を放っておけない」。**Ep255で手が制作を覚えている**（S2で誰かと作った身体記憶）＝牽引が**より身体的に深まる**。でも**「あの子を作り直している」と意識的に繋がない・言わない**（⚠️因果接続しない・world.md §3）。完成へ向け affect は漸増（Ch31 Ep267の"赤い光が揺れる"へ接続）。
-- ★**Dango嫉妬アーク 解消（Ep259）**：#①Ep225（公園・低いうなり）→**#②Ep253（小屋・肩を寄せる近さで より強く）**→**解消 Ep259**（独占欲の強いDangoが少年を許し始める＝少し離れて寝そべる＝大きな譲歩・Ako-chanが気づき頭を撫でる）。⚠️**Dango引用台詞なし**（うなり/所作＋Ako-chan *"Dango."*）。Lucaは動じない。
-- ★**🔒台詞（Ep254）**：Dalu *"It is taking shape."*／Gabu *"...Yes."*（動物が制作物の"形になる"を感じる・Ako-chanが聴く）。
-- ★**Ep255 回想（手の記憶）**：S2でAko-chanが**飛行艇（Ep116）・Pod を誰かと作った**身体記憶がよみがえる。**相手＝"the one who is gone"/"the friend who left"型**（名前なし・"it"で薄めない）。⚠️**"Obia"不使用・新制作物と因果接続しない**（同じ手・違う相手、で留める＝読者が繋ぐ）。
-- ★**作りかけの呼称（Ch29継続）**：少年POV＝中立語（the thing/it/the shape/the form/his work）・**robot/Obia/キャラ名/Pod不使用**。Ako-chan POV＝物理特徴（silver/small/pale blue eyes・未点灯）可。
-- ★**名前は未交換（継続）**：協働・会話しても**互いに名乗らない**（Ep225「She does not ask him where he comes from. He does not ask her name.」継続）。少年POVのAko-chan＝**"the red light"**（喋っても知覚は赤）。Ako-chan POV＝"the boy"。
-- ⚠️**季節**：晩冬→**早春**へ（協働が数週間）。屋内（小屋）中心ゆえ季節描写は最小（loose）。異変なし。**grey=少年POV専用**（屋内＝人少・出番少）。Luca=she・くつろぎ姿勢は頭/四肢を出す。⚠️**"He…"文頭の連続を散らす／最長文≤11語に偏らせない（Ch29の教訓＝時折 長め文で緩急）**。
-- 語り規約：少年＝"the boy"/"he/him"（無名・Ep256から terse発話）／Ako-chan＝少年POV"the red light"・Ako POV"Ako-chan"／作りかけ＝中立語／Dango引用なし／Suke-san=戸口/右後ろ／Dalu・Gabu=🔒(Ep254)／Luca=she。一行＝6＋3Pod（散歩で小屋に出入り・見守る）。
-- Day割付：Ch29末＝Day64。Ch30＝**Day66〜88（loose・早春へ）**＝252=66／253=68／254=70／255=72／256=74／257=77／258=80／259=82／260=85／261=87／262=88。
+**Ch30 共通（v2再設計 2026-07-08 改稿反映）**
+- ★v2＝11話（数は不変・再配置）：旧252→241／旧253→242／旧254→**243拡張（評議③）**／旧255→**244改稿（方針7＋迂言統一）**／旧256→245／**246新規（★命名イベント「Ako-chan」）**／旧257→**247改稿（呼称遷移）**／旧258→**248改稿（呼称遷移完成）**／旧259→249／旧260+261→**250統合**／旧262→**251改稿（＋日記コーダ②）**。
+- ★**命名イベント（Ep246・キャラ名タイトルの「取っておき」使用＝S1 *Obia*/*Stop* と同格）**：呼ぶ言葉が無くて止まる少年→🔒 **"I am Ako-chan," she says, simply. "You can call me Ako-chan."**（**S1 Ep3 "I am Obia." の名乗り文法と意図的エコー**）→少年は帰り道に一度だけ声に出す（"Ako-chan," he says, low, to the empty path.）。**非対称の維持**＝"She does not ask for his name. He does not offer it."（少年の名は最後まで無し）。以後、少年POVで「Ako-chan」使用可。
+- ★**呼称遷移（Ep247-248）**：少年POVの地の文が "the red light"→"Ako-chan" へ移る＝アークが語彙に見える（247 "On the Ako-chan days"／248 "he does not want Ako-chan to leave. ... Now it has a name, and sits beside him."）。"the red light" は知覚表現として併存（顔は依然見えない）。
+- ★**評議③（Ep243）**：🔒 Dalu "It is taking shape." / Gabu "...Yes."（v1維持・Ako-chanが聴いて顔を上げる）→**低い第二の交換**＝🔒 Gabu "...I have seen this shape before." / Suke-san "Say nothing," ... "Not yet."——**作業音の下・Ako-chanは今度は顔を上げない**（聴こえていない＝所作で標示・「言うべきか」の緊張開始→Ch32決着）。
+- ★**方針7適用**：243 "She cannot say what they mean"/"She does not understand the stillness" → 削除・所作化（simile "like something half-remembered" は温存）。244 免責2文 → 対応表の所作サンプル（"She looks at the work for a long moment. Then she looks at her own two hands. She picks up the next part…"）へ。迂言統一＝244 "A friend who left, far away and long ago." → "Far away now, and long ago."（1種のみ）。
+- ★v1決定を全継承：少年の第一声＝Ep245（実用語・重みは地の文）／Dango嫉妬#②=242・解消=249／無意識の牽引・因果接続しない／作りかけ=中立語／grey=少年POV専用。
+- ★**日記コーダ②（Ep251末）**：起動前夜、Ako-chanが日記帳を取り出し**開かずに置く**（"She does not open it tonight. She sets it down, close at hand…"）＝日記の背骨（203→251→Ch31→300）。
+- Day割付（v2）：**Day66〜88**＝241(66)・242(68)・243(70)・244(72)・245(74)・**246(76)**・247(78)・248(80)・249(82)・250(86＝旧260夕+261朝を跨ぎで統合)・251(88)。季節＝早春→春。
 
-### Day 66〜72 — Ako-chanが加わる・協働・Dango#②・手の記憶
-- **Ep252「Beside Him」**（Ako-chan POV）：Ako-chanが少しずつ少年の作業に加わる。最初は一点を直すだけ→隣に座り手を動かす。なぜ手伝うのか深く考えない。ただこの形を放っておけない。
-  - モード：感情・観察。③：並んだ二つの手、工具の受け渡し、午後の光、足元の動物。④：制作はいつのまにか二人のものになっている。
-  - 確定：⚠️**無意識の牽引＝手伝う動機**（意識的な類似認識なし）。Ako-chan POV＝物理特徴可・"the boy"。
-- **Ep253「Side by Side」**（中立／Ako-chan）：並んで作業。Ako-chanが肩を寄せて座る→**Dangoがまた二人の間に体を入れ低くうなる（嫉妬#②・公園より強い＝こんなに近いのは初めて）**→Ako-chan *"Dango."*→しぶしぶ足元に伏せる。やがて二人の手の動きが噛み合い始める。
-  - モード：感情・観察。③：割り込むDango、手の交差、工具の音、息の合った沈黙。④：少年は誰かと何かを「一緒にする」ことを初めて知る。
-  - 確定：**Dango嫉妬#②**（解消Ep259）。⚠️Dango引用なし＋🔒Ako *"Dango."* Lucaは動じない。少年ほぼ無言（第一声はEp256）。
-- **Ep254「The Watchers」**（動物POV・Ako-chanが聴く）：動物たちが二人の作業を見守る。Dangoは少し離れて。Suke-sanは戸口。Lucaは机の足元。何が作られているか感じているのかも。Ako-chanが静かな声を聴く。
-  - 🔒台詞：Dalu *"It is taking shape."*／Gabu *"...Yes."*
-  - モード：感情・観察（動物POV）。③：小屋に差す光、戸口と四方の視線、Podの淡い光、はんだの匂い。④：動物たちの静けさにはどこか懐かしさがある。
-  - 確定：🔒逐語。⚠️grey不使用（動物は気配）。名前/Pod可。「懐かしさ」＝所作で（説明しすぎない）。
-- **Ep255「Her Hands Remember」**（回想／Ako-chan POV）：Ako-chanの手がかつての制作を覚えている。S2で飛行艇を、Podを、誰かと一緒に作った——その手の記憶がよみがえる。誰と作ったかは名前にしない。
-  - モード：静・回想。③：今の机と記憶の中の作業台の重なり。同じ手つき、違う相手。④：Ako-chanは自分の手が覚えていることに少し戸惑う。
-  - 確定：⚠️相手＝**"the one who is gone"型・"Obia"不使用・"it"で薄めない**。⚠️**新制作物と因果接続しない**（同じ手・違う相手）＝読者が繋ぐ。S2飛行艇Ep116/Pod。
+### 各話（v2）
+- **Ep241「Beside Him」**（旧252・本文無変更）：D66。加わっていく手。wc278。
+- **Ep242「Side by Side」**（旧253・本文無変更）：D68。Dango嫉妬#②。wc272。
+- **Ep243「The Watchers」**（旧254拡張・評議③）：D70。二段の交換（聴こえる/聴こえない）。wc280。
+- **Ep244「Her Hands Remember」**（旧255改稿・方針7）：D72。手の記憶・所作変換済み。wc274。
+- **Ep245「A Word, Then Two」**（旧256・本文無変更）：D74。少年の初発話（"Like this?"）。wc276。
+- **Ep246「Ako-chan」**（★新規・命名イベント）：D76。🔒名乗り＝S1 Ep3エコー。wc282。
+- **Ep247「Something Unnamed」**（旧257改稿）：D78。名前を持って歩く朝・"On the Ako-chan days"。wc283。
+- **Ep248「The Red Light, Closer」**（旧258改稿）：D80。近さ＋呼称遷移の完成。wc285。
+- **Ep249「Dango's Truce」**（旧259・本文無変更）：D82。嫉妬アーク解消。wc274。
+- **Ep250「The Last Part」**（旧260+261統合）：D86。最後の部品・重なる手・完成。wc284。
+- **Ep251「Before It Wakes」**（旧262改稿・章クローザー＋日記コーダ②）：D88。起動前夜。next_ep=/season3/chapter31/ep252/（Ch31移行時に実体化）。wc307。
 
-### Day 74〜82 — 初めての会話・名づけられぬもの・赤が近い・Dango解消
-- **Ep256「A Word, Then Two」**（少年POV／中立・★少年の第一声）：二人の間で言葉が少しずつ増える。"Hold this."（Ako）／*"Like this?"*（少年・第一声・低い声）／"Yes."。短いやり取り。でも少年にとって**人と交わす初めての普通の会話**。
-  - モード：感情（節目）。③：手元の作業、行き交う短い言葉、笑いそうになる一瞬、夕方の光。④：少年は**言葉が灰色でない**ことに気づく。
-  - 確定：⚠️**第一声＝作業に溶けた実用語・重みは地の文**（"He has never asked anyone anything before. ... The words feel strange. They are not grey."）。⚠️**名乗らない**（名前未交換）。少年の声＝terse/hesitant/感情語少。
-- **Ep257「Something Unnamed」**（少年POV）：少年に何かが起きている。Ako-chanが来る日は世界が少し違って見える。作業がうまくいく。夜が短く感じる。少年はその変化に名前をつけられない。
-  - モード：静・内省。③：高鳴る何か、軽くなる手元、Ako-chanの赤、過ぎていく時間。④：この感じが何か分からないまま、ただ失いたくないと思う。
-  - 確定：⚠️愛着の深化＝知覚で（感情語少）。
-- **Ep258「The Red Light, Closer」**（少年POV／中立）：赤い光が少年の日々の中で近くなっている。公園で遠くから見ていた赤が、今は隣にある。少年はその近さに慣れない。でも離れてほしくない。
-  - モード：感情・観察。③：隣り合う距離、赤の温度、触れそうで触れない手、作りかけ。④：少年にとって赤はもう「ただの灰色でない光」ではなくなっている。
-  - 確定：少年POV＝"the red light"。⚠️Ako-chanへの愛着が"ただの赤"を超える。
-- **Ep259「Dango's Truce」**（動物POV・★嫉妬アーク解消）：独占欲の強いDangoが、少年がAko-chanのそばにいることを少しずつ許し始める。公園で・小屋で何度も割って入りうなっていたDangoが、今は少し離れて寝そべる。Dangoなりの大きな譲歩。
-  - モード：感情・観察（動物POV）。③：Dangoの位置の変化、白い口元、二人の間の距離、ため息。④：Ako-chanはその変化に気づいてそっと頭を撫でる。
-  - 確定：**嫉妬アーク（Ep225・Ep253）の回収/解消**。⚠️Dango引用なし（所作）。
-
-### Day 85〜88 — 完成間近・最後の部品・目覚めの前夜（章クローザー）
-- **Ep260「Almost」**（中立／少年POV）：ロボットがほぼ完成。形が整い、配線がつながり、あとは起動を待つだけ。二人は完成が近いことを知っている。それは嬉しさと少しの寂しさを連れてくる。
-  - モード：感情・観察。③：ほぼ整ったボディ、まだ閉じていないパネル、二人の手の止まり、夕暮れ。④：少年は完成したあとのことをまだ考えていない。
-  - 確定：⚠️**完成＝嬉しさ＋寂しさ**（Ako-chan側の affect 漸増＝Ch31へ）。作りかけ＝中立語/物理特徴。
-- **Ep261「The Last Part」**（中立）：最後の部品。少年とAko-chanが一緒に取り付ける。二人の手が最後に重なる。何も言わない。ロボットは完成の一歩手前。
-  - モード：感情（接触）。③：小さな最後の部品、慎重な手つき、触れ合う指、息を止める一瞬。④：取り付け終えて二人は顔を上げる。あとは目覚めを待つだけ。
-  - 確定：手が重なる（言葉なし）。⚠️起動はCh31（Ep263温存）。
-- **Ep262「Before It Wakes」**（中立・章クローザー）：起動の前夜。完成したロボットが静かに小屋の作業台にある。まだ目は光らない。少年とAko-chanはそれを見つめている。明日これは目を覚ます。
-  - モード：静・感情（章クローザー）。③：暗い小屋、銀色のボディ、閉じた青白い目、二人の静かな呼吸。④章クローザー：少年は初めて「明日が怖い」と「明日が待ち遠しい」を同時に感じる（Ch31＝完成・起動へ）。
-  - 確定：⚠️**起動はまだ（Ep263＝Ch31）**。銀色のボディ・閉じた青白い目（未点灯）＝物理描写。章末リンク：next_ep＝/season3/chapter31/ep263/（Ch31 Ep263執筆時に相互リンク）。**章頭 ep252.prev_ep=/season3/chapter29/ep251/／Phase Dで ep251.next_ep=ep252 更新**。
-
-### ✅ Ch30 執筆完了（Phase C 一括レビュー・2026-06-27）
-- **全11話 ✅執筆済み**（word_count：252=278／253=272／254=276／255=277／256=278／257=273／258=281／259=274／260=278／261=274／262=279・全話270-330内）。Day66-88（早春・loose）。
-- **device 規律＝完璧／Ch29の3教訓を吸収**：過去完了=0（3章連続）・**He-openers大幅改善**（256/257/258=6前後・Ch29の9-12から低下）・**最長文の偏り解消**（11話中ほぼ全話に12-18語文）・フラット副詞ほぼ一掃（🔧で残2件修正）。作りかけ＝少年POV中立語（robot/Obia/名前/Pod=0）・grey=少年POV専用。
-- **少年の第一声（Ep256・節目）＝決定どおり**：*"Like this?"*（低い・unsure）＝作業に溶けた実用語、重みは地の文（"He has never asked anyone anything before… These words… are not grey."）。Ep252-255 少年無言✓。**Ep256以降 terse発話**。名乗らない（名前未交換）。
-- **Ako-chanの牽引＝無意識のまま・因果接続なし**：Ep252「放っておけない」、Ep255「手が覚えている」→*"She does not lay it over the work… The two stay apart, and she lets them rest."*✓。相手＝"someone who is gone / a friend who left"（"Obia"なし・"it"で薄めず）。
-- **Dango嫉妬アーク 解消**：#②Ep253("growls — low and long"＋🔒Ako"Dango.")→**解消Ep259「Dango's Truce」**("For a dog who shares nothing, this is much to give"・Ako-chanが頭を撫でる)。Dango引用なし✓。🔒Dalu*"It is taking shape."*/Gabu*"...Yes."*(Ep254)逐語✓。
-- 完成間近(260-262)＝銀色ボディ・閉じた青白い目(未点灯)＝物理描写。⚠️**起動はCh31 Ep263へ温存**(Ep262章クローザー="afraid of tomorrow"+"longs for it to come")✓。季節＝早春(buds/birdsong)。
-- 🔧**Phase C ポリッシュ（ユーザー承認 2026-06-27・Tier1/2全適用）**：Tier1＝フラット副詞/depictiveコンマ3件(254"glows soft"→"softly"／252"glows soft and yellow"→"glows, soft and yellow,"／256"settles soft and cool"→"settles, soft and cool")。Tier2＝256/261/262の全文≤11語に12-17語文を1本ずつ導入(短文ペア統合)。再スキャン：floor≥270・最長文≤18・過去完了/分詞0・robot/Obia 0通過。word_count再計算(256→278/262→279)。
-- リンク：ep252.prev=ch29ep251／章内連鎖／ep262.next空欄(Ch31 Ep263で相互リンク)。
-
-<!-- Ch30（Ep252〜262・11話）執筆完了。全11話 ✅・word_count一致＆範囲内・🔧Phase C一括レビュー適用済み。Phase D：ep251.next_ep=ep252（更新）／章末 ep262.next_ep 空欄→Ch31 Ep263で相互リンク。s3_titles[5]="Building Together"確認。⚠️執筆側は timeline を編集しない。 -->
+<!-- Ch30 v2改稿完了（2026-07-08）：11話・旧252-262削除・word_count実測反映・リンク連鎖確認。次＝Ch31（v2 Ep252〜261）。 -->
 
 ---
 
