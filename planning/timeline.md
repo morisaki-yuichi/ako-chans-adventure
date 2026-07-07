@@ -1638,73 +1638,28 @@
 
 ---
 
-## Chapter 28「Reading the Distances」— 公園・観察と問い（Ep231〜240・10話）
+## Chapter 28「Reading the Distances」— 公園・観察と問い（Ep225〜231・7話・★v2改稿済み）
 
-**Ch28 共通**
-- ★**最も抽象/テーマ的な章**。接触（Ch27）の次＝**少年が Ako-chan と動物たちの"距離"を読み始める**→「始まりが見えない」（Ep235）→**問いが外向き→内向きへ転換**（Ep237 "なぜ自分はここにいるのか"）→**人類という種への判断が揺れ始める**（Ep238-239）→**自分に"作るべきもの"があると気づく**（Ep240章クローザー＝Ch29 制作へ）。
-- ★**T12対策＝最重要（writing-guide §7）**：相貌失認・「種への判断」「内への問い」等の抽象を**直接ナレーションしない**。**観察された具体行動・知覚に置換**（Dangoの歩幅・Suke-sanの角度・Lucaの位置＝"距離"そのものを描く）。少年が「見たもの」だけで示す。
-- ★**少年の人間観のトーン（確定 2026-06-27ユーザー選択＝"静かな冷ややかさが揺らぐ"）**：少年は人を**"灰色の塊・dull mass・all the same・meaning nothing"** として**冷ややかに切り捨ててきた**（"never worth his eyes" / "for years he looked past them"）→それが赤い光と動物で揺らぐ。⚠️**判断の"具体"は描かない**（s3.md）／⚠️**断罪の負の動機はCh31 Ep271まで伏せる**（Ep240の"もう一つの動機"は**形にならないまま**）。内向きの問いも重め＝"What is he, among all the grey? Why is he here at all?"
-- ★⚠️**文法ガード（このトーン特有）**：「これまで（過去）の人間観」を語るが**過去完了（had+pp）禁止**。**単純過去 / 現在完了 / "For years…"構文で綴る**（×"he had judged them" → ○"For years, they meant nothing to him." / "He has looked past them all his life."）。
-- ★**少年知覚（継続）**：顔=灰色／Ako-chan=赤い光（赤の理由は不明）。**grey=少年POV専用**（回想232・動物POV236では不使用）。**少年POV回はキャラ名・"Pod"不使用**（Ako-chan="the red light"／Dango="the small dog"／Suke-san="the reddish dog"／Luca="the little tortoise"／Pod="glowing cart"）。名前・Pod可＝回想(232)・動物POV(236)。
-- ★**回想（Ep232）のロボット呼称＝"the one who is gone" / "the friend who left" 型**（Ch27確定の継続・名前なし・"it"で薄めない）。Ep232はSuke-sanの定位置（Ako-chanの右後ろ）の由来＝S1日本での**警戒→信頼**（Suke-sanが最初ロボットを警戒→S1 Ch10で信頼を宣言→守りの位置）。ロボットは**周縁**（"the one who is gone"を1回程度）。
-- ★**少年＝発話ゼロ（継続）**：Ep235「I cannot see the beginning.」は**内面の気づき**（free indirect "He cannot see the beginning." 可・声に出さない）。**普通の会話の初＝Ch30 Ep256**（温存）。Ako-chanはCh28では多くを語らない（観察の章＝対話は最小）。
-- ★**Ep236「The Witnesses」**＝動物が少年を"証人"として見守る／**種への判断の反例**として立つ。Ako-chanがその声を聴く。⚠️grey不使用（動物は匂い/気配）。④少年は**自分が見られ迎えられていることにまだ気づかない**。
-- ⚠️**季節＝晩冬**（Ch25-27から継続）。Ep235「変わる季節」＝日が伸びる等の**かすかな兆し**は可だが**春と明言しない**（制作章Ch29+へ温存）。異変なし（Ako-chanは穏やかな声を聴く）。
-- 語り規約：少年＝"the boy"/"he/him"（無名・発話ゼロ）／**grey=少年POV専用**／Dango引用なし（所作）／Suke-san=Ako-chanの右後ろ（定位置・Ep232で由来回想）／Dalu/Gabu/Luca=所作（Luca=she）。一行＝**6**＋3Pod。**少年は観察者**（接触済みだが"合流"はまだ）。⚠️**"He…"文頭の連続を散らす**（Ch26/27の教訓＝少年POV8話で平板化注意）。
-- Day割付：Ch27末＝Day33。Ch28＝**Day34〜48（loose・晩冬）**＝231=34／232=35／233=36／234=37／235=39／236=40／237=42／238=44／239=46／240=48（"何日も観察した"の時間幅は説明しすぎない）。
+**Ch28 共通（v2再設計 2026-07-08 改稿反映）**
+- ★v2＝10話→**7話**：旧231→225／旧232→**226改稿（＋再演）**／旧236→**227全面改稿（The Witnesses・パイロットB統合・評議②）**／**228新規（What the Grey Does・負②＋揺らぎ）**／旧237→229／旧239→230／旧240→**231改稿（灰色ノート→図面転化）**。**旧233・234・235・238カット**（233=Lucaの静止→216/227が内包／234=距離の重さ→224/225が内包／235=「始まりが見えない」→229が内包・「作って見届けたい」欲は231とCh31 Ep260(旧271)が担う／238=揺らぎ→228が行動で置換・核の一文 "Maybe grey was never the whole truth." は228④へ逐語吸収）。
+- ★v1決定を全継承：T12（抽象を距離/所作で外在化）／「静かな冷ややかさが揺らぐ」トーン／過去完了禁止（"For years…"構文）／grey=少年POV専用／判断の具体・負の動機は名指さない（Ch31 Ep260で回収※v2番号）。
+- ★**方針7適用**：Ch28に不知ナレーションのアンカーなし。228の揺らぎは**行動**（ペンが止まる・ページの偏り）で描き、「彼は気づいていない」型の免責文は不使用。
+- ★**評議②（Ep227＝パイロットB）**：Gabuの留保（v2 Ep212 "I will wait."）が評決に変わる＝🔒 "...He is alone," "But not unkind."（旧236逐語維持）＋新フレーム "For weeks he has held his word back."。Lucaの無言の回答。**少年側1カット**＝"To him it looks like listening — like a quiet talk he cannot hear."（観察②）。④"Today, in small voices, they have chosen him. He knows nothing of it."
+- ★**再演①（Ep226）**：Suke-san警戒アーク再話（🔒 "I do not know yet." / "I trust it," 維持）の末尾に**見張りの座の再演**＝Suke-sanが少年の右後ろに一呼吸だけ立つ（"the guarding place, held for one long breath"）→少年は意味を知らない・Ako-chanの息が止まる。
+- ★**負②＋揺らぎ（Ep228・新規）**：灰色ノートの記録（老犬を引きずる影・氷に石を投げる影）×赤い光の反例（老いたDangoの隣に膝をつき待つ）→**ペンが止まる**（"There is no line for this."）→④ "The page holds only one of them." ＋ "Maybe grey was never the whole truth."（旧238逐語吸収）。少年POVでDango名使用（解禁実演②）。
+- ★**転化（Ep231）**：旧240の白紙を**灰色ノートの白ページ**に差し替え＝記録帳が設計帳へ変わる瞬間（"Lines about what the shapes do, and nothing more. Then he turns past them all, to white."）。第二の動機は形にしないまま（"Something deeper stirs"＝旧240逐語維持）。
+- Day割付（v2）：**Day34〜48**＝225(D34)・226(D35)・227(D40)・228(D41)・229(D42)・230(D46)・231(D48)。季節＝晩冬→**Ep227から雪解けの兆し**（"The long frost is loosening at last."・春と明言しない）。
 
-### Day 34〜37 — 距離を読む（具体の観察・T12）
-- **Ep231「Two Shadows」**（少年POV）：少年はDangoがどんなふうにAko-chanの隣を歩くかを観察。離れすぎず近すぎず。彼女が止まるとDangoも止まる。見なくても互いの位置が分かる。長い時間がその歩幅に刻まれている。
-  - モード：静・観察。③：芝の上の二つの影、揃った足取り、Dangoの白くなった口元、午後の光。④：その「当たり前さ」に見えない何かを感じる。
-  - 確定：少年POV＝名前/Pod不使用（"the small dog"）。T12＝歩幅/止まり/位置の具体で。
-- **Ep232「A Step Behind」**（回想／Ako-chan POV）：少年は赤茶色の犬（Suke-san）がいつもAko-chanの少し後ろ・右に立つと気づく。なぜ後ろか→S1日本の警戒アークを回想＝Suke-sanが最初ロボットを警戒→やがて信じ→守りの位置を取る経緯をA2-B1再話。少年は理由を知らない。
-  - モード：静・回想。③：Suke-sanの守る角度、記憶の中の港と船、今の公園の芝。④：距離には理由がある。少年にはまだ読めない。
-  - 確定：回想＝名前可・grey不使用。**ロボット＝"the one who is gone"型・周縁**（名前なし・"it"で薄めない）。S1 Ch6合流〜Ch10信頼宣言→右後ろの定位置。⚠️過去完了禁止（単純過去で再話）。
-- **Ep233「Always There」**（少年POV）：Lucaがなぜいつも静かにそこにいるのか。Podの中、二人の足元で、動かずに。なぜこのリクガメはこんなに自然にここにいるのか。
-  - モード：静・観察。③：Podの淡い黄色、Lucaの止まった時間、Ako-chanの足元、風に揺れる草。④：Lucaの「当然そこにいる感じ」に長い積み重ねを見る。
-  - 確定：少年POV＝"the little tortoise"（Luca名/Pod不使用）。Luca=she（少年は性別を知らない＝"it"も可だが所作で）。⚠️姿勢＝くつろぎ（頭/四肢を出す・引っ込めない＝[[tortoise-resting-posture]]）。
-- **Ep234「The Weight of Time」**（少年POV）：少年が読み取ったものを**観察された具体**として描く回。Dangoの歩幅・Suke-sanの角度・Lucaの位置——それぞれの距離と重さが積み重なった時間を語る。**抽象を直接ナレーションせず**少年が「見たもの」だけで示す。
-  - モード：静・観察（T12の核）。③：それぞれの距離、間隔、光と影の配置。④：この絆が一日で生まれたのではないと知る。
-  - 確定：⚠️**T12最重要回**＝抽象を観察で外在化。少年POV＝名前/Pod不使用。
+### 各話（v2）
+- **Ep225「Two Shadows」**（旧231・本文無変更）：D34。Dangoとの歩幅の研究。wc288。
+- **Ep226「A Step Behind」**（旧232改稿・回想＋再演）：D35。S1警戒アーク再話（POV訂正済み版を継承）＋**再演挿入**（+48語）。wc317。
+- **Ep227「The Witnesses」**（旧236全面改稿＝パイロットB・動物POV・評議②）：D40。🔒逐語3組維持＋Gabu評決＋Luca無言＋少年カット。wc281。
+- **Ep228「What the Grey Does」**（新規・少年POV・負②）：D41。記録と反例・ペンの停止・"Maybe grey was never the whole truth."。wc302。
+- **Ep229「Inward」**（旧237・本文無変更）：D42。外→内の転換（"What is he, among all the grey?"）。wc284。
+- **Ep230「A Single Light」**（旧239・本文無変更）：D46。個が種の輪郭を揺らす（"If one can shine, what of the rest?"）。wc288。
+- **Ep231「Something to Build」**（旧240改稿・章クローザー）：D48。灰色ノートの白ページに最初の線。next_ep=/season3/chapter29/ep232/（Ch29移行時に実体化）。wc319。
 
-### Day 39〜42 — 始まりが見えない・証人・内への転換
-- **Ep235「The Invisible Beginning」**（少年POV）：もう何日も距離を見てきた。どれもが長い時間を語る。少年は思う **"I cannot see the beginning."**——この絆はいつ・どこから生まれたのか。入口が見つからない。
-  - モード：静・観察。③：変わる季節（**かすかな兆し・春と明言しない**）、風、遠くで揺れるAko-chanの赤い光。④：見えない「始まり」が頭から離れない。
-  - 確定：🔒（内面）**"I cannot see the beginning."**（声に出さない＝free indirect可）。⚠️抽象は観察の具体で。⚠️季節は晩冬＋兆しまで。
-- **Ep236「The Witnesses」**（動物POV・Ako-chanが聴く）：動物たちが証人のように少年を見ている。Suke-san・Dalu・Gabu・Luca——それぞれのやり方で少年を見守り確かめている。**人類という種への少年の見方の"反例"**としてそこに立つ。Ako-chanがその静かな声を聴く。
-  - モード：感情・観察（動物POV）。③：四方からの視線、Podの光、犬の呼吸、少年を囲む静けさ。④：少年は自分が見られ迎えられていることにまだ気づかない。
-  - 確定：⚠️grey不使用（動物は匂い/気配）。名前/Pod可。⚠️"反例"は**所作で**示す（抽象ナレーション回避）。Ako-chanは聴くが介入しない（観察の章）。
-- **Ep237「Inward」**（少年POV）：少年は自分がこの絆の**外側**にいると気づく。Ako-chanと動物には見えない始まりがあった。少年にはそれがない——顔の見えない世界で誰とも始まったことがない。ずっとひとり。持つ者と持たぬ者の対比が問いの向きを変える。「この絆はどこから来たのか」→**「自分は、なぜここにいるのか」**。外向きの問いが内向きの問いになる。
-  - モード：感情・内省（**転換の核**）。③：夕方の公園、長い影、帰っていく赤い光、少年の動かない足。④：自分のことを考えるのが初めてだと気づく。
-  - 確定：⚠️**外→内の転換**＝持つ/持たぬの対比で。内向きの問い＝"What is he, among all the grey? Why is he here at all?"（重め）。⚠️判断の具体/負の動機は出さない。
-- **Ep238「The Grey Wavers」**（少年POV）：人類という種への見方が少しずつ揺らぎ始める。⚠️**「人類を見限っていた」と直接書かない**。代わりに**少年が新しく気づくもの**で示す——灰色の人々の間にも見落としていた何かがあるかも、という小さな揺れ。きっかけ＝赤い光と動物。
-  - モード：静・観察。③：行き交う灰色の人々、その中の一つの赤、足元のLuca。④：自分の中の確かだったものが、ほんの少し動くのを感じる。
-  - 確定：⚠️T12＝抽象を知覚で。**冷ややかさ（dull mass/meaning nothing）→揺らぎ**。⚠️過去完了禁止（"For years…"単純過去）。
-
-### Day 44〜48 — 一つの光・作るべきもの（章クローザー）
-- **Ep239「A Single Light」**（少年POV/中立）：Ako-chanという「個」が種への判断を揺らしている。種としての人類は灰色のまま。でもこの一人だけは赤い。個が見えれば種の輪郭は揺らぐ。少年はまだ言葉にできない。
-  - モード：静・観察。③：群衆の中の一つの赤、近くにいる動物、少年の固定された視線。④：たった一人が世界の見え方を変え始める。
-  - 確定：⚠️「個↔種」を抽象論評せず**赤い光（個）対 灰色の群れ（種）の知覚**で示す。少年POV＝名前不使用。
-- **Ep240「Something to Build」**（少年POV・章クローザー）：少年は自分に「作るべきもの」があると気づく。理由はまだ言葉にならない。ただこの絆の始まりを知りたい——そして**もう一つ、形になりきらない動機**が胸の奥にある。
-  - モード：静・観察（章クローザー）。③：夜、机に向かう少年、白い紙、引かれ始める線、窓の外の暗さ。④章クローザー：初めて自分から何かを始めようとしている（Ch29＝制作・単独へ）。
-  - 確定：⚠️**もう一つの動機は形にしない/名指さない**（負の動機＝Ch31 Ep271温存）。**ロボットの名前/姿は出さない**（"something"／作るとは何かまだ不明瞭）。章末リンク：next_ep＝/season3/chapter29/ep241/（Ch29 Ep241執筆時に相互リンク）。**章頭 ep231.prev_ep=/season3/chapter27/ep230/／Phase Dで ep230.next_ep=ep231 更新**。
-
-### ✅ Ch28 執筆完了（Phase C 一括レビュー・2026-06-27）
-- **全10話 ✅執筆済み**（word_count：231=288／232=272／233=284／234=289／235=291／236=292／237=285／238=290／239=288／240=289・全話270-330内）。Day34-48（晩冬・loose）。
-- **T12＝秀逸**：抽象（種への判断・始まり・内省）を概念語で述べず**距離/歩幅/角度・赤対灰色の塊**で外在化（Ep234 "He reads the gaps the way some read words" / Ep239 "If one can shine, what of the rest?"）。`judgment/species/humanity` の抽象語ゼロ。
-- **トーン＝"静かな冷ややかさ"（ユーザー選択）を正確に**＝Ep238 "For years, they meant nothing to the boy. They were all the same — a dull mass. He looked past them, the way you pass a wall."→揺らぐ。**全て単純過去・過去完了=0**（懸念トラップ回避）✓。
-- **外→内の転換**（Ep237 "They have a beginning... He has no such beginning"→"What is he, among all the grey? Why is he here at all?"）✓。**Ep240の第二動機は形にせず**（"Something deeper... no shape yet, and no words... deep and unnamed"＝負の動機Ch31温存）・ロボットの名前/姿も出さず（"something"まで）✓。
-- 🔒整合：Ep232 Suke-san "I trust it,"＝**S1 Ep079「I Trust Obia」**(canon "I trust Obia")の名前禁止下での正しい再話（S1も動物は robot を "it" と呼ぶ）。
-- 🔧整合（2026-07-02修正）：Ep232 の警戒期回想 "Not safe," / "I do not like that smell." は**S1本文に存在しない台詞**（writing-guide §6 の例文が流入）だったため、S1 Ep41 の確定台詞 **"I do not know yet."**（timeline:340）へ置換（"was all he said" で地の文接続）。word_count 272→271。
-- 🔧**Phase C 横断ポリッシュ（ユーザー承認 2026-06-27・1-4全適用）**：
-  - 1＝Ep232の回想呼称を device整合（"the silver friend"×2→"the newcomer"（警戒期）＋"the friend who left"・既存"the one who is gone"と合わせ1/1/1）。"silver"はworld.md上 距離化語ゆえ親密ビートで不使用。⚠️**2026-07-05 訂正**：この "the newcomer"（Obia指し）は**事実誤り**（合流したのはSuke-san＝新入りはSuke-sanの方・Obiaは最古参）。→ "the newcomer"=**Suke-san**へ再割当、Obia警戒対象は "the one who is gone" に（下記2026-07-05注）。
-  - 2＝非・人物の"grey"を変奏（device純化＝grey は人/顔の知覚に限定：ep234 "grey afternoon"→"dull, cold"／ep235 "grey with frost"→"white"／ep239 "greying sky"→"darkening"）。ep238のgrey×4は全て"人=灰色"のdevice＝温存。
-  - 3＝天井文（17-18語＋ダッシュ挿入で重い）を2文に：ep239／ep240。
-  - 4＝ep240 "He…"文頭8→6（2文を語順変更）。
-  - 再スキャン：floor≥270・grey分布・最長文≤18語・過去完了0・silver/Obia 0 通過。word_count再計算（234→289/239→288/240→289）。
-- リンク：ep231.prev=ch27ep230／章内連鎖／ep240.next空欄（Ch29 Ep241で相互リンク）。
-
-<!-- Ch28（Ep231〜240）執筆完了。全10話 ✅・word_count一致＆範囲内・🔧Phase C一括レビュー適用済み。Phase D：ep230.next_ep=ep231（更新）／章末 ep240.next_ep 空欄→Ch29 Ep241で相互リンク。s3_titles[3]="Reading the Distances"確認。⚠️執筆側は timeline を編集しない。 -->
+<!-- Ch28 v2改稿完了（2026-07-08）：7話・旧232-240削除（233/234/235/238は吸収カット）・word_count実測反映・リンク連鎖確認。公園パート（Ch25〜28＝旧40話→v2 31話）完成。次＝Ch29（v2 Ep232〜240）。以下の2026-07-05修正バッチ記録は旧番号による履歴として保存。 -->
 
 - 🔧**回想・整合修正（2026-07-05・ユーザー承認バッチ①）**＝S3 Ch25/27/28 の内容確認で判明した明確な要修正のみ適用：
   - **Ep232**：①**POV訂正**＝第1段（少年の観察フレーム）の実名 "Suke-san"/"Ako-chan" を呼称へ（"the reddish dog"/"the red light"）。実名は第2段以降のAko-chan回想内のみ。②**"the newcomer" の誤割当を訂正**＝"the newcomer"=**Suke-san**（合流した新入り）、警戒対象のObiaは "the one who is gone"／後段は "that friend"（"the friend who left" の照応）に。⚠️"silver" は距離化語ゆえ親密ビートで不使用の原則を維持（"silver one" 案は撤回）。③"I trust it"（canon "I trust Obia" の名前禁止下再話）は**据置**。word_count 271→274。
