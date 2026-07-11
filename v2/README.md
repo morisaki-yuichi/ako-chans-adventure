@@ -55,12 +55,13 @@
 - [x] 台帳4冊をグリッドから生成 → `planning/ledgers.md`
 - [x] Dango取っておき確定 → ①S2 Ep175 *"Stay."*／③S3 Ep275 *"Home."*（quote-bank §1-17）
 
-### M4 移行最終確認 — 次の作業
-- [ ] v1資産の取りこぼしチェック（keep-register 全項目の移植先確認）
-- [ ] インフラ計画確定（新リポ非公開=D15確定済み。残: リポ名・完成時の公開方式・音声ホスティング → open-questions）
-- [ ] サイト骨格の複製リスト確定（_layouts / _includes / assets/css/main.css / _config.yml / index・season*.md の文言更新）
+### M4 移行最終確認 ✅（2026-07-11）
+- [x] v1資産の取りこぼしチェック → `keep-register.md` §G監査（§A〜F全項目の移植先確認。発見: episodes.mdはv1ルートに非実在→M5で入口再確認）
+- [x] インフラ計画確定 → `planning/migration-checklist.md` §0（執筆中=新リポ非公開・残置3問は計画に組込み）
+- [x] サイト骨格の複製リスト確定 → `planning/migration-checklist.md` §2〜4（実在確認済みファイル一覧＋移動後タスク）
+- [x] 音声パイプラインの恒久化 → `tools/audio/`（旧scratchpadから救出・venvパス除去・可搬化・README＋生成前チェック付き）
 
-### M5 独立プロジェクト化（移動）
+### M5 独立プロジェクト化（移動）— 次の作業（要: リポジトリ名の決定 → open-questions #3）
 - [ ] `v2/` を新ロケーションへ移動（例: `~/projects/ako-chans-adventure-v2/`）
 - [ ] `git init`（または新リポジトリ作成）・初回コミット
 - [ ] サイト骨格を複製し、v2用に文言・設定を更新
