@@ -14,7 +14,6 @@ kramdown:
 
 exclude:
   - planning/
-  - v2/
   - "README.md"
   - Gemfile
   - Gemfile.lock

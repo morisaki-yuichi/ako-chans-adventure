@@ -1,5 +1,9 @@
 # Ako-chan's Adventure — Project Instructions
 
+> **⚠️ 2026-07-11 全面再執筆（v2）へ移行済み・本リポジトリは凍結**
+> 後継プロジェクト＝ **`~/projects/the-red-notebook`**（The Red Notebook — Ako-chan's Adventure・全277話・非公開で執筆中）。
+> 本リポジトリの役割は**公開サイトの現状維持のみ**。本文・計画の新規作業はすべて後継側で行う（確定判断は後継の `planning/decisions.md` が正）。移行の経緯は git log `ecd977d`〜`481e7fd` を参照。
+
 ## Key Planning Documents
 
 | File | Purpose |
