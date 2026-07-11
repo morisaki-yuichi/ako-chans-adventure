@@ -128,6 +128,17 @@
 **"Two eyes. Pale and blue."** ／ **"Soft and grey and still."** ／ **"Something small turns in her chest."** ／ **"The sun is still not up."** ＋（夜明け前・露・霧・庭の隅・赤いメガネの少女・瞬きで消える）
 ⚠️ v2ではS1 Ep1を先に書くため、**ミラー回はv2版Ep1の本文から採音し直す**（このキットは「何を反響させるか」の仕様）。
 
+### 1-17. v2新設のキーストーン（M3グリッド承認で確定 2026-07-11）
+| 台詞 | 場面 | 機能 |
+|------|------|------|
+| **"It sleeps. It is not calling now."**（Ako-chan） | S1 Ep87・震源へ耳を澄ます | 聴く者のクロージャー（深入りせず帰る決定打） |
+| **"What sleeps there? Can we see it?"**（Dalu）／**"No one walks there. Not even us."**（Adelie）／**"The sea will close soon."**（Obia） | S1 Ep88 | 深入りしない三重化（誘惑を声に出して閉じる＋季節の時計） |
+| **"...Correct."**（Obia） | S2 Ep111・初単独修理の検分 | 見習いアークの到達点＝S3 *"Here is wrong."* の反転ミラー |
+| **"Warm."**（Luca・生涯最初の言葉） | S2 Ep106・ミニPod | S1 *"It is warm inside"* の一語の返し（D5/D8） |
+| **"Stay."**（Dango・生涯最初の言葉）＝**T1逐語必須** | S2 Ep175・別れの受容の一日 | 独占欲アークの到達点が懇願になる（D17/D22） |
+| **"Home."**（Dango・生涯最後の言葉）＝**T1逐語必須** | S3 Ep275・老犬の夢の夜 | シリーズ最後の取っておき・Ako-chanだけが聞く（D17/D22） |
+| 命名ラダーの呼びかけ（*"Suke-san. Home now." / "Dalu, slowly!" / "Home now, Luca." / "Slowly home, Gabu."* 型）＝T2 | S3 Ch27〜28 | 少年の名前取得ビート（取得順=呼ばれる頻度順） |
+
 ---
 
 ## 2. T2 — 逐語推奨（署名・象徴）

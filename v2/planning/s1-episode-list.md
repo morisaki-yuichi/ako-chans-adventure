@@ -41,7 +41,7 @@
 |---|-----------|--------|-----|------------------------|----------------|
 | 16 | White Rocks, Blue Sea | 静 | 12 | 海岸到着・トカゲの告知（何かの気配） | — |
 | 17 | The Sound Under the Rock | 静 | 12 | 岩陰の甲羅の音・待つ（存在の確認） | 姿は見せない |
-| 18 | Curious | 動 | 13 | **Dalu登場**（新しい仲間候補） | 🔒T2 *"Hello! Hello! I am Dalu!"*（**名前確立**）／**★外見エピセット確立（D7）**: *His shell is round and tall. It is black, with thin yellow lines, like a net.*／1語タイトル例外 |
+| 18 | Curious | 動 | 13 | **Dalu登場**（新しい仲間候補） | 🔒T2 *"Hello! Hello! I am Dalu!"*（**名前確立**）／🔒T2 *"What is that? What is that?" / "Let me see! Let me see!"*（**署名台詞の植え付け・被引用先=S3 Ep210**。v1 S1 Ep18で確立済みを検証✅2026-07-11）／**★外見エピセット確立（D7）**: *His shell is round and tall. It is black, with thin yellow lines, like a net.*／1語タイトル例外 |
 | 19 | Nose to Nose | 動 | 13 | DangoとDaluの初対面（嫉妬アーク#1の芽） | 嫉妬は行動で |
 | 20 | Already There | 動 | 14 | 崖縁のDaluをDangoが押し戻す（世話の関係） | — |
 | 21 | I Will Go With You | 感情 | 15 | 赤リスの告知→**Dalu合流の誓い** | 🔒T1 *"I do not understand. But I will go with you."*（will例外=合流の誓い）。人数宣言しない（C台帳） |

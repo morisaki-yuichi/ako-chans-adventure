@@ -1,6 +1,6 @@
 # S2 エピソードグリッド v2（Ep99〜190・M3）
 
-> **✅ユーザー承認（2026-07-11）**——S2=Ep99〜190で確定（Dango取っておき①の文言のみ未確定・レビュー中）。
+> **✅ユーザー承認（2026-07-11）**——S2=Ep99〜190で確定。Dango取っておき①の文言も確定（*"Stay."*=D22）。
 
 > **正**: 章骨子=`s2.md`（承認済みD21）／義務の運用=`../process/writing-system.md`／🔒台詞=`quote-bank.md`。
 > **仕様**: A2中心・**350〜450語（目標400）**・全話Ako-chan寄り三人称（Ch21のみ3グループPOVクロスカット）。**Ep番号=S1確定（98話）を受けて Ep99〜190**。（v1-N）=v1での話番号。
@@ -138,7 +138,7 @@
 | 172 | Someone Must Go (180) | 静 | 29 | 解決の条件=戻れない渡航 | 🔒T1 *"Someone must go. And close the door from the other side."* |
 | 173 | It Must Be Me (181) | 感情 | 30 | **Obiaの選択** | 🔒T1 *"It must be me. I came from there."*（出自は「未来から」まで） |
 | 174 | No One Speaks (182) | 感情 | 30 | 言葉にならない重さ・**Suke-sanが初めて体を寄せる** | 警戒→信頼アークの身体的到達点。Dango=足元に伏せる |
-| 175 | 改 The Goodbye (183) | 感情 | 30 | **受容の一日**——一匹ずつの別れ＋**★Dango取っておき①（D17）** | 🔒T2 *"Obia... thank you. For everything."*／**★Dango生涯初の言葉・文言提案: *"Stay."***（1語。独占欲アークの到達点が懇願になる。代案: *"Don't go."* ／ *"Friend."*——レビューで確定）。3匹はPodを降りて接触 |
+| 175 | 改 The Goodbye (183) | 感情 | 30 | **受容の一日**——一匹ずつの別れ＋**★Dango取っておき①（D17）** | 🔒T2 *"Obia... thank you. For everything."*／**★Dango生涯初の言葉・文言確定（2026-07-11=D22）: 🔒T1 *"Stay."***（1語。独占欲アークの到達点が懇願になる）。3匹はPodを降りて接触 |
 | 176 | The Machine Sounds (184) | 感情 | 31 | **首輪の託し**→機械へ→最後の言葉 | 🔒T1 *"Keep this. I do not know why. But it is important."*（Hold→Keepエコー）／*"I will not forget you."*（will例外） |
 | 177 | Silence (185) | 感情 | 31 | 消失・完全な静寂 | **沈黙免除**。1語タイトル例外。伸ばした手が空をつかむ |
 
