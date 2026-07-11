@@ -15,13 +15,15 @@
 | 3 | `planning/chronology.md` | マスター年表（年齢・成長・寿命の一元管理） |
 | 4 | `planning/characters.md` | キャラクターバイブル v2（新外見・発話権・状態年表） |
 | 5 | `planning/series-arc.md` | シリーズ縦糸（ループ・首輪・日記・能力モデル・季の自己完結契約） |
-| 6 | `planning/season-redesign-briefs.md` | S1/S2/S3 再設計ブリーフ（keep / 変更 / 未決フォーク） |
-| 7 | `planning/writing-guide-v2-delta.md` | 執筆ガイド v2 差分（語数帯レベル連動ほか） |
-| 8 | `planning/keep-register.md` | v1から持ち込む資産台帳（ルール・🔒台詞・名場面・教訓） |
-| 9 | `process/writing-system.md` | 執筆システム v2（義務台帳・グリッド仕様・工程・通読レビュー） |
-| 10 | `planning/open-questions.md` | 未決事項キュー（優先度・推奨つき） |
+| 6 | `planning/world-core.md` | 世界の物理・道具（異変・Pod・ガジェット・移動手段・継続性総覧） |
+| 7 | `planning/season-redesign-briefs.md` | S1/S2/S3 再設計ブリーフ（keep / 変更 / 規模） |
+| 8 | `planning/writing-guide-v2.md` | 執筆ガイド v2（統合版・自己完結） |
+| 9 | `planning/quote-bank.md` | 確定台詞キュレーション（T1逐語必須／T2推奨／T3ビートのみ） |
+| 10 | `planning/keep-register.md` | v1から持ち込む資産台帳（ルール・名場面ビート・教訓） |
+| 11 | `process/writing-system.md` | 執筆システム v2（義務台帳・グリッド仕様・工程・通読レビュー） |
+| 12 | `planning/open-questions.md` | 未決事項キュー |
 
-補助: `planning/quote-bank-raw.md` = v1 timeline.md の🔒行 全266件の機械抽出（キュレーションはM1）。
+補助: `planning/quote-bank-raw.md` = v1 timeline.md の🔒行 全266件の機械抽出（原簿・監査用）。
 
 ---
 
@@ -34,13 +36,13 @@
 - [x] ワークスペース構築・Jekyll除外
 - [x] 未決キュー第1回判断（2026-07-11: Dalu=c案／新リポ非公開／Kara-san続投／Dango=①+③／S2=A2中心・語彙1500／タイトル継承／S1ペイオフ方向性承認 → D14〜D20）
 
-### M1 設計文書の完成（次の作業）
-- [ ] `quote-bank-raw.md` のキュレーション → `quote-bank.md`（keep-register §B の完成版：全キーストーン確定・S2/S3分含む）
-- [ ] `world-core.md` の作成（v1 world.md の残要素——異変の正体・4段階・二重構造・Pod仕様・ガジェット・移動手段・描かないことリスト——をv2確定事項で更新して移植）
-- [ ] `writing-guide-v2.md` 完成版（v1ガイド＋delta を統合した独立版。移動後はv1を参照できない前提で自己完結させる）
-- [ ] characters.md の TBD 解消（Dango取っておき台詞スロット等はM3でも可）
+### M1 設計文書の完成 ✅（2026-07-11）
+- [x] `quote-bank.md` 作成（🔒266件を3層キュレーション: T1逐語必須／T2逐語推奨／T3ビートのみ）
+- [x] `world-core.md` 作成（v1 world.md の残要素——異変の正体・4段階・二重構造・Pod仕様・ガジェット・移動手段・継続性総覧——をv2確定事項で更新して移植）
+- [x] `writing-guide-v2.md` 統合版（v1ガイド＋差分を一本化・自己完結。`writing-guide-v2-delta.md` は廃止）
+- [x] characters.md の TBD 解消（Dango取っておき=D17で確定。残る具体化はM3の設計事項のみ）
 
-### M2 シーズン骨子（章構成の確定）
+### M2 シーズン骨子（章構成の確定）— 次の作業
 - [ ] S1 章構成 v2（南極ペイオフ再設計・Ch5増強・骨子レビューをユーザーと）
 - [ ] S2 章構成 v2（Ako-chan職人アーク前景化・Lucaベビー新仕様）
 - [ ] S3 章構成 v2（v1のC案アーキテクチャ継承＋R系要件反映・話数再算出）

@@ -18,7 +18,8 @@
 - 年齢・寿命・経過年数 → `planning/chronology.md`
 - キャラ設定（外見・発話権・呼称） → `planning/characters.md`
 - ループ・首輪・日記・能力モデル・季の契約 → `planning/series-arc.md`
-- 語数帯・文法ティア・執筆規則差分 → `planning/writing-guide-v2-delta.md`
+- 語数帯・文法ティア・執筆規則 → `planning/writing-guide-v2.md`（統合版・自己完結）
+- 確定台詞 → `planning/quote-bank.md`／世界の物理・道具 → `planning/world-core.md`
 - v1資産（ルール・🔒台詞・名場面・教訓） → `planning/keep-register.md`
 - 執筆工程・台帳・グリッド仕様 → `process/writing-system.md`
 
