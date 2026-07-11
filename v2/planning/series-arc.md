@@ -19,7 +19,7 @@
 | 2 | 吹雪の直前、DangoへこっそりD託す | S1南極 | *"Hold this." / "I do not know why. But it is important. Hold it for me."* |
 | 3 | 救出後、Ako-chanが自然につけ直す（復活の原因ではなく再会の象徴） | S1南極 | — |
 | 4 | 別れの直前、外してAko-chanへ | S2末 | *"Keep this. I do not know why. But it is important."*（Hold→Keepのエコー） |
-| 5 | Ako-chanが新しいロボットへ無言・自発で装着（理由は本人にも分からない） | S3別れ | アンカー② *"She has no clear memory of such a moment, and yet her hands are certain."* |
+| 5 | Ako-chanが新しいロボットへ無言・自発で装着（理由は本人にも分からない） | S3別れ | アンカー② *"No memory tells her to do this. And yet her hands are certain."*（2026-07-11改稿承認・旧v1文はS1装着記憶と矛盾のため） |
 | 6 | 装着されたまま送り出され、S1 Ep1の首輪になる（読者だけが円環を見る） | S3終幕 | — |
 
 ### 2-2. 赤い日記帳（G3: 実記入は3箇所のみ・他は白紙）

@@ -28,7 +28,7 @@
 - 首輪: **"Hold this." / "I do not know why. But it is important. Hold it for me."**（S1）→ **"Keep this. I do not know why. But it is important."**（S2末）
 - 誓い: クジラ **"We will not forget."** → Ako **"We will not forget."**（S2）→ Suke-san **"Go. We will remember."**（S3）
 - 名乗り: **"I am Obia."** → **"I am Ako-chan. You can call me Ako-chan."**（S3命名）
-- 方針7アンカー3箇所: **"She does not know how she knows."** ／ **"She has no clear memory of such a moment, and yet her hands are certain."** ／ **"She does not understand it, and she does not need to."**
+- 方針7アンカー3箇所: **"She does not know how she knows."** ／ **"No memory tells her to do this. And yet her hands are certain."**（アンカー②・2026-07-11改稿承認＝旧「記憶の否定」文を「説明の否定」に） ／ **"She does not understand it, and she does not need to."**
 
 ### S1
 - Obia初回台詞: **"You will go. I will come with you."**（will例外の原点）

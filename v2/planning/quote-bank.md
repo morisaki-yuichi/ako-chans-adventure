@@ -23,7 +23,10 @@
 |------|------|--------|
 | **"Hold this." / "I do not know why. But it is important. Hold it for me."**（Obia→Dango） | S1・吹雪の直前 | Ep76 |
 | **"Keep this. I do not know why. But it is important."**（Obia→Ako-chan） | S2末・別れ | Ep184 |
-| ★アンカー② **"She has no clear memory of such a moment, and yet her hands are certain."** | S3・無言の装着 | Ep267相当 |
+| ★アンカー② **"No memory tells her to do this. And yet her hands are certain."** | S3・無言の装着 | Ep267相当 |
+
+⚠️ **アンカー②はv1から改稿（2026-07-11ユーザー承認）**: 旧v1文 *"She has no clear memory of such a moment, and yet her hands are certain."* は、S1で同じ首輪を同じ所作で装着済み（かつ直後の回想回がその記憶を鮮明に見せる）ため「記憶の否定」が矛盾して読めた。v2は**説明の否定型**（記憶はある・ただしどの記憶も今この行為の理由を教えない）に変更。
+⚠️ 併走ビート注意（T3）: v1の周辺文 *"as if they have done this somewhere long before"* も同じ矛盾を持つ——v2では「初めてのはずなのに」型でなく**「手が知っている所作」型**で書く。S1（雪の日の装着）・S2（受け取り）の記憶の表出は回想回（*The Same Red* 相当・"The same red. The same hands."）に集約する＝記憶は韻を踏むが、理由は説明しない。
 
 ### 1-3. 誓いの系譜（will例外「物語を運ぶ誓い」）
 | 台詞 | 話者・場面 | v1出典 |
